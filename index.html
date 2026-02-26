@@ -155,10 +155,9 @@
         }
       }
     </script>
-    <script type="module">
-        import { GoogleGenAI } from '@google/genai';
-
-        // Gestione API Key locale
+        <!-- Nuovo Script nativo senza librerie esterne -->
+    <script>
+        // Gestione API Key locale all'avvio
         window.onload = () => {
             const savedKey = localStorage.getItem('gemini_api_key');
             if (savedKey) {
@@ -166,17 +165,19 @@
             }
         };
 
-        window.saveApiKey = () => {
-            const key = document.getElementById('api-key-input').value;
-            if (key.length > 20) {
-                localStorage.setItem('gemini_api_key', key);
+        // Funzione per salvare la chiave
+        function saveApiKey() {
+            const keyInput = document.getElementById('api-key-input').value.trim();
+            if (keyInput.length > 20) {
+                localStorage.setItem('gemini_api_key', keyInput);
                 document.getElementById('api-modal').style.display = 'none';
             } else {
-                alert("Inserisci una API Key valida");
+                alert("Per favore, inserisci una API Key valida.");
             }
-        };
+        }
 
-        window.fetchReleases = async () => {
+        // Funzione per generare i risultati
+        async function fetchReleases() {
             const apiKey = localStorage.getItem('gemini_api_key');
             if (!apiKey) {
                 document.getElementById('api-modal').style.display = 'flex';
@@ -187,59 +188,71 @@
             const loader = document.getElementById('loader');
             const resultsDiv = document.getElementById('results');
 
+            // Stato di caricamento
             btn.disabled = true;
-            btn.innerText = "Ricerca...";
+            btn.innerText = "Ricerca in corso (può richiedere 10-15 sec)...";
             loader.style.display = "block";
             resultsDiv.innerHTML = "";
 
-            try {
-                // Inizializza l'SDK (Usiamo il nuovo standard raccomandato da Google @google/genai)
-                const ai = new GoogleGenAI({ apiKey: apiKey });
-                
-                // Unisco il tuo prompt di "Research" e quello di "Generate" in una sola logica strutturata
-                const prompt = `
-                Objective: Research and compile a list of current and upcoming movie and TV show releases specifically for the Italian market.
-                Target platforms: Netflix, Amazon Prime Video, Disney+, Discovery+, and Italian cinemas.
-                Ensure all content is confirmed for the Italian territory and language.
-                
-                You must output ONLY raw HTML code (without ```html tags). Do not use markdown blocks.
-                
-                Output Format: Generate HTML blocks following this exact structure for each platform.
-                
-                <div class="platform-section">
-                    <h2 class="platform-header">Nome Piattaforma (es. Netflix)</h2>
-                    <div class="cards-grid">
-                        <!-- Ripeti questo div per ogni film/serie -->
-                        <div class="card [nome-piattaforma-minuscolo-per-il-colore: es. netflix, prime, disney, discovery, cinema]">
-                            <h3>Titolo Film/Serie</h3>
-                            <span class="date">Data di uscita</span>
-                            <div class="description">Breve sinossi in italiano.</div>
-                        </div>
+            const promptText = `
+            Objective: Research and compile a list of current and upcoming movie and TV show releases specifically for the Italian market.
+            Target platforms: Netflix, Amazon Prime Video, Disney+, Discovery+, and Italian cinemas.
+            Ensure all content is confirmed for the Italian territory and language.
+            
+            You must output ONLY raw HTML code. Do not use markdown blocks.
+            
+            Output Format: Generate HTML blocks following this exact structure for each platform.
+            
+            <div class="platform-section">
+                <h2 class="platform-header">Nome Piattaforma (es. Netflix)</h2>
+                <div class="cards-grid">
+                    <!-- Ripeti questo div per ogni film/serie -->
+                    <div class="card [nome-piattaforma-minuscolo-per-il-colore: es. netflix, prime, disney, discovery, cinema]">
+                        <h3>Titolo Film/Serie</h3>
+                        <span class="date">Data di uscita</span>
+                        <div class="description">Breve sinossi in italiano.</div>
                     </div>
                 </div>
-                `;
+            </div>
+            `;
 
-                // Chiamo Gemini usando gemini-2.5-flash perché offre il supporto per il grounding (Google Search)
-                const response = await ai.models.generateContent({
-                    model: 'gemini-2.5-flash',
-                    contents: prompt,
-                    config: {
-                        // Abilito Google Search Grounding per fargli cercare le uscite REALI di oggi
-                        tools: [{ googleSearch: {} }],
-                        temperature: 0.3 // Temperatura bassa per dati fattuali
-                    }
+            // Endpoint REST ufficiale di Gemini
+            const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+
+            const payload = {
+                contents: [{ parts: [{ text: promptText }] }],
+                tools: [{ googleSearch: {} }], // Attiva la ricerca su Google integrata
+                generationConfig: { temperature: 0.3 }
+            };
+
+            try {
+                const response = await fetch(url, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
                 });
 
-                // Pulisco la risposta da eventuali markdown backticks aggiunti dal LLM
-                let htmlOutput = response.text;
-                htmlOutput = htmlOutput.replace(/^```html\n?/m, '').replace(/```$/m, '');
+                const data = await response.json();
 
+                if (!response.ok) {
+                    throw new Error(data.error?.message || "Errore nella chiamata API");
+                }
+
+                // Estrai il testo generato da Gemini
+                let htmlOutput = data.candidates[0].content.parts[0].text;
+                
+                // Pulisci eventuali backticks markdown se Gemini li inserisce
+                htmlOutput = htmlOutput.replace(/^```html\n?/m, '').replace(/^```\n?/m, '').replace(/```$/m, '');
+
+                // Mostra i risultati
                 resultsDiv.innerHTML = htmlOutput;
 
             } catch (error) {
-                console.error(error);
-                resultsDiv.innerHTML = `<p style="color: var(--highlight);">Errore durante la generazione: ${error.message}. Verifica l'API Key.</p>`;
-                if(error.message.includes("API key not valid")) {
+                console.error("Errore:", error);
+                resultsDiv.innerHTML = `<p style="color: var(--highlight);">Errore durante la generazione: ${error.message}.<br>Verifica che la tua API Key sia corretta.</p>`;
+                
+                // Se l'errore riguarda la chiave API invalida, resettala
+                if (error.message.toLowerCase().includes("api key") || error.message.toLowerCase().includes("invalid")) {
                     localStorage.removeItem('gemini_api_key');
                 }
             } finally {
@@ -247,7 +260,7 @@
                 btn.innerText = "Cerca le Novità di Oggi";
                 loader.style.display = "none";
             }
-        };
+        }
     </script>
 </body>
 </html>
