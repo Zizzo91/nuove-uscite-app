@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entertainment Hub - Le nuove uscite in Italia</title>
+    <!-- Font moderni come richiesto nel tuo prompt -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #1a1a2e; /* Deep charcoal/navy */
+            --card-bg: #16213e;
+            --text-color: #e2e8f0; /* Light grey/off-white */
+            --accent-color: #0f3460;
+            --highlight: #e94560; /* Vibrant accent */
+            
+            --netflix: #e50914;
+            --prime: #00a8e1;
+            --disney: #0063e5;
+            --discovery: #ffc107;
+            --cinema: #6c757d;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        h1, h2, h3 { font-family: 'Montserrat', sans-serif; }
+
+        /* API Key Modal (Solo per te, salvata in locale) */
+        #api-modal {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: rgba(0,0,0,0.8);
+            display: flex; align-items: center; justify-content: center;
+            z-index: 9999;
+        }
+        .modal-content {
+            background: var(--card-bg);
+            padding: 30px; border-radius: 12px;
+            text-align: center; max-width: 400px;
+        }
+        .modal-content input {
+            width: 90%; padding: 10px; margin: 15px 0;
+            border-radius: 6px; border: 1px solid var(--accent-color);
+            background: #2a2a2a; color: white;
+        }
+        .modal-content button {
+            background: var(--highlight); color: white;
+            border: none; padding: 10px 20px; border-radius: 6px;
+            cursor: pointer; font-weight: bold; font-family: 'Montserrat';
+        }
+
+        /* Header Layout */
+        header {
+            text-align: center; padding: 40px 20px;
+            background: linear-gradient(180deg, var(--accent-color) 0%, transparent 100%);
+        }
+        header h1 { font-size: 2.5rem; margin-bottom: 10px; }
+        header p { font-size: 1.2rem; color: #a0aec0; }
+        
+        .generate-btn {
+            background-color: var(--highlight); color: white;
+            border: none; padding: 15px 30px; font-size: 1.1rem;
+            border-radius: 30px; cursor: pointer; margin-top: 20px;
+            font-family: 'Montserrat', sans-serif; font-weight: bold;
+            box-shadow: 0 4px 15px rgba(233, 69, 96, 0.4);
+            transition: transform 0.2s;
+        }
+        .generate-btn:hover { transform: scale(1.05); }
+        .generate-btn:disabled { background: #555; cursor: not-allowed; transform: none;}
+
+        /* Loader */
+        #loader { display: none; text-align: center; padding: 50px; }
+        .spinner { width: 40px; height: 40px; border: 4px solid rgba(255,255,255,0.1); border-top: 4px solid var(--highlight); border-radius: 50%; animation: spin 1s linear infinite; margin: 0 auto; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+        /* Main Content Grid */
+        main { flex: 1; padding: 20px; max-width: 1400px; margin: 0 auto; width: 100%; box-sizing: border-box; }
+        #results { display: grid; gap: 40px; }
+        .platform-section { margin-bottom: 20px; }
+        .platform-header { 
+            font-size: 1.8rem; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #333; 
+        }
+        
+        /* Grid per le Release Cards */
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .card {
+            background: var(--card-bg); border-radius: 12px; padding: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            border-top: 4px solid var(--highlight);
+        }
+        .card.netflix { border-color: var(--netflix); }
+        .card.prime { border-color: var(--prime); }
+        .card.disney { border-color: var(--disney); }
+        .card.discovery { border-color: var(--discovery); }
+        .card.cinema { border-color: var(--cinema); }
+
+        .card h3 { margin-top: 0; font-size: 1.3rem; margin-bottom: 8px; }
+        .card .date { color: #a0aec0; font-size: 0.9rem; margin-bottom: 15px; display: block;}
+        .card .description { line-height: 1.5; font-size: 0.95rem; }
+
+        footer { text-align: center; padding: 20px; background: #111; font-size: 0.9rem; margin-top: auto; }
+    </style>
+</head>
+<body>
+
+    <!-- Modal per API Key -->
+    <div id="api-modal">
+        <div class="modal-content">
+            <h2>Inserisci API Key</h2>
+            <p>Ottieni la tua chiave gratuita da Google AI Studio.</p>
+            <input type="password" id="api-key-input" placeholder="AIzaSy...">
+            <button onclick="saveApiKey()">Salva e Inizia</button>
+        </div>
+    </div>
+
+    <header>
+        <h1>Nuove Uscite: Cinema e Streaming in Italia</h1>
+        <p>Tutto ciò che c'è di nuovo su Netflix, Prime Video, Disney+, Discovery+ e al Cinema</p>
+        <button class="generate-btn" id="generateBtn" onclick="fetchReleases()">Cerca le Novità di Oggi</button>
+    </header>
+
+    <main>
+        <div id="loader">
+            <div class="spinner"></div>
+            <p style="margin-top: 15px;">Ricerca in corso (potrebbe richiedere qualche secondo)...</p>
+        </div>
+        <div id="results">
+            <!-- Il codice HTML generato da Gemini andrà qui -->
+        </div>
+    </main>
+
+    <footer>
+        Dati generati tramite Google Gemini API.
+    </footer>
+
+    <!-- Script Javascript integrato -->
+    <script type="importmap">
+      {
+        "imports": {
+          "@google/genai": "https://esm.run/@google/genai"
+        }
+      }
+    </script>
+    <script type="module">
+        import { GoogleGenAI } from '@google/genai';
+
+        // Gestione API Key locale
+        window.onload = () => {
+            const savedKey = localStorage.getItem('gemini_api_key');
+            if (savedKey) {
+                document.getElementById('api-modal').style.display = 'none';
+            }
+        };
+
+        window.saveApiKey = () => {
+            const key = document.getElementById('api-key-input').value;
+            if (key.length > 20) {
+                localStorage.setItem('gemini_api_key', key);
+                document.getElementById('api-modal').style.display = 'none';
+            } else {
+                alert("Inserisci una API Key valida");
+            }
+        };
+
+        window.fetchReleases = async () => {
+            const apiKey = localStorage.getItem('gemini_api_key');
+            if (!apiKey) {
+                document.getElementById('api-modal').style.display = 'flex';
+                return;
+            }
+
+            const btn = document.getElementById('generateBtn');
+            const loader = document.getElementById('loader');
+            const resultsDiv = document.getElementById('results');
+
+            btn.disabled = true;
+            btn.innerText = "Ricerca...";
+            loader.style.display = "block";
+            resultsDiv.innerHTML = "";
+
+            try {
+                // Inizializza l'SDK (Usiamo il nuovo standard raccomandato da Google @google/genai)
+                const ai = new GoogleGenAI({ apiKey: apiKey });
+                
+                // Unisco il tuo prompt di "Research" e quello di "Generate" in una sola logica strutturata
+                const prompt = `
+                Objective: Research and compile a list of current and upcoming movie and TV show releases specifically for the Italian market.
+                Target platforms: Netflix, Amazon Prime Video, Disney+, Discovery+, and Italian cinemas.
+                Ensure all content is confirmed for the Italian territory and language.
+                
+                You must output ONLY raw HTML code (without ```html tags). Do not use markdown blocks.
+                
+                Output Format: Generate HTML blocks following this exact structure for each platform.
+                
+                <div class="platform-section">
+                    <h2 class="platform-header">Nome Piattaforma (es. Netflix)</h2>
+                    <div class="cards-grid">
+                        <!-- Ripeti questo div per ogni film/serie -->
+                        <div class="card [nome-piattaforma-minuscolo-per-il-colore: es. netflix, prime, disney, discovery, cinema]">
+                            <h3>Titolo Film/Serie</h3>
+                            <span class="date">Data di uscita</span>
+                            <div class="description">Breve sinossi in italiano.</div>
+                        </div>
+                    </div>
+                </div>
+                `;
+
+                // Chiamo Gemini usando gemini-2.5-flash perché offre il supporto per il grounding (Google Search)
+                const response = await ai.models.generateContent({
+                    model: 'gemini-2.5-flash',
+                    contents: prompt,
+                    config: {
+                        // Abilito Google Search Grounding per fargli cercare le uscite REALI di oggi
+                        tools: [{ googleSearch: {} }],
+                        temperature: 0.3 // Temperatura bassa per dati fattuali
+                    }
+                });
+
+                // Pulisco la risposta da eventuali markdown backticks aggiunti dal LLM
+                let htmlOutput = response.text;
+                htmlOutput = htmlOutput.replace(/^```html\n?/m, '').replace(/```$/m, '');
+
+                resultsDiv.innerHTML = htmlOutput;
+
+            } catch (error) {
+                console.error(error);
+                resultsDiv.innerHTML = `<p style="color: var(--highlight);">Errore durante la generazione: ${error.message}. Verifica l'API Key.</p>`;
+                if(error.message.includes("API key not valid")) {
+                    localStorage.removeItem('gemini_api_key');
+                }
+            } finally {
+                btn.disabled = false;
+                btn.innerText = "Cerca le Novità di Oggi";
+                loader.style.display = "none";
+            }
+        };
+    </script>
+</body>
+</html>
