@@ -108,7 +108,7 @@
     <footer>Dati gestiti tramite GitHub API e Google Gemini.</footer>
     <button class="settings-btn" onclick="document.getElementById('api-modal').style.display = 'flex'" title="Impostazioni">⚙️</button>
 
-    <script>
+        <script>
         const utf8ToBase64 = (str) => window.btoa(unescape(encodeURIComponent(str)));
         const base64ToUtf8 = (str) => decodeURIComponent(escape(window.atob(str)));
         const sanitizeKey = (key) => key ? key.replace(/[\r\n\t\s]+/g, '').trim() : '';
@@ -145,7 +145,7 @@
                 localStorage.setItem('github_repo', repo);
                 document.getElementById('api-modal').style.display = 'none';
                 
-                localStorage.removeItem('github_file_sha'); // reset SHA in caso di cambio repo
+                localStorage.removeItem('github_file_sha');
                 loadFromGitHub();
             } else {
                 alert("Compila tutti i campi!");
@@ -184,7 +184,6 @@
                 const fileData = await response.json();
                 const jsonData = JSON.parse(base64ToUtf8(fileData.content));
                 
-                // Salviamo i dati JSON letti nella variabile globale per permettere i filtri
                 currentData = jsonData.data || []; 
                 document.getElementById('last-update-text').innerText = `Ultimo aggiornamento database: ${jsonData.date}`;
                 localStorage.setItem('github_file_sha', fileData.sha);
@@ -226,7 +225,7 @@
             document.getElementById('last-update-text').innerText = `Ultimo aggiornamento database: ${now}`;
         }
 
-        // CHIAMATA A GEMINI MODIFICATA PER RICHIEDERE JSON STRUTTURATO
+        // CHIAMATA A GEMINI ROBUSTA
         async function fetchPlatform(platformName, apiKey) {
             const promptText = `
             Objective: Research current and upcoming movie and TV show releases in Italy specifically for: ${platformName}.
@@ -241,7 +240,7 @@
                 "platform": "${platformName}",
                 "date": "Data di uscita in Italia",
                 "description": "Breve sinossi in italiano",
-                "posterUrl": "Cerca su web l'URL di un'immagine (jpg/png) della locandina del film/serie. Se non la trovi in modo sicuro, lascia una stringa vuota."
+                "posterUrl": "Cerca su web l'URL di un'immagine (jpg/png) della locandina del film/serie. Se non la trovi, lascia una stringa vuota."
               }
             ]
             Return at least 4 items.`;
@@ -249,27 +248,33 @@
             const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
             const headers = new Headers(); headers.append('Content-Type', 'application/json');
 
-            const response = await fetch(url, {
-                method: 'POST', headers: headers,
-                body: JSON.stringify({
-                    contents: [{ parts: [{ text: promptText }] }],
-                    tools: [{ googleSearch: {} }],
-                    generationConfig: { temperature: 0.2 }
-                })
-            });
-
-            const data = await response.json();
-            if (!response.ok) throw new Error(data.error?.message);
-
-            let rawText = data.candidates[0].content.parts[0].text;
-            // Pulisce stringa da eventuali blocchi markdown
-            rawText = rawText.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
-            
             try {
+                const response = await fetch(url, {
+                    method: 'POST', headers: headers,
+                    body: JSON.stringify({
+                        contents: [{ parts: [{ text: promptText }] }],
+                        tools: [{ googleSearch: {} }],
+                        generationConfig: { temperature: 0.2 }
+                    })
+                });
+
+                const data = await response.json();
+                
+                // CONTROLLO DI SICUREZZA: Se manca l'oggetto content, Gemini ha bloccato la risposta
+                if (!data.candidates || !data.candidates[0] || !data.candidates[0].content || !data.candidates[0].content.parts) {
+                    console.warn(`Gemini non ha restituito dati per ${platformName}. Causa probabile: Blocco sicurezza o Quota.`);
+                    return []; // Restituiamo un array vuoto così l'app non si blocca
+                }
+
+                let rawText = data.candidates[0].content.parts[0].text;
+                // Pulisce stringa da eventuali blocchi markdown
+                rawText = rawText.replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+                
                 return JSON.parse(rawText);
+
             } catch(e) {
-                console.error("Errore parser JSON da Gemini per " + platformName, rawText);
-                return [];
+                console.error(`Errore critico su ${platformName}:`, e);
+                return []; // Anche in caso di errore di rete/json, non blocchiamo le altre
             }
         }
 
@@ -284,28 +289,34 @@
             const resultsDiv = document.getElementById('results');
 
             btnAI.disabled = true; btnLoad.disabled = true;
-            loaderText.innerText = "Interrogazione AI per recuperare Dati e Locandine (circa 15-20 sec)...";
+            loaderText.innerText = "Interrogazione AI per recuperare Dati e Locandine (fino a 30 sec)...";
             loader.style.display = "block";
             resultsDiv.innerHTML = "";
             document.getElementById('filters').style.display = "none";
 
             const platforms = ["Netflix", "Amazon Prime Video", "Disney+", "Discovery+", "Cinema in Italia"];
+            let allItems = [];
 
             try {
-                // Lanciamo in parallelo la richiesta JSON per tutte le piattaforme
-                const promises = platforms.map(p => fetchPlatform(p, apiKey));
-                const results = await Promise.all(promises);
+                // SEQUENZIALE MA VELOCE: Facciamo le chiamate una alla volta per non saturare i limiti gratuiti di Gemini
+                for (let i = 0; i < platforms.length; i++) {
+                    loaderText.innerText = `Ricerca per ${platforms[i]} (${i+1}/${platforms.length})...`;
+                    const platResults = await fetchPlatform(platforms[i], apiKey);
+                    if (Array.isArray(platResults)) {
+                        allItems = allItems.concat(platResults);
+                    }
+                }
                 
-                // Uniamo tutti gli array ricevuti in un unico mega array
-                let allItems = [];
-                results.forEach(arr => { if(Array.isArray(arr)) allItems = allItems.concat(arr); });
-                
+                if (allItems.length === 0) {
+                    throw new Error("L'AI non ha restituito nessun risultato per nessuna piattaforma. Controlla i tuoi limiti API su Google AI Studio.");
+                }
+
                 currentData = allItems;
                 
-                // Generiamo la vista a schermo (senza consumare chiamate)
+                // Generiamo la vista a schermo
                 renderApp(); 
                 
-                // Salviamo il DB json su GitHub in background
+                // Salviamo il DB json su GitHub
                 loaderText.innerText = "Salvataggio JSON nel database GitHub in corso...";
                 await saveToGitHub(allItems);
 
@@ -317,7 +328,6 @@
             }
         }
 
-        // MOTORE DI RENDER E FILTRI
         function renderApp() {
             const filterType = document.getElementById('filter-type').value;
             const filterView = document.getElementById('filter-view').value;
@@ -325,7 +335,6 @@
             
             document.getElementById('filters').style.display = 'flex';
 
-            // 1. Filtra i dati
             let filteredData = currentData;
             if (filterType !== 'all') {
                 filteredData = currentData.filter(item => {
@@ -341,7 +350,6 @@
 
             let html = "";
             
-            // 2. Disegna i dati
             if (filterView === 'platform') {
                 const platformsList = [...new Set(filteredData.map(item => item.platform))];
                 platformsList.forEach(plat => {
@@ -351,7 +359,6 @@
                     html += `</div></div>`;
                 });
             } else {
-                // Modalità Lista Unica
                 html += `<div class="cards-grid">`;
                 filteredData.forEach(item => { html += generateCard(item); });
                 html += `</div>`;
@@ -360,19 +367,15 @@
             resultsDiv.innerHTML = html;
         }
 
-        // GENERAZIONE SINGOLA CARD
         function generateCard(item) {
             const pClassMap = { "Netflix": "netflix", "Amazon Prime Video": "prime", "Disney+": "disney", "Discovery+": "discovery", "Cinema in Italia": "cinema" };
             const pClass = pClassMap[item.platform] || "cinema";
             
-            // Placeholder Generator (Crea un'immagine finta con il titolo se non c'è la locandina)
             const cleanTitle = encodeURIComponent(item.title);
             const fallbackImg = `https://via.placeholder.com/300x450/16213e/e2e8f0?text=${cleanTitle}`;
             
-            // Se c'è l'url lo usa, altrimenti usa il fallback. Se l'url si rompe, subentra l'evento 'onerror' del tag img
-            const imgSrc = (item.posterUrl && item.posterUrl.length > 5) ? item.posterUrl : fallbackImg;
+            const imgSrc = (item.posterUrl && item.posterUrl.length > 5 && item.posterUrl.startsWith('http')) ? item.posterUrl : fallbackImg;
             
-            // Etichetta tipo
             const isMovie = item.type.toLowerCase().includes('movie') || item.type.toLowerCase().includes('film');
             const typeBadge = isMovie ? '🎬 Film' : '📺 Serie TV';
 
