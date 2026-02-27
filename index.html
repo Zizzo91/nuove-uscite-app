@@ -156,7 +156,7 @@
       }
     </script>
         <!-- Nuovo Script nativo senza librerie esterne -->
-    <script>
+        <script>
         // Gestione API Key locale all'avvio
         window.onload = () => {
             const savedKey = localStorage.getItem('gemini_api_key');
@@ -165,7 +165,6 @@
             }
         };
 
-        // Funzione per salvare la chiave
         function saveApiKey() {
             const keyInput = document.getElementById('api-key-input').value.trim();
             if (keyInput.length > 20) {
@@ -176,7 +175,55 @@
             }
         }
 
-        // Funzione per generare i risultati
+        // Funzione per chiamare Gemini per una SINGOLA piattaforma
+        async function fetchPlatform(platformName, platformClass, apiKey) {
+            const promptText = `
+            Objective: Research current and upcoming movie and TV show releases in Italy specifically for: ${platformName}.
+            Ensure all content is confirmed for the Italian territory.
+            
+            You must output ONLY raw HTML code. Do not use markdown blocks.
+            
+            Output Format: Generate exactly this HTML structure for the results found:
+            
+            <div class="platform-section">
+                <h2 class="platform-header">${platformName}</h2>
+                <div class="cards-grid">
+                    <!-- Genera un div per ogni film/serie trovata (minimo 3 risultati) -->
+                    <div class="card ${platformClass}">
+                        <h3>Titolo Film/Serie</h3>
+                        <span class="date">Data di uscita</span>
+                        <div class="description">Breve sinossi in italiano.</div>
+                    </div>
+                </div>
+            </div>
+            `;
+
+            const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
+
+            const payload = {
+                contents: [{ parts: [{ text: promptText }] }],
+                tools: [{ googleSearch: {} }],
+                generationConfig: { temperature: 0.3 }
+            };
+
+            const response = await fetch(url, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(payload)
+            });
+
+            const data = await response.json();
+
+            if (!response.ok) {
+                throw new Error(data.error?.message || `Errore per ${platformName}`);
+            }
+
+            let htmlOutput = data.candidates[0].content.parts[0].text;
+            htmlOutput = htmlOutput.replace(/^```html\n?/m, '').replace(/^```\n?/m, '').replace(/```$/m, '');
+            return htmlOutput;
+        }
+
+        // Funzione principale che gestisce le chiamate parallele
         async function fetchReleases() {
             const apiKey = localStorage.getItem('gemini_api_key');
             if (!apiKey) {
@@ -188,71 +235,35 @@
             const loader = document.getElementById('loader');
             const resultsDiv = document.getElementById('results');
 
-            // Stato di caricamento
             btn.disabled = true;
-            btn.innerText = "Ricerca in corso (può richiedere 10-15 sec)...";
+            btn.innerText = "Ricerca multipiattaforma in corso...";
             loader.style.display = "block";
             resultsDiv.innerHTML = "";
 
-            const promptText = `
-            Objective: Research and compile a list of current and upcoming movie and TV show releases specifically for the Italian market.
-            Target platforms: Netflix, Amazon Prime Video, Disney+, Discovery+, and Italian cinemas.
-            Ensure all content is confirmed for the Italian territory and language.
-            
-            You must output ONLY raw HTML code. Do not use markdown blocks.
-            
-            Output Format: Generate HTML blocks following this exact structure for each platform.
-            
-            <div class="platform-section">
-                <h2 class="platform-header">Nome Piattaforma (es. Netflix)</h2>
-                <div class="cards-grid">
-                    <!-- Ripeti questo div per ogni film/serie -->
-                    <div class="card [nome-piattaforma-minuscolo-per-il-colore: es. netflix, prime, disney, discovery, cinema]">
-                        <h3>Titolo Film/Serie</h3>
-                        <span class="date">Data di uscita</span>
-                        <div class="description">Breve sinossi in italiano.</div>
-                    </div>
-                </div>
-            </div>
-            `;
-
-            // Endpoint REST ufficiale di Gemini
-            const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`;
-
-            const payload = {
-                contents: [{ parts: [{ text: promptText }] }],
-                tools: [{ googleSearch: {} }], // Attiva la ricerca su Google integrata
-                generationConfig: { temperature: 0.3 }
-            };
+            // Definiamo esattamente le piattaforme che vogliamo
+            const platforms = [
+                { name: "Netflix", class: "netflix" },
+                { name: "Amazon Prime Video", class: "prime" },
+                { name: "Disney+", class: "disney" },
+                { name: "Discovery+", class: "discovery" },
+                { name: "Cinema in Italia", class: "cinema" }
+            ];
 
             try {
-                const response = await fetch(url, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
-                    body: JSON.stringify(payload)
-                });
-
-                const data = await response.json();
-
-                if (!response.ok) {
-                    throw new Error(data.error?.message || "Errore nella chiamata API");
-                }
-
-                // Estrai il testo generato da Gemini
-                let htmlOutput = data.candidates[0].content.parts[0].text;
+                // Lanciamo tutte le chiamate a Gemini simultaneamente
+                const promises = platforms.map(p => fetchPlatform(p.name, p.class, apiKey));
                 
-                // Pulisci eventuali backticks markdown se Gemini li inserisce
-                htmlOutput = htmlOutput.replace(/^```html\n?/m, '').replace(/^```\n?/m, '').replace(/```$/m, '');
-
-                // Mostra i risultati
-                resultsDiv.innerHTML = htmlOutput;
+                // Attendiamo che tutte finiscano
+                const results = await Promise.all(promises);
+                
+                // Uniamo l'HTML di tutte le risposte
+                resultsDiv.innerHTML = results.join("\n");
 
             } catch (error) {
                 console.error("Errore:", error);
-                resultsDiv.innerHTML = `<p style="color: var(--highlight);">Errore durante la generazione: ${error.message}.<br>Verifica che la tua API Key sia corretta.</p>`;
+                resultsDiv.innerHTML = `<p style="color: var(--highlight);">Errore durante la generazione: ${error.message}.<br>Se l'errore è 429 (Too Many Requests), riprova tra un minuto.</p>`;
                 
-                // Se l'errore riguarda la chiave API invalida, resettala
-                if (error.message.toLowerCase().includes("api key") || error.message.toLowerCase().includes("invalid")) {
+                if (error.message.toLowerCase().includes("api key")) {
                     localStorage.removeItem('gemini_api_key');
                 }
             } finally {
