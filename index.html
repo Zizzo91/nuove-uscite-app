@@ -113,27 +113,9 @@
         const base64ToUtf8 = (str) => decodeURIComponent(escape(window.atob(str)));
         const sanitizeKey = (key) => key ? key.replace(/[\r\n\t\s]+/g, '').trim() : '';
 
-        // Tunables: più conservativi per evitare quota exceeded di Gemini
         const MODEL = 'gemini-2.5-flash';
-        const MAX_RETRIES = 3;
-        const INTER_CALL_DELAY_MS = 4500; // pausa tra piattaforme
         const COOLDOWN_MS = 2 * 60 * 1000; // evita click ripetuti ravvicinati (2 min)
-
-        const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-        const isQuotaError = (msg) => /exceeded\s+your\s+current\s+quota|quota\s+exceeded|rate\s*limit|too\s+many\s+requests|\b429\b/i.test(msg || '');
-        
-        const parseRetryAfterMs = (msg) => {
-            if (!msg) return null;
-            const m = String(msg).match(/retry in ([0-9.]+)s/i);
-            if (!m) return null;
-            const seconds = Number(m[1]);
-            if (!Number.isFinite(seconds)) return null;
-            return Math.max(1000, Math.ceil(seconds * 1000));
-        };
-
         let isUpdating = false;
-
-        // Variabile globale che terrà il nostro "database" in memoria
         let currentData = [];
 
         window.onload = () => {
@@ -227,7 +209,7 @@
             const payloadData = { date: now, data: dataArray };
             const contentBase64 = utf8ToBase64(JSON.stringify(payloadData));
 
-            const body = { message: `Aggiornamento dati JSON (Con Locandine e Fix Rate Limit) ${now}`, content: contentBase64 };
+            const body = { message: `Aggiornamento dati JSON (Singola Chiamata AI) ${now}`, content: contentBase64 };
             if (sha && sha !== "undefined" && sha !== "null") body.sha = sha; 
 
             const headers = new Headers();
@@ -245,24 +227,26 @@
             document.getElementById('last-update-text').innerText = `Ultimo aggiornamento database: ${now}`;
         }
 
-        async function fetchPlatform(platformName, apiKey) {
+        // CHIAMATA A GEMINI AGGREGATA (UNA SOLA CHIAMATA PER TUTTO)
+        async function fetchAllPlatforms(apiKey) {
             const promptText = `
-Objective: Research current and upcoming movie and TV show releases in Italy specifically for: ${platformName}.
+Objective: Research current and upcoming movie and TV show releases in Italy.
+You must find at least 3-4 distinct titles for EACH of these 5 platforms: Netflix, Amazon Prime Video, Disney+, Discovery+, Cinema in Italia.
 
-You must output ONLY a valid JSON array of objects. Do not use markdown blocks, just the raw JSON array.
+You must output ONLY a valid JSON array of objects containing ALL titles. Do not use markdown blocks, just the raw JSON array.
 
 Format strictly:
 [
   {
     "title": "Titolo film/serie in italiano",
     "type": "movie oppure tv",
-    "platform": "${platformName}",
+    "platform": "Nome esatto della piattaforma (es. Netflix, Disney+, ecc.)",
     "date": "Data di uscita in Italia",
     "description": "Breve sinossi in italiano",
     "posterUrl": "Cerca su web l'URL di un'immagine (jpg/png) della locandina del film/serie. Se non la trovi in modo sicuro, lascia una stringa vuota."
-  }
-]
-Return at least 4 items.`;
+  },
+  ... (include results for all 5 platforms in this one single array)
+]`;
 
             const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${apiKey}`;
             const headers = new Headers(); 
@@ -295,8 +279,8 @@ Return at least 4 items.`;
                 const parsed = JSON.parse(rawText);
                 return Array.isArray(parsed) ? parsed : [];
             } catch (e) {
-                console.warn('JSON parse error for', platformName, rawText);
-                return [];
+                console.warn('JSON parse error from master prompt', rawText);
+                throw new Error('L\'AI ha restituito dati in un formato non valido.');
             }
         }
 
@@ -306,7 +290,6 @@ Return at least 4 items.`;
             const apiKey = sanitizeKey(localStorage.getItem('gemini_api_key'));
             if (!apiKey) return document.getElementById('api-modal').style.display = 'flex';
 
-            // COOLDOWN per non far scattare il rate limit se si clicca ripetutamente
             const lastAttempt = Number(localStorage.getItem('last_ai_attempt') || '0');
             const now = Date.now();
             if (lastAttempt && (now - lastAttempt) < COOLDOWN_MS) {
@@ -324,53 +307,17 @@ Return at least 4 items.`;
 
             isUpdating = true;
             btnAI.disabled = true; btnLoad.disabled = true;
-            loaderText.innerText = "Interrogazione AI per recuperare Dati e Locandine...";
+            loaderText.innerText = "Interrogazione AI per tutte le piattaforme... (Richiesta Unica - Circa 20s)";
             loader.style.display = "block";
             resultsDiv.innerHTML = "";
             document.getElementById('filters').style.display = "none";
 
-            const platforms = ["Netflix", "Amazon Prime Video", "Disney+", "Discovery+", "Cinema in Italia"];
-            let allItems = [];
-
             try {
-                // Ciclo con Backoff/Retry automatico
-                for (let i = 0; i < platforms.length; i++) {
-                    const platform = platforms[i];
-                    loaderText.innerText = `Ricerca per ${platform} (${i + 1}/${platforms.length})...`;
-
-                    let platResults = [];
-                    for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
-                        try {
-                            platResults = await fetchPlatform(platform, apiKey);
-                            break; 
-                        } catch (e) {
-                            const msg = String(e?.message || e);
-
-                            if (isQuotaError(msg) && attempt < (MAX_RETRIES - 1)) {
-                                const retryMs = parseRetryAfterMs(msg) || (10_000 * (attempt + 1));
-                                loaderText.innerText = `Quota raggiunta da Google. Attendo ${Math.ceil(retryMs / 1000)}s per riprovare (${attempt + 1}/${MAX_RETRIES - 1})...`;
-                                await sleep(retryMs);
-                                continue;
-                            }
-
-                            console.warn('Errore AI su', platform, msg);
-                            platResults = [];
-                            break;
-                        }
-                    }
-
-                    if (Array.isArray(platResults)) {
-                        allItems = allItems.concat(platResults);
-                    }
-
-                    // Piccola pausa tra una piattaforma e l'altra per non triggerare il rate limit
-                    if (i < platforms.length - 1) {
-                        await sleep(INTER_CALL_DELAY_MS);
-                    }
-                }
+                // UNICA chiamata invece di 5
+                const allItems = await fetchAllPlatforms(apiKey);
                 
                 if (allItems.length === 0) {
-                    throw new Error("L'AI non ha restituito risultati. Probabile blocco Quote superate: riprova domani o tra qualche ora.");
+                    throw new Error("L'AI non ha restituito risultati. Riprova più tardi.");
                 }
 
                 currentData = allItems;
@@ -380,7 +327,13 @@ Return at least 4 items.`;
                 await saveToGitHub(allItems);
 
             } catch (error) {
-                resultsDiv.innerHTML = `<p style="color:var(--highlight)">Errore AI: ${error.message}</p>`;
+                let errorMsg = error.message;
+                if (/quota|rate limit|429/i.test(errorMsg)) {
+                    errorMsg = "Limite Quote Google superato. Riprova tra un'oretta.";
+                }
+                resultsDiv.innerHTML = `<p style="color:var(--highlight)">Errore AI: ${errorMsg}</p>`;
+                // Resettiamo il cooldown in caso di errore vero
+                localStorage.setItem('last_ai_attempt', '0');
             } finally {
                 isUpdating = false;
                 btnAI.disabled = false; btnLoad.disabled = false;
@@ -429,7 +382,13 @@ Return at least 4 items.`;
 
         function generateCard(item) {
             const pClassMap = { "Netflix": "netflix", "Amazon Prime Video": "prime", "Disney+": "disney", "Discovery+": "discovery", "Cinema in Italia": "cinema" };
-            const pClass = pClassMap[item.platform] || "cinema";
+            // Mappa flessibile nel caso l'AI scriva nomi leggermente diversi
+            let pClass = "cinema";
+            const platLower = String(item.platform || '').toLowerCase();
+            if (platLower.includes('netflix')) pClass = "netflix";
+            else if (platLower.includes('prime') || platLower.includes('amazon')) pClass = "prime";
+            else if (platLower.includes('disney')) pClass = "disney";
+            else if (platLower.includes('discovery')) pClass = "discovery";
             
             const title = String(item.title || 'Titolo Sconosciuto');
             const cleanTitle = encodeURIComponent(title);
