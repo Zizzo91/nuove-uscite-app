@@ -1,4 +1,462 @@
 <!DOCTYPE html>
 <html lang="it">
-<!-- Test Update -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entertainment Hub - Le nuove uscite in Italia</title>
+    <!-- Font moderni come richiesto -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root { --bg-color: #1a1a2e; --card-bg: #16213e; --text-color: #e2e8f0; --accent-color: #0f3460; --highlight: #e94560; --netflix: #e50914; --prime: #00a8e1; --disney: #0063e5; --discovery: #ffc107; --cinema: #6c757d; }
+        body { font-family: 'Roboto', sans-serif; background-color: var(--bg-color); color: var(--text-color); margin: 0; padding: 0; min-height: 100vh; display: flex; flex-direction: column; }
+        h1, h2, h3 { font-family: 'Montserrat', sans-serif; }
+        
+        #api-modal { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); display: flex; align-items: center; justify-content: center; z-index: 9999; }
+        .modal-content { background: var(--card-bg); padding: 30px; border-radius: 12px; text-align: center; max-width: 450px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
+        .modal-content input { width: 90%; padding: 10px; margin: 10px 0; border-radius: 6px; border: 1px solid var(--accent-color); background: #2a2a2a; color: white; }
+        .modal-content button { background: var(--highlight); color: white; border: none; padding: 12px 20px; border-radius: 6px; cursor: pointer; font-weight: bold; font-family: 'Montserrat'; margin-top: 10px; width: 95%; }
+        
+        header { text-align: center; padding: 40px 20px; background: linear-gradient(180deg, var(--accent-color) 0%, transparent 100%); }
+        header h1 { font-size: 2.5rem; margin-bottom: 10px; }
+        header p { font-size: 1.2rem; color: #a0aec0; margin-bottom: 5px; }
+        #last-update-text { font-size: 0.9rem; color: #888; font-style: italic; margin-bottom: 20px; }
+        
+        .action-buttons { display: flex; gap: 15px; justify-content: center; margin-top: 20px; flex-wrap: wrap; }
+        .generate-btn { background-color: var(--highlight); color: white; border: none; padding: 12px 25px; font-size: 1rem; border-radius: 30px; cursor: pointer; font-family: 'Montserrat', sans-serif; font-weight: bold; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: transform 0.2s; }
+        .generate-btn:hover { transform: scale(1.05); }
+        .generate-btn:disabled { background: #555; cursor: not-allowed; transform: none; box-shadow: none;}
+        
+        /* Stile per i Filtri */
+        .filters-container { display: none; gap: 15px; justify-content: center; margin-top: 25px; flex-wrap: wrap; }
+        .filters-container select { padding: 10px 15px; border-radius: 6px; background: var(--card-bg); color: white; border: 1px solid var(--accent-color); font-family: 'Montserrat', sans-serif; cursor: pointer; font-size: 0.95rem; }
+        
+        #loader { display: none; text-align: center; padding: 50px; }
+        .spinner { width: 40px; height: 40px; border: 4px solid rgba(255,255,255,0.1); border-top: 4px solid var(--highlight); border-radius: 50%; animation: spin 1s linear infinite; margin: 0 auto; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        
+        main { flex: 1; padding: 20px; max-width: 1400px; margin: 0 auto; width: 100%; box-sizing: border-box; }
+        #results { display: grid; gap: 40px; }
+        .platform-section { margin-bottom: 20px; }
+        .platform-header { font-size: 1.8rem; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #333; }
+        
+        .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 25px; }
+        
+        /* Modifiche Card per supportare Immagini e Badge */
+        .card { background: var(--card-bg); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); border-top: 4px solid var(--highlight); display: flex; flex-direction: column; position: relative; overflow: hidden;}
+        .card.netflix { border-color: var(--netflix); }
+        .card.prime { border-color: var(--prime); }
+        .card.disney { border-color: var(--disney); }
+        .card.discovery { border-color: var(--discovery); }
+        .card.cinema { border-color: var(--cinema); }
+        
+        .card .poster { width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; background: #2a2a2a; }
+        .card .badge { position: absolute; top: 30px; left: 30px; background: rgba(0,0,0,0.8); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; border: 1px solid var(--highlight); backdrop-filter: blur(4px); }
+        .card h3 { margin-top: 0; font-size: 1.3rem; margin-bottom: 8px; line-height: 1.2; }
+        .card .date { color: #a0aec0; font-size: 0.9rem; margin-bottom: 15px; display: block;}
+        .card .description { line-height: 1.5; font-size: 0.95rem; flex-grow: 1; }
+        .card .platform-label { margin-top: 15px; font-size: 0.8rem; color: #888; font-weight: bold; text-transform: uppercase; text-align: right;}
+        
+        footer { text-align: center; padding: 20px; background: #111; font-size: 0.9rem; margin-top: auto; color: #666; }
+        .settings-btn { position: fixed; bottom: 20px; right: 20px; background: #333; color: white; border: none; padding: 12px; border-radius: 50%; cursor: pointer; opacity: 0.6; transition: opacity 0.2s; font-size: 1.2rem; }
+        .settings-btn:hover { opacity: 1; }
+    </style>
+</head>
+<body>
+    <div id="api-modal">
+        <div class="modal-content">
+            <h2>Configurazione App</h2>
+            <p style="font-size: 0.9rem; color: #aaa;">Le credenziali restano salvate solo nel tuo browser.</p>
+            <input type="password" id="gemini-key" placeholder="Gemini API Key (AIzaSy...)">
+            <input type="password" id="github-token" placeholder="GitHub Token (ghp_...)">
+            <input type="text" id="github-repo" placeholder="Repo GitHub (es. Zizzo91/nuove-uscite-app)">
+            <button onclick="saveConfig()">Salva Configurazione</button>
+            <button onclick="closeModal()" style="background: transparent; border: 1px solid #555; margin-top: 10px;">Annulla / Chiudi</button>
+        </div>
+    </div>
+
+    <header>
+        <h1>Nuove Uscite: Cinema e Streaming</h1>
+        <p>Le ultime novità in Italia con Locandine e Filtri Interattivi</p>
+        <div id="last-update-text">Ultimo aggiornamento database: Mai</div>
+        
+        <div class="action-buttons">
+            <button class="generate-btn" id="loadBtn" onclick="loadFromGitHub()" style="background-color: #0063e5;">Ricarica Database</button>
+            <button class="generate-btn" id="generateBtn" onclick="fetchReleases()">Cerca Novità e Aggiorna</button>
+        </div>
+
+        <div class="filters-container" id="filters">
+            <select id="filter-type" onchange="renderApp()">
+                <option value="all">🍿 Tutti i Titoli</option>
+                <option value="movie">🎬 Solo Film</option>
+                <option value="tv">📺 Solo Serie TV</option>
+            </select>
+            <select id="filter-view" onchange="renderApp()">
+                <option value="platform">📱 Raggruppa per Piattaforma</option>
+                <option value="list">📝 Lista Unica (Tutti insieme)</option>
+            </select>
+        </div>
+    </header>
+
+    <main>
+        <div id="loader">
+            <div class="spinner"></div>
+            <p id="loader-text" style="margin-top: 15px;">Ricerca in corso (può richiedere fino a 20 sec)...</p>
+        </div>
+        <div id="results"></div>
+    </main>
+
+    <footer>Dati gestiti tramite GitHub API e Google Gemini.</footer>
+    <button class="settings-btn" onclick="document.getElementById('api-modal').style.display = 'flex'" title="Impostazioni">⚙️</button>
+
+    <script>
+        const utf8ToBase64 = (str) => window.btoa(unescape(encodeURIComponent(str)));
+        const base64ToUtf8 = (str) => decodeURIComponent(escape(window.atob(str)));
+        const sanitizeKey = (key) => key ? key.replace(/[\r\n\t\s]+/g, '').trim() : '';
+
+        // Tunables: più conservativi per evitare quota exceeded di Gemini
+        const MODEL = 'gemini-2.5-flash';
+        const MAX_RETRIES = 3;
+        const INTER_CALL_DELAY_MS = 4500; // pausa tra piattaforme
+        const COOLDOWN_MS = 2 * 60 * 1000; // evita click ripetuti ravvicinati (2 min)
+
+        const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+        const isQuotaError = (msg) => /exceeded\s+your\s+current\s+quota|quota\s+exceeded|rate\s*limit|too\s+many\s+requests|\b429\b/i.test(msg || '');
+        
+        const parseRetryAfterMs = (msg) => {
+            if (!msg) return null;
+            const m = String(msg).match(/retry in ([0-9.]+)s/i);
+            if (!m) return null;
+            const seconds = Number(m[1]);
+            if (!Number.isFinite(seconds)) return null;
+            return Math.max(1000, Math.ceil(seconds * 1000));
+        };
+
+        let isUpdating = false;
+
+        // Variabile globale che terrà il nostro "database" in memoria
+        let currentData = [];
+
+        window.onload = () => {
+            const hasGemini = localStorage.getItem('gemini_api_key');
+            const hasGithub = localStorage.getItem('github_token');
+            const hasRepo = localStorage.getItem('github_repo');
+
+            if (hasGemini && hasGithub && hasRepo) {
+                document.getElementById('api-modal').style.display = 'none';
+                document.getElementById('gemini-key').value = hasGemini;
+                document.getElementById('github-token').value = hasGithub;
+                document.getElementById('github-repo').value = hasRepo;
+                loadFromGitHub(); 
+            } else {
+                document.getElementById('api-modal').style.display = 'flex';
+            }
+        };
+
+        function closeModal() { document.getElementById('api-modal').style.display = 'none'; }
+
+        function saveConfig() {
+            const gemini = sanitizeKey(document.getElementById('gemini-key').value);
+            const token = sanitizeKey(document.getElementById('github-token').value);
+            const repo = sanitizeKey(document.getElementById('github-repo').value);
+            
+            if (gemini && token && repo) {
+                localStorage.setItem('gemini_api_key', gemini);
+                localStorage.setItem('github_token', token);
+                localStorage.setItem('github_repo', repo);
+                document.getElementById('api-modal').style.display = 'none';
+                
+                localStorage.removeItem('github_file_sha');
+                loadFromGitHub();
+            } else {
+                alert("Compila tutti i campi!");
+            }
+        }
+
+        async function loadFromGitHub() {
+            const repo = sanitizeKey(localStorage.getItem('github_repo'));
+            const token = sanitizeKey(localStorage.getItem('github_token'));
+            if (!repo || !token) return;
+
+            const loader = document.getElementById('loader');
+            const loaderText = document.getElementById('loader-text');
+            
+            loaderText.innerText = "Lettura database da GitHub...";
+            loader.style.display = "block";
+            document.getElementById('results').innerHTML = "";
+            document.getElementById('filters').style.display = "none";
+            
+            try {
+                const timestamp = new Date().getTime();
+                const headers = new Headers();
+                headers.append('Authorization', `Bearer ${token}`);
+                headers.append('Accept', 'application/vnd.github.v3+json');
+
+                const response = await fetch(`https://api.github.com/repos/${repo}/contents/data.json?t=${timestamp}`, {
+                    method: 'GET', headers: headers
+                });
+                
+                if (response.status === 404) {
+                    document.getElementById('results').innerHTML = "<p style='text-align:center;'>Nessun dato salvato trovato.<br>Clicca 'Cerca Novità e Aggiorna' per il primo download.</p>";
+                    return;
+                }
+                if (!response.ok) throw new Error(`Errore GitHub ${response.status}`);
+
+                const fileData = await response.json();
+                const jsonData = JSON.parse(base64ToUtf8(fileData.content));
+                
+                currentData = jsonData.data || []; 
+                document.getElementById('last-update-text').innerText = `Ultimo aggiornamento database: ${jsonData.date}`;
+                localStorage.setItem('github_file_sha', fileData.sha);
+                
+                renderApp(); 
+                
+            } catch (error) {
+                console.error("Errore lettura:", error);
+                document.getElementById('results').innerHTML = `<p style="color:var(--highlight)">Errore lettura: ${error.message}</p>`;
+            } finally {
+                loader.style.display = "none";
+            }
+        }
+
+        async function saveToGitHub(dataArray) {
+            const repo = sanitizeKey(localStorage.getItem('github_repo'));
+            const token = sanitizeKey(localStorage.getItem('github_token'));
+            const sha = localStorage.getItem('github_file_sha'); 
+            
+            const now = new Date().toLocaleString('it-IT');
+            const payloadData = { date: now, data: dataArray };
+            const contentBase64 = utf8ToBase64(JSON.stringify(payloadData));
+
+            const body = { message: `Aggiornamento dati JSON (Con Locandine e Fix Rate Limit) ${now}`, content: contentBase64 };
+            if (sha && sha !== "undefined" && sha !== "null") body.sha = sha; 
+
+            const headers = new Headers();
+            headers.append('Authorization', `Bearer ${token}`);
+            headers.append('Content-Type', 'application/json');
+
+            const response = await fetch(`https://api.github.com/repos/${repo}/contents/data.json`, {
+                method: 'PUT', headers: headers, body: JSON.stringify(body)
+            });
+
+            if (!response.ok) throw new Error("Errore scrittura su GitHub");
+
+            const newFileData = await response.json();
+            localStorage.setItem('github_file_sha', newFileData.content.sha);
+            document.getElementById('last-update-text').innerText = `Ultimo aggiornamento database: ${now}`;
+        }
+
+        async function fetchPlatform(platformName, apiKey) {
+            const promptText = `
+Objective: Research current and upcoming movie and TV show releases in Italy specifically for: ${platformName}.
+
+You must output ONLY a valid JSON array of objects. Do not use markdown blocks, just the raw JSON array.
+
+Format strictly:
+[
+  {
+    "title": "Titolo film/serie in italiano",
+    "type": "movie oppure tv",
+    "platform": "${platformName}",
+    "date": "Data di uscita in Italia",
+    "description": "Breve sinossi in italiano",
+    "posterUrl": "Cerca su web l'URL di un'immagine (jpg/png) della locandina del film/serie. Se non la trovi in modo sicuro, lascia una stringa vuota."
+  }
+]
+Return at least 4 items.`;
+
+            const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${apiKey}`;
+            const headers = new Headers(); 
+            headers.append('Content-Type', 'application/json');
+
+            const response = await fetch(url, {
+                method: 'POST', headers: headers,
+                body: JSON.stringify({
+                    contents: [{ parts: [{ text: promptText }] }],
+                    tools: [{ googleSearch: {} }],
+                    generationConfig: { temperature: 0.2 }
+                })
+            });
+
+            const data = await response.json().catch(() => ({}));
+
+            if (!response.ok) {
+                const message = data?.error?.message || `HTTP ${response.status}`;
+                throw new Error(message);
+            }
+
+            const text = data?.candidates?.[0]?.content?.parts?.[0]?.text;
+            if (!text) {
+                throw new Error('Empty response from Gemini');
+            }
+
+            let rawText = String(text).replace(/```json\n?/g, '').replace(/```\n?/g, '').trim();
+
+            try {
+                const parsed = JSON.parse(rawText);
+                return Array.isArray(parsed) ? parsed : [];
+            } catch (e) {
+                console.warn('JSON parse error for', platformName, rawText);
+                return [];
+            }
+        }
+
+        async function fetchReleases() {
+            if (isUpdating) return;
+
+            const apiKey = sanitizeKey(localStorage.getItem('gemini_api_key'));
+            if (!apiKey) return document.getElementById('api-modal').style.display = 'flex';
+
+            // COOLDOWN per non far scattare il rate limit se si clicca ripetutamente
+            const lastAttempt = Number(localStorage.getItem('last_ai_attempt') || '0');
+            const now = Date.now();
+            if (lastAttempt && (now - lastAttempt) < COOLDOWN_MS) {
+                const waitS = Math.ceil((COOLDOWN_MS - (now - lastAttempt)) / 1000);
+                document.getElementById('results').innerHTML = `<p style="color:var(--highlight); text-align:center;">Hai appena effettuato un aggiornamento. Per evitare blocchi di Google, riprova tra ${waitS}s.</p>`;
+                return;
+            }
+            localStorage.setItem('last_ai_attempt', String(now));
+
+            const btnAI = document.getElementById('generateBtn');
+            const btnLoad = document.getElementById('loadBtn');
+            const loader = document.getElementById('loader');
+            const loaderText = document.getElementById('loader-text');
+            const resultsDiv = document.getElementById('results');
+
+            isUpdating = true;
+            btnAI.disabled = true; btnLoad.disabled = true;
+            loaderText.innerText = "Interrogazione AI per recuperare Dati e Locandine...";
+            loader.style.display = "block";
+            resultsDiv.innerHTML = "";
+            document.getElementById('filters').style.display = "none";
+
+            const platforms = ["Netflix", "Amazon Prime Video", "Disney+", "Discovery+", "Cinema in Italia"];
+            let allItems = [];
+
+            try {
+                // Ciclo con Backoff/Retry automatico
+                for (let i = 0; i < platforms.length; i++) {
+                    const platform = platforms[i];
+                    loaderText.innerText = `Ricerca per ${platform} (${i + 1}/${platforms.length})...`;
+
+                    let platResults = [];
+                    for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
+                        try {
+                            platResults = await fetchPlatform(platform, apiKey);
+                            break; 
+                        } catch (e) {
+                            const msg = String(e?.message || e);
+
+                            if (isQuotaError(msg) && attempt < (MAX_RETRIES - 1)) {
+                                const retryMs = parseRetryAfterMs(msg) || (10_000 * (attempt + 1));
+                                loaderText.innerText = `Quota raggiunta da Google. Attendo ${Math.ceil(retryMs / 1000)}s per riprovare (${attempt + 1}/${MAX_RETRIES - 1})...`;
+                                await sleep(retryMs);
+                                continue;
+                            }
+
+                            console.warn('Errore AI su', platform, msg);
+                            platResults = [];
+                            break;
+                        }
+                    }
+
+                    if (Array.isArray(platResults)) {
+                        allItems = allItems.concat(platResults);
+                    }
+
+                    // Piccola pausa tra una piattaforma e l'altra per non triggerare il rate limit
+                    if (i < platforms.length - 1) {
+                        await sleep(INTER_CALL_DELAY_MS);
+                    }
+                }
+                
+                if (allItems.length === 0) {
+                    throw new Error("L'AI non ha restituito risultati. Probabile blocco Quote superate: riprova domani o tra qualche ora.");
+                }
+
+                currentData = allItems;
+                renderApp(); 
+                
+                loaderText.innerText = "Salvataggio JSON nel database GitHub in corso...";
+                await saveToGitHub(allItems);
+
+            } catch (error) {
+                resultsDiv.innerHTML = `<p style="color:var(--highlight)">Errore AI: ${error.message}</p>`;
+            } finally {
+                isUpdating = false;
+                btnAI.disabled = false; btnLoad.disabled = false;
+                loader.style.display = "none";
+            }
+        }
+
+        function renderApp() {
+            const filterType = document.getElementById('filter-type').value;
+            const filterView = document.getElementById('filter-view').value;
+            const resultsDiv = document.getElementById('results');
+            
+            document.getElementById('filters').style.display = 'flex';
+
+            let filteredData = currentData;
+            if (filterType !== 'all') {
+                filteredData = currentData.filter(item => {
+                    const t = String(item.type || '').toLowerCase();
+                    return filterType === 'movie' ? (t.includes('movie') || t.includes('film')) : (t.includes('tv') || t.includes('serie'));
+                });
+            }
+
+            if (filteredData.length === 0) {
+                resultsDiv.innerHTML = "<p style='text-align:center;'>Nessun titolo trovato con questi filtri.</p>";
+                return;
+            }
+
+            let html = "";
+            
+            if (filterView === 'platform') {
+                const platformsList = [...new Set(filteredData.map(item => item.platform))];
+                platformsList.forEach(plat => {
+                    html += `<div class="platform-section"><h2 class="platform-header">${plat}</h2><div class="cards-grid">`;
+                    const platItems = filteredData.filter(item => item.platform === plat);
+                    platItems.forEach(item => { html += generateCard(item); });
+                    html += `</div></div>`;
+                });
+            } else {
+                html += `<div class="cards-grid">`;
+                filteredData.forEach(item => { html += generateCard(item); });
+                html += `</div>`;
+            }
+
+            resultsDiv.innerHTML = html;
+        }
+
+        function generateCard(item) {
+            const pClassMap = { "Netflix": "netflix", "Amazon Prime Video": "prime", "Disney+": "disney", "Discovery+": "discovery", "Cinema in Italia": "cinema" };
+            const pClass = pClassMap[item.platform] || "cinema";
+            
+            const title = String(item.title || 'Titolo Sconosciuto');
+            const cleanTitle = encodeURIComponent(title);
+            const fallbackImg = `https://via.placeholder.com/300x450/16213e/e2e8f0?text=${cleanTitle}`;
+            
+            const posterUrl = String(item.posterUrl || '');
+            const imgSrc = (posterUrl.length > 5 && posterUrl.startsWith('http')) ? posterUrl : fallbackImg;
+            
+            const typeStr = String(item.type || '').toLowerCase();
+            const isMovie = typeStr.includes('movie') || typeStr.includes('film');
+            const typeBadge = isMovie ? '🎬 Film' : '📺 Serie TV';
+
+            const date = String(item.date || '');
+            const description = String(item.description || '');
+            const platform = String(item.platform || '');
+
+            return `
+                <div class="card ${pClass}">
+                    <img src="${imgSrc}" onerror="this.onerror=null; this.src='${fallbackImg}';" class="poster" alt="Locandina ${title}">
+                    <div class="badge">${typeBadge}</div>
+                    <h3>${title}</h3>
+                    <span class="date">${date}</span>
+                    <div class="description">${description}</div>
+                    <div class="platform-label">${platform}</div>
+                </div>
+            `;
+        }
+    </script>
+</body>
 </html>
