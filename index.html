@@ -29,8 +29,9 @@
         .generate-btn:disabled { background: #555; cursor: not-allowed; transform: none; box-shadow: none;}
         
         /* Stile per i Filtri */
-        .filters-container { display: none; gap: 15px; justify-content: center; margin-top: 25px; flex-wrap: wrap; }
+        .filters-container { display: none; gap: 15px; justify-content: center; margin-top: 25px; flex-wrap: wrap; align-items: center;}
         .filters-container select { padding: 10px 15px; border-radius: 6px; background: var(--card-bg); color: white; border: 1px solid var(--accent-color); font-family: 'Montserrat', sans-serif; cursor: pointer; font-size: 0.95rem; }
+        .filters-divider { width: 2px; height: 30px; background: rgba(255,255,255,0.2); margin: 0 5px; }
         
         #loader { display: none; text-align: center; padding: 50px; }
         .spinner { width: 40px; height: 40px; border: 4px solid rgba(255,255,255,0.1); border-top: 4px solid var(--highlight); border-radius: 50%; animation: spin 1s linear infinite; margin: 0 auto; }
@@ -94,14 +95,29 @@
         </div>
 
         <div class="filters-container" id="filters">
+            <!-- Filtro Piattaforma -->
+            <select id="filter-platform" onchange="renderApp()">
+                <option value="all">🌍 Tutte le Piattaforme</option>
+                <option value="netflix">Netflix</option>
+                <option value="prime">Amazon Prime Video</option>
+                <option value="disney">Disney+</option>
+                <option value="discovery">Discovery+</option>
+                <option value="cinema">Cinema</option>
+            </select>
+            
+            <!-- Filtro Tipologia -->
             <select id="filter-type" onchange="renderApp()">
                 <option value="all">🍿 Tutti i Titoli</option>
                 <option value="movie">🎬 Solo Film</option>
                 <option value="tv">📺 Solo Serie TV</option>
             </select>
+            
+            <div class="filters-divider"></div>
+            
+            <!-- Filtro Vista -->
             <select id="filter-view" onchange="renderApp()">
                 <option value="platform">📱 Raggruppa per Piattaforma</option>
-                <option value="list">📝 Lista Unica (Tutti insieme)</option>
+                <option value="list">📝 Lista Unica (Griglia)</option>
             </select>
         </div>
     </header>
@@ -127,8 +143,7 @@
         let isUpdating = false;
         let currentData = [];
 
-        // --- SISTEMA DI MAPPATURA ICONE ---
-        // Associa il nome della piattaforma a un'icona e a un colore
+        // --- SISTEMA DI MAPPATURA ICONE E PIATTAFORME ---
         const PLATFORM_CONFIG = {
             "netflix": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix" style="height: 20px; object-fit: contain;">', className: 'netflix' },
             "prime": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" alt="Prime Video" style="height: 20px; object-fit: contain; filter: brightness(0) invert(1);">', className: 'prime' },
@@ -258,7 +273,6 @@
             document.getElementById('last-update-text').innerText = `Ultimo aggiornamento database: ${now}`;
         }
 
-        // CHIAMATA A GEMINI AGGREGATA (UNA SOLA CHIAMATA PER TUTTO)
         async function fetchAllPlatforms(apiKey) {
             const promptText = `
 Objective: Research current and upcoming movie and TV show releases in Italy.
@@ -370,34 +384,51 @@ Format strictly:
             }
         }
 
+        // --- MOTORE DI RENDER E FILTRI COMBINATI ---
         function renderApp() {
+            const filterPlatform = document.getElementById('filter-platform').value;
             const filterType = document.getElementById('filter-type').value;
             const filterView = document.getElementById('filter-view').value;
             const resultsDiv = document.getElementById('results');
             
             document.getElementById('filters').style.display = 'flex';
 
-            let filteredData = currentData;
-            if (filterType !== 'all') {
-                filteredData = currentData.filter(item => {
-                    const t = String(item.type || '').toLowerCase();
-                    return filterType === 'movie' ? (t.includes('movie') || t.includes('film')) : (t.includes('tv') || t.includes('serie'));
-                });
-            }
+            // 1. Filtra i dati combinando Entrambi i filtri
+            let filteredData = currentData.filter(item => {
+                const itemType = String(item.type || '').toLowerCase();
+                const itemPlatform = String(item.platform || '').toLowerCase();
+                
+                // Condizione Tipologia
+                let matchType = true;
+                if (filterType === 'movie') matchType = (itemType.includes('movie') || itemType.includes('film'));
+                else if (filterType === 'tv') matchType = (itemType.includes('tv') || itemType.includes('serie'));
+
+                // Condizione Piattaforma
+                let matchPlatform = true;
+                if (filterPlatform !== 'all') {
+                    if (filterPlatform === 'netflix') matchPlatform = itemPlatform.includes('netflix');
+                    else if (filterPlatform === 'prime') matchPlatform = (itemPlatform.includes('prime') || itemPlatform.includes('amazon'));
+                    else if (filterPlatform === 'disney') matchPlatform = itemPlatform.includes('disney');
+                    else if (filterPlatform === 'discovery') matchPlatform = itemPlatform.includes('discovery');
+                    else if (filterPlatform === 'cinema') matchPlatform = itemPlatform.includes('cinema');
+                }
+
+                return matchType && matchPlatform;
+            });
 
             if (filteredData.length === 0) {
-                resultsDiv.innerHTML = "<p style='text-align:center;'>Nessun titolo trovato con questi filtri.</p>";
+                resultsDiv.innerHTML = "<p style='text-align:center;'>Nessun titolo trovato per questa combinazione di filtri.</p>";
                 return;
             }
 
             let html = "";
             
+            // 2. Disegna i Dati
             if (filterView === 'platform') {
                 const platformsList = [...new Set(filteredData.map(item => item.platform))];
                 platformsList.forEach(plat => {
                     const platConfig = getPlatformConfig(plat);
                     
-                    // Header di sezione con icona
                     html += `<div class="platform-section">
                                 <h2 class="platform-header">${platConfig.iconHtml} ${plat}</h2>
                                 <div class="cards-grid">`;
@@ -407,6 +438,7 @@ Format strictly:
                     html += `</div></div>`;
                 });
             } else {
+                // Vista Griglia Unica
                 html += `<div class="cards-grid">`;
                 filteredData.forEach(item => { html += generateCard(item); });
                 html += `</div>`;
