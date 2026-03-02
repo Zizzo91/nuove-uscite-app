@@ -102,8 +102,8 @@
                 <option value="netflix">Netflix</option>
                 <option value="prime">Amazon Prime Video</option>
                 <option value="disney">Disney+</option>
-                <option value="discovery">Discovery+</option>
                 <option value="cinema">Cinema</option>
+                <option value="discovery">Discovery+</option>
             </select>
             
             <!-- Filtro Tipologia -->
@@ -126,7 +126,7 @@
     <main>
         <div id="loader">
             <div class="spinner"></div>
-            <p id="loader-text" style="margin-top: 15px;">Ricerca in corso (può richiedere fino a 20 sec)...</p>
+            <p id="loader-text" style="margin-top: 15px;">Ricerca in corso (può richiedere fino a 30 sec)...</p>
         </div>
         <div id="results"></div>
     </main>
@@ -144,12 +144,15 @@
         let isUpdating = false;
         let currentData = [];
 
+        // L'ordine qui determina anche l'ordine di stampa nella vista Raggruppata
+        const ORDERED_PLATFORMS = ["Netflix", "Amazon Prime Video", "Disney+", "Cinema in Italia", "Discovery+"];
+
         // --- SISTEMA DI MAPPATURA ICONE E PIATTAFORME ---
         const PLATFORM_CONFIG = {
             "netflix": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix" style="height: 20px; object-fit: contain;">', className: 'netflix' },
             "prime": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" alt="Prime Video" style="height: 20px; object-fit: contain; filter: brightness(0) invert(1);">', className: 'prime' },
             "disney": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" alt="Disney+" style="height: 35px; object-fit: contain;">', className: 'disney' },
-            "discovery": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Discovery%2B_logo.svg" alt="Discovery+" style="height: 25px; object-fit: contain; filter: brightness(0) invert(1);">', className: 'discovery' },
+            "discovery": { iconHtml: '<img src="https://logodownload.org/wp-content/uploads/2021/04/discovery-plus-logo.png" alt="Discovery+" style="height: 22px; object-fit: contain; filter: brightness(0) invert(1);">', className: 'discovery' },
             "cinema": { iconHtml: '<i class="fa-solid fa-film" style="color: #6c757d;"></i>', className: 'cinema' },
             "default": { iconHtml: '<i class="fa-solid fa-tv"></i>', className: 'cinema' }
         };
@@ -305,8 +308,8 @@
 
         async function fetchAllPlatforms(apiKey) {
             const promptText = `
-Objective: Research current and upcoming movie and TV show releases in Italy.
-You must find at least 3-4 distinct titles for EACH of these 5 platforms: Netflix, Amazon Prime Video, Disney+, Discovery+, Cinema in Italia.
+Objective: Research current and upcoming movie and TV show releases in Italy, covering the recent weeks and the next 2 months.
+You must find at least 8-10 distinct titles for EACH of these 5 platforms: Netflix, Amazon Prime Video, Disney+, Cinema in Italia, Discovery+.
 
 You must output ONLY a valid JSON array of objects containing ALL titles. Do not use markdown blocks, just the raw JSON array.
 
@@ -315,11 +318,10 @@ Format strictly:
   {
     "title": "Titolo film/serie in italiano",
     "type": "movie oppure tv",
-    "platform": "Nome esatto della piattaforma (es. Netflix, Disney+, ecc.)",
-    "date": "Data di uscita in Italia",
+    "platform": "Nome esatto della piattaforma tra le 5 indicate",
+    "date": "Data di uscita in Italia (es. Marzo 2026)",
     "description": "Breve sinossi in italiano"
-  },
-  ... (include results for all 5 platforms in this one single array)
+  }
 ]`;
 
             const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent?key=${apiKey}`;
@@ -331,7 +333,7 @@ Format strictly:
                 body: JSON.stringify({
                     contents: [{ parts: [{ text: promptText }] }],
                     tools: [{ googleSearch: {} }],
-                    generationConfig: { temperature: 0.2 }
+                    generationConfig: { temperature: 0.2 } // Manteniamo bassa per formattazione JSON rigorosa
                 })
             });
 
@@ -383,7 +385,7 @@ Format strictly:
 
             isUpdating = true;
             btnAI.disabled = true; btnLoad.disabled = true;
-            loaderText.innerText = "Interrogazione AI per tutte le piattaforme... (Richiesta Unica - Circa 20s)";
+            loaderText.innerText = "Interrogazione AI per tutte le piattaforme... (Richiesta Unica - Fino a 30s)";
             loader.style.display = "block";
             resultsDiv.innerHTML = "";
             document.getElementById('filters').style.display = "none";
@@ -398,7 +400,7 @@ Format strictly:
 
                 // 2. Arricchimento con Locandine TMDB (eseguito in parallelo per velocità)
                 if (tmdbKey) {
-                    loaderText.innerText = "Recupero locandine ufficiali da TMDB...";
+                    loaderText.innerText = `Recupero di ${allItems.length} locandine da TMDB...`;
                     const fetchPromises = allItems.map(async (item) => {
                         const posterUrl = await fetchTMDBPoster(item.title, item.type, tmdbKey);
                         item.posterUrl = posterUrl;
@@ -468,8 +470,17 @@ Format strictly:
             
             // 2. Disegna i Dati
             if (filterView === 'platform') {
-                const platformsList = [...new Set(filteredData.map(item => item.platform))];
-                platformsList.forEach(plat => {
+                // Ordiniamo le piattaforme usando l'array fisso ORDERED_PLATFORMS
+                const availablePlatforms = [...new Set(filteredData.map(item => item.platform))];
+                
+                // Ordina in base all'indice in ORDERED_PLATFORMS, oppure mettili in fondo se non mappati esattamente
+                availablePlatforms.sort((a, b) => {
+                    const idxA = ORDERED_PLATFORMS.findIndex(p => a.toLowerCase().includes(p.toLowerCase().replace(' in italia','')));
+                    const idxB = ORDERED_PLATFORMS.findIndex(p => b.toLowerCase().includes(p.toLowerCase().replace(' in italia','')));
+                    return (idxA === -1 ? 99 : idxA) - (idxB === -1 ? 99 : idxB);
+                });
+
+                availablePlatforms.forEach(plat => {
                     const platConfig = getPlatformConfig(plat);
                     
                     html += `<div class="platform-section">
