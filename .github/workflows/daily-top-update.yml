@@ -1,0 +1,36 @@
+name: Daily Top 10 Update
+
+on:
+  schedule:
+    # 07:00 UTC corrisponde alle 08:00 CET (o 09:00 CEST)
+    # L'aggiornamento sfalsato di due ore evita colli di bottiglia e limiti API di Gemini
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Permette anche di avviarlo a mano dal tab "Actions"
+
+jobs:
+  update-top-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run top script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node top.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add top.json
+          # Esegue il commit solo se ci sono stati dei cambiamenti (per non sporcare lo storico di GitHub)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Aggiornamento automatico Classifiche ore 08:00" && git push)
