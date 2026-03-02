@@ -47,7 +47,7 @@
         
         .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 25px; }
         
-        /* Modifiche Card senza immagine (più compatte) */
+        /* Modifiche Card per ripristinare il design con Immagini e Badge */
         .card { background: var(--card-bg); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); border-top: 4px solid var(--highlight); display: flex; flex-direction: column; position: relative; overflow: hidden;}
         .card.netflix { border-color: var(--netflix); }
         .card.prime { border-color: var(--prime); }
@@ -55,7 +55,8 @@
         .card.discovery { border-color: var(--discovery); }
         .card.cinema { border-color: var(--cinema); }
         
-        .card .badge { display: inline-block; align-self: flex-start; background: rgba(0,0,0,0.8); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; border: 1px solid var(--highlight); margin-bottom: 12px; }
+        .card .poster { width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; background: #2a2a2a; }
+        .card .badge { position: absolute; top: 30px; left: 30px; background: rgba(0,0,0,0.8); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; border: 1px solid var(--highlight); backdrop-filter: blur(4px); }
         .card h3 { margin-top: 0; font-size: 1.3rem; margin-bottom: 8px; line-height: 1.2; }
         .card .date { color: #a0aec0; font-size: 0.9rem; margin-bottom: 15px; display: block;}
         .card .description { line-height: 1.5; font-size: 0.95rem; flex-grow: 1; }
@@ -78,6 +79,7 @@
             <input type="password" id="gemini-key" placeholder="Gemini API Key (AIzaSy...)">
             <input type="password" id="github-token" placeholder="GitHub Token (ghp_...)">
             <input type="text" id="github-repo" placeholder="Repo GitHub (es. Zizzo91/nuove-uscite-app)">
+            <input type="password" id="tmdb-key" placeholder="TMDB API Key (opzionale per locandine)">
             <button onclick="saveConfig()">Salva Configurazione</button>
             <button onclick="closeModal()" style="background: transparent; border: 1px solid #555; margin-top: 10px;">Annulla / Chiudi</button>
         </div>
@@ -85,7 +87,7 @@
 
     <header>
         <h1>Nuove Uscite: Cinema e Streaming</h1>
-        <p>Le ultime novità in Italia con Filtri Interattivi</p>
+        <p>Le ultime novità in Italia con Locandine HD (powered by TMDB) e Filtri Interattivi</p>
         <div id="last-update-text">Ultimo aggiornamento database: Mai</div>
         
         <div class="action-buttons">
@@ -129,7 +131,7 @@
         <div id="results"></div>
     </main>
 
-    <footer>Dati gestiti tramite GitHub API e Google Gemini.</footer>
+    <footer>Dati gestiti tramite GitHub API e Google Gemini. Immagini fornite da TMDB.</footer>
     <button class="settings-btn" onclick="document.getElementById('api-modal').style.display = 'flex'" title="Impostazioni">⚙️</button>
 
     <script>
@@ -167,12 +169,14 @@
             const hasGemini = localStorage.getItem('gemini_api_key');
             const hasGithub = localStorage.getItem('github_token');
             const hasRepo = localStorage.getItem('github_repo');
+            const hasTmdb = localStorage.getItem('tmdb_api_key');
 
             if (hasGemini && hasGithub && hasRepo) {
                 document.getElementById('api-modal').style.display = 'none';
                 document.getElementById('gemini-key').value = hasGemini;
                 document.getElementById('github-token').value = hasGithub;
                 document.getElementById('github-repo').value = hasRepo;
+                if(hasTmdb) document.getElementById('tmdb-key').value = hasTmdb;
                 loadFromGitHub(); 
             } else {
                 document.getElementById('api-modal').style.display = 'flex';
@@ -185,17 +189,20 @@
             const gemini = sanitizeKey(document.getElementById('gemini-key').value);
             const token = sanitizeKey(document.getElementById('github-token').value);
             const repo = sanitizeKey(document.getElementById('github-repo').value);
+            const tmdb = sanitizeKey(document.getElementById('tmdb-key').value);
             
             if (gemini && token && repo) {
                 localStorage.setItem('gemini_api_key', gemini);
                 localStorage.setItem('github_token', token);
                 localStorage.setItem('github_repo', repo);
-                document.getElementById('api-modal').style.display = 'none';
+                if (tmdb) localStorage.setItem('tmdb_api_key', tmdb);
+                else localStorage.removeItem('tmdb_api_key');
                 
+                document.getElementById('api-modal').style.display = 'none';
                 localStorage.removeItem('github_file_sha');
                 loadFromGitHub();
             } else {
-                alert("Compila tutti i campi!");
+                alert("Compila almeno Gemini, GitHub Token e Repo!");
             }
         }
 
@@ -254,7 +261,7 @@
             const payloadData = { date: now, data: dataArray };
             const contentBase64 = utf8ToBase64(JSON.stringify(payloadData));
 
-            const body = { message: `Aggiornamento dati JSON (Rimozione locandine) ${now}`, content: contentBase64 };
+            const body = { message: `Aggiornamento dati JSON (Locandine TMDB) ${now}`, content: contentBase64 };
             if (sha && sha !== "undefined" && sha !== "null") body.sha = sha; 
 
             const headers = new Headers();
@@ -270,6 +277,30 @@
             const newFileData = await response.json();
             localStorage.setItem('github_file_sha', newFileData.content.sha);
             document.getElementById('last-update-text').innerText = `Ultimo aggiornamento database: ${now}`;
+        }
+
+        // --- TMDB FETCH FUNZIONE ---
+        async function fetchTMDBPoster(title, type, tmdbKey) {
+            if (!tmdbKey || !title) return '';
+            try {
+                // Se type contiene 'tv' o 'serie' cerca nelle serie TV, altrimenti nei film
+                const searchType = (String(type).toLowerCase().includes('tv') || String(type).toLowerCase().includes('serie')) ? 'tv' : 'movie';
+                const query = encodeURIComponent(title);
+                const url = `https://api.themoviedb.org/3/search/${searchType}?api_key=${tmdbKey}&query=${query}&language=it-IT&page=1`;
+                
+                const response = await fetch(url);
+                if (!response.ok) return '';
+                
+                const data = await response.json();
+                if (data.results && data.results.length > 0 && data.results[0].poster_path) {
+                    // Costruisce l'URL completo dell'immagine (w500 è la dimensione ideale)
+                    return `https://image.tmdb.org/t/p/w500${data.results[0].poster_path}`;
+                }
+                return '';
+            } catch (e) {
+                console.warn('Errore TMDB per', title, e);
+                return '';
+            }
         }
 
         async function fetchAllPlatforms(apiKey) {
@@ -333,6 +364,8 @@ Format strictly:
             const apiKey = sanitizeKey(localStorage.getItem('gemini_api_key'));
             if (!apiKey) return document.getElementById('api-modal').style.display = 'flex';
 
+            const tmdbKey = sanitizeKey(localStorage.getItem('tmdb_api_key'));
+
             const lastAttempt = Number(localStorage.getItem('last_ai_attempt') || '0');
             const now = Date.now();
             if (lastAttempt && (now - lastAttempt) < COOLDOWN_MS) {
@@ -356,10 +389,22 @@ Format strictly:
             document.getElementById('filters').style.display = "none";
 
             try {
-                const allItems = await fetchAllPlatforms(apiKey);
+                // 1. Fetch Dati Testuali da Gemini
+                let allItems = await fetchAllPlatforms(apiKey);
                 
                 if (allItems.length === 0) {
                     throw new Error("L'AI non ha restituito risultati. Riprova più tardi.");
+                }
+
+                // 2. Arricchimento con Locandine TMDB (eseguito in parallelo per velocità)
+                if (tmdbKey) {
+                    loaderText.innerText = "Recupero locandine ufficiali da TMDB...";
+                    const fetchPromises = allItems.map(async (item) => {
+                        const posterUrl = await fetchTMDBPoster(item.title, item.type, tmdbKey);
+                        item.posterUrl = posterUrl;
+                        return item;
+                    });
+                    allItems = await Promise.all(fetchPromises);
                 }
 
                 currentData = allItems;
@@ -450,6 +495,12 @@ Format strictly:
             const pClass = platConfig.className;
             
             const title = String(item.title || 'Titolo Sconosciuto');
+            const cleanTitle = encodeURIComponent(title);
+            const fallbackImg = `https://via.placeholder.com/300x450/16213e/e2e8f0?text=${cleanTitle}`;
+            
+            const posterUrl = String(item.posterUrl || '');
+            const imgSrc = (posterUrl.length > 5 && posterUrl.startsWith('http')) ? posterUrl : fallbackImg;
+
             const typeStr = String(item.type || '').toLowerCase();
             const isMovie = typeStr.includes('movie') || typeStr.includes('film');
             const typeBadge = isMovie ? '🎬 Film' : '📺 Serie TV';
@@ -460,6 +511,7 @@ Format strictly:
 
             return `
                 <div class="card ${pClass}">
+                    <img src="${imgSrc}" onerror="this.onerror=null; this.src='${fallbackImg}';" class="poster" alt="Locandina ${title}">
                     <div class="badge">${typeBadge}</div>
                     <h3>${title}</h3>
                     <span class="date">${date}</span>
