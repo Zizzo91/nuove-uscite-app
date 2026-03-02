@@ -39,7 +39,8 @@ You must find exactly 10 distinct titles for Netflix Italy and 10 distinct title
 CRITICAL RULES:
 1. ONLY return data for Netflix and Amazon Prime Video.
 2. Mix movies and TV shows as they appear in the real top 10 trends.
-3. You must output ONLY a valid JSON array of objects. Do not use markdown blocks, just the raw JSON array.
+3. DO NOT hallucinate platforms. A Netflix Original like "One Piece" or "Stranger Things" CANNOT be on Amazon Prime Video. Double-check the actual platform ownership before assigning.
+4. You must output ONLY a valid JSON array of objects. Do not use markdown blocks, just the raw JSON array.
 
 Format strictly:
 [
@@ -61,7 +62,7 @@ Format strictly:
         body: JSON.stringify({
             contents: [{ parts: [{ text: promptText }] }],
             tools: [{ googleSearch: {} }],
-            generationConfig: { temperature: 0.1 }
+            generationConfig: { temperature: 0.05 } // Estremamente basso per evitare allucinazioni
         })
     });
 
