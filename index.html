@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <style>
-        :root { --bg-color: #1a1a2e; --card-bg: #16213e; --text-color: #e2e8f0; --accent-color: #0f3460; --highlight: #e94560; --netflix: #e50914; --prime: #00a8e1; --disney: #0063e5; --discovery: #ffc107; --cinema: #6c757d; }
+        :root { --bg-color: #1a1a2e; --card-bg: #16213e; --text-color: #e2e8f0; --accent-color: #0f3460; --highlight: #e94560; --netflix: #e50914; --prime: #00a8e1; --disney: #0063e5; --discovery: #ffc107; --sky: #0072c9; --cinema: #6c757d; }
         body { font-family: 'Roboto', sans-serif; background-color: var(--bg-color); color: var(--text-color); margin: 0; padding: 0; min-height: 100vh; display: flex; flex-direction: column; }
         h1, h2, h3 { font-family: 'Montserrat', sans-serif; }
         
@@ -46,6 +46,7 @@
         .card.prime { border-color: var(--prime); }
         .card.disney { border-color: var(--disney); }
         .card.discovery { border-color: var(--discovery); }
+        .card.sky { border-color: var(--sky); }
         .card.cinema { border-color: var(--cinema); }
         
         .card .poster { width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; background: #2a2a2a; }
@@ -81,6 +82,7 @@
                 <option value="netflix">Netflix</option>
                 <option value="prime">Amazon Prime Video</option>
                 <option value="disney">Disney+</option>
+                <option value="sky">Sky (incl. NOW)</option>
                 <option value="cinema">Cinema</option>
                 <option value="discovery">Discovery+</option>
             </select>
@@ -116,7 +118,7 @@
         let currentData = [];
 
         // L'ordine qui determina anche l'ordine di stampa nella vista Raggruppata
-        const ORDERED_PLATFORMS = ["Netflix", "Amazon Prime Video", "Disney+", "Cinema in Italia", "Discovery+"];
+        const ORDERED_PLATFORMS = ["Netflix", "Amazon Prime Video", "Disney+", "Sky", "Cinema in Italia", "Discovery+"];
 
         // --- SISTEMA DI MAPPATURA ICONE E PIATTAFORME ---
         const PLATFORM_CONFIG = {
@@ -124,6 +126,7 @@
             "prime": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" alt="Prime Video" style="height: 20px; object-fit: contain; filter: brightness(0) invert(1);">', className: 'prime' },
             "disney": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" alt="Disney+" style="height: 35px; object-fit: contain;">', className: 'disney' },
             "discovery": { iconHtml: '<img src="https://logodownload.org/wp-content/uploads/2021/04/discovery-plus-logo.png" alt="Discovery+" style="height: 22px; object-fit: contain; filter: brightness(0) invert(1);">', className: 'discovery' },
+            "sky": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Sky_Logo_2020.svg" alt="Sky" style="height: 22px; object-fit: contain;">', className: 'sky' },
             "cinema": { iconHtml: '<i class="fa-solid fa-film" style="color: #6c757d;"></i>', className: 'cinema' },
             "default": { iconHtml: '<i class="fa-solid fa-tv"></i>', className: 'cinema' }
         };
@@ -134,6 +137,7 @@
             if (name.includes('prime') || name.includes('amazon')) return PLATFORM_CONFIG.prime;
             if (name.includes('disney')) return PLATFORM_CONFIG.disney;
             if (name.includes('discovery')) return PLATFORM_CONFIG.discovery;
+            if (name.includes('sky') || name.includes('now')) return PLATFORM_CONFIG.sky;
             if (name.includes('cinema')) return PLATFORM_CONFIG.cinema;
             return PLATFORM_CONFIG.default;
         }
@@ -204,6 +208,7 @@
                     else if (filterPlatform === 'prime') matchPlatform = (itemPlatform.includes('prime') || itemPlatform.includes('amazon'));
                     else if (filterPlatform === 'disney') matchPlatform = itemPlatform.includes('disney');
                     else if (filterPlatform === 'discovery') matchPlatform = itemPlatform.includes('discovery');
+                    else if (filterPlatform === 'sky') matchPlatform = (itemPlatform.includes('sky') || itemPlatform.includes('now'));
                     else if (filterPlatform === 'cinema') matchPlatform = itemPlatform.includes('cinema');
                 }
 
