@@ -1,165 +1,245 @@
 {
-  "date": "02/03/2026, 17:13:06",
+  "date": "02/03/2026, 17:31:41",
   "data": [
     {
-      "title": "Now You See Me 2",
+      "title": "Now You See Me: Now You Don't",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Il sequel del film sui maghi illusionisti che usano le loro abilità per compiere rapine e svelare segreti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/j1rBqVglO6wfYzPgQlUFVg25XSP.jpg"
+      "description": "Il sequel del film sui maghi illusionisti è in cima alla classifica dei film più popolari su Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
     },
     {
       "title": "The Bluff",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 2,
-      "description": "Un thriller d'azione prodotto da Amazon MGM Studios.",
+      "description": "Un film che si posiziona tra i più visti sulla piattaforma di Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2OcbuS2HEnHT0DhO3wf8WV9wWJg.jpg"
-    },
-    {
-      "title": "Reacher",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Basata sui romanzi di Lee Child, la serie segue l'ex investigatore militare Jack Reacher mentre si imbatte in cospirazioni e crimini.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg"
     },
     {
       "title": "In the Lost Lands",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Un film fantasy basato su racconti di George R.R. Martin.",
+      "rank": 3,
+      "description": "Questo film è tra i titoli più popolari e visti su Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iL7XhmTUpBHocjGumilOawM4n4Z.jpg"
-    },
-    {
-      "title": "Gen V",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Uno spin-off di 'The Boys' ambientato in un'università per giovani supereroi, dove vengono messi alla prova i loro limiti fisici e morali.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4nHggEdMaqTrYiVmqorFxD9A2i4.jpg"
     },
     {
       "title": "Classified",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Un film d'azione e spionaggio.",
+      "rank": 4,
+      "description": "Un film che rientra nella Top 10 dei contenuti più visti su Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dAfwsVCHYCEJgKMcL4NEsnsDzCM.jpg"
-    },
-    {
-      "title": "Il Signore degli Anelli: Gli Anelli del Potere",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Ambientata migliaia di anni prima degli eventi de 'Lo Hobbit' e de 'Il Signore degli Anelli', la serie esplora la Seconda Era della Terra di Mezzo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg"
     },
     {
       "title": "Love Me Love Me",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Una commedia romantica.",
+      "rank": 5,
+      "description": "Questo titolo è presente nella classifica dei film più popolari su Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg"
-    },
-    {
-      "title": "Mr. & Mrs. Smith",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Una serie che reinventa il concetto di due spie che fingono di essere una coppia sposata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg"
     },
     {
       "title": "The Wrecking Crew",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 10,
-      "description": "Un film d'azione.",
+      "rank": 6,
+      "description": "Un film che si trova tra i dieci più visti sulla piattaforma di streaming.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/24lKLBFQ7AMVb8CClWoDOZ2R8qo.jpg"
     },
     {
-      "title": "Io sono Rosa Ricci",
+      "title": "The Boys",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 7,
+      "description": "La satirica e irriverente serie sui supereroi è una delle produzioni Amazon Original più apprezzate.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2zmTngn1tYC1AvfnrFLhxeD82hz.jpg"
+    },
+    {
+      "title": "Fallout",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 8,
+      "description": "La serie post-apocalittica ispirata al videogioco cult è tra i titoli di punta di Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bnayCOZ739OHS2DHPy7ZQDGC8iv.jpg"
+    },
+    {
+      "title": "Scarpetta",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "La nuova serie tratta dalla saga letteraria di Patricia Cornwell, con Nicole Kidman, è un'attesa novità di marzo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg"
+    },
+    {
+      "title": "Now You See Me",
       "type": "movie",
-      "platform": "Netflix",
-      "rank": 1,
-      "description": "Un prequel del popolare universo narrativo di 'Mare fuori', che segue la giovane Rosa Ricci rapita da un cartello rivale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tBk3rmW8JdvkrH0ud529kjt7rJc.jpg"
+      "platform": "Amazon Prime Video",
+      "rank": 10,
+      "description": "Il primo capitolo della saga degli illusionisti è tornato tra i film più visti su Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
     },
     {
       "title": "Bridgerton",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 2,
-      "description": "Una serie drammatica ambientata nell'alta società londinese dell'epoca della Reggenza, incentrata sugli intrighi amorosi e sociali della famiglia Bridgerton.",
+      "rank": 1,
+      "description": "La serie romantica in costume continua a dominare la classifica delle serie TV più viste su Netflix Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8vjbR0TcjKVZ4WdqMma2mLaL0Qx.jpg"
     },
     {
-      "title": "Cattivissimo Me 4",
+      "title": "Cattivissimo me 4",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 3,
-      "description": "Il quarto capitolo della saga animata che segue le avventure di Gru, Lucy, le loro figlie e i Minions.",
+      "rank": 2,
+      "description": "Il film d'animazione del 2024 con Gru e i Minions si mantiene saldo al primo posto tra i film più visti su Netflix Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ebG3a9AckyaOdsYNWLmOZpIhNot.jpg"
     },
     {
       "title": "The Night Agent",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 4,
-      "description": "Un thriller d'azione che segue un agente dell'FBI di basso livello che risponde a una telefonata di emergenza, scoprendo una cospirazione mortale.",
+      "rank": 3,
+      "description": "L'action thriller si conferma tra le serie più popolari, stabile al secondo posto nella classifica delle serie TV.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg"
     },
     {
-      "title": "Accused",
+      "title": "Io sono Rosa Ricci",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 5,
-      "description": "Un film thriller che esplora le conseguenze di un'accusa ingiusta e la lotta per la verità.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jiXcYP1JwPj57JljO8mOIvFqPpx.jpg"
+      "rank": 4,
+      "description": "Lo spin-off dell'universo narrativo di 'Mare fuori' ha conquistato la vetta tra i film più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tBk3rmW8JdvkrH0ud529kjt7rJc.jpg"
     },
     {
       "title": "Motorvalley",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 6,
-      "description": "Una serie che esplora il mondo delle corse automobilistiche e l'industria dei motori.",
+      "rank": 5,
+      "description": "La serie sull'automobilismo con Luca Argentero resiste tra le prime posizioni delle serie TV più viste.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg"
     },
     {
-      "title": "Firebreak",
+      "title": "Cortafuego",
       "type": "movie",
       "platform": "Netflix",
+      "rank": 6,
+      "description": "Un adrenalinico thriller spagnolo che si mantiene sul podio della Top 10 dei film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg"
+    },
+    {
+      "title": "Avvocato di difesa – The Lincoln Lawyer",
+      "type": "tv",
+      "platform": "Netflix",
       "rank": 7,
-      "description": "Un thriller spagnolo che vede la scomparsa di una bambina nel bosco, scatenando una ricerca disperata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kQhvTEJQDtcN0w241lTfQ6gfnA8.jpg"
+      "description": "Il legal drama con Manuel Garcia-Rulfo è un titolo consolidato nella Top 10 delle serie TV.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/muGiqtq8GzB0UGsZ8oWcHbcGGIE.jpg"
+    },
+    {
+      "title": "Les Orphelins",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Un film francese che si posiziona tra i più visti nella classifica dei film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg"
     },
     {
       "title": "BAKI-DOU: The Invincible Samurai",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "Una serie anime di arti marziali che segue le intense battaglie di Baki Hanma.",
+      "rank": 9,
+      "description": "Un anime d'azione giapponese, nuova entrata di giornata e già sul podio della Top 10 delle serie TV.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qC4JawqYlUS9fwvAzGfY5lSz5uB.jpg"
     },
     {
-      "title": "The Orphans",
+      "title": "La vita va così",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 9,
-      "description": "Un film drammatico francese su due amici d'infanzia che devono superare le loro differenze dopo un tragico incidente.",
+      "rank": 10,
+      "description": "Una commedia italiana con una lunga permanenza nelle posizioni alte della classifica dei film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qvaD0vZ78w3hFuEBGyhpEkmHUOS.jpg"
+    },
+    {
+      "title": "Now You See Me: Now You Don't",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 1,
+      "description": "Il film è in cima alla classifica dei più visti su NOW, il servizio streaming di Sky.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
+    },
+    {
+      "title": "The Life of Chuck",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 2,
+      "description": "Questo film si posiziona tra i titoli più popolari su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wped8Cw2R74BZK2NIkmDKmWnVYz.jpg"
+    },
+    {
+      "title": "Dracula",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 3,
+      "description": "Il film è tra i più visti sulla piattaforma NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1mHiip255P447auyPkVJ8taDUme.jpg"
+    },
+    {
+      "title": "The Dead Don't Hurt",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "Questo film è presente nella Top 10 dei contenuti più visti su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mLLyU0C91509Bp1WCKQcISDOmIC.jpg"
+    },
+    {
+      "title": "Avvocato Ligas",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 5,
+      "description": "La nuova serie Sky Original con Luca Argentero è tra i programmi più cercati e visti.",
       "posterUrl": ""
     },
     {
-      "title": "Avvocato di difesa - The Lincoln Lawyer",
+      "title": "Gomorra - La serie",
       "type": "tv",
-      "platform": "Netflix",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Il cult italiano sulla camorra napoletana continua a essere una delle serie più amate e viste su Sky e NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg"
+    },
+    {
+      "title": "Under Salt Marsh - Segreti sommersi",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 7,
+      "description": "Questa serie è tra i programmi più cercati del momento su Sky.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dZQUJiG2scf8APdnMnMilB8A9GS.jpg"
+    },
+    {
+      "title": "Il signore delle mosche",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 8,
+      "description": "L'adattamento televisivo del romanzo di William Golding è tra i titoli più cercati su Sky e NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ryolNeqci6wlTsE1OPGp0bEEziw.jpg"
+    },
+    {
+      "title": "Pechino Express",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 9,
+      "description": "Il popolare reality show di avventura è tra i programmi TV più visti su Sky e NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/97WBjxeRtwLwapHeHTig7Xt8xMd.jpg"
+    },
+    {
+      "title": "MasterChef Italia",
+      "type": "tv",
+      "platform": "Sky",
       "rank": 10,
-      "description": "Un avvocato di Los Angeles gestisce casi dalla sua auto Lincoln, affrontando sfide legali e personali.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/muGiqtq8GzB0UGsZ8oWcHbcGGIE.jpg"
+      "description": "Il celebre talent show culinario è costantemente tra i programmi più visti su Sky e NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wD8S0XLIrHsKzGuw5xPMjDCYYbq.jpg"
     }
   ]
 }
