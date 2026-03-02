@@ -1,165 +1,165 @@
 {
-  "date": "02/03/2026, 17:06:45",
+  "date": "02/03/2026, 17:13:06",
   "data": [
     {
-      "title": "Now You See Me: Now You Don't",
+      "title": "Now You See Me 2",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Il sequel del film sui maghi illusionisti che compiono rapine.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
+      "description": "Il sequel del film sui maghi illusionisti che usano le loro abilità per compiere rapine e svelare segreti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/j1rBqVglO6wfYzPgQlUFVg25XSP.jpg"
     },
     {
       "title": "The Bluff",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 2,
-      "description": "Un film che si posiziona tra i più visti sulla piattaforma.",
+      "description": "Un thriller d'azione prodotto da Amazon MGM Studios.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2OcbuS2HEnHT0DhO3wf8WV9wWJg.jpg"
+    },
+    {
+      "title": "Reacher",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 3,
+      "description": "Basata sui romanzi di Lee Child, la serie segue l'ex investigatore militare Jack Reacher mentre si imbatte in cospirazioni e crimini.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg"
     },
     {
       "title": "In the Lost Lands",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Un film che figura nella classifica dei titoli più popolari.",
+      "rank": 4,
+      "description": "Un film fantasy basato su racconti di George R.R. Martin.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iL7XhmTUpBHocjGumilOawM4n4Z.jpg"
+    },
+    {
+      "title": "Gen V",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 5,
+      "description": "Uno spin-off di 'The Boys' ambientato in un'università per giovani supereroi, dove vengono messi alla prova i loro limiti fisici e morali.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4nHggEdMaqTrYiVmqorFxD9A2i4.jpg"
     },
     {
       "title": "Classified",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Un titolo che rientra tra i film più visti su Amazon Prime Video.",
+      "rank": 6,
+      "description": "Un film d'azione e spionaggio.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dAfwsVCHYCEJgKMcL4NEsnsDzCM.jpg"
+    },
+    {
+      "title": "Il Signore degli Anelli: Gli Anelli del Potere",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 7,
+      "description": "Ambientata migliaia di anni prima degli eventi de 'Lo Hobbit' e de 'Il Signore degli Anelli', la serie esplora la Seconda Era della Terra di Mezzo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qUdlsQeJlInEfCD10pAWBO9W0Qb.jpg"
     },
     {
       "title": "Love Me Love Me",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Un film che ha catturato l'attenzione del pubblico italiano.",
+      "rank": 8,
+      "description": "Una commedia romantica.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg"
+    },
+    {
+      "title": "Mr. & Mrs. Smith",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "Una serie che reinventa il concetto di due spie che fingono di essere una coppia sposata.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kvJvGxsDLi3MmHzc9nregyJtOWY.jpg"
     },
     {
       "title": "The Wrecking Crew",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Un film d'azione che si mantiene nella top 10.",
+      "rank": 10,
+      "description": "Un film d'azione.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/24lKLBFQ7AMVb8CClWoDOZ2R8qo.jpg"
     },
     {
-      "title": "Now You See Me",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Il primo capitolo della saga sui 'Cavalieri' illusionisti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
-    },
-    {
-      "title": "Ice Beast",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Un film presente nella classifica dei più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/n4OMe6sYLdhq1DgFovhpKivHptD.jpg"
-    },
-    {
-      "title": "Sidelined: The QB and Me",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Un film che si trova tra i titoli più popolari sulla piattaforma.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg"
-    },
-    {
-      "title": "The Handmaid's Tale - Stagione 6",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 10,
-      "description": "La sesta stagione della celebre serie distopica, disponibile dal 1° marzo.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Cattivissimo me 4",
+      "title": "Io sono Rosa Ricci",
       "type": "movie",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Il quarto capitolo della saga animata vede Gru, ora agente della Lega Anti-Cattivi, alle prese con il neonato Gru Jr. e il ritorno del suo vecchio rivale Maxime Le Mal.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ebG3a9AckyaOdsYNWLmOZpIhNot.jpg"
+      "description": "Un prequel del popolare universo narrativo di 'Mare fuori', che segue la giovane Rosa Ricci rapita da un cartello rivale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tBk3rmW8JdvkrH0ud529kjt7rJc.jpg"
     },
     {
       "title": "Bridgerton",
       "type": "tv",
       "platform": "Netflix",
       "rank": 2,
-      "description": "La serie romantica in costume continua a dominare le classifiche, con Benedict che lotta per il suo posto in famiglia e una relazione complessa con Sophie.",
+      "description": "Una serie drammatica ambientata nell'alta società londinese dell'epoca della Reggenza, incentrata sugli intrighi amorosi e sociali della famiglia Bridgerton.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8vjbR0TcjKVZ4WdqMma2mLaL0Qx.jpg"
     },
     {
-      "title": "Cortafuego",
+      "title": "Cattivissimo Me 4",
       "type": "movie",
       "platform": "Netflix",
       "rank": 3,
-      "description": "Un adrenalinico thriller spagnolo che si mantiene sul podio della Top 10.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg"
+      "description": "Il quarto capitolo della saga animata che segue le avventure di Gru, Lucy, le loro figlie e i Minions.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ebG3a9AckyaOdsYNWLmOZpIhNot.jpg"
     },
     {
       "title": "The Night Agent",
       "type": "tv",
       "platform": "Netflix",
       "rank": 4,
-      "description": "Un thriller spionistico che ha mantenuto un pubblico fedele grazie a un ritmo serrato e trame di alto voltaggio narrativo.",
+      "description": "Un thriller d'azione che segue un agente dell'FBI di basso livello che risponde a una telefonata di emergenza, scoprendo una cospirazione mortale.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg"
     },
     {
-      "title": "Les Orphelins",
+      "title": "Accused",
       "type": "movie",
       "platform": "Netflix",
       "rank": 5,
-      "description": "Un thriller d'azione francese che vede due vecchi amici, ora su lati opposti della legge, costretti a collaborare dopo un incidente che coinvolge chi entrambi amavano.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg"
+      "description": "Un film thriller che esplora le conseguenze di un'accusa ingiusta e la lotta per la verità.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jiXcYP1JwPj57JljO8mOIvFqPpx.jpg"
+    },
+    {
+      "title": "Motorvalley",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Una serie che esplora il mondo delle corse automobilistiche e l'industria dei motori.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5hXrKfQmzglWMIkFUA2K0MeSjNl.jpg"
+    },
+    {
+      "title": "Firebreak",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "Un thriller spagnolo che vede la scomparsa di una bambina nel bosco, scatenando una ricerca disperata.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kQhvTEJQDtcN0w241lTfQ6gfnA8.jpg"
     },
     {
       "title": "BAKI-DOU: The Invincible Samurai",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 6,
-      "description": "Un anime d'azione giapponese, basato sulla serie manga di Keisuke Itagaki, che combina combattimenti intensi e azione dinamica.",
+      "rank": 8,
+      "description": "Una serie anime di arti marziali che segue le intense battaglie di Baki Hanma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qC4JawqYlUS9fwvAzGfY5lSz5uB.jpg"
     },
     {
-      "title": "Io sono Rosa Ricci",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "Uno spin-off dall'universo narrativo di 'Mare fuori', che esplora un mondo di passione e difficoltà.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tBk3rmW8JdvkrH0ud529kjt7rJc.jpg"
-    },
-    {
-      "title": "The Lincoln Lawyer",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 8,
-      "description": "La serie legale continua a essere tra i titoli consolidati nella Top 10.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/muGiqtq8GzB0UGsZ8oWcHbcGGIE.jpg"
-    },
-    {
-      "title": "La vita va così",
+      "title": "The Orphans",
       "type": "movie",
       "platform": "Netflix",
       "rank": 9,
-      "description": "Una commedia italiana che si segnala per la sua lunga permanenza nelle posizioni alte della classifica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qvaD0vZ78w3hFuEBGyhpEkmHUOS.jpg"
+      "description": "Un film drammatico francese su due amici d'infanzia che devono superare le loro differenze dopo un tragico incidente.",
+      "posterUrl": ""
     },
     {
-      "title": "Unfamiliar",
+      "title": "Avvocato di difesa - The Lincoln Lawyer",
       "type": "tv",
       "platform": "Netflix",
       "rank": 10,
-      "description": "Una serie che resta nella Top 10 con una permanenza superiore alle tre settimane.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fX0Kvvo6hj9feqS3JyFpVmscz2Y.jpg"
+      "description": "Un avvocato di Los Angeles gestisce casi dalla sua auto Lincoln, affrontando sfide legali e personali.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/muGiqtq8GzB0UGsZ8oWcHbcGGIE.jpg"
     }
   ]
 }
