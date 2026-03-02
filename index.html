@@ -264,7 +264,7 @@
             const payloadData = { date: now, data: dataArray };
             const contentBase64 = utf8ToBase64(JSON.stringify(payloadData));
 
-            const body = { message: `Aggiornamento dati JSON (Locandine TMDB) ${now}`, content: contentBase64 };
+            const body = { message: `Aggiornamento dati JSON ${now}`, content: contentBase64 };
             if (sha && sha !== "undefined" && sha !== "null") body.sha = sha; 
 
             const headers = new Headers();
@@ -307,8 +307,19 @@
         }
 
         async function fetchAllPlatforms(apiKey) {
+            // Calcolo Data Dinamico per Gemini (dal 1° del mese corrente a fine dei successivi 2 mesi)
+            const today = new Date();
+            const firstDay = new Date(today.getFullYear(), today.getMonth(), 1);
+            const lastDay = new Date(today.getFullYear(), today.getMonth() + 3, 0);
+            
+            const formatD = d => {
+                const months = ["Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno", "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"];
+                return `${d.getDate()} ${months[d.getMonth()]} ${d.getFullYear()}`;
+            };
+            const dateRangeStr = `dal ${formatD(firstDay)} al ${formatD(lastDay)}`;
+
             const promptText = `
-Objective: Research current and upcoming movie and TV show releases in Italy, covering the recent weeks and the next 2 months.
+Objective: Research current and upcoming movie and TV show releases in Italy strictly ${dateRangeStr}.
 You must find at least 8-10 distinct titles for EACH of these 5 platforms: Netflix, Amazon Prime Video, Disney+, Cinema in Italia, Discovery+.
 
 You must output ONLY a valid JSON array of objects containing ALL titles. Do not use markdown blocks, just the raw JSON array.
