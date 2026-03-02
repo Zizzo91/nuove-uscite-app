@@ -45,6 +45,8 @@ async function main() {
 
     const promptText = `
 Objective: Research real, confirmed movie and TV show releases in Italy strictly ${dateRangeStr}.
+You must find at least 8-10 distinct titles for EACH of these 6 platforms: Netflix, Amazon Prime Video, Disney+, Cinema in Italia, Discovery+, Sky (incl. NOW).
+
 CRITICAL RULES:
 1. For "Cinema in Italia", ONLY include true new theatrical releases (prime visioni). NO old movies from past years (e.g. absolutely no "The Revenant").
 2. For streaming, ONLY include new additions confirmed for this period.
@@ -58,7 +60,7 @@ Format strictly:
   {
     "title": "Titolo in italiano",
     "type": "movie oppure tv",
-    "platform": "Nome esatto della piattaforma tra le 5 indicate",
+    "platform": "Nome esatto della piattaforma tra le 6 indicate",
     "releaseDate": "YYYY-MM-DD",
     "displayDate": "Giorno Mese Anno (es. 15 Marzo 2026)",
     "description": "Breve sinossi"
