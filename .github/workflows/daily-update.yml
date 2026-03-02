@@ -31,5 +31,9 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          # Esegue il commit solo se ci sono stati dei cambiamenti (per non sporcare lo storico di GitHub)
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Aggiornamento automatico catalogo ore 06:00" && git push)
+          # Esegue il commit solo se ci sono stati dei cambiamenti
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "Aggiornamento automatico catalogo ore 06:00"
+            git pull --rebase origin main
+            git push
+          fi
