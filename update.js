@@ -44,19 +44,24 @@ async function main() {
     const dateRangeStr = `dal ${formatD(firstDay)} al ${formatD(lastDay)}`;
 
     const promptText = `
-Objective: Research current and upcoming movie and TV show releases in Italy strictly ${dateRangeStr}.
-You must find at least 8-10 distinct titles for EACH of these 5 platforms: Netflix, Amazon Prime Video, Disney+, Cinema in Italia, Discovery+.
+Objective: Research real, confirmed movie and TV show releases in Italy strictly ${dateRangeStr}.
+CRITICAL RULES:
+1. For "Cinema in Italia", ONLY include true new theatrical releases (prime visioni). NO old movies from past years (e.g. absolutely no "The Revenant").
+2. For streaming, ONLY include new additions confirmed for this period.
+3. Do NOT invent dates, titles, or platforms. If you can't find 8 real titles for a platform, return fewer. Real accuracy is more important than quantity.
+4. You MUST provide the exact release day. If absolutely unknown, estimate the 1st of the month.
 
-You must output ONLY a valid JSON array of objects containing ALL titles. Do not use markdown blocks, just the raw JSON array.
+You must output ONLY a valid JSON array of objects. Do not use markdown blocks, just the raw JSON array.
 
 Format strictly:
 [
   {
-    "title": "Titolo film/serie in italiano",
+    "title": "Titolo in italiano",
     "type": "movie oppure tv",
     "platform": "Nome esatto della piattaforma tra le 5 indicate",
-    "date": "Data di uscita in Italia (es. Marzo 2026)",
-    "description": "Breve sinossi in italiano"
+    "releaseDate": "YYYY-MM-DD",
+    "displayDate": "Giorno Mese Anno (es. 15 Marzo 2026)",
+    "description": "Breve sinossi"
   }
 ]`;
 
@@ -69,7 +74,7 @@ Format strictly:
         body: JSON.stringify({
             contents: [{ parts: [{ text: promptText }] }],
             tools: [{ googleSearch: {} }],
-            generationConfig: { temperature: 0.2 }
+            generationConfig: { temperature: 0.1 } // Abbassato per ridurre le allucinazioni
         })
     });
 
@@ -95,6 +100,9 @@ Format strictly:
         console.error("Errore nel parsing del JSON di Gemini:", rawText);
         process.exit(1);
     }
+    
+    // Ordiniamo cronologicamente in base alla nuova data standardizzata YYYY-MM-DD
+    allItems.sort((a, b) => new Date(a.releaseDate || '2099-12-31') - new Date(b.releaseDate || '2099-12-31'));
 
     if(TMDB_API_KEY) {
         console.log("Recupero locandine ufficiali da TMDB...");
