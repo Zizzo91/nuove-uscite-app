@@ -47,7 +47,7 @@
         
         .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 25px; }
         
-        /* Modifiche Card per supportare Immagini e Badge */
+        /* Modifiche Card senza immagine (più compatte) */
         .card { background: var(--card-bg); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); border-top: 4px solid var(--highlight); display: flex; flex-direction: column; position: relative; overflow: hidden;}
         .card.netflix { border-color: var(--netflix); }
         .card.prime { border-color: var(--prime); }
@@ -55,8 +55,7 @@
         .card.discovery { border-color: var(--discovery); }
         .card.cinema { border-color: var(--cinema); }
         
-        .card .poster { width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; background: #2a2a2a; }
-        .card .badge { position: absolute; top: 30px; left: 30px; background: rgba(0,0,0,0.8); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; border: 1px solid var(--highlight); backdrop-filter: blur(4px); }
+        .card .badge { display: inline-block; align-self: flex-start; background: rgba(0,0,0,0.8); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; border: 1px solid var(--highlight); margin-bottom: 12px; }
         .card h3 { margin-top: 0; font-size: 1.3rem; margin-bottom: 8px; line-height: 1.2; }
         .card .date { color: #a0aec0; font-size: 0.9rem; margin-bottom: 15px; display: block;}
         .card .description { line-height: 1.5; font-size: 0.95rem; flex-grow: 1; }
@@ -86,7 +85,7 @@
 
     <header>
         <h1>Nuove Uscite: Cinema e Streaming</h1>
-        <p>Le ultime novità in Italia con Locandine e Filtri Interattivi</p>
+        <p>Le ultime novità in Italia con Filtri Interattivi</p>
         <div id="last-update-text">Ultimo aggiornamento database: Mai</div>
         
         <div class="action-buttons">
@@ -255,7 +254,7 @@
             const payloadData = { date: now, data: dataArray };
             const contentBase64 = utf8ToBase64(JSON.stringify(payloadData));
 
-            const body = { message: `Aggiornamento dati JSON (Singola Chiamata AI) ${now}`, content: contentBase64 };
+            const body = { message: `Aggiornamento dati JSON (Rimozione locandine) ${now}`, content: contentBase64 };
             if (sha && sha !== "undefined" && sha !== "null") body.sha = sha; 
 
             const headers = new Headers();
@@ -287,8 +286,7 @@ Format strictly:
     "type": "movie oppure tv",
     "platform": "Nome esatto della piattaforma (es. Netflix, Disney+, ecc.)",
     "date": "Data di uscita in Italia",
-    "description": "Breve sinossi in italiano",
-    "posterUrl": "Cerca su web l'URL di un'immagine (jpg/png) della locandina del film/serie. Se non la trovi in modo sicuro, lascia una stringa vuota."
+    "description": "Breve sinossi in italiano"
   },
   ... (include results for all 5 platforms in this one single array)
 ]`;
@@ -452,12 +450,6 @@ Format strictly:
             const pClass = platConfig.className;
             
             const title = String(item.title || 'Titolo Sconosciuto');
-            const cleanTitle = encodeURIComponent(title);
-            const fallbackImg = `https://via.placeholder.com/300x450/16213e/e2e8f0?text=${cleanTitle}`;
-            
-            const posterUrl = String(item.posterUrl || '');
-            const imgSrc = (posterUrl.length > 5 && posterUrl.startsWith('http')) ? posterUrl : fallbackImg;
-            
             const typeStr = String(item.type || '').toLowerCase();
             const isMovie = typeStr.includes('movie') || typeStr.includes('film');
             const typeBadge = isMovie ? '🎬 Film' : '📺 Serie TV';
@@ -468,7 +460,6 @@ Format strictly:
 
             return `
                 <div class="card ${pClass}">
-                    <img src="${imgSrc}" onerror="this.onerror=null; this.src='${fallbackImg}';" class="poster" alt="Locandina ${title}">
                     <div class="badge">${typeBadge}</div>
                     <h3>${title}</h3>
                     <span class="date">${date}</span>
