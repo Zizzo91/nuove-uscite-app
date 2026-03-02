@@ -34,12 +34,12 @@ async function main() {
     
     const promptText = `
 Objective: Research the current actual "Top 10 Most Viewed" (I più visti) movies and TV shows in Italy right now, today.
-You must find exactly 10 distinct titles for Netflix Italy and 10 distinct titles for Amazon Prime Video Italy.
+You must find exactly 10 distinct titles for Netflix Italy, 10 distinct titles for Amazon Prime Video Italy, and 10 distinct titles for Sky (incl. NOW) in Italy.
 
 CRITICAL RULES:
-1. ONLY return data for Netflix and Amazon Prime Video.
+1. ONLY return data for Netflix, Amazon Prime Video, and Sky.
 2. Mix movies and TV shows as they appear in the real top 10 trends.
-3. DO NOT hallucinate platforms. A Netflix Original like "One Piece" or "Stranger Things" CANNOT be on Amazon Prime Video. Double-check the actual platform ownership before assigning.
+3. DO NOT hallucinate platforms. A Netflix Original like "One Piece" or "Stranger Things" CANNOT be on Amazon Prime Video or Sky. Double-check the actual platform ownership before assigning.
 4. You must output ONLY a valid JSON array of objects. Do not use markdown blocks, just the raw JSON array.
 
 Format strictly:
@@ -47,7 +47,7 @@ Format strictly:
   {
     "title": "Titolo in italiano",
     "type": "movie oppure tv",
-    "platform": "Netflix oppure Amazon Prime Video",
+    "platform": "Netflix, Amazon Prime Video oppure Sky",
     "rank": "Numero da 1 a 10 (la posizione in classifica)",
     "description": "Breve sinossi o motivazione del perché è in top 10"
   }
