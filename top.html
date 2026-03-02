@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <style>
-        :root { --bg-color: #1a1a2e; --card-bg: #16213e; --text-color: #e2e8f0; --accent-color: #0f3460; --highlight: #e94560; --netflix: #e50914; --prime: #00a8e1; }
+        :root { --bg-color: #1a1a2e; --card-bg: #16213e; --text-color: #e2e8f0; --accent-color: #0f3460; --highlight: #e94560; --netflix: #e50914; --prime: #00a8e1; --sky: #0072c9; }
         body { font-family: 'Roboto', sans-serif; background-color: var(--bg-color); color: var(--text-color); margin: 0; padding: 0; min-height: 100vh; display: flex; flex-direction: column; }
         h1, h2, h3 { font-family: 'Montserrat', sans-serif; }
         
@@ -43,6 +43,7 @@
         .card { background: var(--card-bg); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); border-top: 4px solid var(--highlight); display: flex; flex-direction: column; position: relative; overflow: hidden;}
         .card.netflix { border-color: var(--netflix); }
         .card.prime { border-color: var(--prime); }
+        .card.sky { border-color: var(--sky); }
         
         .card .poster { width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; background: #2a2a2a; }
         
@@ -50,6 +51,7 @@
         .card .rank-badge { position: absolute; top: -10px; left: -10px; background: var(--highlight); color: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; font-weight: bold; font-family: 'Montserrat'; z-index: 10; box-shadow: 2px 2px 10px rgba(0,0,0,0.5); border: 4px solid var(--card-bg);}
         .card.netflix .rank-badge { background: var(--netflix); }
         .card.prime .rank-badge { background: var(--prime); }
+        .card.sky .rank-badge { background: var(--sky); }
 
         .card .badge { position: absolute; top: 15px; right: 15px; background: rgba(0,0,0,0.8); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; border: 1px solid var(--highlight); backdrop-filter: blur(4px); }
         
@@ -72,7 +74,7 @@
     <header>
         <a href="./" class="nav-button"><i class="fa-solid fa-arrow-left"></i> Torna alle Nuove Uscite</a>
         <h1>Classifiche: I Più Visti</h1>
-        <p>Le Top 10 attuali di Netflix e Amazon Prime Video in Italia</p>
+        <p>Le Top 10 attuali di Netflix, Prime Video e Sky in Italia</p>
         <div id="last-update-text">Ultimo aggiornamento database: Ricerca in corso...</div>
         
         <div class="filters-container" id="filters">
@@ -81,6 +83,7 @@
                 <option value="all">🌍 Tutte le Piattaforme</option>
                 <option value="netflix">Netflix</option>
                 <option value="prime">Amazon Prime Video</option>
+                <option value="sky">Sky (incl. NOW)</option>
             </select>
             
             <!-- Filtro Tipologia -->
@@ -105,10 +108,14 @@
     <script>
         let currentData = [];
 
+        // L'ordine in cui verranno stampate le sezioni Top 10
+        const ORDERED_PLATFORMS = ["Netflix", "Amazon Prime Video", "Sky"];
+
         // --- SISTEMA DI MAPPATURA ICONE E PIATTAFORME ---
         const PLATFORM_CONFIG = {
             "netflix": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix" style="height: 20px; object-fit: contain;">', className: 'netflix' },
             "prime": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" alt="Prime Video" style="height: 20px; object-fit: contain; filter: brightness(0) invert(1);">', className: 'prime' },
+            "sky": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Sky_Logo_2020.svg" alt="Sky" style="height: 22px; object-fit: contain;">', className: 'sky' },
             "default": { iconHtml: '<i class="fa-solid fa-tv"></i>', className: 'prime' }
         };
 
@@ -116,6 +123,7 @@
             const name = String(platformName).toLowerCase();
             if (name.includes('netflix')) return PLATFORM_CONFIG.netflix;
             if (name.includes('prime') || name.includes('amazon')) return PLATFORM_CONFIG.prime;
+            if (name.includes('sky') || name.includes('now')) return PLATFORM_CONFIG.sky;
             return PLATFORM_CONFIG.default;
         }
         // ---------------------------------
@@ -179,6 +187,7 @@
                 if (filterPlatform !== 'all') {
                     if (filterPlatform === 'netflix') matchPlatform = itemPlatform.includes('netflix');
                     else if (filterPlatform === 'prime') matchPlatform = (itemPlatform.includes('prime') || itemPlatform.includes('amazon'));
+                    else if (filterPlatform === 'sky') matchPlatform = (itemPlatform.includes('sky') || itemPlatform.includes('now'));
                 }
 
                 return matchType && matchPlatform;
@@ -193,6 +202,13 @@
             
             // Nella pagina Classifiche raggruppiamo SEMPRE per piattaforma per far vedere bene la Top 10
             const availablePlatforms = [...new Set(filteredData.map(item => item.platform))];
+
+            // Ordina le sezioni seguendo l'ordine predefinito (Netflix, Prime, Sky)
+            availablePlatforms.sort((a, b) => {
+                const idxA = ORDERED_PLATFORMS.findIndex(p => a.toLowerCase().includes(p.toLowerCase()));
+                const idxB = ORDERED_PLATFORMS.findIndex(p => b.toLowerCase().includes(p.toLowerCase()));
+                return (idxA === -1 ? 99 : idxA) - (idxB === -1 ? 99 : idxB);
+            });
 
             availablePlatforms.forEach(plat => {
                 const platConfig = getPlatformConfig(plat);
