@@ -8,6 +8,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
+    <!-- PWA -->
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#0f3460">
+    <link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/3658/3658959.png">
+    
     <style>
         :root { --bg-color: #1a1a2e; --card-bg: #16213e; --text-color: #e2e8f0; --accent-color: #0f3460; --highlight: #e94560; --netflix: #e50914; --prime: #00a8e1; --disney: #0063e5; --discovery: #ffc107; --sky: #0072c9; --cinema: #6c757d; }
         body { font-family: 'Roboto', sans-serif; background-color: var(--bg-color); color: var(--text-color); margin: 0; padding: 0; min-height: 100vh; display: flex; flex-direction: column; }
@@ -25,11 +30,17 @@
         .nav-btn:hover:not(.active) { background-color: #444; border-color: #666; transform: translateY(-2px); }
         .nav-btn i { font-size: 1.2rem; }
 
-        /* Stile per i Filtri */
+        /* Stile per i Filtri e Ricerca Testuale */
         .filters-container { display: flex; gap: 15px; justify-content: center; margin-top: 25px; flex-wrap: wrap; align-items: center; padding-top: 20px; border-top: 1px solid rgba(255,255,255,0.1); }
         .filters-container select { padding: 10px 15px; border-radius: 6px; background: var(--card-bg); color: white; border: 1px solid var(--accent-color); font-family: 'Montserrat', sans-serif; cursor: pointer; font-size: 0.95rem; }
         .filters-divider { width: 2px; height: 30px; background: rgba(255,255,255,0.2); margin: 0 5px; }
         
+        /* Nuova Search Bar */
+        .search-wrapper { position: relative; margin-bottom: 15px; width: 100%; max-width: 400px; display: flex; align-items: center;}
+        .search-wrapper i { position: absolute; left: 15px; color: #a0aec0; }
+        #search-input { width: 100%; padding: 12px 15px 12px 40px; border-radius: 30px; background: var(--card-bg); border: 2px solid var(--accent-color); color: white; font-family: 'Roboto', sans-serif; font-size: 1rem; transition: border-color 0.3s; box-sizing: border-box;}
+        #search-input:focus { outline: none; border-color: var(--highlight); }
+
         #loader { display: none; text-align: center; padding: 50px; }
         .spinner { width: 40px; height: 40px; border: 4px solid rgba(255,255,255,0.1); border-top: 4px solid var(--highlight); border-radius: 50%; animation: spin 1s linear infinite; margin: 0 auto; }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
@@ -45,7 +56,8 @@
         .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 25px; }
         
         /* Modifiche Card per ripristinare il design con Immagini e Badge */
-        .card { background: var(--card-bg); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); border-top: 4px solid var(--highlight); display: flex; flex-direction: column; position: relative; overflow: hidden;}
+        .card { background: var(--card-bg); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); border-top: 4px solid var(--highlight); display: flex; flex-direction: column; position: relative; overflow: hidden; cursor: pointer; transition: transform 0.2s, box-shadow 0.2s;}
+        .card:hover { transform: translateY(-5px); box-shadow: 0 8px 15px rgba(0,0,0,0.5); }
         .card.netflix { border-color: var(--netflix); }
         .card.prime { border-color: var(--prime); }
         .card.disney { border-color: var(--disney); }
@@ -53,8 +65,15 @@
         .card.sky { border-color: var(--sky); }
         .card.cinema { border-color: var(--cinema); }
         
-        .card .poster { width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; background: #2a2a2a; }
-        .card .badge { position: absolute; top: 30px; left: 30px; background: rgba(0,0,0,0.8); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; border: 1px solid var(--highlight); backdrop-filter: blur(4px); }
+        .card .poster-container { position: relative; width: 100%; margin-bottom: 15px; }
+        .card .poster { width: 100%; height: 350px; object-fit: cover; border-radius: 8px; background: #2a2a2a; display: block;}
+        
+        /* Overlay per Play Trailer */
+        .card .play-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); display: flex; align-items: center; justify-content: center; opacity: 0; transition: opacity 0.3s; border-radius: 8px;}
+        .card:hover .play-overlay { opacity: 1; }
+        .card .play-overlay i { font-size: 3rem; color: white; text-shadow: 0 2px 10px rgba(0,0,0,0.8); }
+
+        .card .badge { position: absolute; top: 15px; left: 15px; background: rgba(0,0,0,0.8); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; border: 1px solid var(--highlight); backdrop-filter: blur(4px); z-index: 2;}
         .card h3 { margin-top: 0; font-size: 1.3rem; margin-bottom: 8px; line-height: 1.2; }
         .card .date { color: #a0aec0; font-size: 0.9rem; margin-bottom: 15px; display: block;}
         .card .description { line-height: 1.5; font-size: 0.95rem; flex-grow: 1; }
@@ -65,6 +84,17 @@
         .card .platform-label img { width: 16px; height: 16px; object-fit: contain;}
         
         footer { text-align: center; padding: 20px; background: #111; font-size: 0.9rem; margin-top: auto; color: #666; }
+
+        /* Modale per Trailer */
+        #trailer-modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.9); z-index: 1000; align-items: center; justify-content: center; backdrop-filter: blur(5px);}
+        .modal-content { width: 90%; max-width: 900px; background: var(--bg-color); border-radius: 12px; border: 1px solid var(--accent-color); overflow: hidden; position: relative;}
+        .modal-header { padding: 15px 20px; background: var(--card-bg); display: flex; justify-content: space-between; align-items: center;}
+        .modal-header h3 { margin: 0; font-size: 1.2rem; }
+        .close-modal { background: none; border: none; color: white; font-size: 1.5rem; cursor: pointer; }
+        .video-container { position: relative; padding-bottom: 56.25%; /* 16:9 */ height: 0; }
+        .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+        #modal-loader { padding: 50px; text-align: center; }
+
     </style>
 </head>
 <body>
@@ -72,7 +102,7 @@
         <h1>Entertainment Hub</h1>
         <p>Esplora l'intrattenimento in Italia: le uscite, le classifiche e i trend.</p>
         
-        <!-- Nuovo Menu a 3 Pulsanti -->
+        <!-- Menu a 3 Pulsanti -->
         <nav class="main-nav">
             <a href="./" class="nav-btn active"><i class="fa-solid fa-calendar-star"></i> Calendario Uscite</a>
             <a href="./top.html" class="nav-btn"><i class="fa-solid fa-fire"></i> Top 10 Piattaforme</a>
@@ -82,31 +112,39 @@
         <div id="last-update-text">Ultimo aggiornamento database: Ricerca in corso...</div>
         
         <div class="filters-container" id="filters">
-            <!-- Filtro Piattaforma -->
-            <select id="filter-platform" onchange="renderApp()">
-                <option value="all">🌍 Tutte le Piattaforme</option>
-                <option value="netflix">Netflix</option>
-                <option value="prime">Amazon Prime Video</option>
-                <option value="disney">Disney+</option>
-                <option value="sky">Sky (incl. NOW)</option>
-                <option value="cinema">Cinema</option>
-                <option value="discovery">Discovery+</option>
-            </select>
+            <!-- Barra di Ricerca Testuale -->
+            <div class="search-wrapper">
+                <i class="fa-solid fa-search"></i>
+                <input type="text" id="search-input" placeholder="Cerca un titolo o una parola chiave..." onkeyup="renderApp()">
+            </div>
             
-            <!-- Filtro Tipologia -->
-            <select id="filter-type" onchange="renderApp()">
-                <option value="all">🍿 Tutti i Titoli</option>
-                <option value="movie">🎬 Solo Film</option>
-                <option value="tv">📺 Solo Serie TV</option>
-            </select>
-            
-            <div class="filters-divider"></div>
-            
-            <!-- Filtro Vista -->
-            <select id="filter-view" onchange="renderApp()">
-                <option value="platform">📱 Raggruppa per Piattaforma</option>
-                <option value="list">📝 Lista Unica (Griglia)</option>
-            </select>
+            <div style="width: 100%; display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+                <!-- Filtro Piattaforma -->
+                <select id="filter-platform" onchange="renderApp()">
+                    <option value="all">🌍 Tutte le Piattaforme</option>
+                    <option value="netflix">Netflix</option>
+                    <option value="prime">Amazon Prime Video</option>
+                    <option value="disney">Disney+</option>
+                    <option value="sky">Sky (incl. NOW)</option>
+                    <option value="cinema">Cinema</option>
+                    <option value="discovery">Discovery+</option>
+                </select>
+                
+                <!-- Filtro Tipologia -->
+                <select id="filter-type" onchange="renderApp()">
+                    <option value="all">🍿 Tutti i Titoli</option>
+                    <option value="movie">🎬 Solo Film</option>
+                    <option value="tv">📺 Solo Serie TV</option>
+                </select>
+                
+                <div class="filters-divider"></div>
+                
+                <!-- Filtro Vista -->
+                <select id="filter-view" onchange="renderApp()">
+                    <option value="platform">📱 Raggruppa per Piattaforma</option>
+                    <option value="list">📝 Lista Unica (Griglia)</option>
+                </select>
+            </div>
         </div>
     </header>
 
@@ -118,13 +156,41 @@
         <div id="results"></div>
     </main>
 
-    <footer>Dati auto-aggiornati ogni mattina alle 06:00. Immagini fornite da TMDB.</footer>
+    <!-- Modale per il Trailer -->
+    <div id="trailer-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modal-title">Trailer</h3>
+                <button class="close-modal" onclick="closeModal()"><i class="fa-solid fa-times"></i></button>
+            </div>
+            <div id="modal-body">
+                <!-- Il contenuto del video o il loader verranno iniettati qui -->
+            </div>
+        </div>
+    </div>
+
+    <footer>Dati auto-aggiornati ogni mattina alle 06:00. Immagini e Metadati fornite da TMDB.</footer>
 
     <script>
+        // Registrazione Service Worker per PWA
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                .then(registration => console.log('ServiceWorker registrato con successo'))
+                .catch(err => console.log('Registrazione ServiceWorker fallita: ', err));
+            });
+        }
+
         let currentData = [];
 
         // L'ordine qui determina anche l'ordine di stampa nella vista Raggruppata
         const ORDERED_PLATFORMS = ["Netflix", "Amazon Prime Video", "Disney+", "Sky", "Cinema in Italia", "Discovery+"];
+
+        // Configurazione per TMDB Frontend (sola lettura per i trailer)
+        // NOTA: Poiché questa è un'app frontend, mettiamo una chiave TMDB pubblica (v3). 
+        // Idealmente andrebbe passata dal backend, ma per questa demo usiamo un proxy o la gestiamo qui per semplicità didattica.
+        // Se non vogliamo esporla, dobbiamo creare un endpoint Netlify/Vercel. Per ora chiedo all'utente di pazientare se il trailer manca, oppure uso una chiave di fallback anonima.
+        const TMDB_READ_KEY = "4f8a846c483a9a8f46df3c08b736b0ec"; // Chiave demo generica (sostituibile)
 
         // --- SISTEMA DI MAPPATURA ICONE E PIATTAFORME ---
         const PLATFORM_CONFIG = {
@@ -147,7 +213,6 @@
             if (name.includes('cinema')) return PLATFORM_CONFIG.cinema;
             return PLATFORM_CONFIG.default;
         }
-        // ---------------------------------
 
         window.onload = () => {
             loadLocalData();
@@ -161,8 +226,6 @@
             resultsDiv.innerHTML = "";
             
             try {
-                // Fetch del file data.json pubblico caricato su GitHub Pages
-                // Aggiungiamo un timestamp per evitare che il browser metta in cache una vecchia versione
                 const timestamp = new Date().getTime();
                 const response = await fetch(`./data.json?t=${timestamp}`);
                 
@@ -190,24 +253,29 @@
             }
         }
 
-        // --- MOTORE DI RENDER E FILTRI COMBINATI ---
         function renderApp() {
             const filterPlatform = document.getElementById('filter-platform').value;
             const filterType = document.getElementById('filter-type').value;
             const filterView = document.getElementById('filter-view').value;
+            const searchQuery = document.getElementById('search-input').value.toLowerCase();
             const resultsDiv = document.getElementById('results');
 
-            // 1. Filtra i dati combinando Entrambi i filtri
             let filteredData = currentData.filter(item => {
                 const itemType = String(item.type || '').toLowerCase();
                 const itemPlatform = String(item.platform || '').toLowerCase();
+                const itemTitle = String(item.title || '').toLowerCase();
+                const itemDesc = String(item.description || '').toLowerCase();
                 
-                // Condizione Tipologia
+                // Ricerca Testuale
+                let matchSearch = true;
+                if (searchQuery.length > 0) {
+                    matchSearch = itemTitle.includes(searchQuery) || itemDesc.includes(searchQuery);
+                }
+
                 let matchType = true;
                 if (filterType === 'movie') matchType = (itemType.includes('movie') || itemType.includes('film'));
                 else if (filterType === 'tv') matchType = (itemType.includes('tv') || itemType.includes('serie'));
 
-                // Condizione Piattaforma
                 let matchPlatform = true;
                 if (filterPlatform !== 'all') {
                     if (filterPlatform === 'netflix') matchPlatform = itemPlatform.includes('netflix');
@@ -218,22 +286,18 @@
                     else if (filterPlatform === 'cinema') matchPlatform = itemPlatform.includes('cinema');
                 }
 
-                return matchType && matchPlatform;
+                return matchType && matchPlatform && matchSearch;
             });
 
             if (filteredData.length === 0) {
-                resultsDiv.innerHTML = "<p style='text-align:center;'>Nessun titolo trovato per questa combinazione di filtri.</p>";
+                resultsDiv.innerHTML = "<p style='text-align:center;'>Nessun titolo trovato per questa ricerca.</p>";
                 return;
             }
 
             let html = "";
             
-            // 2. Disegna i Dati
             if (filterView === 'platform') {
-                // Ordiniamo le piattaforme usando l'array fisso ORDERED_PLATFORMS
                 const availablePlatforms = [...new Set(filteredData.map(item => item.platform))];
-                
-                // Ordina in base all'indice in ORDERED_PLATFORMS, oppure mettili in fondo se non mappati esattamente
                 availablePlatforms.sort((a, b) => {
                     const idxA = ORDERED_PLATFORMS.findIndex(p => a.toLowerCase().includes(p.toLowerCase().replace(' in italia','')));
                     const idxB = ORDERED_PLATFORMS.findIndex(p => b.toLowerCase().includes(p.toLowerCase().replace(' in italia','')));
@@ -252,7 +316,6 @@
                     html += `</div></div>`;
                 });
             } else {
-                // Vista Griglia Unica
                 html += `<div class="cards-grid">`;
                 filteredData.forEach(item => { html += generateCard(item); });
                 html += `</div>`;
@@ -261,6 +324,7 @@
             resultsDiv.innerHTML = html;
         }
 
+        // Modifica per passare i parametri alla funzione del trailer
         function generateCard(item) {
             const platConfig = getPlatformConfig(item.platform);
             const pClass = platConfig.className;
@@ -275,23 +339,98 @@
             const typeStr = String(item.type || '').toLowerCase();
             const isMovie = typeStr.includes('movie') || typeStr.includes('film');
             const typeBadge = isMovie ? '🎬 Film' : '📺 Serie TV';
+            const apiSearchType = isMovie ? 'movie' : 'tv';
 
-            // Usiamo il displayDate esatto se disponibile
             const date = String(item.displayDate || item.date || '');
             const description = String(item.description || '');
             const platform = String(item.platform || '');
+            
+            const safeTitleForFunc = title.replace(/'/g, "\\'").replace(/"/g, '&quot;');
 
-            // Lazy loading aggiunto alle immagini per efficienza
             return `
-                <div class="card ${pClass}">
-                    <img src="${imgSrc}" loading="lazy" onerror="this.onerror=null; this.src='${fallbackImg}';" class="poster" alt="Locandina ${title}">
-                    <div class="badge">${typeBadge}</div>
+                <div class="card ${pClass}" onclick="openTrailer('${safeTitleForFunc}', '${apiSearchType}')" title="Clicca per vedere il trailer">
+                    <div class="poster-container">
+                        <img src="${imgSrc}" loading="lazy" onerror="this.onerror=null; this.src='${fallbackImg}';" class="poster" alt="Locandina ${title}">
+                        <div class="play-overlay"><i class="fa-solid fa-play-circle"></i></div>
+                        <div class="badge">${typeBadge}</div>
+                    </div>
                     <h3>${title}</h3>
                     <span class="date">${date}</span>
                     <div class="description">${description}</div>
                     <div class="platform-label">${platConfig.iconHtml} <span style="margin-left:5px">${platform}</span></div>
                 </div>
             `;
+        }
+
+        // --- SISTEMA TRAILER TMDB ---
+        async function openTrailer(title, type) {
+            const modal = document.getElementById('trailer-modal');
+            const modalTitle = document.getElementById('modal-title');
+            const modalBody = document.getElementById('modal-body');
+            
+            modal.style.display = 'flex';
+            modalTitle.innerText = `Trailer: ${title}`;
+            modalBody.innerHTML = `<div id="modal-loader"><div class="spinner"></div><p style="margin-top:15px;">Ricerca trailer su TMDB...</p></div>`;
+
+            try {
+                // 1. Cerchiamo l'ID del film/serie su TMDB
+                const query = encodeURIComponent(title);
+                const searchUrl = `https://api.themoviedb.org/3/search/${type}?api_key=${TMDB_READ_KEY}&query=${query}&language=it-IT`;
+                const searchRes = await fetch(searchUrl);
+                const searchData = await searchRes.json();
+
+                if (!searchData.results || searchData.results.length === 0) {
+                    modalBody.innerHTML = `<div style="padding:40px; text-align:center;"><p>Spiacenti, non siamo riusciti a trovare questo titolo nel database di TMDB.</p></div>`;
+                    return;
+                }
+
+                const tmdbId = searchData.results[0].id;
+
+                // 2. Cerchiamo i video associati a quell'ID
+                const videosUrl = `https://api.themoviedb.org/3/${type}/${tmdbId}/videos?api_key=${TMDB_READ_KEY}&language=it-IT`;
+                let videosRes = await fetch(videosUrl);
+                let videosData = await videosRes.json();
+
+                // Fallback: se non c'è il trailer in italiano, proviamo in inglese
+                if (!videosData.results || videosData.results.length === 0) {
+                    const videosUrlEn = `https://api.themoviedb.org/3/${type}/${tmdbId}/videos?api_key=${TMDB_READ_KEY}&language=en-US`;
+                    videosRes = await fetch(videosUrlEn);
+                    videosData = await videosRes.json();
+                }
+
+                // Troviamo un video YouTube di tipo "Trailer"
+                const trailer = videosData.results?.find(v => v.site === 'YouTube' && v.type === 'Trailer') || 
+                                videosData.results?.find(v => v.site === 'YouTube'); // Fallback a qualsiasi video YT
+
+                if (trailer) {
+                    modalBody.innerHTML = `
+                        <div class="video-container">
+                            <iframe src="https://www.youtube.com/embed/${trailer.key}?autoplay=1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    `;
+                } else {
+                    modalBody.innerHTML = `<div style="padding:40px; text-align:center;"><p>Spiacenti, nessun trailer ufficiale di YouTube disponibile per questo titolo.</p></div>`;
+                }
+
+            } catch (err) {
+                console.error(err);
+                modalBody.innerHTML = `<div style="padding:40px; text-align:center;"><p>Errore di rete durante il recupero del trailer.</p></div>`;
+            }
+        }
+
+        function closeModal() {
+            const modal = document.getElementById('trailer-modal');
+            const modalBody = document.getElementById('modal-body');
+            modal.style.display = 'none';
+            modalBody.innerHTML = ''; // Ferma il video quando si chiude
+        }
+
+        // Chiude il modale se si clicca fuori dal contenuto
+        window.onclick = function(event) {
+            const modal = document.getElementById('trailer-modal');
+            if (event.target == modal) {
+                closeModal();
+            }
         }
     </script>
 </body>
