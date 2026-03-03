@@ -1,0 +1,40 @@
+name: Daily Target Generations Update
+
+on:
+  schedule:
+    # 09:00 UTC corrisponde alle 10:00 CET (o 11:00 CEST)
+    # L'aggiornamento sfalsato di due ore evita colli di bottiglia e limiti API
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Permette anche di avviarlo a mano dal tab "Actions"
+
+jobs:
+  update-target-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run target generations script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node target.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add target.json
+          # Esegue il commit solo se ci sono stati dei cambiamenti
+          if ! git diff --quiet || ! git diff --staged --quiet; then
+            git commit -m "Aggiornamento automatico Trend Generazionali ore 10:00"
+            git pull --rebase origin main
+            git push
+          fi
