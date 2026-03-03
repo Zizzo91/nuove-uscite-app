@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entertainment Hub - Trend Generazionali</title>
+    <!-- Font moderni e Icone FontAwesome -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        :root { --bg-color: #1a1a2e; --card-bg: #16213e; --text-color: #e2e8f0; --accent-color: #0f3460; --highlight: #e94560; --genz: #9c27b0; --millennials: #009688; }
+        body { font-family: 'Roboto', sans-serif; background-color: var(--bg-color); color: var(--text-color); margin: 0; padding: 0; min-height: 100vh; display: flex; flex-direction: column; }
+        h1, h2, h3 { font-family: 'Montserrat', sans-serif; }
+        
+        header { text-align: center; padding: 40px 20px; background: linear-gradient(180deg, var(--accent-color) 0%, transparent 100%); position: relative; }
+        header h1 { font-size: 2.5rem; margin-bottom: 10px; }
+        header p { font-size: 1.2rem; color: #a0aec0; margin-bottom: 5px; }
+        #last-update-text { font-size: 0.9rem; color: #888; font-style: italic; margin-bottom: 20px; }
+        
+        .nav-button { position: absolute; top: 20px; left: 20px; background-color: #333; color: white; border: none; padding: 10px 20px; font-size: 0.9rem; border-radius: 30px; cursor: pointer; font-family: 'Montserrat', sans-serif; text-decoration: none; display: flex; align-items: center; gap: 8px; transition: background 0.2s;}
+        .nav-button:hover { background-color: #555; }
+
+        /* Stile per i Filtri */
+        .filters-container { display: flex; gap: 15px; justify-content: center; margin-top: 25px; flex-wrap: wrap; align-items: center;}
+        .filters-container select { padding: 10px 15px; border-radius: 6px; background: var(--card-bg); color: white; border: 1px solid var(--accent-color); font-family: 'Montserrat', sans-serif; cursor: pointer; font-size: 0.95rem; }
+        
+        #loader { display: none; text-align: center; padding: 50px; }
+        .spinner { width: 40px; height: 40px; border: 4px solid rgba(255,255,255,0.1); border-top: 4px solid var(--highlight); border-radius: 50%; animation: spin 1s linear infinite; margin: 0 auto; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        
+        main { flex: 1; padding: 20px; max-width: 1400px; margin: 0 auto; width: 100%; box-sizing: border-box; }
+        #results { display: grid; gap: 40px; }
+        
+        /* Modifiche per le icone negli Header di Sezione */
+        .platform-section { margin-bottom: 20px; }
+        .platform-header { font-size: 1.8rem; margin-bottom: 20px; padding-bottom: 10px; border-bottom: 2px solid #333; display: flex; align-items: center; gap: 12px; }
+        .platform-header i { font-size: 1.8rem; width: 35px; text-align: center;}
+        
+        .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 25px; }
+        
+        /* Modifiche Card per ripristinare il design con Immagini e Badge, con rank speciale per Top 10 */
+        .card { background: var(--card-bg); border-radius: 12px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); border-top: 4px solid var(--highlight); display: flex; flex-direction: column; position: relative; overflow: hidden;}
+        .card.genz { border-color: var(--genz); }
+        .card.millennials { border-color: var(--millennials); }
+        
+        .card .poster { width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; background: #2a2a2a; }
+        
+        /* Stile numero in classifica */
+        .card .rank-badge { position: absolute; top: -10px; left: -10px; background: var(--highlight); color: white; width: 60px; height: 60px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; font-weight: bold; font-family: 'Montserrat'; z-index: 10; box-shadow: 2px 2px 10px rgba(0,0,0,0.5); border: 4px solid var(--card-bg);}
+        .card.genz .rank-badge { background: var(--genz); }
+        .card.millennials .rank-badge { background: var(--millennials); }
+
+        .card .badge { position: absolute; top: 15px; right: 15px; background: rgba(0,0,0,0.8); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; border: 1px solid var(--highlight); backdrop-filter: blur(4px); }
+        
+        .card h3 { margin-top: 10px; font-size: 1.3rem; margin-bottom: 8px; line-height: 1.2; padding-left: 10px; }
+        .card .description { line-height: 1.5; font-size: 0.95rem; flex-grow: 1; padding-left: 10px; color: #ccc;}
+        
+        /* Footer della card con l'icona */
+        .card .platform-label { margin-top: 15px; font-size: 0.8rem; color: #888; font-weight: bold; text-transform: uppercase; text-align: right; display: flex; justify-content: flex-end; align-items: center; gap: 8px;}
+        
+        footer { text-align: center; padding: 20px; background: #111; font-size: 0.9rem; margin-top: auto; color: #666; }
+
+        /* Media query per mobile */
+        @media (max-width: 600px) {
+            .nav-button { position: relative; top: 0; left: 0; display: inline-flex; margin-bottom: 20px; justify-content: center;}
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="./" class="nav-button"><i class="fa-solid fa-arrow-left"></i> Torna alle Nuove Uscite</a>
+        <h1>Trend Generazionali</h1>
+        <p>I 10 contenuti più visti e virali in Italia per target d'età</p>
+        <div id="last-update-text">Ultimo aggiornamento database: Ricerca in corso...</div>
+        
+        <div class="filters-container" id="filters">
+            <!-- Filtro Target -->
+            <select id="filter-target" onchange="renderApp()">
+                <option value="all">👥 Entrambe le Generazioni</option>
+                <option value="gen z">📱 Gen Z (Adolescenti)</option>
+                <option value="millennials">💼 Millennials (30-40 anni)</option>
+            </select>
+            
+            <!-- Filtro Tipologia -->
+            <select id="filter-type" onchange="renderApp()">
+                <option value="all">🍿 Tutti i Titoli</option>
+                <option value="movie">🎬 Solo Film</option>
+                <option value="tv">📺 Solo Serie TV</option>
+            </select>
+        </div>
+    </header>
+
+    <main>
+        <div id="loader">
+            <div class="spinner"></div>
+            <p id="loader-text" style="margin-top: 15px;">Caricamento trend...</p>
+        </div>
+        <div id="results"></div>
+    </main>
+
+    <footer>Dati auto-aggiornati ogni mattina alle 10:00. Immagini fornite da TMDB.</footer>
+
+    <script>
+        let currentData = [];
+
+        // --- SISTEMA DI MAPPATURA ICONE E TARGET ---
+        const TARGET_CONFIG = {
+            "gen z": { iconHtml: '<i class="fa-solid fa-mobile-screen" style="color: #9c27b0;"></i>', className: 'genz' },
+            "millennials": { iconHtml: '<i class="fa-solid fa-briefcase" style="color: #009688;"></i>', className: 'millennials' },
+            "default": { iconHtml: '<i class="fa-solid fa-users"></i>', className: 'genz' }
+        };
+
+        function getTargetConfig(targetName) {
+            const name = String(targetName).toLowerCase();
+            if (name.includes('gen z')) return TARGET_CONFIG["gen z"];
+            if (name.includes('millennials')) return TARGET_CONFIG["millennials"];
+            return TARGET_CONFIG.default;
+        }
+        // ---------------------------------
+
+        window.onload = () => {
+            loadLocalData();
+        };
+
+        async function loadLocalData() {
+            const loader = document.getElementById('loader');
+            const resultsDiv = document.getElementById('results');
+            
+            loader.style.display = "block";
+            resultsDiv.innerHTML = "";
+            
+            try {
+                // Fetch del file target.json pubblico caricato su GitHub Pages
+                const timestamp = new Date().getTime();
+                const response = await fetch(`./target.json?t=${timestamp}`);
+                
+                if (!response.ok) {
+                    throw new Error(`Errore caricamento dati: ${response.status}`);
+                }
+
+                const jsonData = await response.json();
+                
+                currentData = jsonData.data || []; 
+                document.getElementById('last-update-text').innerText = `Ultimo aggiornamento database: ${jsonData.date}`;
+                
+                renderApp(); 
+                
+            } catch (error) {
+                console.error("Errore lettura:", error);
+                document.getElementById('last-update-text').innerText = `Ultimo aggiornamento database: Errore`;
+                resultsDiv.innerHTML = `<p style="color:var(--highlight); text-align:center;">
+                    I Trend non sono ancora stati generati dal server.<br>
+                    Saranno pronti dopo le 10:00 di questa mattina.<br><br>
+                    <a href="./" style="color:white;">Torna alla Home</a>
+                </p>`;
+            } finally {
+                loader.style.display = "none";
+            }
+        }
+
+        // --- MOTORE DI RENDER E FILTRI COMBINATI ---
+        function renderApp() {
+            const filterTarget = document.getElementById('filter-target').value;
+            const filterType = document.getElementById('filter-type').value;
+            const resultsDiv = document.getElementById('results');
+
+            // 1. Filtra i dati
+            let filteredData = currentData.filter(item => {
+                const itemType = String(item.type || '').toLowerCase();
+                const itemTarget = String(item.target || '').toLowerCase();
+                
+                let matchType = true;
+                if (filterType === 'movie') matchType = (itemType.includes('movie') || itemType.includes('film'));
+                else if (filterType === 'tv') matchType = (itemType.includes('tv') || itemType.includes('serie'));
+
+                let matchTarget = true;
+                if (filterTarget !== 'all') {
+                    if (filterTarget === 'gen z') matchTarget = itemTarget.includes('gen z');
+                    else if (filterTarget === 'millennials') matchTarget = itemTarget.includes('millennials');
+                }
+
+                return matchType && matchTarget;
+            });
+
+            if (filteredData.length === 0) {
+                resultsDiv.innerHTML = "<p style='text-align:center;'>Nessun titolo trovato per questa combinazione di filtri.</p>";
+                return;
+            }
+
+            let html = "";
+            
+            // Nella pagina Trend raggruppiamo SEMPRE per Target per far vedere bene le Top 10
+            const availableTargets = [...new Set(filteredData.map(item => item.target))];
+
+            availableTargets.forEach(tgt => {
+                const targetConfig = getTargetConfig(tgt);
+                
+                html += `<div class="platform-section">
+                            <h2 class="platform-header">${targetConfig.iconHtml} Top 10 ${tgt}</h2>
+                            <div class="cards-grid">`;
+                
+                const platItems = filteredData.filter(item => item.target === tgt);
+                // Ci assicuriamo che siano in ordine numerico crescente
+                platItems.sort((a,b) => parseInt(a.rank) - parseInt(b.rank));
+                
+                platItems.forEach(item => { html += generateCard(item); });
+                html += `</div></div>`;
+            });
+
+            resultsDiv.innerHTML = html;
+        }
+
+        function generateCard(item) {
+            const targetConfig = getTargetConfig(item.target);
+            const pClass = targetConfig.className;
+            
+            const title = String(item.title || 'Titolo Sconosciuto');
+            const cleanTitle = encodeURIComponent(title);
+            const fallbackImg = `https://via.placeholder.com/300x450/16213e/e2e8f0?text=${cleanTitle}`;
+            
+            const posterUrl = String(item.posterUrl || '');
+            const imgSrc = (posterUrl.length > 5 && posterUrl.startsWith('http')) ? posterUrl : fallbackImg;
+
+            const typeStr = String(item.type || '').toLowerCase();
+            const isMovie = typeStr.includes('movie') || typeStr.includes('film');
+            const typeBadge = isMovie ? '🎬 Film' : '📺 Serie TV';
+
+            const rank = String(item.rank || '?');
+            const description = String(item.description || '');
+            const platform = String(item.platform || '');
+
+            return `
+                <div class="card ${pClass}">
+                    <div class="rank-badge">${rank}</div>
+                    <img src="${imgSrc}" loading="lazy" onerror="this.onerror=null; this.src='${fallbackImg}';" class="poster" alt="Locandina ${title}">
+                    <div class="badge">${typeBadge}</div>
+                    <h3>${title}</h3>
+                    <div class="description">${description}</div>
+                    <div class="platform-label"><i class="fa-solid fa-play"></i> <span style="margin-left:5px">Disponibile su: <b>${platform}</b></span></div>
+                </div>
+            `;
+        }
+    </script>
+</body>
+</html>
