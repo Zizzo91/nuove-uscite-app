@@ -33,13 +33,12 @@ async function main() {
     }
     
     const promptText = `
-Objective: Act as an expert in pop culture, cinema, and current Italian trends. Research the actual top 10 most popular movies/TV shows in Italy right now among two specific demographic targets.
-You must find exactly 10 distinct titles trending among "Gen Z" (Adolescenti/Teenagers) and exactly 10 distinct titles trending among "Millennials" (Young Adults/30-40yo).
+Objective: You are a pop-culture expert in Italy. Identify the current Top 10 trending movies or TV shows SPECIFICALLY popular among "Gen Z" (born 1997-2012) AND the Top 10 trending SPECIFICALLY among "Millennials" (born 1981-1996) in Italy right now.
 
 CRITICAL RULES:
-1. ONLY return data for the categories "Gen Z" and "Millennials".
-2. You must specify the streaming platform or "Cinema" where the content is currently available in Italy. Do not hallucinate platforms.
-3. Mix movies and TV shows as they appear in real trends.
+1. Provide exactly 10 titles for "Gen Z" and exactly 10 titles for "Millennials".
+2. The trends must be actual current trends (e.g. viral on TikTok for Gen Z, or heavily discussed on X/Instagram for Millennials).
+3. The platform MUST be one of: Netflix, Amazon Prime Video, Disney+, Apple TV+, Sky, Cinema.
 4. You must output ONLY a valid JSON array of objects. Do not use markdown blocks, just the raw JSON array.
 
 Format strictly:
@@ -47,10 +46,10 @@ Format strictly:
   {
     "title": "Titolo in italiano",
     "type": "movie oppure tv",
+    "platform": "Netflix, Amazon Prime Video, Disney+, Apple TV+, Sky oppure Cinema",
     "target": "Gen Z oppure Millennials",
-    "platform": "Es. Netflix, Prime Video, Disney+, Cinema, ecc.",
-    "rank": "Numero da 1 a 10 (posizione in classifica per quel target)",
-    "description": "Breve sinossi e motivazione del perché è virale/popolare per questo target"
+    "rank": "Numero da 1 a 10",
+    "description": "Spiega brevemente PERCHÉ questo titolo è virale o molto amato da questa specifica generazione in questo momento."
   }
 ]`;
 
@@ -63,7 +62,7 @@ Format strictly:
         body: JSON.stringify({
             contents: [{ parts: [{ text: promptText }] }],
             tools: [{ googleSearch: {} }],
-            generationConfig: { temperature: 0.1 }
+            generationConfig: { temperature: 0.2 } 
         })
     });
 
@@ -84,13 +83,12 @@ Format strictly:
     let allItems = [];
     try {
         allItems = JSON.parse(rawText);
-        console.log(`Trovati ${allItems.length} titoli da Gemini per le classifiche generazionali.`);
+        console.log(`Trovati ${allItems.length} titoli da Gemini per i target.`);
     } catch(e) {
         console.error("Errore nel parsing del JSON di Gemini:", rawText);
         process.exit(1);
     }
     
-    // Ordiniamo prima per target e poi per rank (da 1 a 10)
     allItems.sort((a, b) => {
         if (a.target === b.target) {
             return parseInt(a.rank) - parseInt(b.rank);
