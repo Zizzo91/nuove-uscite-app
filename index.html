@@ -186,10 +186,6 @@
         // L'ordine qui determina anche l'ordine di stampa nella vista Raggruppata
         const ORDERED_PLATFORMS = ["Netflix", "Amazon Prime Video", "Disney+", "Sky", "Cinema in Italia", "Discovery+"];
 
-        // Configurazione per TMDB Frontend (sola lettura per i trailer)
-        // NOTA: Poiché questa è un'app frontend, mettiamo una chiave TMDB pubblica (v3). 
-        // Idealmente andrebbe passata dal backend, ma per questa demo usiamo un proxy o la gestiamo qui per semplicità didattica.
-        // Se non vogliamo esporla, dobbiamo creare un endpoint Netlify/Vercel. Per ora chiedo all'utente di pazientare se il trailer manca, oppure uso una chiave di fallback anonima.
         const TMDB_READ_KEY = "4f8a846c483a9a8f46df3c08b736b0ec"; // Chiave demo generica (sostituibile)
 
         // --- SISTEMA DI MAPPATURA ICONE E PIATTAFORME ---
@@ -322,9 +318,12 @@
             }
 
             resultsDiv.innerHTML = html;
+            
+            // Attacchiamo i listener per i click dopo aver renderizzato i componenti HTML
+            attachTrailerListeners();
         }
 
-        // Modifica per passare i parametri alla funzione del trailer
+        // Modifica per passare i parametri alla funzione del trailer tramite data attributes per evitare problemi di escape
         function generateCard(item) {
             const platConfig = getPlatformConfig(item.platform);
             const pClass = platConfig.className;
@@ -345,10 +344,11 @@
             const description = String(item.description || '');
             const platform = String(item.platform || '');
             
-            const safeTitleForFunc = title.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+            // Codifica l'entità HTML per evitare che " e ' spacchino gli attributi data
+            const safeTitleForHtmlAttr = title.replace(/"/g, '&quot;').replace(/'/g, '&#39;');
 
             return `
-                <div class="card ${pClass}" onclick="openTrailer('${safeTitleForFunc}', '${apiSearchType}')" title="Clicca per vedere il trailer">
+                <div class="card trailer-trigger ${pClass}" data-title="${safeTitleForHtmlAttr}" data-type="${apiSearchType}" title="Clicca per vedere il trailer">
                     <div class="poster-container">
                         <img src="${imgSrc}" loading="lazy" onerror="this.onerror=null; this.src='${fallbackImg}';" class="poster" alt="Locandina ${title}">
                         <div class="play-overlay"><i class="fa-solid fa-play-circle"></i></div>
@@ -362,6 +362,17 @@
             `;
         }
 
+        function attachTrailerListeners() {
+            const triggers = document.querySelectorAll('.trailer-trigger');
+            triggers.forEach(trigger => {
+                trigger.addEventListener('click', function() {
+                    const title = this.getAttribute('data-title');
+                    const type = this.getAttribute('data-type');
+                    openTrailer(title, type);
+                });
+            });
+        }
+
         // --- SISTEMA TRAILER TMDB ---
         async function openTrailer(title, type) {
             const modal = document.getElementById('trailer-modal');
@@ -373,11 +384,38 @@
             modalBody.innerHTML = `<div id="modal-loader"><div class="spinner"></div><p style="margin-top:15px;">Ricerca trailer su TMDB...</p></div>`;
 
             try {
-                // 1. Cerchiamo l'ID del film/serie su TMDB
-                const query = encodeURIComponent(title);
-                const searchUrl = `https://api.themoviedb.org/3/search/${type}?api_key=${TMDB_READ_KEY}&query=${query}&language=it-IT`;
-                const searchRes = await fetch(searchUrl);
-                const searchData = await searchRes.json();
+                // Puliamo il titolo da eventuali sottotitoli complessi per facilitare la ricerca
+                // es: "Gomorra: La Serie - Le Origini" -> cerchiamo solo "Gomorra"
+                let cleanSearchTitle = title;
+                if(cleanSearchTitle.includes(':')) {
+                     cleanSearchTitle = cleanSearchTitle.split(':')[0].trim();
+                } else if(cleanSearchTitle.includes('-')) {
+                     cleanSearchTitle = cleanSearchTitle.split('-')[0].trim();
+                }
+
+                const query = encodeURIComponent(cleanSearchTitle);
+                let searchUrl = `https://api.themoviedb.org/3/search/${type}?api_key=${TMDB_READ_KEY}&query=${query}&language=it-IT`;
+                let searchRes = await fetch(searchUrl);
+                let searchData = await searchRes.json();
+
+                // Se la ricerca fallisce con il tipo specifico, proviamo l'altro (a volte Gemini inverte film e serie)
+                if (!searchData.results || searchData.results.length === 0) {
+                    const altType = type === 'movie' ? 'tv' : 'movie';
+                    searchUrl = `https://api.themoviedb.org/3/search/${altType}?api_key=${TMDB_READ_KEY}&query=${query}&language=it-IT`;
+                    searchRes = await fetch(searchUrl);
+                    searchData = await searchRes.json();
+                    if (searchData.results && searchData.results.length > 0) {
+                        type = altType; // Aggiorniamo il tipo per la successiva chiamata ai video
+                    }
+                }
+
+                // Se fallisce anche il titolo "pulito", proviamo col titolo intero originale
+                if (!searchData.results || searchData.results.length === 0) {
+                    const fullQuery = encodeURIComponent(title);
+                    searchUrl = `https://api.themoviedb.org/3/search/${type}?api_key=${TMDB_READ_KEY}&query=${fullQuery}&language=it-IT`;
+                    searchRes = await fetch(searchUrl);
+                    searchData = await searchRes.json();
+                }
 
                 if (!searchData.results || searchData.results.length === 0) {
                     modalBody.innerHTML = `<div style="padding:40px; text-align:center;"><p>Spiacenti, non siamo riusciti a trovare questo titolo nel database di TMDB.</p></div>`;
