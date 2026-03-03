@@ -14,7 +14,7 @@
     <link rel="apple-touch-icon" href="https://cdn-icons-png.flaticon.com/512/3658/3658959.png">
     
     <style>
-        :root { --bg-color: #1a1a2e; --card-bg: #16213e; --text-color: #e2e8f0; --accent-color: #0f3460; --highlight: #e94560; --netflix: #e50914; --prime: #00a8e1; --disney: #0063e5; --discovery: #ffc107; --sky: #0072c9; --cinema: #6c757d; }
+        :root { --bg-color: #1a1a2e; --card-bg: #16213e; --text-color: #e2e8f0; --accent-color: #0f3460; --highlight: #e94560; --netflix: #e50914; --prime: #00a8e1; --disney: #0063e5; --discovery: #ffc107; --sky: #0072c9; --cinema: #6c757d; --appletv: #f8f9fa; }
         body { font-family: 'Roboto', sans-serif; background-color: var(--bg-color); color: var(--text-color); margin: 0; padding: 0; min-height: 100vh; display: flex; flex-direction: column; }
         h1, h2, h3 { font-family: 'Montserrat', sans-serif; }
         
@@ -61,6 +61,7 @@
         .card.netflix { border-color: var(--netflix); }
         .card.prime { border-color: var(--prime); }
         .card.disney { border-color: var(--disney); }
+        .card.appletv { border-color: var(--appletv); }
         .card.discovery { border-color: var(--discovery); }
         .card.sky { border-color: var(--sky); }
         .card.cinema { border-color: var(--cinema); }
@@ -125,6 +126,7 @@
                     <option value="netflix">Netflix</option>
                     <option value="prime">Amazon Prime Video</option>
                     <option value="disney">Disney+</option>
+                    <option value="appletv">Apple TV+</option>
                     <option value="sky">Sky (incl. NOW)</option>
                     <option value="cinema">Cinema</option>
                     <option value="discovery">Discovery+</option>
@@ -184,7 +186,7 @@
         let currentData = [];
 
         // L'ordine qui determina anche l'ordine di stampa nella vista Raggruppata
-        const ORDERED_PLATFORMS = ["Netflix", "Amazon Prime Video", "Disney+", "Sky", "Cinema in Italia", "Discovery+"];
+        const ORDERED_PLATFORMS = ["Netflix", "Amazon Prime Video", "Disney+", "Apple TV+", "Sky", "Cinema in Italia", "Discovery+"];
 
         const TMDB_READ_KEY = "4f8a846c483a9a8f46df3c08b736b0ec"; // Chiave demo generica (sostituibile)
 
@@ -193,6 +195,7 @@
             "netflix": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix" style="height: 20px; object-fit: contain;">', className: 'netflix' },
             "prime": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" alt="Prime Video" style="height: 20px; object-fit: contain; filter: brightness(0) invert(1);">', className: 'prime' },
             "disney": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg" alt="Disney+" style="height: 35px; object-fit: contain;">', className: 'disney' },
+            "appletv": { iconHtml: '<i class="fa-brands fa-apple" style="font-size: 1.4rem; color: #f8f9fa;"></i>', className: 'appletv' },
             "discovery": { iconHtml: '<img src="https://logodownload.org/wp-content/uploads/2021/04/discovery-plus-logo.png" alt="Discovery+" style="height: 22px; object-fit: contain; filter: brightness(0) invert(1);">', className: 'discovery' },
             "sky": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Sky_Logo_2020.svg" alt="Sky" style="height: 22px; object-fit: contain;">', className: 'sky' },
             "cinema": { iconHtml: '<i class="fa-solid fa-film" style="color: #6c757d;"></i>', className: 'cinema' },
@@ -204,6 +207,7 @@
             if (name.includes('netflix')) return PLATFORM_CONFIG.netflix;
             if (name.includes('prime') || name.includes('amazon')) return PLATFORM_CONFIG.prime;
             if (name.includes('disney')) return PLATFORM_CONFIG.disney;
+            if (name.includes('apple')) return PLATFORM_CONFIG.appletv;
             if (name.includes('discovery')) return PLATFORM_CONFIG.discovery;
             if (name.includes('sky') || name.includes('now')) return PLATFORM_CONFIG.sky;
             if (name.includes('cinema')) return PLATFORM_CONFIG.cinema;
@@ -277,6 +281,7 @@
                     if (filterPlatform === 'netflix') matchPlatform = itemPlatform.includes('netflix');
                     else if (filterPlatform === 'prime') matchPlatform = (itemPlatform.includes('prime') || itemPlatform.includes('amazon'));
                     else if (filterPlatform === 'disney') matchPlatform = itemPlatform.includes('disney');
+                    else if (filterPlatform === 'appletv') matchPlatform = itemPlatform.includes('apple');
                     else if (filterPlatform === 'discovery') matchPlatform = itemPlatform.includes('discovery');
                     else if (filterPlatform === 'sky') matchPlatform = (itemPlatform.includes('sky') || itemPlatform.includes('now'));
                     else if (filterPlatform === 'cinema') matchPlatform = itemPlatform.includes('cinema');
