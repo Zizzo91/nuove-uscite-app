@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <style>
-        :root { --bg-color: #1a1a2e; --card-bg: #16213e; --text-color: #e2e8f0; --accent-color: #0f3460; --highlight: #e94560; --netflix: #e50914; --prime: #00a8e1; --sky: #0072c9; }
+        :root { --bg-color: #1a1a2e; --card-bg: #16213e; --text-color: #e2e8f0; --accent-color: #0f3460; --highlight: #e94560; --netflix: #e50914; --prime: #00a8e1; --sky: #0072c9; --appletv: #f8f9fa;}
         body { font-family: 'Roboto', sans-serif; background-color: var(--bg-color); color: var(--text-color); margin: 0; padding: 0; min-height: 100vh; display: flex; flex-direction: column; }
         h1, h2, h3 { font-family: 'Montserrat', sans-serif; }
         
@@ -48,6 +48,7 @@
         .card.netflix { border-color: var(--netflix); }
         .card.prime { border-color: var(--prime); }
         .card.sky { border-color: var(--sky); }
+        .card.appletv { border-color: var(--appletv); }
         
         .card .poster { width: 100%; height: 350px; object-fit: cover; border-radius: 8px; margin-bottom: 15px; background: #2a2a2a; }
         
@@ -56,6 +57,7 @@
         .card.netflix .rank-badge { background: var(--netflix); }
         .card.prime .rank-badge { background: var(--prime); }
         .card.sky .rank-badge { background: var(--sky); }
+        .card.appletv .rank-badge { background: var(--appletv); color: black;}
 
         .card .badge { position: absolute; top: 15px; right: 15px; background: rgba(0,0,0,0.8); color: white; padding: 6px 12px; border-radius: 6px; font-size: 0.8rem; font-weight: bold; border: 1px solid var(--highlight); backdrop-filter: blur(4px); }
         
@@ -89,6 +91,7 @@
                 <option value="all">🌍 Tutte le Piattaforme</option>
                 <option value="netflix">Netflix</option>
                 <option value="prime">Amazon Prime Video</option>
+                <option value="appletv">Apple TV+</option>
                 <option value="sky">Sky (incl. NOW)</option>
             </select>
             
@@ -115,12 +118,13 @@
         let currentData = [];
 
         // L'ordine in cui verranno stampate le sezioni Top 10
-        const ORDERED_PLATFORMS = ["Netflix", "Amazon Prime Video", "Sky"];
+        const ORDERED_PLATFORMS = ["Netflix", "Amazon Prime Video", "Apple TV+", "Sky"];
 
         // --- SISTEMA DI MAPPATURA ICONE E PIATTAFORME ---
         const PLATFORM_CONFIG = {
             "netflix": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix" style="height: 20px; object-fit: contain;">', className: 'netflix' },
             "prime": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png" alt="Prime Video" style="height: 20px; object-fit: contain; filter: brightness(0) invert(1);">', className: 'prime' },
+            "appletv": { iconHtml: '<i class="fa-brands fa-apple" style="font-size: 1.4rem; color: #f8f9fa;"></i>', className: 'appletv' },
             "sky": { iconHtml: '<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Sky_Logo_2020.svg" alt="Sky" style="height: 22px; object-fit: contain;">', className: 'sky' },
             "default": { iconHtml: '<i class="fa-solid fa-tv"></i>', className: 'prime' }
         };
@@ -129,6 +133,7 @@
             const name = String(platformName).toLowerCase();
             if (name.includes('netflix')) return PLATFORM_CONFIG.netflix;
             if (name.includes('prime') || name.includes('amazon')) return PLATFORM_CONFIG.prime;
+            if (name.includes('apple')) return PLATFORM_CONFIG.appletv;
             if (name.includes('sky') || name.includes('now')) return PLATFORM_CONFIG.sky;
             return PLATFORM_CONFIG.default;
         }
@@ -193,6 +198,7 @@
                 if (filterPlatform !== 'all') {
                     if (filterPlatform === 'netflix') matchPlatform = itemPlatform.includes('netflix');
                     else if (filterPlatform === 'prime') matchPlatform = (itemPlatform.includes('prime') || itemPlatform.includes('amazon'));
+                    else if (filterPlatform === 'appletv') matchPlatform = itemPlatform.includes('apple');
                     else if (filterPlatform === 'sky') matchPlatform = (itemPlatform.includes('sky') || itemPlatform.includes('now'));
                 }
 
