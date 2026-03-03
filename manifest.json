@@ -1,0 +1,21 @@
+{
+    "name": "Entertainment Hub Italia",
+    "short_name": "EntHub",
+    "description": "Le nuove uscite, le classifiche Top 10 e i trend generazionali dello streaming e cinema in Italia.",
+    "start_url": "/nuove-uscite-app/index.html",
+    "display": "standalone",
+    "background_color": "#1a1a2e",
+    "theme_color": "#0f3460",
+    "icons": [
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/3658/3658959.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn-icons-png.flaticon.com/512/3658/3658959.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
