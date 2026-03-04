@@ -1,12 +1,12 @@
 {
-  "date": "03/03/2026, 08:35:45",
+  "date": "04/03/2026, 08:31:33",
   "data": [
     {
       "title": "Now You See Me: Now You Don't",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Il terzo capitolo della saga sui 'Quattro Cavalieri', un gruppo di illusionisti che compiono rapine elaborate.",
+      "description": "Il sequel del film di illusionisti e rapine.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
     },
     {
@@ -14,7 +14,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 2,
-      "description": "Un thriller d'azione con una donna che deve affrontare il suo passato oscuro su un'isola caraibica.",
+      "description": "Un film presente nella top 10 da 3 giorni.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2OcbuS2HEnHT0DhO3wf8WV9wWJg.jpg"
     },
     {
@@ -22,7 +22,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 3,
-      "description": "Una potente maga e un cacciatore viaggiano attraverso una terra desolata e distopica alla ricerca di un artefatto magico.",
+      "description": "Un film presente nella top 10 da 7 giorni.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iL7XhmTUpBHocjGumilOawM4n4Z.jpg"
     },
     {
@@ -30,7 +30,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 4,
-      "description": "Un film d'azione e spionaggio che segue un agente segreto in una missione ad alto rischio.",
+      "description": "Un film presente nella top 10 da 12 giorni.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dAfwsVCHYCEJgKMcL4NEsnsDzCM.jpg"
     },
     {
@@ -38,208 +38,288 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 5,
-      "description": "Dopo la morte del fratello, June si trasferisce a Milano per ricominciare, in una storia di amore e rinascita.",
+      "description": "Un film presente nella top 10 da 15 giorni.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg"
     },
     {
-      "title": "Young Sherlock",
-      "type": "tv",
+      "title": "The Wrecking Crew",
+      "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 6,
-      "description": "Una serie che esplora le origini del celebre detective Sherlock Holmes, un giovane ribelle coinvolto in un'indagine per omicidio.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bb3XIgEUKSboZzDVYbfAi1w381A.jpg"
+      "description": "Un film presente nella top 10 da 31 giorni.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/24lKLBFQ7AMVb8CClWoDOZ2R8qo.jpg"
     },
     {
-      "title": "Scarpetta",
-      "type": "tv",
+      "title": "Now You See Me",
+      "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 7,
-      "description": "Basata sui romanzi di Patricia Cornwell, la serie segue la patologa forense Kay Scarpetta mentre indaga su pericolosi serial killer.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg"
+      "description": "Il primo film della serie sugli illusionisti che compiono rapine.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
+    },
+    {
+      "title": "Ice Beast",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 8,
+      "description": "Un film presente nella top 10 da 5 giorni.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/n4OMe6sYLdhq1DgFovhpKivHptD.jpg"
     },
     {
       "title": "Invincible",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Una serie animata per adulti che segue Mark Grayson, un adolescente ibrido umano-alieno che diventa un supereroe.",
+      "rank": 9,
+      "description": "Una serie animata basata sull'omonimo fumetto di Robert Kirkman.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg"
     },
     {
-      "title": "The Handmaid's Tale",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Ambientata in una società distopica e teocratica, la serie segue la vita di ancelle costrette alla schiavitù riproduttiva.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bn2oFJDMKwIIfwBSHuY561GRBMJ.jpg"
-    },
-    {
-      "title": "One Piece",
+      "title": "Deadloch",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Le prime 20 stagioni della celebre serie anime che segue le avventure del pirata Monkey D. Rufy e della sua ciurma.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oag7edI9flSMawmNySEiSEJAbrf.jpg"
+      "description": "Una serie comedy.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hwcgXey9qgpoz6GIcLRG8Eshwpk.jpg"
     },
     {
-      "title": "Cattivissimo Me 4",
+      "title": "F1 The Movie",
       "type": "movie",
-      "platform": "Netflix",
+      "platform": "Apple TV+",
       "rank": 1,
-      "description": "Gru, Lucy e le loro figlie accolgono un nuovo membro nella famiglia, Gru Jr., e affrontano un nuovo nemico, Maxime Le Mal, che li costringe alla fuga.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ebG3a9AckyaOdsYNWLmOZpIhNot.jpg"
+      "description": "Un film d'azione.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Eternity",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 2,
+      "description": "Un film romantico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg"
+    },
+    {
+      "title": "Monarch: Legacy of Monsters",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 3,
+      "description": "Una serie d'avventura che espande l'universo del MonsterVerse.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jxreNunNZ1HJLFO24hQ5t4O942w.jpg"
+    },
+    {
+      "title": "The Gorge",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 4,
+      "description": "Un film thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+    },
+    {
+      "title": "Hijack",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Una serie thriller che si svolge in tempo reale durante un dirottamento aereo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vb1gfEOuRZPlWp5ymAoxQ2G1wkx.jpg"
+    },
+    {
+      "title": "Fountain of Youth",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 6,
+      "description": "Un film d'azione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kCWGK8QoK8ZPt6sju8pjohG4oxv.jpg"
+    },
+    {
+      "title": "Shrinking",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "Una serie comedy che segue un terapista in lutto che inizia a dire ai suoi pazienti esattamente cosa pensa.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
+    },
+    {
+      "title": "Highest 2 Lowest",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Un film thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/k60lRQMoQyL1Lha2Z6k6Er9kdgX.jpg"
+    },
+    {
+      "title": "Ted Lasso",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Una serie comedy acclamata dalla critica su un allenatore di football americano che si trasferisce in Inghilterra per allenare una squadra di calcio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
+    },
+    {
+      "title": "The Lost Bus",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 10,
+      "description": "Un film thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zpygCOYY1DPBkeUsrrznLRN5js5.jpg"
     },
     {
       "title": "Un mondo a parte",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 2,
-      "description": "Un maestro elementare si trasferisce in una pluriclasse nel cuore del Parco Nazionale d'Abruzzo e lotta per evitarne la chiusura.",
+      "rank": 1,
+      "description": "Michele Cortese, un insegnante elementare romano, si trasferisce in un remoto villaggio in Abruzzo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/f5ZibJ7crzGLLQ5AygBexzQMtR4.jpg"
+    },
+    {
+      "title": "Cattivissimo Me 4",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 2,
+      "description": "Gru, ex supercattivo ora agente della Lega Anti-Cattivi, è alle prese con il neonato Gru Jr. e il ritorno del suo vecchio rivale Maxime Le Mal.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ebG3a9AckyaOdsYNWLmOZpIhNot.jpg"
+    },
+    {
+      "title": "Bridgerton: Season 4",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 3,
+      "description": "Una popolare serie drammatica in costume che segue le vicende amorose e sociali dell'alta società londinese.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Night Agent: Season 3",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 4,
+      "description": "Un'avvincente serie thriller d'azione.",
+      "posterUrl": ""
     },
     {
       "title": "Accused",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 3,
-      "description": "Quando una celebre dottoressa queer a Londra viene accusata di cattiva condotta sessuale, la sua vita e il suo matrimonio vanno in pezzi.",
+      "rank": 5,
+      "description": "Un film che scende di una posizione dopo tre giorni in classifica.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jiXcYP1JwPj57JljO8mOIvFqPpx.jpg"
+    },
+    {
+      "title": "Motorvalley: Season 1",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Una serie sul mondo dell'automobilismo con Luca Argentero.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Io sono Rosa Ricci",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "Un prequel di 'Mare fuori' in cui la giovane Rosa Ricci viene rapita e portata su un'isola remota.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tBk3rmW8JdvkrH0ud529kjt7rJc.jpg"
+    },
+    {
+      "title": "The Lincoln Lawyer: Season 4",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Una serie drammatica legale.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Cortafuego",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "Un thriller spagnolo che tiene col fiato sospeso.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gqzIKAeBKkiwj5qz2oZCOuZKHPA.jpg"
     },
     {
       "title": "Les Orphelins",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 4,
-      "description": "Due amici d'infanzia, uno poliziotto e l'altro criminale, si ritrovano a collaborare dopo la morte sospetta del loro primo amore.",
+      "rank": 10,
+      "description": "Due amici d'infanzia devono superare le loro differenze quando la loro vecchia fiamma muore in un misterioso incidente d'auto.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg"
     },
     {
-      "title": "La vita va così",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "Un anziano pastore sardo rifiuta di vendere la sua casa di famiglia a un'impresa edile che vuole costruire un resort di lusso.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qvaD0vZ78w3hFuEBGyhpEkmHUOS.jpg"
-    },
-    {
-      "title": "Bridgerton",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "Ambientata nell'alta società londinese dell'età della Reggenza, la serie segue le vicende amorose e sociali della famiglia Bridgerton.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8vjbR0TcjKVZ4WdqMma2mLaL0Qx.jpg"
-    },
-    {
-      "title": "The Night Agent",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "Un agente dell'FBI di basso livello si ritrova coinvolto in una cospirazione per salvare la nazione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg"
-    },
-    {
-      "title": "BAKI-DOU: The Invincible Samurai",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 8,
-      "description": "Una serie animata giapponese incentrata su combattimenti e arti marziali.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qC4JawqYlUS9fwvAzGfY5lSz5uB.jpg"
-    },
-    {
-      "title": "La preside",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 9,
-      "description": "Una serie televisiva italiana che segue le vicende di una preside e della sua scuola.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6IPH7WaQjMnwZBL9g4IwvOBjdD1.jpg"
-    },
-    {
-      "title": "Formula 1: Drive to Survive",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 10,
-      "description": "Una docu-serie che offre uno sguardo dietro le quinte del Campionato mondiale di Formula 1.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xGOGjJFYYeRSoOpnhN9IHZTXIxj.jpg"
-    },
-    {
-      "title": "Under Salt Marsh: Segreti sommersi",
+      "title": "The Last of Us",
       "type": "tv",
       "platform": "Sky",
       "rank": 1,
-      "description": "Un crime drama britannico in cui un misterioso omicidio riapre vecchie ferite in una comunità minacciata da una tempesta.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dZQUJiG2scf8APdnMnMilB8A9GS.jpg"
+      "description": "Una serie post-apocalittica tratta dall'omonimo videogioco, disponibile su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6WlffOd3bszyndGgsKGcUL6k28n.jpg"
     },
     {
-      "title": "The Life of Chuck",
-      "type": "movie",
+      "title": "Gomorra: Le origini",
+      "type": "tv",
       "platform": "Sky",
       "rank": 2,
-      "description": "Un film drammatico basato su un racconto di Stephen King, che esplora la vita di un uomo attraverso tre storie separate.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wped8Cw2R74BZK2NIkmDKmWnVYz.jpg"
+      "description": "Una serie Sky Original, prequel della celebre serie 'Gomorra'.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
     },
     {
-      "title": "Now You See Me: Now You Don't",
-      "type": "movie",
+      "title": "MasterChef Italia",
+      "type": "tv",
       "platform": "Sky",
       "rank": 3,
-      "description": "Il terzo capitolo della saga sui 'Quattro Cavalieri', un gruppo di illusionisti che compiono rapine elaborate.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
+      "description": "Il popolare talent show culinario italiano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wD8S0XLIrHsKzGuw5xPMjDCYYbq.jpg"
     },
     {
-      "title": "I peccatori",
-      "type": "movie",
+      "title": "Pechino Express",
+      "type": "tv",
       "platform": "Sky",
       "rank": 4,
-      "description": "Un film drammatico che esplora le conseguenze di un incidente e i segreti di una famiglia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
+      "description": "Un reality show d'avventura e viaggio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/97WBjxeRtwLwapHeHTig7Xt8xMd.jpg"
     },
     {
-      "title": "The Pitt",
+      "title": "The Young Pope",
       "type": "tv",
       "platform": "Sky",
       "rank": 5,
-      "description": "Un medical drama che racconta in modo crudo e realistico la vita dei professionisti sanitari in un affollato pronto soccorso.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
+      "description": "Una serie Sky Original creata e diretta da Paolo Sorrentino, con Jude Law nei panni di un giovane Papa.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iaGH4pRNRFo7dTkvHmWJ9C4uPLM.jpg"
     },
     {
-      "title": "Il signore delle mosche",
+      "title": "Cucine da incubo",
       "type": "tv",
       "platform": "Sky",
       "rank": 6,
-      "description": "Una serie drammatica basata sul classico romanzo, che esplora la natura umana in una situazione di isolamento.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ryolNeqci6wlTsE1OPGp0bEEziw.jpg"
+      "description": "Lo chef Antonino Cannavacciuolo aiuta ristoranti in difficoltà.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/10XpD4aEOExWcOg9bxCA28NNsMQ.jpg"
     },
     {
-      "title": "Dracula - L'amore perduto",
+      "title": "The Bourne Supremacy",
       "type": "movie",
       "platform": "Sky",
       "rank": 7,
-      "description": "Una rilettura romantica del classico di Bram Stoker, che segue il principe Vladimir trasformato in vampiro alla ricerca dell'amore perduto.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iD35kLvUW6dKPpspA4HP3MPKml6.jpg"
+      "description": "Un film di spionaggio con Matt Damon.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7VsDZHB3NaXTy9OkR5bMDDwVSbr.jpg"
     },
     {
-      "title": "Now You See Me - I maghi del crimine",
+      "title": "The Bourne Ultimatum",
       "type": "movie",
       "platform": "Sky",
       "rank": 8,
-      "description": "Un gruppo di illusionisti, i 'Quattro Cavalieri', esegue rapine in banca durante i loro spettacoli, sfidando l'FBI.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/i4AwdNjgPLYdUznJndBDNzF403t.jpg"
+      "description": "Il terzo capitolo della saga di spionaggio con Jason Bourne.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hRAHDd2nrQKVmmls9hp20jvW1Jy.jpg"
     },
     {
-      "title": "Un eroe",
+      "title": "The Brutalist",
       "type": "movie",
       "platform": "Sky",
       "rank": 9,
-      "description": "Un film drammatico iraniano che segue un uomo in prigione per debiti che cerca di riabilitare la sua immagine.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5LqnFB5hhnABk8knEvM3l9345BB.jpg"
+      "description": "Nel 1947, un architetto ungherese lascia il suo paese per ricominciare negli Stati Uniti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/LfI6QwtR7HTguzvjLESpc6qNK6.jpg"
     },
     {
-      "title": "Blade Runner",
+      "title": "The Dead Don't Hurt",
       "type": "movie",
       "platform": "Sky",
       "rank": 10,
-      "description": "Un classico della fantascienza ambientato in un futuro distopico, dove un 'blade runner' caccia androidi ribelli.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2mPclQ5v9YK0eqCefvav3YsYPYI.jpg"
+      "description": "Un western romantico e tragico ambientato nel West di fine Ottocento.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mLLyU0C91509Bp1WCKQcISDOmIC.jpg"
     }
   ]
 }
