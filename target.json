@@ -1,94 +1,103 @@
 {
-  "date": "07/03/2026, 10:20:46",
+  "date": "08/03/2026, 10:17:27",
   "data": [
     {
-      "title": "One Piece - Stagione 2",
+      "title": "Euphoria",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Gen Z",
+      "rank": "1",
+      "description": "Questa serie continua a essere estremamente popolare e discussa sui social media, in particolare TikTok, per la sua rappresentazione cruda e autentica dell'adolescenza, della salute mentale e delle relazioni complesse, risuonando con la ricerca di autenticità e la volontà di affrontare temi difficili tipica della Gen Z.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg"
+    },
+    {
+      "title": "One Piece",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": "1",
-      "description": "L'attesissima seconda stagione dell'adattamento live-action del celebre manga è un evento imperdibile per la Gen Z, che segue con passione le avventure di Luffy e della sua ciurma, generando un enorme buzz su piattaforme come TikTok.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Young Sherlock - Stagione 1",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "target": "Gen Z",
       "rank": "2",
-      "description": "Questa nuova serie che esplora la giovinezza di Sherlock Holmes, con un cast giovane e la regia di Guy Ritchie, attrae la Gen Z per il suo mix di mistero, azione e un approccio fresco a un personaggio iconico.",
-      "posterUrl": ""
+      "description": "La seconda stagione di questo adattamento live-action, in uscita a marzo 2026, ha generato un notevole entusiasmo, attraendo la Gen Z per il suo amore per il fantasy, l'avventura e i franchise manga/anime consolidati, alimentando discussioni sui social media.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oag7edI9flSMawmNySEiSEJAbrf.jpg"
     },
     {
-      "title": "Invincible - Stagione 4",
+      "title": "Stranger Things",
       "type": "tv",
-      "platform": "Amazon Prime Video",
+      "platform": "Netflix",
       "target": "Gen Z",
       "rank": "3",
-      "description": "La quarta stagione di questa serie animata di supereroi, nota per la sua violenza grafica e le trame complesse, è molto popolare tra la Gen Z che apprezza contenuti animati maturi e discussi attivamente nelle comunità online.",
-      "posterUrl": ""
+      "description": "Questa serie rimane un punto di riferimento culturale, con la sua miscela di nostalgia anni '80, mistero soprannaturale e forti legami tra i personaggi, rendendola una serie costantemente amata dalla Gen Z.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wZNIKNMqjulcU1AbU6X98tHy9QF.jpg"
     },
     {
-      "title": "KPop Demon Hunters",
+      "title": "Sex Education",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
       "rank": "4",
-      "description": "Con il fenomeno globale del K-Pop che domina la cultura giovanile, questa serie che unisce musica e caccia ai demoni è un successo assicurato per la Gen Z, diventando rapidamente virale su TikTok.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dTqYRhRzKayrCcDVqIS3bXOiRR5.jpg"
+      "description": "Apprezzata per il suo approccio aperto, umoristico e sensibile all'educazione sessuale, alle relazioni e all'identità, questa serie favorisce importanti conversazioni tra la Gen Z.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pmwsSCcz8aZOJXsTTrNs8LzGMwt.jpg"
     },
     {
-      "title": "Zootropolis 2",
-      "type": "movie",
-      "platform": "Disney+",
-      "target": "Gen Z",
-      "rank": "5",
-      "description": "Il sequel del film d'animazione Disney Pixar è atteso dalla Gen Z per il suo umorismo intelligente, i personaggi carismatici e i messaggi sociali rilevanti, perfetti per una visione in famiglia o tra amici.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qAmXRssxXJ9foKgSGyisKnmRJfc.jpg"
-    },
-    {
-      "title": "Lucky Luke",
-      "type": "tv",
-      "platform": "Disney+",
-      "target": "Gen Z",
-      "rank": "6",
-      "description": "La nuova serie live-action sul celebre cowboy solitario offre un'avventura fresca e divertente che può catturare l'attenzione della Gen Z, introducendoli a un classico con un tocco moderno.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3dCO02aOGaKTdwDJaXtqlGa1GlF.jpg"
-    },
-    {
-      "title": "Something Very Bad Is Going To Happen",
+      "title": "Skam Italia",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": "7",
-      "description": "Questa serie horror, prodotta dai fratelli Duffer (Stranger Things), si inserisce in un genere molto amato dalla Gen Z, che cerca storie inquietanti e misteriose con un tocco soprannaturale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gOWjL0D7JAn25SIy1eERHg9EOXD.jpg"
+      "rank": "5",
+      "description": "Questo teen drama italiano è celebrato per la sua rappresentazione realistica della vita liceale, delle amicizie e della scoperta di sé, rendendolo estremamente riconoscibile e discusso dalla Gen Z italiana.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9XOJpyalPs43SuU9hbcvKnAwKPs.jpg"
     },
     {
-      "title": "Jumpers - Un salto tra gli animali",
-      "type": "movie",
-      "platform": "Cinema",
-      "target": "Gen Z",
-      "rank": "8",
-      "description": "Il nuovo film d'animazione Pixar è un'attrazione per la Gen Z più giovane e per le famiglie, grazie alla sua animazione di alta qualità, alla trama avventurosa e ai temi universali.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2bGvWzmJNmCqXgSQ33Iif2xXLKe.jpg"
-    },
-    {
-      "title": "My Hero Academia: You're Next",
-      "type": "movie",
+      "title": "L'estate nei tuoi occhi",
+      "type": "tv",
       "platform": "Amazon Prime Video",
       "target": "Gen Z",
-      "rank": "9",
-      "description": "Il nuovo film dell'acclamato franchise anime 'My Hero Academia' è un appuntamento imperdibile per la vasta fanbase di Gen Z appassionata di anime e storie di supereroi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cvqEQyFKnvwDOhPzpNBVJNZzftF.jpg"
+      "rank": "6",
+      "description": "Un popolare dramma romantico che cattura l'essenza dell'amore estivo e della crescita, amplificato dalla sua colonna sonora spesso con artisti popolari tra la Gen Z, che stimola l'engagement sui social media.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4ucAqEvXoAjQPlh9k4r0LqF9JWJ.jpg"
     },
     {
-      "title": "Hannah Montana - Speciale 20° Anniversario",
+      "title": "The Boys / Gen V",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "target": "Gen Z",
+      "rank": "7",
+      "description": "Queste serie attraggono la Gen Z per la loro preferenza per narrazioni irriverenti, esplicite e anti-eroiche che decostruiscono i tropi tradizionali dei supereroi, scatenando discussioni online sul loro commento sociale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4nHggEdMaqTrYiVmqorFxD9A2i4.jpg"
+    },
+    {
+      "title": "Daredevil: Rinascita",
       "type": "tv",
       "platform": "Disney+",
       "target": "Gen Z",
+      "rank": "8",
+      "description": "La nuova stagione in arrivo a marzo 2026 riporta un amato personaggio Marvel con un tono più cupo, attirando i fan della Gen Z di azione supereroistica e dilemmi morali complessi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ixvUubkN1Nlizw3N4zYcQnkZ3Pm.jpg"
+    },
+    {
+      "title": "Zero",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": "9",
+      "description": "Una serie italiana che offre una prospettiva fresca e diversificata sulla vita nelle periferie milanesi, con un cast giovane e una colonna sonora ricca di musica rap/urban, risuonando con l'interesse della Gen Z per storie autentiche e multiculturali.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2sJPpcEd83mILobIlDG1Jexu9bj.jpg"
+    },
+    {
+      "title": "DI4RIES",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
       "rank": "10",
-      "description": "Questo speciale celebra i 20 anni di una serie che ha segnato l'infanzia di molti Gen Z, offrendo un mix di nostalgia e nuovi contenuti che riaccende l'interesse per il fenomeno pop.",
+      "description": "Questa serie italiana affronta direttamente la vita quotidiana, le sfide e le relazioni degli adolescenti, rendendola estremamente riconoscibile e un argomento di conversazione tra il suo giovane pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xKnjd3x8BWKb5hgai8zJ6DEhMym.jpg"
+    },
+    {
+      "title": "Bridgerton: stagione 4",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": "1",
+      "description": "Essendo uno degli show più visti su Netflix all'inizio di marzo 2026, il suo romanticismo sontuoso, le trame intricate e il cast diversificato continuano ad affascinare i Millennials che apprezzano i drammi in costume e l'evasione.",
       "posterUrl": ""
     },
     {
@@ -96,90 +105,81 @@
       "type": "movie",
       "platform": "Netflix",
       "target": "Millennials",
-      "rank": "1",
-      "description": "Il film sequel della popolarissima serie 'Peaky Blinders' è un evento molto atteso dai Millennials, che hanno seguito con passione le vicende della famiglia Shelby e apprezzano le atmosfere gangster e i drammi storici.",
+      "rank": "2",
+      "description": "L'uscita di questo film a marzo 2026 estende la storia di una serie cult, attirando i Millennials che hanno seguito la saga di Thomas Shelby e apprezzano la sua estetica cruda e i personaggi complessi.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/bUQ1STjQcOkeb8Xp4IsG6zjnwTP.jpg"
     },
     {
-      "title": "Scarpetta - Stagione 1",
+      "title": "Scarpetta",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "target": "Millennials",
-      "rank": "2",
-      "description": "Con Nicole Kidman nei panni della patologa forense Kay Scarpetta, questa serie crime-thriller basata sui romanzi di Patricia Cornwell attrae i Millennials in cerca di storie avvincenti, complesse e con un forte sviluppo dei personaggi.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Vladimir",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Millennials",
       "rank": "3",
-      "description": "Questa miniserie che mescola romance sensuale, umorismo nero e dramma psicologico, con una protagonista che esplora desideri proibiti, risuona con i Millennials che apprezzano narrazioni più mature e introspettive.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/j02VBIGVIk2OTwTUZ1YzyzcONAy.jpg"
+      "description": "Questa nuova serie thriller crime, con Nicole Kidman e basata su romanzi popolari, si rivolge all'apprezzamento dei Millennials per i drammi sofisticati e gli adattamenti letterari consolidati.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zvkcHCJUPqv7R9ukaiDNkm75jy.jpg"
     },
     {
-      "title": "Virgin River - Stagione 7",
+      "title": "Young Sherlock",
       "type": "tv",
-      "platform": "Netflix",
+      "platform": "Amazon Prime Video",
       "target": "Millennials",
       "rank": "4",
-      "description": "La settima stagione di questa amata serie drammatica e romantica continua a essere un punto fermo per molti Millennials, in particolare per il pubblico femminile, che si affeziona alle storie di vita e d'amore nella pittoresca cittadina.",
-      "posterUrl": ""
+      "description": "Una nuova interpretazione delle origini dell'iconico detective, diretta da Guy Ritchie, attrae i Millennials che amano i misteri, le ambientazioni d'epoca e le nuove interpretazioni di personaggi classici.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/BMBWTgvL41sOYtfkmXen6nm9mG.jpg"
     },
     {
-      "title": "Daredevil: Rinascita S2",
+      "title": "Invincible: stagione 4",
       "type": "tv",
-      "platform": "Disney+",
+      "platform": "Amazon Prime Video",
       "target": "Millennials",
       "rank": "5",
-      "description": "Il ritorno di Daredevil con una nuova stagione è un richiamo forte per i Millennials che hanno seguito l'universo Marvel e apprezzano le storie di supereroi più oscure e complesse.",
+      "description": "Il ritorno di questa acclamata serie animata per adulti sui supereroi si rivolge ai Millennials che sono cresciuti con i fumetti e apprezzano narrazioni mature e complesse all'interno del genere supereroistico.",
       "posterUrl": ""
     },
     {
-      "title": "Scrubs - Revival",
+      "title": "Grey's Anatomy: S.21",
       "type": "tv",
       "platform": "Disney+",
       "target": "Millennials",
       "rank": "6",
-      "description": "Il revival di 'Scrubs' genera un'ondata di nostalgia per i Millennials che sono cresciuti con la sitcom medica, desiderosi di rivedere i loro personaggi preferiti e il suo umorismo distintivo.",
+      "description": "La popolarità duratura e i nuovi episodi a marzo 2026 mantengono la sua fedele base di fan Millennial impegnata con il suo longevo dramma medico, le relazioni complesse e la narrazione emotiva.",
       "posterUrl": ""
     },
     {
-      "title": "Absolution - Storia criminale",
-      "type": "movie",
-      "platform": "Sky",
+      "title": "Scrubs: S.10",
+      "type": "tv",
+      "platform": "Disney+",
       "target": "Millennials",
       "rank": "7",
-      "description": "Un thriller criminale con Liam Neeson, che offre azione e dramma, è un genere che attrae i Millennials in cerca di intrattenimento avvincente e storie con personaggi complessi e moralmente ambigui.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg"
+      "description": "Il revival di questa amata sitcom a marzo 2026 offre una forte dose di nostalgia e umorismo familiare, attraendo direttamente i Millennials che sono cresciuti guardando la serie originale.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Law & Order: Special Victims Unit – S.27",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Millennials",
+      "rank": "8",
+      "description": "Questo longevo procedural crime continua ad attrarre i Millennials con i suoi casi avvincenti, i personaggi forti e l'esplorazione di questioni sociali, con le nuove stagioni che ne mantengono la rilevanza.",
+      "posterUrl": ""
     },
     {
       "title": "Un bel giorno",
       "type": "movie",
       "platform": "Cinema",
       "target": "Millennials",
-      "rank": "8",
-      "description": "Questa commedia italiana con Fabio De Luigi e Virginia Raffaele offre una storia sentimentale e divertente che risuona con i Millennials, apprezzando il cinema italiano leggero ma con spunti di riflessione sulla vita adulta.",
+      "rank": "9",
+      "description": "Questa nuova commedia italiana, uscita a marzo 2026 e interpretata da attori popolari come Fabio De Luigi e Virginia Raffaele, offre temi relazionabili di famiglia, amore e nuovi inizi, attraendo un pubblico Millennial in cerca di cinema leggero ma significativo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/lfl48xTTCWwXcXIYgi8XgRZyBlv.jpg"
     },
     {
-      "title": "The Dead Don't Hurt",
-      "type": "movie",
-      "platform": "Sky",
-      "target": "Millennials",
-      "rank": "9",
-      "description": "Il western romantico e tragico diretto da Viggo Mortensen, con le sue tematiche mature di amore, violenza e solitudine, attrae i Millennials che cercano film d'autore e storie profonde.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mLLyU0C91509Bp1WCKQcISDOmIC.jpg"
-    },
-    {
-      "title": "Detective Hole",
+      "title": "The Night Agent: stagione 3",
       "type": "tv",
       "platform": "Netflix",
       "target": "Millennials",
       "rank": "10",
-      "description": "Basata sui popolari romanzi di Jo Nesbø, questa serie crime con il tormentato detective Harry Hole è un must per i Millennials amanti del genere thriller e del Nordic noir.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rBsRNHehYPkd2kS64LSwX6mnPnI.jpg"
+      "description": "Essendo uno degli show più visti su Netflix all'inizio di marzo 2026, la sua azione frenetica e gli elementi thriller politici attraggono i Millennials in cerca di narrazioni coinvolgenti e ricche di suspense.",
+      "posterUrl": ""
     }
   ]
 }
