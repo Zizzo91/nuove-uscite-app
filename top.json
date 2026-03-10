@@ -1,92 +1,92 @@
 {
-  "date": "09/03/2026, 08:43:40",
+  "date": "10/03/2026, 08:33:36",
   "data": [
     {
       "title": "Materialists",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Una commedia romantica su una matchmaker di successo divisa tra due uomini molto diversi.",
+      "description": "Un film tra i più popolari sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nmNi5uMO5earkzK9OL0nsWMQOr7.jpg"
-    },
-    {
-      "title": "L'illusione perfetta: Now You See Me: Now You Don't",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Il sequel di 'Now You See Me', con un gruppo di illusionisti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
     },
     {
       "title": "Osiris",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Un film attualmente nella lista dei più visti.",
+      "rank": 2,
+      "description": "Un film che si posiziona tra i più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/szCUaJsdWO7dTR14MTTHXuxge8b.jpg"
+    },
+    {
+      "title": "Now You See Me: Now You Don't",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 3,
+      "description": "Il sequel del film sull'illusionismo e i maghi del crimine.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
+    },
+    {
+      "title": "The Bluff",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 4,
+      "description": "Un film che continua a riscuotere successo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2OcbuS2HEnHT0DhO3wf8WV9wWJg.jpg"
+    },
+    {
+      "title": "In the Lost Lands",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 5,
+      "description": "Un titolo popolare nella classifica dei film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iL7XhmTUpBHocjGumilOawM4n4Z.jpg"
+    },
+    {
+      "title": "Classified",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 6,
+      "description": "Un film che mantiene la sua posizione tra i più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dAfwsVCHYCEJgKMcL4NEsnsDzCM.jpg"
+    },
+    {
+      "title": "Love Me Love Me",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 7,
+      "description": "Un film apprezzato dal pubblico italiano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xmoO861IKm1ycJ52mLGc3nwINKV.jpg"
+    },
+    {
+      "title": "The Wrecking Crew",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 8,
+      "description": "Un film d'azione che si mantiene in classifica.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/24lKLBFQ7AMVb8CClWoDOZ2R8qo.jpg"
+    },
+    {
+      "title": "Now You See Me",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "Il primo capitolo della saga sull'illusionismo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
     },
     {
       "title": "Fallout",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Una serie TV basata sul popolare franchise di videogiochi post-apocalittici.",
+      "rank": 10,
+      "description": "Serie TV di fantascienza post-apocalittica basata sull'omonima serie di videogiochi.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/bnayCOZ739OHS2DHPy7ZQDGC8iv.jpg"
     },
     {
-      "title": "Una scomoda circostanza – Caught Stealing",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Un thriller ambientato nella New York degli anni '90, diretto da Darren Aronofsky, su un ex giocatore di baseball coinvolto in un pericoloso segreto.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/a0WJwGEmMMo8AesAKc5GHr3AYq4.jpg"
-    },
-    {
-      "title": "Play Dirty: Triplo Gioco",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Un thriller su un ladro di alto livello che pianifica il suo colpo più ambizioso, portandolo a scontrarsi con la mafia di New York.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/604rBO6uIYBRbDruXq5o7W57nzl.jpg"
-    },
-    {
-      "title": "The Bad Boy and Me",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Un film ispirato a un popolare romanzo di Wattpad, incentrato su una cheerleader e un giocatore di football.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg"
-    },
-    {
-      "title": "Pretty Lethal – Ballerine all'Inferno",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Un thriller ambientato nel mondo della danza, dove una competizione si trasforma in un incubo per cinque ballerine rivali.",
-      "posterUrl": ""
-    },
-    {
-      "title": "È colpa mia?",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Un film su Noah, che si trasferisce a Londra e si innamora del suo fratellastro Nick, mentre il suo passato la raggiunge.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wXwB3KhYhvzfsDMH6JBgbfsLi8s.jpg"
-    },
-    {
-      "title": "Sweetpea",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 10,
-      "description": "Una serie TV attualmente nella lista dei più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/feoDYCy0AUD031gLqBmA9gC4pw1.jpg"
-    },
-    {
-      "title": "F1: Il film",
+      "title": "F1",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "Un film legato alla Formula 1.",
+      "description": "Un film d'azione a tema Formula 1, in cima alle classifiche.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
@@ -94,7 +94,7 @@
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 2,
-      "description": "Un film romantico.",
+      "description": "Un film romantico molto popolare sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg"
     },
     {
@@ -102,15 +102,15 @@
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 3,
-      "description": "Un film thriller.",
+      "description": "Un thriller che si mantiene tra i più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/k60lRQMoQyL1Lha2Z6k6Er9kdgX.jpg"
     },
     {
-      "title": "Fountain of Youth - L'eterna giovinezza",
+      "title": "Fountain of Youth",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 4,
-      "description": "Un film d'azione sulla fonte della giovinezza.",
+      "description": "Un film d'azione che cattura l'attenzione del pubblico.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/kCWGK8QoK8ZPt6sju8pjohG4oxv.jpg"
     },
     {
@@ -118,135 +118,135 @@
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 5,
-      "description": "Un film thriller.",
+      "description": "Un thriller che figura nella top 10.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
     },
     {
-      "title": "Napoleon",
-      "type": "movie",
+      "title": "Monarch: Legacy of Monsters",
+      "type": "tv",
       "platform": "Apple TV+",
       "rank": 6,
-      "description": "Un film drammatico storico su Napoleone Bonaparte.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg"
+      "description": "Una serie TV d'avventura e fantascienza ambientata nel MonsterVerse.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jxreNunNZ1HJLFO24hQ5t4O942w.jpg"
     },
     {
-      "title": "The Lost Bus",
-      "type": "movie",
+      "title": "Hijack",
+      "type": "tv",
       "platform": "Apple TV+",
       "rank": 7,
-      "description": "Un film thriller.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zpygCOYY1DPBkeUsrrznLRN5js5.jpg"
+      "description": "Un thriller ad alta tensione ambientato su un aereo dirottato.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vb1gfEOuRZPlWp5ymAoxQ2G1wkx.jpg"
     },
     {
-      "title": "Wolfs - Lupi solitari",
-      "type": "movie",
+      "title": "Shrinking",
+      "type": "tv",
       "platform": "Apple TV+",
       "rank": 8,
-      "description": "Un film d'azione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nPedyM69paBxP5I2QrajL5ziB7r.jpg"
+      "description": "Una commedia drammatica con Jason Segel e Harrison Ford.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
     },
     {
-      "title": "The Family Plan 2",
-      "type": "movie",
+      "title": "L'ultima cosa che mi ha detto",
+      "type": "tv",
       "platform": "Apple TV+",
       "rank": 9,
-      "description": "Un film commedia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aUPrVTBfu7NS1D0Z5L5OxWTrZS7.jpg"
+      "description": "Una serie TV giallo-mistery basata sul romanzo di Laura Dave.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iURHI4b3h9QoZlxx5xddtgxsNNj.jpg"
     },
     {
-      "title": "Ghosted",
-      "type": "movie",
+      "title": "Teheran",
+      "type": "tv",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "Un film d'azione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg"
+      "description": "Un thriller di spionaggio internazionale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mgP4yxECBUaVEaNCZDzZyRoV2RK.jpg"
+    },
+    {
+      "title": "War Machine",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 1,
+      "description": "Un brutale action-thriller con elementi di fantascienza che segue un gruppo di Army Rangers d'élite.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/30t19PpvZ3GVw9nRsn7TjZh5qEr.jpg"
     },
     {
       "title": "Un mondo a parte",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 1,
-      "description": "Un insegnante elementare romano si trasferisce in una piccola scuola di montagna in Abruzzo, affrontando sfide e scetticismo locale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/f5ZibJ7crzGLLQ5AygBexzQMtR4.jpg"
-    },
-    {
-      "title": "Bridgerton",
-      "type": "tv",
-      "platform": "Netflix",
       "rank": 2,
-      "description": "Una serie romantica e scandalosa ambientata nella Londra dell'era Regency, che segue la famiglia Bridgerton nella ricerca dell'amore.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8vjbR0TcjKVZ4WdqMma2mLaL0Qx.jpg"
+      "description": "Un toccante film italiano con Antonio Albanese che offre risate dolci e amare.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/f5ZibJ7crzGLLQ5AygBexzQMtR4.jpg"
     },
     {
       "title": "Cattivissimo Me 4",
       "type": "movie",
       "platform": "Netflix",
       "rank": 3,
-      "description": "L'ultimo capitolo animato del franchise di Cattivissimo Me.",
+      "description": "Il quarto capitolo della popolare saga di animazione.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ebG3a9AckyaOdsYNWLmOZpIhNot.jpg"
     },
     {
-      "title": "The Night Agent",
-      "type": "tv",
+      "title": "La vita va così",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 4,
-      "description": "Un agente dell'FBI di basso livello viene coinvolto in una cospirazione dopo aver risposto a una telefonata nel seminterrato della Casa Bianca.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4c5yUNcaff4W4aPrkXE6zr7papX.jpg"
+      "description": "Un film drammatico italiano che si conferma tra i titoli più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qvaD0vZ78w3hFuEBGyhpEkmHUOS.jpg"
     },
     {
-      "title": "Vita nella banlieue 3",
+      "title": "Street Flow 3",
       "type": "movie",
       "platform": "Netflix",
       "rank": 5,
-      "description": "Il terzo capitolo della serie di film drammatici francesi, che conclude la saga dei protagonisti che cercano una via d'uscita dalle loro vite difficili.",
+      "description": "Il terzo capitolo del dramma francese.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/chivRgMyevpLUDfLIokY9aTomRu.jpg"
+    },
+    {
+      "title": "Bridgerton: Stagione 4",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "La quarta stagione del popolare dramma storico romantico.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Night Agent: Stagione 3",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "La terza stagione del thriller d'azione che segue un agente dell'FBI.",
+      "posterUrl": ""
+    },
+    {
+      "title": "La Preside: Stagione 1",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "La prima stagione di una serie drammatica.",
+      "posterUrl": ""
     },
     {
       "title": "Vladimir",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 6,
-      "description": "Una serie sensuale con Rachel Weisz, che esplora temi di desiderio, frustrazione e potere da una prospettiva femminile radicale.",
+      "rank": 9,
+      "description": "Una sensuale serie drammatica al femminile.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/j02VBIGVIk2OTwTUZ1YzyzcONAy.jpg"
     },
     {
-      "title": "The Gentlemen",
+      "title": "The Lincoln Lawyer: Stagione 4",
       "type": "tv",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "Una serie crime-comedy su un uomo che eredita la tenuta del padre, scoprendo che fa parte di un impero della cannabis.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg"
-    },
-    {
-      "title": "Accused",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 8,
-      "description": "Un thriller indiano in cui la carriera e il matrimonio di una rinomata ginecologa vengono distrutti dopo essere stata accusata di molestie sessuali sul posto di lavoro.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jiXcYP1JwPj57JljO8mOIvFqPpx.jpg"
-    },
-    {
-      "title": "La preside",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 9,
-      "description": "Una serie italiana su Eugenia Liguori, una preside determinata che assume la direzione di un difficile istituto professionale in un sobborgo napoletano.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6IPH7WaQjMnwZBL9g4IwvOBjdD1.jpg"
-    },
-    {
-      "title": "Firebreak",
-      "type": "movie",
       "platform": "Netflix",
       "rank": 10,
-      "description": "Un film d'azione/thriller attualmente popolare.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kQhvTEJQDtcN0w241lTfQ6gfnA8.jpg"
+      "description": "La quarta stagione del dramma legale con Mickey Haller.",
+      "posterUrl": ""
     },
     {
       "title": "Now You See Me: Now You Don't",
       "type": "movie",
       "platform": "Sky",
       "rank": 1,
-      "description": "Un thriller di magia e rapine.",
+      "description": "Il sequel del film sull'illusionismo, molto popolare su NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
     },
     {
@@ -254,7 +254,7 @@
       "type": "movie",
       "platform": "Sky",
       "rank": 2,
-      "description": "Un film attualmente nella lista dei più visti.",
+      "description": "Un film tra i più visti sulla piattaforma NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wped8Cw2R74BZK2NIkmDKmWnVYz.jpg"
     },
     {
@@ -262,7 +262,7 @@
       "type": "movie",
       "platform": "Sky",
       "rank": 3,
-      "description": "Un film attualmente nella lista dei più visti.",
+      "description": "Un film che ha scalato le classifiche di NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/m3hdy8GxZpInf8daCqJdqMDIrOV.jpg"
     },
     {
@@ -270,56 +270,56 @@
       "type": "movie",
       "platform": "Sky",
       "rank": 4,
-      "description": "Un film attualmente nella lista dei più visti.",
+      "description": "Il classico film horror che continua ad attrarre spettatori su NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iD35kLvUW6dKPpspA4HP3MPKml6.jpg"
     },
     {
-      "title": "Mickey 17",
+      "title": "The Naked Gun",
       "type": "movie",
       "platform": "Sky",
       "rank": 5,
-      "description": "Un film attualmente nella lista dei più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2JQBZs01ahsOiANQ7Fs8MN9zBY4.jpg"
+      "description": "La celebre commedia che rimane popolare su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tL8WM2MW87Sf48QctGHIpnnNSWK.jpg"
     },
     {
-      "title": "I peccatori",
-      "type": "movie",
+      "title": "The Pitt",
+      "type": "tv",
       "platform": "Sky",
       "rank": 6,
-      "description": "Un film attualmente nella lista dei più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
+      "description": "Una serie TV drammatica tra le novità più seguite su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
     },
     {
-      "title": "Conclave",
-      "type": "movie",
+      "title": "Il signore delle mosche",
+      "type": "tv",
       "platform": "Sky",
       "rank": 7,
-      "description": "Un film sul Collegio dei Cardinali che si riunisce per eleggere un nuovo Papa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ic4EM9yv6CP8lfPXcNlKTuxTT6X.jpg"
-    },
-    {
-      "title": "John Wick",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 8,
-      "description": "Un film d'azione cult su un ex sicario in cerca di vendetta.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uD6w5fB04cgYye6G8qJ7gPtDZFb.jpg"
+      "description": "Una serie TV drammatica recente e molto vista su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ryolNeqci6wlTsE1OPGp0bEEziw.jpg"
     },
     {
       "title": "Masterchef Italia",
       "type": "tv",
       "platform": "Sky",
-      "rank": 9,
-      "description": "La versione italiana del popolare show di competizione culinaria.",
+      "rank": 8,
+      "description": "Il popolare reality show culinario italiano.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wD8S0XLIrHsKzGuw5xPMjDCYYbq.jpg"
     },
     {
       "title": "True Detective",
       "type": "tv",
       "platform": "Sky",
+      "rank": 9,
+      "description": "La serie antologica crime che continua ad essere apprezzata su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zYqVTiHK5ZajYcNzAW7qWte5NWS.jpg"
+    },
+    {
+      "title": "Under Salt Marsh: Segreti sommersi",
+      "type": "tv",
+      "platform": "Sky",
       "rank": 10,
-      "description": "Un'acclamata serie antologica crime.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg"
+      "description": "Una serie TV mistery tra le nuove uscite di NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dZQUJiG2scf8APdnMnMilB8A9GS.jpg"
     }
   ]
 }
