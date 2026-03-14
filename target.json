@@ -1,148 +1,166 @@
 {
-  "date": "13/03/2026, 10:27:50",
+  "date": "14/03/2026, 10:21:29",
   "data": [
     {
-      "title": "One Piece (Stagione 2)",
+      "title": "One Piece Stagione 2",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
       "rank": 1,
-      "description": "La seconda stagione dell'adattamento live-action del celebre manga/anime è virale tra la Gen Z grazie al suo enorme fanbase e al successo della prima stagione, generando ampie discussioni sui social media.",
+      "description": "L'attesissima seconda stagione dell'adattamento live-action del celebre manga e anime è un evento imperdibile per la Gen Z, che è cresciuta con le avventure di Luffy e della sua ciurma. La serie è virale sui social, specialmente TikTok, per la fedeltà all'opera originale e la spettacolarità delle scene d'azione.",
       "posterUrl": ""
     },
     {
-      "title": "Demon Slayer: Kimetsu no Yaiba (Stagione 5)",
+      "title": "Euphoria Stagione 3",
       "type": "tv",
-      "platform": "Netflix",
+      "platform": "Sky",
       "target": "Gen Z",
       "rank": 2,
-      "description": "L'attesissima nuova stagione di uno degli anime più popolari a livello globale, un evento imperdibile per gli appassionati di anime della Gen Z.",
+      "description": "Nonostante l'uscita sia prevista per aprile, la terza stagione di 'Euphoria' è già tra le serie più discusse e attese dalla Gen Z in Italia a marzo, grazie al suo stile visivo unico, alle tematiche complesse e realistiche sull'adolescenza, e al forte impatto culturale che ha sui social media come TikTok e Instagram.",
       "posterUrl": ""
     },
     {
-      "title": "Steel Ball Run – Le bizzarre avventure di JoJo",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": 3,
-      "description": "Il nuovo arco narrativo dell'iconica serie anime/manga è un appuntamento fisso per il fedele e appassionato pubblico Gen Z.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/saqAUkE10gq9HYczLy5P4EDETfR.jpg"
-    },
-    {
-      "title": "Il serial killer di TikTok",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": 4,
-      "description": "Una docuserie che cattura l'attenzione della Gen Z per il suo tema di true crime e il riferimento diretto alla cultura di TikTok.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qAf0KsU9jNUGNDUYqcJyJ8z8m8O.jpg"
-    },
-    {
-      "title": "Notte Prima Degli Esami 3.0",
+      "title": "Scream 7",
       "type": "movie",
       "platform": "Cinema",
       "target": "Gen Z",
+      "rank": 3,
+      "description": "Il settimo capitolo del franchise slasher 'Scream' attira la Gen Z per il suo mix di horror, mistero e meta-commento sul genere, elementi che risuonano con il pubblico più giovane amante dei film da brivido e delle discussioni sui plot twist sui social.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3b10Tv8RvLf2RmVK9zJ01ewSTVh.jpg"
+    },
+    {
+      "title": "Invincible Stagione 4",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "target": "Gen Z",
+      "rank": 4,
+      "description": "La serie animata per adulti 'Invincible' è molto popolare tra la Gen Z per la sua rappresentazione cruda e violenta dei supereroi, le trame complesse e i colpi di scena inaspettati, generando un forte buzz online e discussioni sulle teorie dei fan.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Minerva Academy",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
       "rank": 5,
-      "description": "Definito un 'cult generazionale' per la Gen Z, il film affronta le ansie e le esperienze di crescita, creando un forte senso di identificazione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/akMWdGoPmiBNBTCX3WpMLr8q2u3.jpg"
+      "description": "Questa nuova serie 'young adult' italiana di Netflix è pensata specificamente per la Gen Z, affrontando temi di crescita, identità e relazioni in un contesto scolastico, con un cast di giovani attori emergenti che la rendono immediatamente riconoscibile e condivisibile.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Solar Opposites Stagione 6",
+      "type": "tv",
+      "platform": "Disney+",
+      "target": "Gen Z",
+      "rank": 6,
+      "description": "La sesta stagione di questa irriverente serie animata per adulti continua a divertire la Gen Z con il suo umorismo surreale, le situazioni estreme e la satira sociale, rendendola un contenuto ideale per la condivisione di clip e meme sui social.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Non è un paese per single",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "target": "Gen Z",
+      "rank": 7,
+      "description": "Tratto dal bestseller di Felicia Kingsley, autrice molto amata e virale su BookTok, questa commedia romantica italiana è attesissima dalla Gen Z per la sua storia fresca e contemporanea, i personaggi relazionabili e l'ambientazione suggestiva.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tEMUd8qLePMo5e0zlyiwwHPIJlO.jpg"
+    },
+    {
+      "title": "My 2 Cents",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 8,
+      "description": "La nuova animazione per adulti di Zerocalcare su Netflix è un appuntamento fisso per la Gen Z e i giovani Millennials, che si identificano con il suo stile unico, l'umorismo autoironico e la capacità di affrontare temi generazionali con intelligenza e sensibilità.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Daredevil: Rinascita Stagione 2",
+      "type": "tv",
+      "platform": "Disney+",
+      "target": "Gen Z",
+      "rank": 9,
+      "description": "Il ritorno di Daredevil su Disney+ con la sua seconda stagione è un evento per la Gen Z appassionata di supereroi con un'estetica più cupa e matura, apprezzando l'azione intensa e la complessità morale del personaggio.",
+      "posterUrl": ""
     },
     {
       "title": "Lucky Luke",
       "type": "tv",
       "platform": "Disney+",
       "target": "Gen Z",
-      "rank": 6,
-      "description": "Una rivisitazione moderna e live-action del classico personaggio, che attira la Gen Z più giovane con la sua avventura e uno stile contemporaneo.",
+      "rank": 10,
+      "description": "Questa nuova serie su Lucky Luke, con un approccio moderno e avventuroso, attrae la Gen Z grazie a una rivisitazione dinamica di un classico, con un focus su un'eroina diciottenne che la rende più vicina ai gusti attuali.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3dCO02aOGaKTdwDJaXtqlGa1GlF.jpg"
     },
     {
-      "title": "Something Very Bad Is Going to Happen",
+      "title": "Bridgerton Stagione 4",
       "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": 7,
-      "description": "Prodotta dai creatori di Stranger Things (Duffer Brothers), questa serie horror/mistery è molto attesa dalla Gen Z, amante del genere e delle trame ricche di suspense.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/l3VBoveclM5nXbQVpE4plwdydjp.jpg"
-    },
-    {
-      "title": "BTS: Il Ritorno",
-      "type": "movie",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": 8,
-      "description": "Un documentario sul gruppo K-pop di fama mondiale BTS, estremamente popolare tra la Gen Z, che segue il loro attesissimo ritorno.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Miraculous World: Tokyo, Stellar Force",
-      "type": "movie",
-      "platform": "Disney+",
-      "target": "Gen Z",
-      "rank": 9,
-      "description": "Un'avventura animata che sta riscuotendo successo tra il pubblico più giovane, inclusa la fascia più giovane della Gen Z, per le sue tematiche eroiche e l'ambientazione internazionale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vFaopnGXRXxRf4z2Z3IgA1QtOyV.jpg"
-    },
-    {
-      "title": "Heartbreak High (Stagione 3)",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": 10,
-      "description": "Una serie che esplora le dinamiche e i drammi della vita liceale, molto amata dalla Gen Z per la sua autenticità e la rappresentazione di temi giovanili.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Peaky Blinders: The Immortal Man",
-      "type": "movie",
       "platform": "Netflix",
       "target": "Millennials",
       "rank": 1,
-      "description": "Il film conclusivo dell'acclamata serie è un evento imperdibile per i Millennials che hanno seguito la saga di Tommy Shelby, offrendo una chiusura attesa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bUQ1STjQcOkeb8Xp4IsG6zjnwTP.jpg"
+      "description": "La quarta stagione di 'Bridgerton' continua a dominare le conversazioni tra i Millennials, attratti dal mix di romanticismo, dramma in costume, estetica sontuosa e trame avvincenti che la rendono un fenomeno culturale ampiamente discusso su piattaforme come Instagram e X.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Scrubs Revival",
+      "type": "tv",
+      "platform": "Disney+",
+      "target": "Millennials",
+      "rank": 2,
+      "description": "Il revival di 'Scrubs' è un forte richiamo nostalgico per i Millennials, che hanno amato la serie originale durante la loro giovinezza. Il ritorno dei personaggi iconici e l'umorismo medico-comico generano grande entusiasmo e discussioni sui social.",
+      "posterUrl": ""
+    },
+    {
+      "title": "House of the Dragon Stagione 3",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Millennials",
+      "rank": 3,
+      "description": "La terza stagione di 'House of the Dragon' è tra le serie più attese dai Millennials, che sono stati il pubblico principale di 'Game of Thrones'. La continuazione della saga dei Targaryen promette intrighi, draghi e battaglie epiche, mantenendo alta l'attenzione e le discussioni online.",
+      "posterUrl": ""
     },
     {
       "title": "Scarpetta",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "target": "Millennials",
-      "rank": 2,
-      "description": "Un thriller investigativo con Nicole Kidman, basato sui romanzi bestseller, che attrae i Millennials per le sue trame complesse e la protagonista carismatica.",
+      "rank": 4,
+      "description": "Questa nuova serie crime/thriller con Nicole Kidman nel ruolo della protagonista Kay Scarpetta attrae i Millennials per la sua trama avvincente, l'alta qualità produttiva e la presenza di un'attrice di calibro, elementi che garantiscono un'esperienza di visione coinvolgente e discussioni approfondite.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6h8JXG3ffxb1l1DutYxyOAOuBhb.jpg"
     },
     {
-      "title": "Daredevil: Born Again (Stagione 2)",
-      "type": "tv",
-      "platform": "Disney+",
-      "target": "Millennials",
-      "rank": 3,
-      "description": "Il ritorno di un amato eroe Marvel in una serie più matura e oscura, apprezzata dai Millennials per la profondità narrativa e l'azione.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Scrubs (Stagione 10)",
-      "type": "tv",
-      "platform": "Disney+",
-      "target": "Millennials",
-      "rank": 4,
-      "description": "Il revival di questa iconica comedy medica offre un forte richiamo nostalgico e un comfort viewing per i Millennials che l'hanno amata in passato.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Avvocato Ligas",
+      "title": "Gomorra – Le Origini",
       "type": "tv",
       "platform": "Sky",
       "target": "Millennials",
       "rank": 5,
-      "description": "Un legal drama italiano con Luca Argentero, che cattura l'attenzione dei Millennials per la sua trama avvincente e un protagonista carismatico e controverso.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg"
+      "description": "Il prequel della celebre serie italiana 'Gomorra' è un must per i Millennials che hanno seguito la saga fin dall'inizio. La possibilità di esplorare le radici della criminalità organizzata napoletana con nuovi personaggi e un racconto più radicato nel passato genera grande interesse e dibattito.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
     },
     {
-      "title": "Outlander (Stagione 8)",
+      "title": "The Lincoln Lawyer Stagione 4",
       "type": "tv",
-      "platform": "Sky",
+      "platform": "Netflix",
       "target": "Millennials",
       "rank": 6,
-      "description": "L'ultima stagione di questa popolare serie storico-romantica è un appuntamento cruciale per il vasto pubblico Millennial che ha seguito le vicende di Claire e Jamie.",
+      "description": "La quarta stagione di 'The Lincoln Lawyer' continua a essere un successo tra i Millennials, che apprezzano i legal drama ben scritti, i casi complessi e il carisma del protagonista. La serie mantiene un posto fisso nelle classifiche di popolarità.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Un Bel Giorno",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Millennials",
+      "rank": 7,
+      "description": "La commedia sentimentale italiana con Fabio De Luigi e Virginia Raffaele ha avuto un ottimo esordio al cinema, attraendo i Millennials con la sua storia romantica e divertente, i dialoghi brillanti e la chimica tra i due attori molto amati dal pubblico italiano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lfl48xTTCWwXcXIYgi8XgRZyBlv.jpg"
+    },
+    {
+      "title": "Virgin River Stagione 7",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 8,
+      "description": "La settima stagione di 'Virgin River' continua a essere una delle serie romantiche più seguite dai Millennials, che si immergono nelle vicende emotive e relazionali dei personaggi, apprezzando le atmosfere accoglienti e le storie di vita quotidiana.",
       "posterUrl": ""
     },
     {
@@ -150,36 +168,18 @@
       "type": "tv",
       "platform": "Amazon Prime Video",
       "target": "Millennials",
-      "rank": 7,
-      "description": "Un prequel diretto da Guy Ritchie che offre una nuova prospettiva sul celebre detective, apprezzato dai Millennials per il mix di mistero, azione e stile.",
+      "rank": 9,
+      "description": "Questa nuova serie che esplora la giovinezza di Sherlock Holmes, con un cast intrigante e la regia di Guy Ritchie, cattura l'attenzione dei Millennials amanti del mistero e delle storie di origini, offrendo una prospettiva fresca su un personaggio iconico.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/BMBWTgvL41sOYtfkmXen6nm9mG.jpg"
     },
     {
-      "title": "Virgin River (Stagione 7)",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Millennials",
-      "rank": 8,
-      "description": "Continua ad essere una 'comfort series' molto seguita dai Millennials, grazie alle sue storie di amore, comunità e resilienza.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Bad Boys: Ride or Die",
+      "title": "Notte prima degli esami 3.0",
       "type": "movie",
-      "platform": "Netflix",
-      "target": "Millennials",
-      "rank": 9,
-      "description": "L'ultimo capitolo di un franchise d'azione-commedia di lunga data, che attira i Millennials con il suo appeal nostalgico e le star familiari.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4J7OK01e5N8qF0VqzoFuhDmq4kk.jpg"
-    },
-    {
-      "title": "Vladimir",
-      "type": "tv",
-      "platform": "Netflix",
+      "platform": "Cinema",
       "target": "Millennials",
       "rank": 10,
-      "description": "Una miniserie provocatoria che esplora temi di ossessione e desiderio, attraente per i Millennials che cercano drammi psicologici e storie complesse.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/j02VBIGVIk2OTwTUZ1YzyzcONAy.jpg"
+      "description": "Il terzo capitolo di 'Notte prima degli esami' è un'operazione nostalgia che risuona profondamente con i Millennials, rievocando ricordi legati al periodo della maturità e offrendo una commedia che unisce il passato al presente con un tocco di malinconia e umorismo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/akMWdGoPmiBNBTCX3WpMLr8q2u3.jpg"
     }
   ]
 }
