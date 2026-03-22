@@ -1,185 +1,185 @@
 {
-  "date": "21/03/2026, 10:19:40",
+  "date": "22/03/2026, 10:20:19",
   "data": [
     {
-      "title": "Il Fabbricante di Lacrime",
+      "title": "Notte prima degli esami 3.0",
       "type": "movie",
+      "platform": "Cinema",
+      "target": "Gen Z",
+      "rank": 1,
+      "description": "Questo film è un'attualizzazione della celebre commedia generazionale, che esplora le dinamiche, le relazioni e l'identità digitale della Gen Z italiana alle prese con l'esame di maturità, rendendolo estremamente rilevante e discusso tra i giovani.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/akMWdGoPmiBNBTCX3WpMLr8q2u3.jpg"
+    },
+    {
+      "title": "One Piece S2",
+      "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": "1",
-      "description": "Basato su un romanzo virale di Wattpad, questo film italiano ha generato un enorme buzz su TikTok nel 2024 e continua ad essere estremamente popolare tra la Gen Z per le sue tematiche romantiche e drammatiche.",
+      "rank": 2,
+      "description": "La seconda stagione dell'adattamento live-action del manga cult è un fenomeno globale, molto atteso e amato dalla Gen Z, che ne apprezza l'epicità e la fedeltà all'opera originale, generando un forte buzz sui social.",
       "posterUrl": ""
     },
     {
-      "title": "Supersex",
+      "title": "Il Serial Killer di TikTok",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": "2",
-      "description": "Nonostante i temi maturi, la serie italiana su Rocco Siffredi ha creato un'ampia discussione e viralità sui social nel 2024, attirando l'attenzione della Gen Z più adulta per la sua audacia e il cast.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aZrdCklOUe4nQ1sbH3j2WjMXGIe.jpg"
+      "rank": 3,
+      "description": "Un documentario che, già dal titolo, intercetta l'interesse della Gen Z per il true crime e la cultura digitale, sfruttando la popolarità di TikTok come veicolo narrativo e di discussione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qAf0KsU9jNUGNDUYqcJyJ8z8m8O.jpg"
     },
     {
-      "title": "One Piece (Live-Action)",
+      "title": "Vladimir",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": "3",
-      "description": "L'adattamento live-action del celebre manga/anime è stato un successo globale nel 2024, catturando sia i fan di lunga data che un nuovo pubblico Gen Z grazie alla sua fedeltà e alla spettacolarità visiva.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mgrEi9VfRoN3bAuhf863f0sWC6A.jpg"
+      "rank": 4,
+      "description": "Questa miniserie è virale per i suoi temi provocatori, l'ironia tagliente e i personaggi complessi e imprevedibili, elementi che attraggono la Gen Z alla ricerca di narrazioni audaci e fuori dagli schemi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/j02VBIGVIk2OTwTUZ1YzyzcONAy.jpg"
     },
     {
-      "title": "Damsel",
-      "type": "movie",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "4",
-      "description": "Questo film fantasy con una forte protagonista femminile è stato uno dei titoli più visti su Netflix a marzo 2024, apprezzato dalla Gen Z per la sua narrativa empowering e l'elemento escapista.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/o0KszzsiJdDqx7qN5D9f0wcISZb.jpg"
-    },
-    {
-      "title": "Young Royals",
+      "title": "Furies S2",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": "5",
-      "description": "Il teen drama svedese continua a essere molto amato dalla Gen Z per la sua rappresentazione autentica delle relazioni LGBTQ+ e l'esplorazione delle pressioni sociali e dell'identità.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uGGAoM8ojRHOXj16n6xWiccKr34.jpg"
-    },
-    {
-      "title": "DI4RI",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "6",
-      "description": "Serie italiana che racconta la vita quotidiana, le amicizie e le sfide degli adolescenti, rendendola estremamente relazionabile e popolare tra la Gen Z italiana.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xKnjd3x8BWKb5hgai8zJ6DEhMym.jpg"
-    },
-    {
-      "title": "Euphoria",
-      "type": "tv",
-      "platform": "Sky",
-      "target": "Gen Z",
-      "rank": "7",
-      "description": "Con la sua rappresentazione cruda e stilizzata di temi complessi come salute mentale, dipendenza e identità, 'Euphoria' rimane una serie di riferimento e molto discussa tra la Gen Z.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3Q0hd3heuWwDWpwcDkhQOA6TYWI.jpg"
-    },
-    {
-      "title": "Sex Education",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "8",
-      "description": "Apprezzata per il suo approccio aperto, umoristico ed empatico alla sessualità e alle relazioni, questa serie offre contenuti preziosi e relazionabili per la Gen Z.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pmwsSCcz8aZOJXsTTrNs8LzGMwt.jpg"
-    },
-    {
-      "title": "Stranger Things",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "9",
-      "description": "Un fenomeno globale che continua a mantenere un forte seguito tra la Gen Z, grazie alla sua trama avvincente, ai personaggi iconici e al mix di fantascienza e nostalgia anni '80.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wZNIKNMqjulcU1AbU6X98tHy9QF.jpg"
-    },
-    {
-      "title": "Come uccidono le brave ragazze",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "10",
-      "description": "Questa serie thriller britannica, con una protagonista adolescente intelligente e autoironica, è stata indicata come un'ottima proposta per il pubblico giovanile, attirando l'interesse della Gen Z per il mistero e i personaggi femminili forti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5c4Wj9czmM0T1zZC5jQmXJwm1dG.jpg"
-    },
-    {
-      "title": "The Gentlemen",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Millennials",
-      "rank": "1",
-      "description": "La serie crime di Guy Ritchie, con il suo stile distintivo, azione e umorismo, è stata un top performer su Netflix a marzo 2024 e continua ad attrarre i Millennials che apprezzano i drammi sofisticati.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg"
-    },
-    {
-      "title": "Il problema dei tre corpi",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Millennials",
-      "rank": "2",
-      "description": "Questa ambiziosa serie di fantascienza, basata su un romanzo acclamato, è stata una delle principali uscite di Netflix a marzo 2024, coinvolgendo i Millennials interessati a narrazioni complesse e di ampio respiro.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pHimzLXxMSZjUvDxRA4fFjvvtxa.jpg"
-    },
-    {
-      "title": "Supersex",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Millennials",
-      "rank": "3",
-      "description": "La serie biografica italiana ha generato un notevole dibattito nel 2024, con le sue tematiche mature e la performance di Alessandro Borghi, rendendola un punto di discussione significativo per i Millennials.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aZrdCklOUe4nQ1sbH3j2WjMXGIe.jpg"
-    },
-    {
-      "title": "Antonia",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "target": "Millennials",
-      "rank": "4",
-      "description": "Una dramedy italiana che esplora le sfide e la scoperta di sé di una donna di 33 anni, risuonando profondamente con le esperienze di vita di molti Millennials.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yqfIPECBlRVyg7z7ckCFTWJuks3.jpg"
-    },
-    {
-      "title": "Call My Agent - Italia 2",
-      "type": "tv",
-      "platform": "Sky",
-      "target": "Millennials",
-      "rank": "5",
-      "description": "L'adattamento italiano della popolare serie francese è apprezzato per il suo umorismo intelligente e i cameo di celebrità, offrendo un intrattenimento sofisticato per il pubblico Millennial.",
+      "rank": 5,
+      "description": "La seconda stagione di questo thriller d'azione è apprezzata dalla Gen Z per il suo ritmo incalzante e la possibilità di un binge-watching coinvolgente, tipico del consumo di contenuti di questa generazione.",
       "posterUrl": ""
     },
     {
-      "title": "Dune: Parte Due",
+      "title": "Arco – Un'amicizia per salvare il futuro",
       "type": "movie",
       "platform": "Cinema",
-      "target": "Millennials",
-      "rank": "6",
-      "description": "Questo sequel di fantascienza visivamente sbalorditivo e acclamato dalla critica è stato un evento cinematografico di rilievo a marzo 2024, attirando i Millennials per la sua portata epica e la narrazione immersiva.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nhdQxDCI64rMgypYZpsF7UvbdJA.jpg"
+      "target": "Gen Z",
+      "rank": 6,
+      "description": "Questo film d'animazione, con la sua storia di viaggi nel tempo e un messaggio ecologista, risuona con la Gen Z, sensibile alle tematiche ambientali e attratta da storie fantastiche con un significato profondo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rgNlpMEkGk6qoLf3pqarw3PSwOs.jpg"
     },
     {
-      "title": "Oppenheimer",
-      "type": "movie",
-      "platform": "Cinema",
-      "target": "Millennials",
-      "rank": "7",
-      "description": "Film del 2024 acclamato dalla critica e ampiamente discusso, continua ad essere rilevante per i Millennials interessati a drammi storici e narrazioni complesse e premiate.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aIwI6oRraxbOetNUuMIoQ3C99cg.jpg"
-    },
-    {
-      "title": "C'è ancora domani",
-      "type": "movie",
-      "platform": "Cinema",
-      "target": "Millennials",
-      "rank": "8",
-      "description": "Un enorme successo al botteghino italiano tra la fine del 2023 e l'inizio del 2024, questo film ha risuonato profondamente con i Millennials per il suo commento sociale e la forte protagonista femminile.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hc9SHN0vB6iyr6MBYI6bKrpDHvJ.jpg"
-    },
-    {
-      "title": "Shogun",
+      "title": "Star Trek: Starfleet Academy",
       "type": "tv",
-      "platform": "Disney+",
-      "target": "Millennials",
-      "rank": "9",
-      "description": "Questo dramma storico meticolosamente realizzato, con intrighi politici e profondità culturale, ha catturato l'attenzione dei Millennials interessati a storie epiche e ambientazioni d'epoca.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
+      "platform": "Paramount+",
+      "target": "Gen Z",
+      "rank": 7,
+      "description": "Una serie sci-fi 'coming-of-age' che unisce un franchise iconico con temi di formazione e scoperta, ideali per la Gen Z che cerca storie di crescita personale e avventura.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oqOQ7MulUJniBvYfzCLx5leHcU2.jpg"
     },
     {
-      "title": "Fallout",
+      "title": "Spider-Noir",
       "type": "tv",
       "platform": "Amazon Prime Video",
+      "target": "Gen Z",
+      "rank": 8,
+      "description": "L'interpretazione dark e investigativa di un supereroe amato, con Nicolas Cage, offre una prospettiva fresca e stilosa che cattura l'attenzione della Gen Z, sempre alla ricerca di rivisitazioni originali.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cRAzL6mmdM6Q6UuQgc335UMgcfd.jpg"
+    },
+    {
+      "title": "Non abbiam bisogno di parole",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 9,
+      "description": "Una storia che esplora il talento vocale e la negoziazione identitaria di un'adolescente, con il debutto di una cantante, toccando corde sensibili per la Gen Z interessata alla musica e alla scoperta di sé.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Girl Taken",
+      "type": "tv",
+      "platform": "Paramount+",
+      "target": "Gen Z",
+      "rank": 10,
+      "description": "Un nuovo thriller che, con la sua trama avvincente e misteriosa, ha il potenziale per diventare virale tra la Gen Z, che spesso si appassiona rapidamente a serie ricche di suspense.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/upUOfPAMhjWDPu8R31r9YvYDfum.jpg"
+    },
+    {
+      "title": "Peaky Blinders: The Immortal Man",
+      "type": "movie",
+      "platform": "Netflix",
       "target": "Millennials",
-      "rank": "10",
-      "description": "L'adattamento live-action del popolare franchise di videogiochi ha attratto un vasto pubblico Millennial, in particolare i gamer, per il suo mix di azione, umorismo nero e ambientazione post-apocalittica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bnayCOZ739OHS2DHPy7ZQDGC8iv.jpg"
+      "rank": 1,
+      "description": "Il film conclusivo della serie cult 'Peaky Blinders' è un evento attesissimo dai Millennials, che hanno seguito con passione le vicende di Tommy Shelby e ne apprezzano lo stile, la complessità narrativa e l'epicità.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4FXce93JqyDQl1B9lNv454Hs6qe.jpg"
+    },
+    {
+      "title": "Portobello",
+      "type": "tv",
+      "platform": "HBO Max",
+      "target": "Millennials",
+      "rank": 2,
+      "description": "Questa serie italiana, diretta da Marco Bellocchio, ripercorre il caso Enzo Tortora, un evento che risuona profondamente nella memoria collettiva italiana e attrae i Millennials interessati a drammi storici e civili.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mS6rJQXFDHk5ZHz6oisEuudpmAo.jpg"
+    },
+    {
+      "title": "Gomorra – le origini",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Millennials",
+      "rank": 3,
+      "description": "Il prequel della celebre serie 'Gomorra' è un must-watch per i Millennials italiani, che hanno fatto della saga un cult e sono ansiosi di esplorare le radici del suo universo criminale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
+    },
+    {
+      "title": "Bridgerton 4",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 4,
+      "description": "La quarta stagione di questa popolare serie romantica continua a incantare i Millennials, in particolare il pubblico femminile, con le sue trame avvincenti, i costumi sontuosi e l'evasione in un mondo d'altri tempi.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Paper",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Millennials",
+      "rank": 5,
+      "description": "Essendo uno spin-off di 'The Office', questa sit-com attira fortemente i Millennials che sono cresciuti con la serie originale e ne apprezzano l'umorismo e lo stile mockumentary.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg"
+    },
+    {
+      "title": "Industry S4",
+      "type": "tv",
+      "platform": "HBO Max",
+      "target": "Millennials",
+      "rank": 6,
+      "description": "Questo thriller finanziario, che segue le vicende di giovani laureati nel mondo della finanza, è molto seguito dai Millennials che apprezzano drammi sofisticati e storie di ambizione e carriera.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Beef 2",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 7,
+      "description": "La seconda stagione di 'Beef', acclamata per il suo umorismo nero e la capacità di esplorare le frustrazioni della vita moderna, risuona con i Millennials che si riconoscono nelle sue tematiche complesse e relazionali.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Cena di classe",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Millennials",
+      "rank": 8,
+      "description": "Descritto come un 'manifesto dei Millennials', questa commedia corale di Francesco Mandelli offre uno sguardo irriverente e agrodolce sulle esperienze e le dinamiche di questa generazione, generando discussione e identificazione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tq62SABP6986u7fYJ39vnexjgFU.jpg"
+    },
+    {
+      "title": "L'ultima missione: Project Hail Mary",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Millennials",
+      "rank": 9,
+      "description": "Un'avventura sci-fi con Ryan Gosling, attore molto popolare tra i Millennials, che offre un mix di azione, fantascienza e una trama avvincente, ideale per un pubblico che cerca intrattenimento di qualità.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg"
+    },
+    {
+      "title": "Un mondo a parte",
+      "type": "movie",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 10,
+      "description": "Questa commedia italiana con Antonio Albanese e Virginia Raffaele, già apprezzata al cinema e ora disponibile su Netflix, offre una narrazione di buoni sentimenti e umorismo che attrae un vasto pubblico adulto, inclusi i Millennials.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/f5ZibJ7crzGLLQ5AygBexzQMtR4.jpg"
     }
   ]
 }
