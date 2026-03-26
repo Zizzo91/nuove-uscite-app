@@ -1,12 +1,12 @@
 {
-  "date": "25/03/2026, 08:45:25",
+  "date": "26/03/2026, 08:54:36",
   "data": [
     {
       "title": "Mercy",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "A popular movie currently at the top of the charts.",
+      "description": "Un film popolare su Amazon Prime Video in Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zhNy3atrXo4DOwmbWbWJx1qy9Wh.jpg"
     },
     {
@@ -14,7 +14,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 2,
-      "description": "A movie that has quickly risen in popularity.",
+      "description": "Un film d'azione tra i più visti sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9cbleJ3OV26wzzIkVjyfsh866pD.jpg"
     },
     {
@@ -22,7 +22,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 3,
-      "description": "This movie is among the most viewed titles on the platform.",
+      "description": "Una commedia romantica con Dakota Johnson, tra le novità più interessanti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nmNi5uMO5earkzK9OL0nsWMQOr7.jpg"
     },
     {
@@ -30,7 +30,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 4,
-      "description": "A trending movie on Amazon Prime Video.",
+      "description": "Un film che si posiziona bene nella classifica di Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/7QXWaSXW4aa9Mg0XIPG9izIgIIf.jpg"
     },
     {
@@ -38,7 +38,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 5,
-      "description": "The magic-heist film continues to attract viewers.",
+      "description": "Il sequel del popolare film di magia, tra i più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
     },
     {
@@ -46,7 +46,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 6,
-      "description": "An adventure movie that is currently popular.",
+      "description": "Un film che cattura l'attenzione degli spettatori di Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hN82mQRMvc3IsbJ63ZQ90ph7V4e.jpg"
     },
     {
@@ -54,39 +54,39 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 7,
-      "description": "This movie is one of the most-watched on the platform.",
+      "description": "Un film popolare nel catalogo di Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/szCUaJsdWO7dTR14MTTHXuxge8b.jpg"
     },
     {
-      "title": "In the Lost Lands",
-      "type": "movie",
+      "title": "Young Sherlock",
+      "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 8,
-      "description": "A movie that has entered the top 10.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iL7XhmTUpBHocjGumilOawM4n4Z.jpg"
+      "description": "Una nuova serie sulla giovinezza di Sherlock Holmes, diretta da Guy Ritchie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg"
     },
     {
-      "title": "The Bluff",
-      "type": "movie",
+      "title": "Scarpetta",
+      "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 9,
-      "description": "A popular movie currently being streamed.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dl1cA7wdwePc9QU2Rc24EPqlcyJ.jpg"
+      "description": "Una nuova serie tratta dal famoso personaggio di Patricia Cornwell, interpretata da Nicole Kidman.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6h8JXG3ffxb1l1DutYxyOAOuBhb.jpg"
     },
     {
-      "title": "Monarch: Legacy of Monsters",
+      "title": "LOVE ME LOVE ME",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "A series listed as a 'TOP 10' title on Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jxreNunNZ1HJLFO24hQ5t4O942w.jpg"
+      "description": "Una nuova serie che segue una ragazza a Milano tra due amori e combattimenti clandestini.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pPdoG5kNcQmsIne4Hq8SoLunpJX.jpg"
     },
     {
       "title": "F1: Il film",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "An action movie about Formula 1, currently the most popular film.",
+      "description": "Un film dedicato al mondo della Formula 1, molto popolare.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
@@ -94,232 +94,232 @@
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 2,
-      "description": "A romantic movie that is highly popular on the platform.",
+      "description": "Un film romantico che si posiziona tra i più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg"
-    },
-    {
-      "title": "Slow Horses",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 3,
-      "description": "A popular TV series on Apple TV+ featuring a team of disgraced MI5 agents.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
     },
     {
       "title": "Highest 2 Lowest",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 4,
-      "description": "A thriller movie currently trending.",
+      "rank": 3,
+      "description": "Un thriller che cattura l'attenzione degli spettatori.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/k60lRQMoQyL1Lha2Z6k6Er9kdgX.jpg"
-    },
-    {
-      "title": "Shrinking",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 5,
-      "description": "A comedy series about a grieving therapist.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
     },
     {
       "title": "Misteri dal profondo",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "A thriller movie that is among the most popular.",
+      "rank": 4,
+      "description": "Un thriller avvincente tra i più popolari sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+    },
+    {
+      "title": "Fountain of Youth - L'eterna giovinezza",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Un film d'azione che figura nella top 10.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kCWGK8QoK8ZPt6sju8pjohG4oxv.jpg"
+    },
+    {
+      "title": "Shrinking",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 6,
+      "description": "Una commedia che segue un terapista in lutto che inizia a dire ai suoi pazienti cosa pensa veramente.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
     },
     {
       "title": "Monarch: Legacy of Monsters",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 7,
-      "description": "An adventure series expanding the MonsterVerse.",
+      "description": "Una serie avventura che espande il MonsterVerse.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jxreNunNZ1HJLFO24hQ5t4O942w.jpg"
     },
     {
-      "title": "Fountain of Youth - L'eterna giovinezza",
-      "type": "movie",
+      "title": "Imperfect Women - Le mie amiche del cuore",
+      "type": "tv",
       "platform": "Apple TV+",
       "rank": 8,
-      "description": "An action movie that has entered the top 10.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kCWGK8QoK8ZPt6sju8pjohG4oxv.jpg"
+      "description": "Un thriller che esplora le dinamiche di amicizia e segreti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/llIM1ApMAY4kFaDYeMtPVUT2jlU.jpg"
     },
     {
-      "title": "Hijack",
+      "title": "L'ultima cosa che mi ha detto",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 9,
-      "description": "A thriller series set on a hijacked plane.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vb1gfEOuRZPlWp5ymAoxQ2G1wkx.jpg"
+      "description": "Una serie mistery basata su un best-seller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iURHI4b3h9QoZlxx5xddtgxsNNj.jpg"
     },
     {
-      "title": "Wolfs - Lupi solitari",
-      "type": "movie",
+      "title": "Ted Lasso",
+      "type": "tv",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "An action movie currently popular on the platform.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nPedyM69paBxP5I2QrajL5ziB7r.jpg"
+      "description": "Una pluripremiata serie comedy su un allenatore di football americano che allena una squadra di calcio inglese.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
     },
     {
       "title": "Peaky Blinders: The Immortal Man",
       "type": "movie",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Cillian Murphy returns as Tommy Shelby in this highly anticipated movie continuation of the popular series.",
+      "description": "Un film che riunisce la famiglia Peaky Blinders, molto popolare in Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4FXce93JqyDQl1B9lNv454Hs6qe.jpg"
-    },
-    {
-      "title": "ONE PIECE: Season 2",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 2,
-      "description": "The second season of the live-action adaptation of the beloved manga continues to be a top-viewed series.",
-      "posterUrl": ""
     },
     {
       "title": "It Ends with Us",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 3,
-      "description": "A popular movie currently trending on the platform.",
+      "rank": 2,
+      "description": "Un film drammatico che ha scalato le classifiche di Netflix Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6KRRJpH9tImMs4z5W2JC1u2L5tX.jpg"
-    },
-    {
-      "title": "The Dinosaurs: Season 1",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "The first season of this show about dinosaurs is among the most popular.",
-      "posterUrl": ""
     },
     {
       "title": "Oi vita mia",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 5,
-      "description": "An Italian movie that has captured viewers' attention.",
+      "rank": 3,
+      "description": "Un film popolare tra gli utenti italiani di Netflix.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xbBW4jBZHLMclWn9D6Dfbp8ymMI.jpg"
-    },
-    {
-      "title": "Bridgerton: Season 4",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "The fourth season of the romantic period drama continues its strong viewership.",
-      "posterUrl": ""
     },
     {
       "title": "War Machine",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 7,
-      "description": "A movie that remains popular on the platform.",
+      "rank": 4,
+      "description": "Un film di guerra satirico che continua a essere tra i più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/30t19PpvZ3GVw9nRsn7TjZh5qEr.jpg"
     },
     {
-      "title": "Virgin River: Season 7",
+      "title": "Transformers One",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "Un film d'animazione che racconta le origini di Optimus Prime e Megatron.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/41caGYMJKZMjlwFXwsIxL1UtUN.jpg"
+    },
+    {
+      "title": "One Piece – stagione 2",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "La seconda stagione della serie live-action che continua le avventure di Monkey D. Luffy.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Emergenza radioattiva",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "Una serie che sta guadagnando terreno nella classifica delle serie TV più viste.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5MxP4pmZWyBA8d27fAaROFsaH1h.jpg"
+    },
+    {
+      "title": "Peaky Blinders",
       "type": "tv",
       "platform": "Netflix",
       "rank": 8,
-      "description": "The seventh season of the drama series is a consistent favorite among viewers.",
-      "posterUrl": ""
+      "description": "La popolare serie TV sulla famiglia Shelby, tornata in classifica.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg"
     },
     {
-      "title": "Heaven Is for Real",
-      "type": "movie",
+      "title": "Virgin River",
+      "type": "tv",
       "platform": "Netflix",
       "rank": 9,
-      "description": "A movie currently in the top rankings.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6xHcVi6E9DXnfGACGM22baXQ2O7.jpg"
+      "description": "Una delle serie originali Netflix più longeve e seguite.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oHEqfmSWR4Ex4V4AJyUn8HGHHnt.jpg"
     },
     {
-      "title": "Vladimir: Limited Series",
+      "title": "Beauty in Black",
       "type": "tv",
       "platform": "Netflix",
       "rank": 10,
-      "description": "A twisty limited series starring Rachel Weisz.",
-      "posterUrl": ""
+      "description": "Una serie in costante ascesa nella top 10 di Netflix Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/i98Jl46WBpK7ymttNOakowtNuFF.jpg"
     },
     {
-      "title": "Spider-Man: No Way Home",
+      "title": "Cinque secondi",
       "type": "movie",
       "platform": "Sky",
       "rank": 1,
-      "description": "The popular superhero movie is currently a top film on NOW TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nt4ydhdArDsjinTrV1lct0pYipA.jpg"
+      "description": "Un film tra i più visti su NOW (e Sky).",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5hPjY75ddE90l6XzfAC6zrMRnNg.jpg"
     },
     {
-      "title": "I peccatori",
+      "title": "Dead of Winter",
       "type": "movie",
       "platform": "Sky",
       "rank": 2,
-      "description": "A movie that is highly viewed on NOW TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
-    },
-    {
-      "title": "Pechino Express",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 3,
-      "description": "The 13th season of the adventure reality show is a popular program on Sky.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/97WBjxeRtwLwapHeHTig7Xt8xMd.jpg"
-    },
-    {
-      "title": "Un semplice incidente",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 4,
-      "description": "This movie is among the most-watched films on NOW TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vrPr6OUKE7yzfti13pEnhx0RZ9O.jpg"
-    },
-    {
-      "title": "Cucine da incubo",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 5,
-      "description": "The 11th season of the show where Chef Antonino Cannavacciuolo helps struggling restaurants.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5tadsgz2UCiLPtUj0mJ8ohCsiWH.jpg"
+      "description": "Un film popolare disponibile su NOW (e Sky).",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg"
     },
     {
       "title": "The Life of Chuck",
       "type": "movie",
       "platform": "Sky",
-      "rank": 6,
-      "description": "A movie currently in the top films on NOW TV.",
+      "rank": 3,
+      "description": "Un film che si mantiene nella top 10 di NOW (e Sky).",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wped8Cw2R74BZK2NIkmDKmWnVYz.jpg"
     },
     {
-      "title": "Hanno Ucciso l'Uomo Ragno - La leggendaria storia degli 883",
+      "title": "Dracula - L'amore perduto",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "Un film sul celebre vampiro, tra i più visti su NOW (e Sky).",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iD35kLvUW6dKPpspA4HP3MPKml6.jpg"
+    },
+    {
+      "title": "Un semplice incidente",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 5,
+      "description": "Un film che continua a essere popolare su NOW (e Sky).",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vrPr6OUKE7yzfti13pEnhx0RZ9O.jpg"
+    },
+    {
+      "title": "Euphoria",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Una serie di culto premiata che affronta temi dell'adolescenza moderna.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
+    },
+    {
+      "title": "The Pitt",
       "type": "tv",
       "platform": "Sky",
       "rank": 7,
-      "description": "A Sky Original series chronicling the legendary story of the Italian music group 883.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/q7AkRxRGiD2s0lO8xY6RbVSPWFl.jpg"
+      "description": "Un medical drama che porta lo spettatore dentro l'adrenalina di un pronto soccorso.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
     },
     {
-      "title": "L'illusione perfetta: Now You See Me: Now You Don't",
-      "type": "movie",
+      "title": "Beverly Hills, 90210",
+      "type": "tv",
       "platform": "Sky",
       "rank": 8,
-      "description": "This movie is also popular on NOW TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cZRWBcAIfln9PpmSE6wCwf4KGLB.jpg"
+      "description": "L'iconica serie televisiva che torna disponibile, un fenomeno pop generazionale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/b7BYfkhu653D894krwGO1ysIKTf.jpg"
     },
     {
-      "title": "Gomorra - La Serie",
+      "title": "Yellowstone",
       "type": "tv",
       "platform": "Sky",
       "rank": 9,
-      "description": "A critically acclaimed Italian crime series that remains highly popular.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg"
+      "description": "Una serie che esplora il conflitto tra un grande ranch e il parco nazionale di Yellowstone.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg"
     },
     {
-      "title": "Top 10 - I più grandi della Storia",
+      "title": "Domina",
       "type": "tv",
       "platform": "Sky",
       "rank": 10,
-      "description": "A show on NOW where experts rank the greatest of all time in various categories.",
-      "posterUrl": ""
+      "description": "Una produzione storica basata sulla vita di Livia Drusilla, la donna più potente di Roma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/n0VBBiQmmYmskL4FVnOi9EsMxkD.jpg"
     }
   ]
 }
