@@ -1,92 +1,92 @@
 {
-  "date": "28/03/2026, 08:37:59",
+  "date": "29/03/2026, 09:44:40",
   "data": [
+    {
+      "title": "Mercy: sotto accusa",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 1,
+      "description": "Un nuovo film che si posiziona in cima alle classifiche di Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zhNy3atrXo4DOwmbWbWJx1qy9Wh.jpg"
+    },
     {
       "title": "INVINCIBLE",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 1,
-      "description": "The animated superhero series based on the comic book of the same name, known for its action and mature themes.",
+      "rank": 2,
+      "description": "La serie animata di supereroi basata sul fumetto di Robert Kirkman, con nuovi episodi molto attesi.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
     },
     {
-      "title": "Monarch: Legacy of Monsters",
-      "type": "tv",
+      "title": "I peccatori",
+      "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "A series expanding the MonsterVerse, exploring the history of Monarch and giant creatures.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jxreNunNZ1HJLFO24hQ5t4O942w.jpg"
+      "rank": 3,
+      "description": "Un film popolare che figura tra i più visti su Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
     },
     {
       "title": "Alex Cross",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "A new season of the detective series based on James Patterson's popular character.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nKeYI3EZ37YqcyENj5fztMsts8q.jpg"
-    },
-    {
-      "title": "Reacher",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
       "rank": 4,
-      "description": "The action-packed series based on Lee Child's Jack Reacher novels, featuring a formidable protagonist.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg"
+      "description": "La nuova stagione della serie basata sui romanzi di James Patterson.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nKeYI3EZ37YqcyENj5fztMsts8q.jpg"
     },
     {
       "title": "Pretty Lethal - Ballerine all'inferno",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 5,
-      "description": "A thriller movie about rival ballerinas caught in a deadly situation.",
+      "description": "Un thriller con ballerine che si ritrovano in una situazione pericolosa.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oqFoq1tiXKlKN1pDd7tvizOsQPe.jpg"
     },
     {
-      "title": "I peccatori",
-      "type": "movie",
+      "title": "Monarch: Legacy of Monsters",
+      "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 6,
-      "description": "A movie that has entered the top 10, indicating strong viewership in Italy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
+      "description": "Una serie che espande l'universo di Godzilla e dei mostri giganti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jxreNunNZ1HJLFO24hQ5t4O942w.jpg"
     },
     {
-      "title": "The Bluff",
+      "title": "Agente Zeta",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 7,
-      "description": "A new film release that has quickly become popular on the platform.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dl1cA7wdwePc9QU2Rc24EPqlcyJ.jpg"
-    },
-    {
-      "title": "Agent Zeta",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "An action movie about a former intelligence officer hunting a survivor.",
+      "description": "Un nuovo film d'azione che segue un agente del CNI.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9cbleJ3OV26wzzIkVjyfsh866pD.jpg"
     },
     {
       "title": "Young Sherlock",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "A new series exploring the early life and adventures of a young Sherlock Holmes.",
+      "rank": 8,
+      "description": "Una nuova serie che esplora la giovinezza del celebre detective Sherlock Holmes.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/h3s0Cd2JppeWA4UjTuSRauL52P7.jpg"
     },
     {
-      "title": "Scarpetta",
+      "title": "Fallout",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "La serie basata sull'acclamato franchise di videogiochi post-apocalittici.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bnayCOZ739OHS2DHPy7ZQDGC8iv.jpg"
+    },
+    {
+      "title": "Maxton Hall – Il mondo tra di noi",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "A series based on Patricia Cornwell's forensic pathologist character, Kay Scarpetta.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6h8JXG3ffxb1l1DutYxyOAOuBhb.jpg"
+      "description": "Una serie che racconta una storia d'amore e dramma in un'esclusiva scuola.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wzd1FLibKsSh5IGbQX01gNg7Q0G.jpg"
     },
     {
       "title": "Shrinking",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "A comedy series starring Jason Segel and Harrison Ford, following a grieving therapist.",
+      "description": "Una commedia drammatica che segue un terapista in lutto che inizia a dire ai suoi pazienti esattamente cosa pensa.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
     },
     {
@@ -94,7 +94,7 @@
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 2,
-      "description": "An action film related to Formula 1, capturing the excitement of racing.",
+      "description": "Un film d'azione legato al mondo della Formula 1.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
@@ -102,63 +102,63 @@
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 3,
-      "description": "An adventure series set in the MonsterVerse, exploring the origins of colossal creatures.",
+      "description": "Una serie d'avventura che espande il MonsterVerse, esplorando la storia della Monarch.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jxreNunNZ1HJLFO24hQ5t4O942w.jpg"
-    },
-    {
-      "title": "Eternity",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 4,
-      "description": "A romantic film that has garnered significant viewership on Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg"
     },
     {
       "title": "Imperfect Women - Le mie amiche del cuore",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 5,
-      "description": "A thriller series about a group of friends and their intertwined lives.",
+      "rank": 4,
+      "description": "Un thriller che esplora le conseguenze di un crimine che sconvolge l'esistenza di tre amiche.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/llIM1ApMAY4kFaDYeMtPVUT2jlU.jpg"
+    },
+    {
+      "title": "Greyhound: il nemico invisibile",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Un film di guerra con Tom Hanks, ambientato durante la Battaglia dell'Atlantico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iJBLPfZkYF5tphFeEULjOMCgwlR.jpg"
     },
     {
       "title": "L'ultima cosa che mi ha detto",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 6,
-      "description": "A mystery series based on the bestselling novel, starring Jennifer Garner.",
+      "description": "Un giallo che segue una donna alla ricerca del marito scomparso, basato sul romanzo best-seller.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iURHI4b3h9QoZlxx5xddtgxsNNj.jpg"
     },
     {
-      "title": "Highest 2 Lowest",
+      "title": "Eternity",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 7,
-      "description": "A thriller movie that is currently popular on the platform.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/k60lRQMoQyL1Lha2Z6k6Er9kdgX.jpg"
+      "description": "Un film romantico che si posiziona tra i più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg"
     },
     {
       "title": "Ted Lasso",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 8,
-      "description": "The acclaimed comedy series about an American football coach hired to manage a British soccer team.",
+      "description": "La pluripremiata commedia che segue un allenatore di football americano che si trasferisce in Inghilterra per allenare una squadra di calcio.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
     },
     {
-      "title": "The Family Plan 2",
+      "title": "The Instigators",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 9,
-      "description": "The second installment of the comedy film, offering family-friendly entertainment.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aUPrVTBfu7NS1D0Z5L5OxWTrZS7.jpg"
+      "description": "Un film d'azione che ha catturato l'attenzione del pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6wXRANRmPRmwbgzpvMuRKasWQNo.jpg"
     },
     {
       "title": "Hijack",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "A real-time thriller series starring Idris Elba, set during a hijacked flight.",
+      "description": "Un thriller ad alta tensione che si svolge in tempo reale a bordo di un aereo dirottato.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vb1gfEOuRZPlWp5ymAoxQ2G1wkx.jpg"
     },
     {
@@ -166,160 +166,160 @@
       "type": "tv",
       "platform": "Netflix",
       "rank": 1,
-      "description": "The second season of the live-action adaptation of the popular manga, continuing the adventures of Monkey D. Luffy and his Straw Hat Pirates.",
-      "posterUrl": ""
-    },
-    {
-      "title": "That Night: Limited Series",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 2,
-      "description": "A limited series that has quickly climbed the charts, offering a compelling narrative.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Virgin River: Season 7",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "The latest season of the popular romantic drama series set in a picturesque small town.",
+      "description": "La seconda stagione dell'adattamento live-action del popolare manga, che segue le avventure dei Pirati di Cappello di Paglia alla ricerca del tesoro One Piece.",
       "posterUrl": ""
     },
     {
       "title": "Peaky Blinders: The Immortal Man",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 4,
-      "description": "A movie continuation of the acclaimed British crime drama series, following the Shelby family.",
+      "rank": 2,
+      "description": "Il film sequel della celebre serie drammatica, con Cillian Murphy che riprende il ruolo di Tommy Shelby.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4FXce93JqyDQl1B9lNv454Hs6qe.jpg"
     },
     {
-      "title": "Oi Vita Mia",
+      "title": "That Night: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 3,
+      "description": "Una serie limitata che cattura l'attenzione del pubblico italiano.",
+      "posterUrl": ""
+    },
+    {
+      "title": "40 secondi",
       "type": "movie",
       "platform": "Netflix",
+      "rank": 4,
+      "description": "Un film che si posiziona tra i più visti sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lJHWc5wnjLdSasFYXtS4O7E212W.jpg"
+    },
+    {
+      "title": "Virgin River: Season 7",
+      "type": "tv",
+      "platform": "Netflix",
       "rank": 5,
-      "description": "An Italian movie that has resonated with local audiences, securing a top spot.",
+      "description": "La settima stagione della serie drammatica romantica ambientata nella pittoresca cittadina di Virgin River.",
+      "posterUrl": ""
+    },
+    {
+      "title": "It Ends with Us",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Un film che continua a essere popolare tra gli spettatori italiani.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6KRRJpH9tImMs4z5W2JC1u2L5tX.jpg"
+    },
+    {
+      "title": "ONE PIECE: Season 1",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "La prima stagione dell'acclamato adattamento live-action di One Piece, ancora molto seguita.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Oi vita mia",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Un film che ha conquistato il pubblico italiano.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xbBW4jBZHLMclWn9D6Dfbp8ymMI.jpg"
     },
     {
       "title": "Radioactive Emergency: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 6,
-      "description": "A new series focusing on a critical emergency, drawing viewers with its suspenseful plot.",
+      "rank": 9,
+      "description": "La prima stagione di una serie che esplora un'emergenza radioattiva.",
       "posterUrl": ""
-    },
-    {
-      "title": "Bridgerton: Season 4",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "The fourth season of the lavish period drama, known for its romance and intricate social dynamics.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Speak No Evil",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 8,
-      "description": "A thriller movie that has captured the attention of Italian viewers.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9FMmosKgAulpi4qe8O7iGBqFZ6v.jpg"
     },
     {
       "title": "War Machine",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 9,
-      "description": "A satirical war film starring Brad Pitt, exploring the complexities of modern warfare.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/30t19PpvZ3GVw9nRsn7TjZh5qEr.jpg"
-    },
-    {
-      "title": "It Ends With Us",
-      "type": "movie",
-      "platform": "Netflix",
       "rank": 10,
-      "description": "A drama film based on the popular novel, dealing with themes of love and difficult choices.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6KRRJpH9tImMs4z5W2JC1u2L5tX.jpg"
-    },
-    {
-      "title": "I peccatori",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 1,
-      "description": "A fanta-thriller directed by Ryan Coogler, starring Michael B. Jordan, about two brothers returning to their hometown.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
-    },
-    {
-      "title": "Cinque secondi",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 2,
-      "description": "A movie that has gained popularity on NOW and Sky.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5hPjY75ddE90l6XzfAC6zrMRnNg.jpg"
-    },
-    {
-      "title": "Dracula - L'amore perduto",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 3,
-      "description": "A film exploring the legendary figure of Dracula with a focus on lost love.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iD35kLvUW6dKPpspA4HP3MPKml6.jpg"
-    },
-    {
-      "title": "The Life of Chuck",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 4,
-      "description": "A movie that is currently trending on NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wped8Cw2R74BZK2NIkmDKmWnVYz.jpg"
+      "description": "Un film di guerra che rimane tra i titoli più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/30t19PpvZ3GVw9nRsn7TjZh5qEr.jpg"
     },
     {
       "title": "Pechino Express",
       "type": "tv",
       "platform": "Sky",
-      "rank": 5,
-      "description": "The popular adventure reality show where contestants race across different countries.",
+      "rank": 1,
+      "description": "Il popolare reality show d'avventura che vede coppie di concorrenti viaggiare attraverso paesi esotici.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/97WBjxeRtwLwapHeHTig7Xt8xMd.jpg"
-    },
-    {
-      "title": "L'uomo invisibile",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 6,
-      "description": "A thriller film that remains a popular choice on NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wZmaBoej0B3dDIEfRqz1w6eFs36.jpg"
-    },
-    {
-      "title": "Jurassic World - La rinascita",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 7,
-      "description": "The latest installment in the Jurassic World saga, featuring new adventures with dinosaurs.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pGPKXLGatnHuNiDwMlRfOsVfCSp.jpg"
-    },
-    {
-      "title": "Cucine da incubo",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 8,
-      "description": "The Italian version of the reality show where chef Antonino Cannavacciuolo helps struggling restaurants.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/10XpD4aEOExWcOg9bxCA28NNsMQ.jpg"
     },
     {
       "title": "Avvocato Ligas",
       "type": "tv",
       "platform": "Sky",
-      "rank": 9,
-      "description": "A TV series that is among the most searched programs on Sky.",
+      "rank": 2,
+      "description": "Una serie drammatica che segue le vicende legali dell'avvocato Ligas.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg"
     },
     {
-      "title": "Un semplice incidente",
+      "title": "The Last of Us",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 3,
+      "description": "La serie post-apocalittica acclamata dalla critica, basata sull'omonimo videogioco.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6WlffOd3bszyndGgsKGcUL6k28n.jpg"
+    },
+    {
+      "title": "Cinque secondi",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "Un film che si distingue tra le proposte cinematografiche di Sky.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5hPjY75ddE90l6XzfAC6zrMRnNg.jpg"
+    },
+    {
+      "title": "Il Re",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 5,
+      "description": "La serie Sky Original con Luca Zingaretti nei panni del direttore di un carcere.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sIFDFiOTOJ6H7TdyT8BBUibrCh3.jpg"
+    },
+    {
+      "title": "And Just Like That…",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Il sequel della celebre serie 'Sex and the City', che segue le vite delle protagoniste a New York.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2b6E0pN19IGsmxSv6HyTKydKKdb.jpg"
+    },
+    {
+      "title": "Il Maestro",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 7,
+      "description": "Un film che racconta un emozionante viaggio di formazione nel mondo del tennis.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fCoSpKyPZDqjYzTdCwG6X2Idnst.jpg"
+    },
+    {
+      "title": "Chernobyl",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 8,
+      "description": "La miniserie Sky e HBO che ricostruisce la catastrofe nucleare del 1986.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg"
+    },
+    {
+      "title": "(Im)perfetti criminali",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 9,
+      "description": "Una action-comedy Sky Original che segue quattro guardie giurate in un colpo grosso.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oKlHgIyM4Ou4F0cW1R0HvgRcV1x.jpg"
+    },
+    {
+      "title": "10 Lives - Un Gatto Fortunato",
       "type": "movie",
       "platform": "Sky",
       "rank": 10,
-      "description": "A movie currently in the top 10 on NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vrPr6OUKE7yzfti13pEnhx0RZ9O.jpg"
+      "description": "Un'animazione divertente targata Sky Original.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gyuCpWMXQM1rwi6qioYdrqy72uZ.jpg"
     }
   ]
 }
