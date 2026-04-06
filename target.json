@@ -1,185 +1,185 @@
 {
-  "date": "05/04/2026, 11:27:40",
+  "date": "06/04/2026, 11:57:22",
   "data": [
-    {
-      "title": "Euphoria",
-      "type": "tv",
-      "platform": "Sky",
-      "target": "Gen Z",
-      "rank": "1",
-      "description": "La terza stagione, in arrivo il 13 aprile 2026, è attesissima dalla Gen Z per la sua rappresentazione cruda e stilizzata delle sfide adolescenziali, la moda iconica e la colonna sonora che la rendono un fenomeno culturale e di discussione sui social.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
-    },
-    {
-      "title": "Stranger Things",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "2",
-      "description": "Con lo spin-off 'Stranger Things: Storie dal 1985' in uscita il 23 aprile 2026, la serie principale mantiene alta la sua popolarità tra la Gen Z, che apprezza il mix di fantascienza, horror e nostalgia anni '80, alimentando un forte fandom online.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wZNIKNMqjulcU1AbU6X98tHy9QF.jpg"
-    },
     {
       "title": "XO, Kitty",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": "3",
-      "description": "La terza stagione, disponibile dal 2 aprile 2026, continua a catturare la Gen Z con la sua trama romantica e leggera, ambientata in un contesto internazionale, che rispecchia il desiderio di storie d'amore inclusive e aspirazionali.",
+      "rank": 1,
+      "description": "Lo spin-off della popolare saga 'To All the Boys' continua a catturare l'attenzione della Gen Z con le sue dinamiche relazionali complesse, ambientazioni esotiche e un cast giovane e carismatico, rendendolo un argomento di discussione frequente sui social media come TikTok.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3o9VE3rEQDUdEABhjltxAtWDrdX.jpg"
     },
     {
-      "title": "L'estate nei tuoi occhi",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "target": "Gen Z",
-      "rank": "4",
-      "description": "Questa serie romantica continua a essere un punto di riferimento per la Gen Z, che si identifica con le dinamiche relazionali, l'estetica estiva e le tematiche di crescita personale, spesso virali su piattaforme come TikTok.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4ucAqEvXoAjQPlh9k4r0LqF9JWJ.jpg"
-    },
-    {
-      "title": "Skam Italia",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "5",
-      "description": "Amata per la sua autenticità e la capacità di affrontare temi rilevanti per gli adolescenti italiani, 'Skam Italia' rimane una serie cult per la Gen Z, che ne apprezza la rappresentazione realistica delle amicizie e delle prime esperienze.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9XOJpyalPs43SuU9hbcvKnAwKPs.jpg"
-    },
-    {
-      "title": "Super Mario Galaxy Il Film",
+      "title": "Super Mario Galaxy – Il film",
       "type": "movie",
       "platform": "Cinema",
       "target": "Gen Z",
-      "rank": "6",
-      "description": "Attualmente al primo posto al botteghino (al 4 aprile 2026), questo film animato attira la Gen Z per la nostalgia legata al celebre videogioco e per l'esperienza cinematografica di un blockbuster colorato e divertente.",
+      "rank": 2,
+      "description": "Il film d'animazione basato sull'iconico videogioco è un successo al botteghino, attirando la Gen Z che è cresciuta con i personaggi di Mario e apprezza l'estetica colorata e l'avventura.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pxH7Hqg8dSROSunEQyUPLtTeEQy.jpg"
     },
     {
-      "title": "Dune: Parte Due",
-      "type": "movie",
-      "platform": "Cinema",
-      "target": "Gen Z",
-      "rank": "7",
-      "description": "Il suo impatto visivo, la trama epica di fantascienza e la presenza di attori iconici per la Gen Z come Zendaya e Timothée Chalamet, lo rendono un film molto discusso e apprezzato, ancora forte al cinema a fine marzo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nhdQxDCI64rMgypYZpsF7UvbdJA.jpg"
-    },
-    {
-      "title": "Challengers",
-      "type": "movie",
-      "platform": "Cinema",
-      "target": "Gen Z",
-      "rank": "8",
-      "description": "Con Zendaya come protagonista, questo dramma sportivo è un'uscita cinematografica che cattura l'attenzione della Gen Z per il suo stile, la tensione narrativa e il cast di tendenza.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/81tKWsMg90EmFRDTlsTIE5ouKWy.jpg"
-    },
-    {
-      "title": "Heartstopper",
+      "title": "Stranger Things: Storie dal 1985",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": "9",
-      "description": "Questa serie continua a essere un 'comfort show' per la Gen Z, celebrata per la sua rappresentazione positiva e inclusiva delle relazioni LGBTQ+, generando costantemente discussioni e fan art sui social media.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wJJt1HG62h3WoGnLcRIbO2nNNkg.jpg"
+      "rank": 3,
+      "description": "Questo spin-off animato espande l'universo di 'Stranger Things', una serie cult per la Gen Z, offrendo nuovi misteri e creature in un formato fresco che mantiene vivo l'interesse per il franchise.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg"
     },
     {
-      "title": "Arcane",
+      "title": "Non abbiam bisogno di parole",
+      "type": "movie",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 4,
+      "description": "Questa produzione italiana, con il debutto attoriale di Sarah Toscano, affronta temi di crescita personale, dinamiche familiari e desiderio di emancipazione, risuonando con le esperienze e le aspirazioni della Gen Z.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ptWVRyHpDYDoU1vWR2jBQOFSE24.jpg"
+    },
+    {
+      "title": "The Bad Boy and Me",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "target": "Gen Z",
+      "rank": 5,
+      "description": "Ispirato a un popolare romanzo di Wattpad, questo film cattura l'immaginario della Gen Z con la sua storia d'amore tra una cheerleader ambiziosa e un 'bad boy', un archetipo molto amato in questa fascia d'età.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg"
+    },
+    {
+      "title": "Love Me Love Me",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "target": "Gen Z",
+      "rank": 6,
+      "description": "Un altro film ispirato a Wattpad, con un cast internazionale giovane e una trama che mescola romanticismo e il mondo dei combattimenti clandestini, elementi che attraggono fortemente la Gen Z.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg"
+    },
+    {
+      "title": "Star Wars: Maul - Shadow Lord",
+      "type": "tv",
+      "platform": "Disney+",
+      "target": "Gen Z",
+      "rank": 7,
+      "description": "Questa nuova serie animata nell'universo di Star Wars offre una prospettiva fresca su un personaggio iconico, mantenendo l'interesse dei giovani fan della saga e introducendo nuove dinamiche narrative.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eNbAxoeEARfHmm7fd6u2eSxNQ8k.jpg"
+    },
+    {
+      "title": "Troppo cattivi: La serie",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": "10",
-      "description": "Apprezzata per la sua animazione rivoluzionaria e la narrazione complessa, 'Arcane' è un punto di riferimento per la Gen Z che cerca contenuti visivamente innovativi e storie profonde, spesso discussa nelle community online di gaming e animazione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg"
+      "rank": 8,
+      "description": "La serie animata, basata sul film di successo, offre intrattenimento leggero e avvincente, ideale per un pubblico giovane che cerca storie divertenti e personaggi accattivanti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1F19BFivPc2N3sXJ4461cWsrK33.jpg"
     },
     {
-      "title": "La legge di Lidia Poët",
+      "title": "I Peccati di Kujo",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 9,
+      "description": "L'adattamento live-action di un popolare manga giapponese attrae la Gen Z, spesso appassionata di anime e manga, con la sua esplorazione di legge, moralità e il lato oscuro della società.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1eHY0eqE6ricIouCyxMfAFm6D6i.jpg"
+    },
+    {
+      "title": "Running Point",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 10,
+      "description": "La seconda stagione di questo drama sportivo, ambientato nel mondo del basket professionistico, risuona con la Gen Z per i suoi temi di ambizione, competizione e le sfide di una donna in un ambiente dominato dagli uomini.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg"
+    },
+    {
+      "title": "La legge di Lidia Poët 3",
       "type": "tv",
       "platform": "Netflix",
       "target": "Millennials",
-      "rank": "1",
-      "description": "La terza stagione, disponibile dal 15 aprile 2026, è molto attesa dai Millennials italiani che apprezzano le produzioni nazionali di qualità, i drammi storici e le figure femminili forti e indipendenti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nMukXo1oufnu2ehuiFEKFtCZS9T.jpg"
+      "rank": 1,
+      "description": "Il ritorno della serie italiana in costume, che racconta la storia della prima avvocata d'Italia, è molto atteso dai Millennials che apprezzano drammi storici con un forte messaggio di emancipazione e giustizia.",
+      "posterUrl": ""
     },
     {
-      "title": "The Boys",
+      "title": "BEEF 2",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 2,
+      "description": "Dopo il successo della prima stagione, la seconda stagione di questa dark comedy antologica è un argomento di grande discussione tra i Millennials per la sua capacità di esplorare le conseguenze estreme di un conflitto apparentemente banale.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Boys 5",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "target": "Millennials",
-      "rank": "2",
-      "description": "Con la quinta stagione in arrivo l'8 aprile 2026, la serie continua a riscuotere successo tra i Millennials per la sua satira pungente sul mondo dei supereroi, l'azione violenta e i temi complessi che stimolano la discussione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
+      "rank": 3,
+      "description": "La quinta stagione di questa serie di supereroi satirica e irriverente è molto popolare tra i Millennials per la sua critica sociale pungente, le scene d'azione intense e i personaggi complessi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/si8ODKd2DKmwrt96LmQvod4JANQ.jpg"
     },
     {
-      "title": "Avvocato Ligas",
+      "title": "Euphoria 3",
       "type": "tv",
       "platform": "Sky",
       "target": "Millennials",
-      "rank": "3",
-      "description": "Questo legal drama italiano, con l'episodio finale il 3 aprile 2026, attrae i Millennials per la trama avvincente, il carisma del protagonista Luca Argentero e la capacità di affrontare questioni legali e morali complesse.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg"
+      "rank": 4,
+      "description": "L'attesissima terza stagione di 'Euphoria', con i suoi temi maturi e la rappresentazione cruda delle sfide adolescenziali, continua a generare un'intensa discussione e speculazione tra i Millennials che hanno seguito la serie fin dall'inizio.",
+      "posterUrl": ""
     },
     {
-      "title": "Ripley",
+      "title": "Beverly Hills 90210",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Millennials",
+      "rank": 5,
+      "description": "Il ritorno in HD di questo iconico teen drama degli anni '90 è un'operazione nostalgia di grande successo per i Millennials, che possono rivivere le storie dei personaggi che hanno definito la loro giovinezza.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/b7BYfkhu653D894krwGO1ysIKTf.jpg"
+    },
+    {
+      "title": "Malcolm: Che vita!",
+      "type": "tv",
+      "platform": "Disney+",
+      "target": "Millennials",
+      "rank": 6,
+      "description": "Il revival di questa amata sitcom dei primi anni 2000 è un forte richiamo per i Millennials, che provano nostalgia per la serie originale e sono curiosi di vedere come sono cresciuti i personaggi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vvsbnSMvTvWauizirxggtq1snaN.jpg"
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "type": "tv",
+      "platform": "Disney+",
+      "target": "Millennials",
+      "rank": 7,
+      "description": "La disponibilità di tutte le stagioni di questo acclamato dramma distopico continua ad attrarre i Millennials per la sua narrazione potente, i temi sociali rilevanti e le performance attoriali intense.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bn2oFJDMKwIIfwBSHuY561GRBMJ.jpg"
+    },
+    {
+      "title": "Man on Fire - Sete di vendetta",
       "type": "tv",
       "platform": "Netflix",
       "target": "Millennials",
-      "rank": "4",
-      "description": "Il thriller psicologico in bianco e nero è molto apprezzato dai Millennials per la sua estetica raffinata, la suspense e la performance attoriale, generando dibattiti sulla sua qualità e fedeltà al materiale originale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rpSo8z9alultGVTqQ3dkLEyU8xx.jpg"
+      "rank": 8,
+      "description": "Questa nuova serie, ispirata al celebre film, attrae i Millennials con la sua trama d'azione e vendetta, un genere che spesso riscuote successo tra un pubblico adulto.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/d3nPGZqPWXKmqMGVM3zBCyWLVGP.jpg"
     },
     {
-      "title": "Fallout",
+      "title": "LOL: Chi ride è fuori S6",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "target": "Millennials",
-      "rank": "5",
-      "description": "L'adattamento del celebre videogioco è un successo tra i Millennials, molti dei quali sono cresciuti con il franchise, apprezzando l'ambientazione post-apocalittica, l'azione e l'umorismo nero.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bnayCOZ739OHS2DHPy7ZQDGC8iv.jpg"
+      "rank": 9,
+      "description": "La sesta stagione del popolare comedy show italiano continua a essere un appuntamento fisso per i Millennials, che apprezzano l'umorismo dei comici e le dinamiche della competizione.",
+      "posterUrl": ""
     },
     {
-      "title": "The Bear",
-      "type": "tv",
+      "title": "Spider-Man: No Way Home",
+      "type": "movie",
       "platform": "Disney+",
       "target": "Millennials",
-      "rank": "6",
-      "description": "Questa serie acclamata dalla critica continua a essere popolare tra i Millennials per la sua rappresentazione intensa e realistica del mondo della ristorazione, le dinamiche familiari complesse e lo sviluppo dei personaggi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
-    },
-    {
-      "title": "House of the Dragon",
-      "type": "tv",
-      "platform": "Sky",
-      "target": "Millennials",
-      "rank": "7",
-      "description": "Il prequel di 'Game of Thrones' mantiene un forte seguito tra i Millennials, che continuano a seguire le intricate vicende politiche e i drammi familiari dell'universo di Westeros.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
-    },
-    {
-      "title": "Only Murders in the Building",
-      "type": "tv",
-      "platform": "Disney+",
-      "target": "Millennials",
-      "rank": "8",
-      "description": "La commedia-mystery è amata dai Millennials per il suo umorismo intelligente, il cast stellare e le trame avvincenti che offrono un intrattenimento leggero ma coinvolgente.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dGzOXiVFZRfIWCPE82bYqfEOxb1.jpg"
-    },
-    {
-      "title": "Ted Lasso",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "target": "Millennials",
-      "rank": "9",
-      "description": "Con il suo messaggio positivo, l'umorismo e i personaggi ben sviluppati, 'Ted Lasso' continua a essere una serie apprezzata dai Millennials in cerca di storie edificanti e di 'comfort viewing'.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
-    },
-    {
-      "title": "Bridgerton",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Millennials",
-      "rank": "10",
-      "description": "Questa serie in costume continua a generare grande interesse tra i Millennials per le sue storie romantiche, l'estetica sontuosa e la capacità di creare un vivace dibattito sui social media riguardo ai personaggi e alle trame.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8vjbR0TcjKVZ4WdqMma2mLaL0Qx.jpg"
+      "rank": 10,
+      "description": "L'arrivo in streaming di uno dei film Marvel più iconici e discussi degli ultimi anni è un evento per i Millennials, che hanno un forte legame con il personaggio di Spider-Man e apprezzano le sue avventure spettacolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nt4ydhdArDsjinTrV1lct0pYipA.jpg"
     }
   ]
 }
