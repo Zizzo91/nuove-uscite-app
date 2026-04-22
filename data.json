@@ -1,58 +1,13 @@
 {
-  "date": "20/04/2026, 09:13:50",
+  "date": "22/04/2026, 08:55:12",
   "data": [
-    {
-      "title": "L'amore nello spettro",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-04-01",
-      "displayDate": "1 Aprile 2026",
-      "description": "Una serie reality/documentario che esplora l'amore e le relazioni.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7QnZq8yGLCHk4gFSsPRjAsAa4m1.jpg"
-    },
-    {
-      "title": "Sarah Millican: Late Bloomer",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-04-01",
-      "displayDate": "1 Aprile 2026",
-      "description": "Uno speciale di stand-up comedy.",
-      "posterUrl": ""
-    },
-    {
-      "title": "L'ultimo gigante",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-04-01",
-      "displayDate": "1 Aprile 2026",
-      "description": "Un documentario o un dramma.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Podlasie - Tutti per uno",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-04-01",
-      "displayDate": "1 Aprile 2026",
-      "description": "Una serie documentaristica o reality.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Mangia prega abbaia",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-04-01",
-      "displayDate": "1 Aprile 2026",
-      "description": "Una serie leggera o un documentario.",
-      "posterUrl": ""
-    },
     {
       "title": "Crime 101",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-04-01",
       "displayDate": "1 Aprile 2026",
-      "description": "Un thriller su un meticoloso ladro di gioielli la cui strada si incrocia con quella di una broker assicurativa e un detective.",
+      "description": "Thriller classico con Chris Hemsworth, Halle Berry e Mark Ruffalo, incentrato su un ladro di gioielli e la caccia all'uomo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ouD5CS3DPyarfQkJf5kWF6akptZ.jpg"
     },
     {
@@ -61,8 +16,17 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-04-01",
       "displayDate": "1 Aprile 2026",
-      "description": "Un film Prime Original italiano su June, che si trasferisce in Italia per ricominciare dopo la morte del fratello.",
+      "description": "Film Prime Original italiano con cast internazionale, su una ragazza che si trasferisce in Italia per ricominciare.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg"
+    },
+    {
+      "title": "Play Dirty - Triplo gioco",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-04-01",
+      "displayDate": "1 Aprile 2026",
+      "description": "Thriller mozzafiato diretto da Shane Black, con Mark Wahlberg nei panni di un ladro di talento.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/604rBO6uIYBRbDruXq5o7W57nzl.jpg"
     },
     {
       "title": "Dear killer nannies",
@@ -70,7 +34,7 @@
       "platform": "Disney+",
       "releaseDate": "2026-04-01",
       "displayDate": "1 Aprile 2026",
-      "description": "Un bambino scopre che le sue tate sono sicari assoldati per sacrificare la propria vita per la sua famiglia, e che suo padre è Pablo Escobar.",
+      "description": "Un bambino circondato dal lusso scopre che le sue baby sitter sono sicari e suo padre è Pablo Escobar.",
       "posterUrl": ""
     },
     {
@@ -79,7 +43,7 @@
       "platform": "Disney+",
       "releaseDate": "2026-04-01",
       "displayDate": "1 Aprile 2026",
-      "description": "Una docuserie di National Geographic che rivela lo straordinario mondo delle api.",
+      "description": "Nuova serie originale di National Geographic, condotta da Bertie Gregory, che rivela lo straordinario mondo delle api.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/60V1dxBjJTMqwnL2Us4RAZS4giv.jpg"
     },
     {
@@ -88,7 +52,7 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-04-01",
       "displayDate": "1 Aprile 2026",
-      "description": "Diretto da Andrea Di Stefano, un viaggio di formazione nel mondo del tennis.",
+      "description": "Un film in uscita su Sky ad aprile.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg"
     },
     {
@@ -97,7 +61,7 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-04-01",
       "displayDate": "1 Aprile 2026",
-      "description": "Un sequel.",
+      "description": "Un film in uscita su Sky ad aprile.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gYuaju3hqkcxRjlCPgXlW2zthXT.jpg"
     },
     {
@@ -106,7 +70,7 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-04-01",
       "displayDate": "1 Aprile 2026",
-      "description": "Un sequel.",
+      "description": "Un film in uscita su Sky ad aprile.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8RXDbeVG9Tb0z8FWPph77uJsTkd.jpg"
     },
     {
@@ -115,7 +79,7 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-04-01",
       "displayDate": "1 Aprile 2026",
-      "description": "Un film di Jim Jarmusch che racconta tre storie sulle relazioni tra figli, fratelli e genitori distanti.",
+      "description": "Film di Jim Jarmusch, Leone d'Oro alla Mostra del Cinema di Venezia 2025, che racconta le relazioni familiari.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/96O3Ol3f2veMxAxYqsML8rOumB9.jpg"
     },
     {
@@ -124,7 +88,7 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-04-01",
       "displayDate": "1 Aprile 2026",
-      "description": "Un dramma.",
+      "description": "Un film in uscita su Sky ad aprile.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tP036DZlwH3wt2pQW9yvBFUYDXF.jpg"
     },
     {
@@ -133,26 +97,8 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-04-01",
       "displayDate": "1 Aprile 2026",
-      "description": "Un dramma o un documentario.",
+      "description": "Un film in uscita su Sky ad aprile.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dxMJK7Ugfs7M0Ac9qFIHsmeX3k2.jpg"
-    },
-    {
-      "title": "The Drama - Un segreto è per sempre",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-04-01",
-      "displayDate": "1 Aprile 2026",
-      "description": "Una storia tra romanticismo e inquietudine che esplora relazioni e segreti con toni surreali, con Zendaya e Robert Pattinson.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg"
-    },
-    {
-      "title": "Tutta Vita",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-04-01",
-      "displayDate": "1 Aprile 2026",
-      "description": "Un film documentario.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kmoSWKB2pgnUyN1E9RP5ETU0q20.jpg"
     },
     {
       "title": "Super Mario Galaxy: Il film",
@@ -160,16 +106,25 @@
       "platform": "Cinema in Italia",
       "releaseDate": "2026-04-01",
       "displayDate": "1 Aprile 2026",
-      "description": "Mario e i suoi amici affrontano una nuova avventura nello spazio contro Bowser Jr.",
+      "description": "Il seguito del blockbuster Super Mario Bros del 2023, una nuova pellicola d'animazione ambientata nell'universo Nintendo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pxH7Hqg8dSROSunEQyUPLtTeEQy.jpg"
     },
     {
-      "title": "XO, Kitty Stagione 3",
+      "title": "The Drama - Un segreto è per sempre",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-04-01",
+      "displayDate": "1 Aprile 2026",
+      "description": "Zendaya e Robert Pattinson esordiscono come coppia sul grande schermo in una storia tra romanticismo e inquietudine.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gWZCkzgSAv6pxdLlhTQNUiFTlAa.jpg"
+    },
+    {
+      "title": "Xo, Kitty stagione 3",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-04-02",
       "displayDate": "2 Aprile 2026",
-      "description": "La terza stagione della serie commedia romantica.",
+      "description": "Terza stagione della serie spin-off di 'To All the Boys I've Loved Before'.",
       "posterUrl": ""
     },
     {
@@ -178,17 +133,17 @@
       "platform": "Netflix",
       "releaseDate": "2026-04-02",
       "displayDate": "2 Aprile 2026",
-      "description": "Un dramma o un thriller.",
+      "description": "Una nuova serie in arrivo sul catalogo Netflix.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1eHY0eqE6ricIouCyxMfAFm6D6i.jpg"
     },
     {
-      "title": "Troppo cattivi: La serie",
+      "title": "The Ramparts of Ice",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-04-02",
       "displayDate": "2 Aprile 2026",
-      "description": "Serie animata basata sul film 'The Bad Guys'.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dIZtcY364JCXwKCYpNE2nl5JWwt.jpg"
+      "description": "Una nuova serie in arrivo sul catalogo Netflix.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg"
     },
     {
       "title": "Raising Chelsea",
@@ -196,16 +151,16 @@
       "platform": "Disney+",
       "releaseDate": "2026-04-02",
       "displayDate": "2 Aprile 2026",
-      "description": "Un reality show.",
+      "description": "Un nuovo reality show in arrivo su Disney+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hSGIC2obS67qRXqu2a0ODiVOu8V.jpg"
     },
     {
-      "title": "È l'Ultima Battuta?",
+      "title": "È l'ultima battuta?",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-04-02",
       "displayDate": "2 Aprile 2026",
-      "description": "Una commedia drammatica sulle seconde occasioni e sulla vita che ricomincia dopo un divorzio.",
+      "description": "La nuova regia di Bradley Cooper, un film sulle seconde occasioni e sulla vita che ricomincia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/duMlNVMT2Xtexc0tg93tstcJPoA.jpg"
     },
     {
@@ -214,7 +169,7 @@
       "platform": "Cinema in Italia",
       "releaseDate": "2026-04-02",
       "displayDate": "2 Aprile 2026",
-      "description": "Un racconto intenso che rilegge una delle figure più controverse della storia religiosa.",
+      "description": "Un racconto intenso che rilegge una delle figure più controverse della storia religiosa, diretto da Giulio Base.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gMosAJaH1l7VmSm1hY3sAi9hmY.jpg"
     },
     {
@@ -223,7 +178,7 @@
       "platform": "Cinema in Italia",
       "releaseDate": "2026-04-02",
       "displayDate": "2 Aprile 2026",
-      "description": "Un poliziesco drammatico che indaga identità e colpa.",
+      "description": "Un poliziesco drammatico di François Ozon che indaga identità e colpa.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/j1IyFWFgfvLno4SnQudoQdLikY2.jpg"
     },
     {
@@ -232,7 +187,7 @@
       "platform": "Netflix",
       "releaseDate": "2026-04-03",
       "displayDate": "3 Aprile 2026",
-      "description": "Una storia intensa tra musica e dramma, dove la protagonista scopre un talento vocale fuori dal comune.",
+      "description": "Film che segna l'esordio alla recitazione di Sarah Toscano, con Serena Rossi, narra una storia intensa a metà tra musica e dramma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ptWVRyHpDYDoU1vWR2jBQOFSE24.jpg"
     },
     {
@@ -241,7 +196,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-04-03",
       "displayDate": "3 Aprile 2026",
-      "description": "Un romance young adult su una cheerleader i cui piani sono complicati da una star del football liceale.",
+      "description": "Romance young adult ispirato a un romanzo di Wattpad, sull'incontro tra un'ambiziosa cheerleader e un bad boy del football.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/mSL6truNrWP1Bn9ng1rN0SkMI4f.jpg"
     },
     {
@@ -250,7 +205,7 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-04-03",
       "displayDate": "3 Aprile 2026",
-      "description": "Tutte le dieci stagioni dell'iconico teen drama degli anni '90.",
+      "description": "Dopo 25 anni, torna la serie che ha definito il teen drama anni '90, disponibile per la prima volta on demand.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/b7BYfkhu653D894krwGO1ysIKTf.jpg"
     },
     {
@@ -259,17 +214,8 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-04-03",
       "displayDate": "3 Aprile 2026",
-      "description": "Una docuserie naturalistica firmata NBCU, narrata da Tom Hanks e con le musiche di Hans Zimmer, che esplora l'America.",
+      "description": "Docuserie naturalistica firmata NBCU, narrata da Tom Hanks e con musiche di Hans Zimmer, alla scoperta dell'America.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/w1UBlxEXhbKe8sp0fxFZh7MqTce.jpg"
-    },
-    {
-      "title": "Attitudini: nessuna",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "releaseDate": "2026-04-06",
-      "displayDate": "6 Aprile 2026",
-      "description": "Un dramma o una commedia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4U4X0ykGYTFxvxKT1VvWocRrBkJ.jpg"
     },
     {
       "title": "Star Wars: Maul - Shadow Lord",
@@ -286,8 +232,8 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-04-08",
       "displayDate": "8 Aprile 2026",
-      "description": "La quinta stagione della serie satirica sui supereroi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/si8ODKd2DKmwrt96LmQvod4JANQ.jpg"
+      "description": "Quinta stagione della popolare serie sui supereroi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h55FdfqCsaYRvtS2lLc88dHmWJi.jpg"
     },
     {
       "title": "The Testaments",
@@ -295,7 +241,7 @@
       "platform": "Disney+",
       "releaseDate": "2026-04-08",
       "displayDate": "8 Aprile 2026",
-      "description": "Una prosecuzione del mondo narrativo di The Handmaid's Tale.",
+      "description": "Proseguimento del mondo narrativo di The Handmaid's Tale.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
     },
     {
@@ -322,17 +268,26 @@
       "platform": "Disney+",
       "releaseDate": "2026-04-10",
       "displayDate": "10 Aprile 2026",
-      "description": "Un revival dell'iconica serie comedy dei primi anni 2000, che segue il protagonista ormai adulto.",
+      "description": "Revival dell'iconica serie tv degli inizi degli anni 2000.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/42Flvv5SNXtyLtezGxfinDKvSyk.jpg"
     },
     {
-      "title": "The Crow",
+      "title": "La riunione di condominio",
       "type": "movie",
-      "platform": "Amazon Prime Video",
-      "releaseDate": "2026-04-13",
-      "displayDate": "13 Aprile 2026",
-      "description": "Un film fantasy/azione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/y9f6epRacM8Ai6hE8LHxJ1MgpP9.jpg"
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-04-12",
+      "displayDate": "12 Aprile 2026",
+      "description": "Commedia spagnola di Santiago Requejo che indaga la società attraverso una lente satirica.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mbiOeQqTOKds8SySjhuIkwc2y6A.jpg"
+    },
+    {
+      "title": "A Year in London",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-04-14",
+      "displayDate": "14 Aprile 2026",
+      "description": "Film drammatico di Flaminia Graziadei, coproduzione Italia/Gran Bretagna.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kbFIBUKDWM6uELFUox4obiEsshZ.jpg"
     },
     {
       "title": "La Legge di Lidia Poët 3",
@@ -340,7 +295,7 @@
       "platform": "Netflix",
       "releaseDate": "2026-04-15",
       "displayDate": "15 Aprile 2026",
-      "description": "Il capitolo conclusivo della serie sulla prima avvocata d'Italia.",
+      "description": "Il capitolo conclusivo della serie che vede Matilda De Angelis nei panni della prima avvocata d'Italia.",
       "posterUrl": ""
     },
     {
@@ -349,7 +304,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-04-15",
       "displayDate": "15 Aprile 2026",
-      "description": "Una commedia.",
+      "description": "Un nuovo film in arrivo sul catalogo Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fnVuGv3dMCQr48DmZzRUHpgrvMo.jpg"
     },
     {
@@ -358,7 +313,7 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-04-15",
       "displayDate": "15 Aprile 2026",
-      "description": "Una serie drammatica che segue la vita di un'aspirante attrice alle prese con debiti e un neonato.",
+      "description": "Dramma familiare con Michelle Pfeiffer ed Elle Fanning, che segue la vita di un'aspirante attrice alle prese con debiti e un neonato.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9UO47ekDKvWJ7uW3fesato0fMQ4.jpg"
     },
     {
@@ -367,53 +322,26 @@
       "platform": "Netflix",
       "releaseDate": "2026-04-16",
       "displayDate": "16 Aprile 2026",
-      "description": "Una serie antologica ambientata nel mondo elitario di un country club, dove una giovane coppia è coinvolta in un ricatto.",
+      "description": "Seconda stagione della serie antologica, ambientata nel mondo elitario di un country club.",
       "posterUrl": ""
     },
     {
-      "title": "Alla Festa della Rivoluzione",
+      "title": "Alla festa della rivoluzione",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-04-16",
       "displayDate": "16 Aprile 2026",
-      "description": "Un film ambientato durante l'impresa di Fiume di Gabriele D'Annunzio, che intreccia storia e finzione tra spie e intrighi politici.",
+      "description": "Film di Arnaldo Catinari basato sul libro omonimo di Claudia Salaris, ambientato nel 1919.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oJRZTmYehaXvs3CJVIopPVQKtw6.jpg"
     },
     {
-      "title": "Benvenuti in Campagna",
+      "title": "Urchin",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-04-16",
       "displayDate": "16 Aprile 2026",
-      "description": "Una commedia sulla storia di una famiglia che decide di lasciare la città per trasferirsi in campagna, affrontando imprevisti e situazioni ironiche.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7vVwMZpSzJHtK9PJtPwqYUQLoO7.jpg"
-    },
-    {
-      "title": "Il Caso 137",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-04-16",
-      "displayDate": "16 Aprile 2026",
-      "description": "Un thriller politico che segue un'indagine su un caso di violenza durante una manifestazione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5MemnGyR35TBztl1J1K80tE2HAa.jpg"
-    },
-    {
-      "title": "La Donna Più Ricca del Mondo",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-04-16",
-      "displayDate": "16 Aprile 2026",
-      "description": "La vita di una potente miliardaria cambia con l'arrivo di uno scrittore enigmatico, esplorando il rapporto tra denaro, relazioni e manipolazione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tJFj2o8k6yMM5wpaFeSkZzTVpBo.jpg"
-    },
-    {
-      "title": "Il Delitto del 3° Piano",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-04-16",
-      "displayDate": "16 Aprile 2026",
-      "description": "Una coppia in crisi si ritrova coinvolta in una vicenda misteriosa legata ai propri vicini, giocando sul confine tra realtà e immaginazione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8Piv68hegZuIwPvsh2nglwUowYi.jpg"
+      "description": "Esordio alla regia dell'attore britannico Harris Dickinson, incentrato sul riscatto di un senzatetto di Londra.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg"
     },
     {
       "title": "La mummia",
@@ -425,13 +353,22 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/kMSo4HqiK1MQ20HhLX8UoNrprZw.jpg"
     },
     {
-      "title": "Urchin",
+      "title": "Il caso 137",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-04-16",
       "displayDate": "16 Aprile 2026",
-      "description": "Un film sull'esordio alla regia dell'attore britannico Harris Dickinson, incentrato sul riscatto di un senzatetto di Londra.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zc8n3hm3S2VxFxlNH1MNN28LVMa.jpg"
+      "description": "Un thriller politico che segue un'indagine su un caso di violenza durante una protesta.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5MemnGyR35TBztl1J1K80tE2HAa.jpg"
+    },
+    {
+      "title": "Benvenuti in campagna",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-04-16",
+      "displayDate": "16 Aprile 2026",
+      "description": "Commedia italiana di Giambattista Avellino.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7vVwMZpSzJHtK9PJtPwqYUQLoO7.jpg"
     },
     {
       "title": "Cucine da Incubo",
@@ -439,7 +376,7 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-04-19",
       "displayDate": "19 Aprile 2026",
-      "description": "La nuova edizione dello show in cui Chef Antonino Cannavacciuolo aiuta i ristoranti in difficoltà.",
+      "description": "Nuova edizione dello show, con Paolo Stella nel ruolo di designer.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5tadsgz2UCiLPtUj0mJ8ohCsiWH.jpg"
     },
     {
@@ -448,7 +385,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-04-20",
       "displayDate": "20 Aprile 2026",
-      "description": "Una nuova serie animata.",
+      "description": "Una nuova serie animata in arrivo su Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ryvkioE754XooFO16s9SZyHZulu.jpg"
     },
     {
@@ -457,8 +394,17 @@
       "platform": "Disney+",
       "releaseDate": "2026-04-22",
       "displayDate": "22 Aprile 2026",
-      "description": "Un film documentario.",
+      "description": "Un documentario naturalistico in arrivo su Disney+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/mfbtDMwiPzVZZGIRCY6MPwdt8WY.jpg"
+    },
+    {
+      "title": "Michael",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-04-22",
+      "displayDate": "22 Aprile 2026",
+      "description": "Biopic su Michael Jackson, diretto da Antoine Fuqua.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg"
     },
     {
       "title": "Stranger Things: Storie dal 1985",
@@ -466,7 +412,7 @@
       "platform": "Netflix",
       "releaseDate": "2026-04-23",
       "displayDate": "23 Aprile 2026",
-      "description": "Serie animata ambientata a Hawkins nel rigido inverno del 1985, con i personaggi originali che combattono nuovi mostri.",
+      "description": "L'attesissima serie animata prodotta dai Duffer Brothers, ambientata nell'inverno del 1985 a Hawkins.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg"
     },
     {
@@ -475,7 +421,16 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-04-23",
       "displayDate": "23 Aprile 2026",
-      "description": "La sesta stagione dello show comico in cui i comici cercano di non ridere.",
+      "description": "Sesta stagione del comedy show italiano, con nuovi comici e ospiti speciali.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Star Wars Andor (Stagione 2)",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-04-23",
+      "displayDate": "23 Aprile 2026",
+      "description": "Seconda stagione della serie ambientata nell'universo di Star Wars.",
       "posterUrl": ""
     },
     {
@@ -484,7 +439,7 @@
       "platform": "Netflix",
       "releaseDate": "2026-04-24",
       "displayDate": "24 Aprile 2026",
-      "description": "Un film d'azione.",
+      "description": "Un nuovo film d'azione in arrivo su Netflix.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5TGSFX6dxYfM2balJrFoSVB42Nv.jpg"
     },
     {
@@ -493,7 +448,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-04-29",
       "displayDate": "29 Aprile 2026",
-      "description": "Una saga familiare basata sul romanzo di Isabel Allende, che abbraccia mezzo secolo e si concentra su tre generazioni di donne.",
+      "description": "Adattamento prestigioso in arrivo su Prime Video.",
       "posterUrl": ""
     },
     {
@@ -502,26 +457,26 @@
       "platform": "Cinema in Italia",
       "releaseDate": "2026-04-29",
       "displayDate": "29 Aprile 2026",
-      "description": "Il ritorno nel mondo della moda tra potere, carriera e nuove sfide professionali.",
+      "description": "Sequel del cult sulla moda, con Meryl Streep e Anne Hathaway.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zDhu8axN365ytMTSHWxdK8WFH5t.jpg"
     },
     {
-      "title": "Mi querida señorita",
-      "type": "movie",
-      "platform": "Netflix",
+      "title": "La casa di Davide (stagione 2)",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
       "releaseDate": "2026-05-01",
       "displayDate": "1 Maggio 2026",
-      "description": "Un film drammatico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wPMb6ECpefJXtXRV0C5Qx45HprA.jpg"
+      "description": "Seconda stagione della serie drammatica ispirata alla Bibbia, che racconta le vicende successive alla battaglia tra Davide e Golia.",
+      "posterUrl": ""
     },
     {
-      "title": "Due spicci",
-      "type": "tv",
-      "platform": "Netflix",
+      "title": "Willie Peyote - Elegia Sabauda",
+      "type": "movie",
+      "platform": "Cinema in Italia",
       "releaseDate": "2026-05-01",
       "displayDate": "1 Maggio 2026",
-      "description": "Animazione per adulti di Zerocalcare, dove le pressioni economiche e le vite complicate fanno da miccia al racconto di un'amicizia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg"
+      "description": "Un nuovo film in uscita al cinema a maggio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/o2Hc5N8FQhaNcEpD297QCwimKBG.jpg"
     },
     {
       "title": "Mortal Kombat II",
@@ -529,17 +484,71 @@
       "platform": "Cinema in Italia",
       "releaseDate": "2026-05-01",
       "displayDate": "1 Maggio 2026",
-      "description": "Un sequel del film basato sul videogioco.",
+      "description": "Sequel del film basato sul videogioco.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/io7wVbm9VKaanIcuAymCDy9dmjU.jpg"
     },
     {
-      "title": "Star Wars - The Mandalorian and Grogu",
+      "title": "Manas - Sorelle",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-05-01",
       "displayDate": "1 Maggio 2026",
-      "description": "Un film che vedrà il ritorno di Pedro Pascal nei panni del cacciatore di taglie mandaloriano, affiancato dall'adorabile Grogu.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2XX2XlXdfEWV0tfUyWunBj1SFpx.jpg"
+      "description": "Un nuovo film in uscita al cinema a maggio.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Antartica - Quasi una fiaba",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-05-01",
+      "displayDate": "1 Maggio 2026",
+      "description": "Un nuovo film in uscita al cinema a maggio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg"
+    },
+    {
+      "title": "Amarga Navidad",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-05-01",
+      "displayDate": "1 Maggio 2026",
+      "description": "Un nuovo film in uscita al cinema a maggio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg"
+    },
+    {
+      "title": "Io non ti lascio solo",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-05-01",
+      "displayDate": "1 Maggio 2026",
+      "description": "Un nuovo film in uscita al cinema a maggio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lwNB5CNOhZwq93KUgUJs9aBYUoN.jpg"
+    },
+    {
+      "title": "Il signore delle Mosche",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-05-04",
+      "displayDate": "4 Maggio 2026",
+      "description": "Una nuova versione seriale del celebre romanzo, che esplora la sopravvivenza e il conflitto sociale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ryolNeqci6wlTsE1OPGp0bEEziw.jpg"
+    },
+    {
+      "title": "L'uomo delle castagne 2",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-05-07",
+      "displayDate": "7 Maggio 2026",
+      "description": "Seconda stagione della serie crime/thriller, che riparte da un nuovo caso di omicidio.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Thank You, Next 3",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-05-08",
+      "displayDate": "8 Maggio 2026",
+      "description": "Terza stagione che prosegue il percorso della protagonista tra relazioni complicate e ricerca di equilibrio personale.",
+      "posterUrl": ""
     },
     {
       "title": "Unconditional",
@@ -547,7 +556,7 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-05-08",
       "displayDate": "8 Maggio 2026",
-      "description": "Un thriller drammatico.",
+      "description": "Un thriller drama in arrivo su Apple TV+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iSpmc0szhBRykxf6sE2t91m49JE.jpg"
     },
     {
@@ -556,8 +565,35 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-05-08",
       "displayDate": "8 Maggio 2026",
-      "description": "Una serie drammatica.",
+      "description": "Una nuova serie italiana in arrivo su Sky e NOW.",
       "posterUrl": ""
+    },
+    {
+      "title": "Fatherland",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-05-12",
+      "displayDate": "12 Maggio 2026",
+      "description": "New Entry al 79° Festival del Cinema di Cannes (12-23 Maggio 2026).",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/o1G0cC9Ok0ZIjHiVdEVPISefWQB.jpg"
+    },
+    {
+      "title": "Mother Mary",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-05-14",
+      "displayDate": "14 Maggio 2026",
+      "description": "New Entry, un melodramma pop al femminile diretto da David Lowery con Anne Hathaway.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/GKGvadeAmAkkY2MHLzYDUP685R.jpg"
+    },
+    {
+      "title": "Berlino e la Dama con l'ermellino",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-05-15",
+      "displayDate": "15 Maggio 2026",
+      "description": "Spin-off legato al mondo de La Casa di Carta, che approfondisce il passato e le dinamiche del celebre personaggio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg"
     },
     {
       "title": "Rivals",
@@ -565,7 +601,7 @@
       "platform": "Disney+",
       "releaseDate": "2026-05-15",
       "displayDate": "15 Maggio 2026",
-      "description": "Una serie drammatica.",
+      "description": "Una nuova serie in arrivo su Disney+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/n1U5jlDDRaEylEUVbu6mtVbCAUL.jpg"
     },
     {
@@ -574,8 +610,35 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-05-20",
       "displayDate": "20 Maggio 2026",
-      "description": "Un thriller dai toni di black comedy in cui una madre dovrà ottenere l'affidamento della figlia tra ricatti e crisi d'identità.",
+      "description": "Dark comedy in cui una madre dovrà ottenere l'affidamento della figlia tra ricatti e crisi d'identità.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+    },
+    {
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-05-20",
+      "displayDate": "20 Maggio 2026",
+      "description": "Spin-off della serie The Mandalorian, tra i più attesi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2XX2XlXdfEWV0tfUyWunBj1SFpx.jpg"
+    },
+    {
+      "title": "I Love Boosters",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-05-22",
+      "displayDate": "22 Maggio 2026",
+      "description": "Comedy Sci-Fi con Demi Moore, Naomi Ackie, Keke Palmer e Taylour Paige.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9cFm2EfXOl7F6tzHB1HzpUAtBFX.jpg"
+    },
+    {
+      "title": "Tuner - L'Accordatore",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-05-28",
+      "displayDate": "28 Maggio 2026",
+      "description": "Thriller inconsueto di Daniel Roher con Leo Woodall, Havana Rose Liu e Dustin Hoffman.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oGZd4xQJBt4mtuBhTdlOalsdqtT.jpg"
     },
     {
       "title": "Star City",
@@ -583,7 +646,7 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-05-29",
       "displayDate": "29 Maggio 2026",
-      "description": "Uno spy thriller.",
+      "description": "Uno spy thriller in arrivo su Apple TV+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/mCP8HkmZBXaU91MqMCxJrOO5WXK.jpg"
     },
     {
@@ -592,26 +655,17 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-05-29",
       "displayDate": "29 Maggio 2026",
-      "description": "Un film.",
+      "description": "Un nuovo film in arrivo su Apple TV+.",
       "posterUrl": ""
     },
     {
-      "title": "Ride or Die",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "releaseDate": "2026-06-01",
-      "displayDate": "1 Giugno 2026",
-      "description": "Una serie ricca di azione in cui Debbie scopre che la sua migliore amica Judith è un'assassina, costringendole a fuggire.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Not Suitable for Work",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-06-02",
-      "displayDate": "2 Giugno 2026",
-      "description": "Una serie commedia.",
-      "posterUrl": ""
+      "title": "Propeller One-Way Night Coach",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-05-29",
+      "displayDate": "29 Maggio 2026",
+      "description": "Prima mondiale da regista per l'attore John Travolta.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qLHgx7F1vT6HEym8yCqO0s29qb1.jpg"
     },
     {
       "title": "Cape Fear",
@@ -619,26 +673,17 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-06-05",
       "displayDate": "5 Giugno 2026",
-      "description": "Una serie remake dell'omonimo film del 1991, prodotta da Scorsese e Spielberg.",
+      "description": "Serie TV prodotta da Scorsese e Spielberg, remake dell'omonimo film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gBWvVD4ES9wE1Jh5KXJ68NL3hq8.jpg"
     },
     {
-      "title": "Toy Story 5",
-      "type": "movie",
-      "platform": "Disney+",
-      "releaseDate": "2026-06-17",
-      "displayDate": "17 Giugno 2026",
-      "description": "Il nuovo capitolo della saga Pixar, che esplorerà il conflitto tra i giocattoli tradizionali e l'ascesa della tecnologia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg"
-    },
-    {
-      "title": "Sugar Stagione 2",
+      "title": "Sugar 2",
       "type": "tv",
       "platform": "Apple TV+",
       "releaseDate": "2026-06-19",
       "displayDate": "19 Giugno 2026",
-      "description": "La seconda stagione della serie.",
-      "posterUrl": ""
+      "description": "Seconda stagione della serie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oPdDMAUfplmjkrlsYRKwW7FGwEp.jpg"
     }
   ]
 }
