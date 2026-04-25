@@ -1,252 +1,252 @@
 {
-  "date": "19/04/2026, 10:00:03",
+  "date": "25/04/2026, 09:59:17",
   "data": [
     {
       "title": "Una famiglia sottosopra",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Un film attualmente in cima alla classifica di Amazon Prime Video in Italia.",
+      "description": "Attualmente il film più popolare su Amazon Prime Video in Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/t89VJO6vXcLqqbEYeeUIBcu5t5P.jpg"
     },
     {
-      "title": "Balls Up - Palle Al Sicuro",
+      "title": "Vengeance",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 2,
-      "description": "Due esperti di marketing propongono un preservativo come nuovo sponsor della Coppa del Mondo, portando a uno scandalo e a una fuga caotica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fnVuGv3dMCQr48DmZzRUHpgrvMo.jpg"
+      "description": "Un nuovo film che ha rapidamente scalato la classifica dei più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/15usG0AHHsWDT6U9JI7FbGtLSyi.jpg"
     },
     {
-      "title": "Crime 101 - La strada del crimine",
+      "title": "Crime 101",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 3,
-      "description": "Un thriller ad alta tensione in cui un ladro di gioielli, un detective di Los Angeles e un broker assicurativo disilluso si scontrano.",
+      "description": "Un film presente nella top 10 di Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ouD5CS3DPyarfQkJf5kWF6akptZ.jpg"
+    },
+    {
+      "title": "Balls Up - Palle al sicuro",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 4,
+      "description": "Una commedia irriverente su due esperti di marketing coinvolti in una disastrosa campagna di sponsorizzazione per la Coppa del Mondo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fnVuGv3dMCQr48DmZzRUHpgrvMo.jpg"
+    },
+    {
+      "title": "Sisu: Road to Revenge",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 5,
+      "description": "Un film d'azione che si trova nella top 10.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kiNeaEXHkOauCB0jwwYrQV6sU2.jpg"
     },
     {
       "title": "The Crow",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Un film nella top 10 su Prime Video.",
+      "rank": 6,
+      "description": "Un film che figura tra i più visti sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/y9f6epRacM8Ai6hE8LHxJ1MgpP9.jpg"
     },
     {
       "title": "Sidelined 2: Intercepted",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Un film nella top 10 su Prime Video.",
+      "rank": 7,
+      "description": "Un film che ha raggiunto la top 10.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg"
     },
     {
-      "title": "Reacher",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Un ex investigatore della polizia militare scopre cospirazioni.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg"
-    },
-    {
-      "title": "Coroner",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Una serie TV aggiunta di recente.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7zEVxcNEDxVtRf29zvjjy6cazm4.jpg"
-    },
-    {
-      "title": "The Middle",
-      "type": "tv",
+      "title": "Attitudini: Nessuna",
+      "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 8,
-      "description": "Una popolare serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg"
+      "description": "Un film presente nella classifica dei più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4U4X0ykGYTFxvxKT1VvWocRrBkJ.jpg"
     },
     {
-      "title": "Day One",
-      "type": "tv",
+      "title": "Cash Out",
+      "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 9,
-      "description": "Una nuova serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/usZnOw1TqyfSnmIGmPjKhoEvRYU.jpg"
+      "description": "Un film che si è fatto strada nella top 10.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/j85w8ljkdxYQrgRy99xg4idE33B.jpg"
     },
     {
-      "title": "Unforgettable",
+      "title": "LOL: Chi ride è fuori",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Una popolare serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6NsNh4qDhYiGp7SiHyk0Ec3Dns6.jpg"
+      "description": "La sesta stagione del popolare comedy show italiano, dove i partecipanti devono cercare di non ridere.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3UrGB2qDUurDXT2ufO3NX5rtjdz.jpg"
     },
     {
       "title": "Outcome - Hollywood non dimentica",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "Un film commedia.",
+      "description": "Una commedia che si posiziona come il titolo più popolare su Apple TV+ in Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
-    },
-    {
-      "title": "Il Maestro",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 2,
-      "description": "Un film drammatico, una tenera storia di formazione con Pierfrancesco Favino.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg"
     },
     {
       "title": "F1: Il film",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Un film d'azione legato alla Formula 1.",
+      "rank": 2,
+      "description": "Un film d'azione incentrato sul mondo della Formula 1.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
-      "title": "The Instigators",
+      "title": "Il Maestro",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Un film d'azione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6wXRANRmPRmwbgzpvMuRKasWQNo.jpg"
+      "rank": 3,
+      "description": "Un film drammatico che figura tra i più visti sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg"
     },
     {
       "title": "Greyhound: il nemico invisibile",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Un film d'azione.",
+      "rank": 4,
+      "description": "Un film d'azione ambientato durante la Seconda Guerra Mondiale.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iJBLPfZkYF5tphFeEULjOMCgwlR.jpg"
     },
     {
-      "title": "Your Friends & Neighbors",
-      "type": "tv",
+      "title": "Highest 2 Lowest",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Un film thriller che si trova nella top 10.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/k60lRQMoQyL1Lha2Z6k6Er9kdgX.jpg"
+    },
+    {
+      "title": "Napoleone",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 6,
-      "description": "Una serie drammatica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
+      "description": "Un film drammatico storico sulla figura di Napoleone Bonaparte.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mOqPPlIJ1hgCb88CgRz5y26lYmQ.jpg"
     },
     {
-      "title": "Shrinking",
-      "type": "tv",
+      "title": "Misteri dal profondo",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 7,
-      "description": "Una serie commedia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
+      "description": "Un film thriller che ha catturato l'attenzione del pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
     },
     {
-      "title": "For All Mankind",
-      "type": "tv",
+      "title": "Fountain of Youth - L'eterna giovinezza",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 8,
-      "description": "Una serie drammatica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+      "description": "Un film d'azione che esplora il tema della giovinezza eterna.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kCWGK8QoK8ZPt6sju8pjohG4oxv.jpg"
     },
     {
-      "title": "Monarch: Legacy of Monsters",
-      "type": "tv",
+      "title": "The Instigators",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 9,
-      "description": "Una serie d'avventura.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jxreNunNZ1HJLFO24hQ5t4O942w.jpg"
+      "description": "Un film d'azione presente nella classifica dei più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6wXRANRmPRmwbgzpvMuRKasWQNo.jpg"
     },
     {
-      "title": "L'ultima cosa che mi ha detto",
-      "type": "tv",
+      "title": "Eternity",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "Una serie mistery.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iURHI4b3h9QoZlxx5xddtgxsNNj.jpg"
+      "description": "Un film romantico che chiude la top 10 di Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg"
     },
     {
-      "title": "XO, Kitty: Season 3",
+      "title": "The Law According to Lidia Poët: Season 3",
       "type": "tv",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Una serie spin-off che segue la storia d'amore di Kitty Song Covey.",
+      "description": "La terza stagione della serie drammatica italiana che segue le vicende di Lidia Poët, la prima avvocatessa d'Italia.",
       "posterUrl": ""
     },
     {
-      "title": "The Cleaning Lady: Season 1",
-      "type": "tv",
+      "title": "180",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 2,
-      "description": "Una dottoressa cambogiana arriva negli Stati Uniti per curare il figlio, ma quando il sistema fallisce e lei è costretta a nascondersi, diventa una donna delle pulizie per la mafia.",
-      "posterUrl": ""
+      "description": "Un thriller in cui un padre precipita in una spirale di vendetta dopo che un incidente lascia il figlio in fin di vita.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4nNuv41aosADsoQYYJDg7Y829YK.jpg"
     },
     {
-      "title": "Bloodhounds: Season 2",
+      "title": "The Cleaning Lady",
       "type": "tv",
       "platform": "Netflix",
       "rank": 3,
-      "description": "Due giovani pugili si uniscono a un benevolo usuraio per sconfiggere uno spietato strozzino che preda i disperati finanziariamente.",
-      "posterUrl": ""
+      "description": "Una serie drammatica crime che continua a essere tra le più viste sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aoTQhDKiuKpn599yNxp03wr2ZHu.jpg"
     },
     {
-      "title": "Detective Hole: Season 1",
+      "title": "Ronaldinho: The One and Only",
       "type": "tv",
       "platform": "Netflix",
       "rank": 4,
-      "description": "Una serie poliziesca.",
-      "posterUrl": ""
+      "description": "Una docuserie limitata che racconta la vita e la carriera del celebre calciatore Ronaldinho.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/51QLv8F4NEXK4wXCd2r3YABWtHU.jpg"
     },
     {
-      "title": "ONE PIECE: Season 2",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "Un adattamento live-action del popolare manga, che segue Monkey D. Luffy e la sua ciurma di pirati.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Thrash – Furia dall'oceano",
+      "title": "Thrash",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 6,
-      "description": "Un thriller di sopravvivenza in cui un uragano porta inondazioni devastanti e squali affamati in una città costiera.",
+      "rank": 5,
+      "description": "Un film che si è posizionato ai vertici delle classifiche per la seconda settimana consecutiva.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eDb6dYwPCkqR2sk3KYJIhbqc5hq.jpg"
     },
     {
-      "title": "Non abbiam bisogno di parole",
+      "title": "Roommates",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Una commedia ambientata in un contesto universitario, recentemente aggiunta al catalogo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eW1s6omXIfVkTlmKVe9y9Dwwt4u.jpg"
+    },
+    {
+      "title": "Feel My Voice",
       "type": "movie",
       "platform": "Netflix",
       "rank": 7,
-      "description": "Un film italiano, stabile al secondo posto nella classifica dei film più visti.",
+      "description": "Un film attualmente presente nella top 10 dei contenuti più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ptWVRyHpDYDoU1vWR2jBQOFSE24.jpg"
+    },
+    {
+      "title": "Fake Profile: Season 3",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "La terza stagione di questa serie televisiva che continua a catturare l'attenzione del pubblico.",
+      "posterUrl": ""
     },
     {
       "title": "Reign Over Me",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "Un film drammatico che guadagna terreno nella top 10.",
+      "rank": 9,
+      "description": "Un film che esplora il tema del dolore e del lutto, con un uomo che ritrova un vecchio amico per riaprire un contatto con il mondo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hVsfPpDFBjiQkc8f7as09BZSP5C.jpg"
     },
     {
-      "title": "Afraid",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 9,
-      "description": "Un film che ha debuttato direttamente nella Top 10.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2ef4f5zX03OXMGB7bFNbeAD1Ly1.jpg"
-    },
-    {
-      "title": "Il robot selvaggio",
-      "type": "movie",
+      "title": "ONE PIECE: Season 2",
+      "type": "tv",
       "platform": "Netflix",
       "rank": 10,
-      "description": "Un film d'animazione, una presenza consolidata nella top 10.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg"
+      "description": "La seconda stagione dell'adattamento live-action del popolare manga giapponese.",
+      "posterUrl": ""
     },
     {
       "title": "A Private Life",
       "type": "movie",
       "platform": "Sky",
       "rank": 1,
-      "description": "Un film nella top 10 su NOW.",
+      "description": "Un film presente nella top 10 di NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8XofA0n95ROdmHjgKAZ7GSzACj3.jpg"
     },
     {
@@ -254,7 +254,7 @@
       "type": "movie",
       "platform": "Sky",
       "rank": 2,
-      "description": "Un film nella top 10 su NOW.",
+      "description": "Il sequel del film d'azione 'Nobody', tra i più visti su NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8RXDbeVG9Tb0z8FWPph77uJsTkd.jpg"
     },
     {
@@ -262,7 +262,7 @@
       "type": "movie",
       "platform": "Sky",
       "rank": 3,
-      "description": "Un film nella top 10 su NOW.",
+      "description": "Un film che si trova nella top 10 di NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg"
     },
     {
@@ -270,56 +270,56 @@
       "type": "movie",
       "platform": "Sky",
       "rank": 4,
-      "description": "Un film di Jim Jarmusch, Leone d'Oro alla Mostra del Cinema di Venezia 2025, che esplora le relazioni familiari.",
+      "description": "Un film drammatico che figura tra i più popolari su NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/96O3Ol3f2veMxAxYqsML8rOumB9.jpg"
-    },
-    {
-      "title": "Poveri noi",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 5,
-      "description": "Un film nella top 10 su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tr26vXCL7JVNgWFVsJd2BL9j7Be.jpg"
-    },
-    {
-      "title": "Euphoria 3",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 6,
-      "description": "Un nuovo episodio disponibile ogni lunedì.",
-      "posterUrl": ""
     },
     {
       "title": "Pechino Express - L'Estremo Oriente",
       "type": "tv",
       "platform": "Sky",
-      "rank": 7,
-      "description": "Un reality show d'avventura, in onda il giovedì.",
+      "rank": 5,
+      "description": "Il celebre reality show d'avventura che vede coppie di concorrenti viaggiare attraverso l'Estremo Oriente.",
       "posterUrl": ""
     },
     {
-      "title": "Beverly Hills, 90210",
+      "title": "The Last of Us",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "La serie post-apocalittica acclamata dalla critica, basata sull'omonimo videogioco.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6WlffOd3bszyndGgsKGcUL6k28n.jpg"
+    },
+    {
+      "title": "Il diavolo veste Prada",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 7,
+      "description": "Una commedia drammatica di successo, disponibile su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/34r7kwVQh9UDGgAkA1EBDUWn7Sx.jpg"
+    },
+    {
+      "title": "Masterchef Italia",
       "type": "tv",
       "platform": "Sky",
       "rank": 8,
-      "description": "Tutte le stagioni disponibili.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/b7BYfkhu653D894krwGO1ysIKTf.jpg"
+      "description": "Il popolare talent show culinario italiano, dove aspiranti chef si sfidano per il titolo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wD8S0XLIrHsKzGuw5xPMjDCYYbq.jpg"
     },
     {
-      "title": "Avvocato Ligas",
+      "title": "Euphoria 3",
       "type": "tv",
       "platform": "Sky",
       "rank": 9,
-      "description": "Tutti gli episodi disponibili.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg"
+      "description": "La terza stagione della serie drammatica che segue le vite di un gruppo di adolescenti.",
+      "posterUrl": ""
     },
     {
-      "title": "Under Salt Marsh",
+      "title": "Diavoli",
       "type": "tv",
       "platform": "Sky",
       "rank": 10,
-      "description": "Un dramma poliziesco su un'insegnante/detective che fa una scoperta scioccante che riapre un caso irrisolto.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/z3EsrKQyHqQQOmOHSgnoS76hQAF.jpg"
+      "description": "Un thriller Sky Original ambientato nel mondo dell'alta finanza, con Alessandro Borghi e Patrick Dempsey.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/itHN6LpHWnWVUZ6qSCAKJbEyvcQ.jpg"
     }
   ]
 }
