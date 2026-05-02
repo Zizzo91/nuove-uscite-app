@@ -1,93 +1,93 @@
 {
-  "date": "01/05/2026, 10:53:30",
+  "date": "02/05/2026, 10:17:18",
   "data": [
     {
       "title": "Vengeance",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Un nuovo film in tendenza su Prime Video.",
+      "description": "Un nuovo film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/15usG0AHHsWDT6U9JI7FbGtLSyi.jpg"
-    },
-    {
-      "title": "The Boys",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Una serie di supereroi che sovverte il genere, incentrata su un gruppo di vigilanti che combattono supereroi corrotti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/h55FdfqCsaYRvtS2lLc88dHmWJi.jpg"
     },
     {
       "title": "Crime 101 - La strada del crimine",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Un nuovo film in tendenza su Prime Video.",
+      "rank": 2,
+      "description": "Mike Davis, un ladro esperto, pianifica il suo ultimo grande colpo sulla Highway 101 di Los Angeles, avendo bisogno di un'alleata inattesa.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ouD5CS3DPyarfQkJf5kWF6akptZ.jpg"
     },
     {
-      "title": "Balls Up - Palle al sicuro",
+      "title": "Balls Up - Palle Al Sicuro",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Una commedia su due esperti di marketing la cui campagna pubblicitaria per la Coppa del Mondo si trasforma in un disastro globale, portando a una fuga caotica in Brasile.",
+      "rank": 3,
+      "description": "Una commedia su due marketer, Brad ed Elijah, la cui campagna pubblicitaria per i Mondiali va storta, portandoli a una caotica fuga in Brasile.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fnVuGv3dMCQr48DmZzRUHpgrvMo.jpg"
-    },
-    {
-      "title": "Kevin",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Una nuova serie in tendenza su Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ryvkioE754XooFO16s9SZyHZulu.jpg"
     },
     {
       "title": "The Crow",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Un film in tendenza su Prime Video.",
+      "rank": 4,
+      "description": "Un film, probabilmente il fantasy/action.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1Avvy9i4cJTZeZr4KVkkmDkRiao.jpg"
-    },
-    {
-      "title": "Mercy: sotto accusa",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Un film presente nella top 10 di Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zhNy3atrXo4DOwmbWbWJx1qy9Wh.jpg"
-    },
-    {
-      "title": "Agente Zeta",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Un nuovo film in tendenza su Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9cbleJ3OV26wzzIkVjyfsh866pD.jpg"
     },
     {
       "title": "Una famiglia sottosopra",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Un film presente nella top 10 di Prime Video.",
+      "rank": 5,
+      "description": "Un film, probabilmente una commedia/dramma italiana.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/t89VJO6vXcLqqbEYeeUIBcu5t5P.jpg"
+    },
+    {
+      "title": "The Boys",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 6,
+      "description": "Una serie satirica sui supereroi, con un nuovo episodio in tendenza.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h55FdfqCsaYRvtS2lLc88dHmWJi.jpg"
     },
     {
       "title": "The Running Man",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 10,
-      "description": "Un film presente nella top 10 di Prime Video.",
+      "rank": 7,
+      "description": "Un classico film d'azione.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/c7CAzgr2IIvwI6PlbfvFNfLtVRg.jpg"
     },
     {
-      "title": "Imperfect Women",
-      "type": "tv",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 8,
+      "description": "Un film in tendenza, probabilmente l'ultimo capitolo del franchise Mission: Impossible.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bhBHcUBEGEuEu9iVEgDlSsQIn5l.jpg"
+    },
+    {
+      "title": "Materialists",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nmNi5uMO5earkzK9OL0nsWMQOr7.jpg"
+    },
+    {
+      "title": "Dimmelo sottovoce",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 10,
+      "description": "Una nuova storia in tre capitoli dall'autrice di 'È colpa mia', che segue Kamila Hamilton la cui vita viene sconvolta dal ritorno dei fratelli Di Bianco.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7GBxcl5Yed6lKjwl1TGJRfjDsbO.jpg"
+    },
+    {
+      "title": "Outcome",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "Una serie thriller.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/llIM1ApMAY4kFaDYeMtPVUT2jlU.jpg"
+      "description": "Una commedia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
     },
     {
       "title": "Your Friends & Neighbors",
@@ -98,228 +98,228 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
     },
     {
-      "title": "Margo's Got Money Troubles",
-      "type": "tv",
+      "title": "F1: Il film",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 3,
-      "description": "Una serie commedia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9UO47ekDKvWJ7uW3fesato0fMQ4.jpg"
+      "description": "Un film d'azione legato alla Formula 1.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
-      "title": "Ted Lasso",
+      "title": "Imperfect Women - Le mie amiche del cuore",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 4,
-      "description": "Una serie commedia su un allenatore di football americano ingaggiato per gestire una squadra di calcio britannica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
-    },
-    {
-      "title": "Shrinking",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Una serie commedia su un terapista in lutto che inizia a dire ai suoi clienti esattamente ciò che pensa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
+      "description": "Una serie thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/llIM1ApMAY4kFaDYeMtPVUT2jlU.jpg"
     },
     {
       "title": "Monarch: Legacy of Monsters",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Una serie d'avventura ambientata nel MonsterVerse.",
+      "rank": 5,
+      "description": "Una serie d'avventura.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jxreNunNZ1HJLFO24hQ5t4O942w.jpg"
     },
     {
-      "title": "Outcome",
+      "title": "Greyhound: il nemico invisibile",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Un film commedia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
+      "rank": 6,
+      "description": "Un film d'azione ambientato nella Seconda Guerra Mondiale con Tom Hanks.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iJBLPfZkYF5tphFeEULjOMCgwlR.jpg"
     },
     {
-      "title": "Criminal Record",
+      "title": "Margo ha problemi di soldi",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Una serie crime.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
+      "rank": 7,
+      "description": "Una serie commedia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9UO47ekDKvWJ7uW3fesato0fMQ4.jpg"
     },
     {
-      "title": "F1",
+      "title": "The Gorge",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Un film d'azione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
+      "rank": 8,
+      "description": "Un film thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
     },
     {
       "title": "For All Mankind",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 10,
+      "rank": 9,
       "description": "Una serie drammatica che esplora una storia alternativa in cui la corsa allo spazio globale non è mai finita.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
     },
     {
-      "title": "Unchosen",
-      "type": "tv",
+      "title": "Highest 2 Lowest",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 10,
+      "description": "Un film thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/k60lRQMoQyL1Lha2Z6k6Er9kdgX.jpg"
+    },
+    {
+      "title": "Buen Camino",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Un thriller psicologico su Rosie, una giovane donna che vive in una comunità religiosa isolata e inizia a mettere in discussione la sua realtà.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg"
+      "description": "Un film che racconta un viaggio o un percorso.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4buulRVfRJcqgkR3AF6ln23TqR6.jpg"
     },
     {
       "title": "Apex",
       "type": "movie",
       "platform": "Netflix",
       "rank": 2,
-      "description": "Un film di sopravvivenza con Charlize Theron e Taron Egerton, ambientato nell'outback australiano, dove una donna in cerca di pace si ritrova in un gioco mortale con un serial killer.",
+      "description": "Un survival movie ad alta tensione ambientato nell'outback australiano, con Charlize Theron e Taron Egerton.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iaYU0jPLO8jtTdFaKdlzdyf9q2e.jpg"
     },
     {
-      "title": "The Law According to Lidia Poët",
-      "type": "tv",
+      "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 3,
-      "description": "Una serie sulla prima avvocatessa d'Italia, Lidia Poët, che lotta contro le norme sociali alla fine del XIX secolo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nMukXo1oufnu2ehuiFEKFtCZS9T.jpg"
+      "description": "Un film d'animazione, probabilmente parte dell'universo di Miraculous Ladybug.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7Md3nuV0ZprBTnkdR3OrUCEsrSP.jpg"
     },
     {
-      "title": "180",
+      "title": "Je m'appelle Agneta",
       "type": "movie",
       "platform": "Netflix",
       "rank": 4,
-      "description": "Un film in cui la vita di un uomo viene sconvolta dopo un incidente d'auto che coinvolge suo figlio, portandolo a cercare risposte e colpevoli.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4nNuv41aosADsoQYYJDg7Y829YK.jpg"
+      "description": "Un film, probabilmente un dramma o una commedia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2YOVL5eZhd4L6Cc1yxqq12ClLzF.jpg"
+    },
+    {
+      "title": "Vacation",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "Un film, probabilmente una commedia o un dramma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oKQIpy9CJqej197x3pDdv9HxFOS.jpg"
     },
     {
       "title": "Should I Marry A Murderer?",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 5,
-      "description": "Una serie TV attualmente in tendenza su Netflix Italia.",
+      "rank": 6,
+      "description": "Una serie TV, probabilmente un crime/mystery.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/kSnudctwOTHPArz78vHmf4Emc1B.jpg"
     },
     {
-      "title": "Ronaldinho: The One and Only",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "Una serie limitata sulla vita e la carriera del leggendario calciatore brasiliano Ronaldinho.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/51QLv8F4NEXK4wXCd2r3YABWtHU.jpg"
-    },
-    {
-      "title": "Fake Profile",
+      "title": "Unchosen: Season 1",
       "type": "tv",
       "platform": "Netflix",
       "rank": 7,
-      "description": "Una serie su una donna che crea un profilo falso su un'app di incontri e si ritrova coinvolta in una rete di bugie e segreti pericolosi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mNBIhnYBpcmPRVUeSE1P2KDlXAI.jpg"
+      "description": "Una nuova serie.",
+      "posterUrl": ""
     },
     {
-      "title": "Running Point",
+      "title": "The Law According to Lidia Poët: Season 3",
       "type": "tv",
       "platform": "Netflix",
       "rank": 8,
-      "description": "Una serie commedia con Kate Hudson.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg"
+      "description": "Una serie drammatica legale italiana.",
+      "posterUrl": ""
     },
     {
-      "title": "Feel My Voice",
-      "type": "movie",
+      "title": "Ronaldinho: The One and Only: Limited Series",
+      "type": "tv",
       "platform": "Netflix",
       "rank": 9,
-      "description": "Un film attualmente popolare su Netflix Italia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ptWVRyHpDYDoU1vWR2jBQOFSE24.jpg"
+      "description": "Una serie limitata sul famoso calciatore Ronaldinho.",
+      "posterUrl": ""
     },
     {
-      "title": "The Cleaning Lady",
+      "title": "Fake Profile: Season 3",
       "type": "tv",
       "platform": "Netflix",
       "rank": 10,
-      "description": "Una serie su una dottoressa cambogiana che arriva negli Stati Uniti per le cure mediche del figlio, ma è costretta a diventare una donna delle pulizie per la mafia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aoTQhDKiuKpn599yNxp03wr2ZHu.jpg"
+      "description": "Una serie thriller.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Euphoria",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 1,
+      "description": "Una serie drammatica che segue un gruppo di studenti delle scuole superiori alle prese con amore, amicizia, droga, sesso, traumi e social media.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
+    },
+    {
+      "title": "Pechino Express",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 2,
+      "description": "Un reality show d'avventura in cui coppie di concorrenti viaggiano attraverso diversi paesi. L'ultima edizione è ambientata in 'L'Estremo Oriente'.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/97WBjxeRtwLwapHeHTig7Xt8xMd.jpg"
+    },
+    {
+      "title": "Il Maestro",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 3,
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg"
     },
     {
       "title": "Beverly Hills, 90210",
       "type": "tv",
       "platform": "Sky",
-      "rank": 1,
-      "description": "Una serie drammatica classica che segue un gruppo di amici a Beverly Hills.",
+      "rank": 4,
+      "description": "Una classica serie drammatica per adolescenti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/b7BYfkhu653D894krwGO1ysIKTf.jpg"
     },
     {
       "title": "Be Loved",
       "type": "movie",
       "platform": "Sky",
-      "rank": 2,
-      "description": "Un film attualmente nella top 10 di NOW.",
+      "rank": 5,
+      "description": "Un film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ezFeE5zII1tSDhxIcDWpDNqMtYi.jpg"
-    },
-    {
-      "title": "Pechino Express",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 3,
-      "description": "Un reality show italiano in cui coppie di celebrità viaggiano attraverso diversi paesi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/97WBjxeRtwLwapHeHTig7Xt8xMd.jpg"
-    },
-    {
-      "title": "Masterchef Italy",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 4,
-      "description": "La versione italiana del popolare reality show di cucina Masterchef.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wD8S0XLIrHsKzGuw5xPMjDCYYbq.jpg"
     },
     {
       "title": "A Private Life",
       "type": "movie",
       "platform": "Sky",
-      "rank": 5,
-      "description": "Un film attualmente nella top 10 di NOW.",
+      "rank": 6,
+      "description": "Un film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8XofA0n95ROdmHjgKAZ7GSzACj3.jpg"
     },
     {
-      "title": "Euphoria",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 6,
-      "description": "Una serie drammatica HBO che esplora le vite di un gruppo di studenti delle scuole superiori mentre affrontano amore, perdita, dipendenza e amicizia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
-    },
-    {
-      "title": "My Tennis Maestro",
+      "title": "I peccatori",
       "type": "movie",
       "platform": "Sky",
       "rank": 7,
-      "description": "Un film attualmente nella top 10 di NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg"
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
     },
     {
-      "title": "Outlander",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 8,
-      "description": "Una serie drammatica storica basata sui romanzi di Diana Gabaldon.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg"
-    },
-    {
-      "title": "Lee",
+      "title": "Jurassic World: la rinascita",
       "type": "movie",
       "platform": "Sky",
-      "rank": 9,
-      "description": "Un film attualmente nella top 10 di NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kMSo4HqiK1MQ20HhLX8UoNrprZw.jpg"
+      "rank": 8,
+      "description": "Probabilmente 'Jurassic World Dominion'.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pGPKXLGatnHuNiDwMlRfOsVfCSp.jpg"
     },
     {
-      "title": "Cucine da incubo (Italia)",
+      "title": "Money Road",
       "type": "tv",
       "platform": "Sky",
+      "rank": 9,
+      "description": "Una serie TV, probabilmente un dramma o un thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pyEoNwlpLgRenbHUwjVvuPYcVQr.jpg"
+    },
+    {
+      "title": "Quo vado",
+      "type": "movie",
+      "platform": "Sky",
       "rank": 10,
-      "description": "La versione italiana del reality show 'Kitchen Nightmares', dove lo chef Antonino Cannavacciuolo aiuta ristoranti in difficoltà.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sfgZ4KXNQQ8ZNNdQvuaJY4ebeof.jpg"
+      "description": "Un film commedia italiano con Checco Zalone.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9X8csv75uWcVspL3Mk9gSJhBJ0J.jpg"
     }
   ]
 }
