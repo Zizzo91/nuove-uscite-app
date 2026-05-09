@@ -1,325 +1,325 @@
 {
-  "date": "07/05/2026, 11:24:56",
+  "date": "09/05/2026, 10:23:37",
   "data": [
+    {
+      "title": "Stolen Girl",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 1,
+      "description": "Un film che racconta la storia di una ragazza rapita.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/idnepza7yKhvh2fUBL356ZBdB7S.jpg"
+    },
+    {
+      "title": "Una famiglia sottosopra",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 2,
+      "description": "Una commedia che esplora le dinamiche di una famiglia in crisi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/t89VJO6vXcLqqbEYeeUIBcu5t5P.jpg"
+    },
+    {
+      "title": "Vengeance",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 3,
+      "description": "Un nuovo film thriller incentrato sulla vendetta.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/15usG0AHHsWDT6U9JI7FbGtLSyi.jpg"
+    },
+    {
+      "title": "Crime 101",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 4,
+      "description": "Un film poliziesco che segue le regole del crimine.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ouD5CS3DPyarfQkJf5kWF6akptZ.jpg"
+    },
+    {
+      "title": "Balls Up",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 5,
+      "description": "Una nuova commedia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fnVuGv3dMCQr48DmZzRUHpgrvMo.jpg"
+    },
+    {
+      "title": "A Line of Fire",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 6,
+      "description": "Un film d'azione e guerra.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jSG2mg1998DUAam6X9EA6SeJmqD.jpg"
+    },
+    {
+      "title": "Sidelined 2: Intercepted",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 7,
+      "description": "Il sequel di un film sportivo o d'azione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg"
+    },
+    {
+      "title": "Materialists",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 8,
+      "description": "Un film che esplora il materialismo e la società moderna.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nmNi5uMO5earkzK9OL0nsWMQOr7.jpg"
+    },
+    {
+      "title": "Attitudini: Nessuna",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "Un film che indaga la mancanza di attitudini o motivazioni.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4U4X0ykGYTFxvxKT1VvWocRrBkJ.jpg"
+    },
     {
       "title": "The Boys",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 1,
-      "description": "Serie di supereroi irriverente e violenta, con nuovi episodi in tendenza.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/h55FdfqCsaYRvtS2lLc88dHmWJi.jpg"
-    },
-    {
-      "title": "Crime 101 - La strada del crimine",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Un nuovo film che si posiziona tra i più popolari.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ouD5CS3DPyarfQkJf5kWF6akptZ.jpg"
-    },
-    {
-      "title": "Balls Up - Palle Al Sicuro",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Un nuovo film che ha catturato l'attenzione del pubblico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fnVuGv3dMCQr48DmZzRUHpgrvMo.jpg"
-    },
-    {
-      "title": "Vendetta",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Un nuovo film d'azione o thriller tra i più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zJcHCaHWPk5AKysUPpS5pT5ZGIW.jpg"
-    },
-    {
-      "title": "La Casa Degli Spiriti",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Serie con nuovi episodi che continua a essere popolare.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg"
-    },
-    {
-      "title": "INVINCIBLE",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Serie animata di supereroi che si mantiene nella top 10.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
-    },
-    {
-      "title": "Reacher",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Serie d'azione basata sui romanzi di Lee Child, molto apprezzata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/31GlRQMiDunO8cl3NxTz34U64rf.jpg"
-    },
-    {
-      "title": "Mercy: sotto accusa",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Un film che figura tra i titoli più popolari sulla piattaforma.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zhNy3atrXo4DOwmbWbWJx1qy9Wh.jpg"
-    },
-    {
-      "title": "Agente Zeta",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Un film d'azione o spionaggio tra i più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9cbleJ3OV26wzzIkVjyfsh866pD.jpg"
-    },
-    {
-      "title": "Stolen Girl - Nessuna Traccia",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Film aggiunto a maggio che ha rapidamente scalato le classifiche.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/idnepza7yKhvh2fUBL356ZBdB7S.jpg"
+      "description": "Una serie di supereroi irriverente e violenta, con nuovi episodi in uscita.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h55FdfqCsaYRvtS2lLc88dHmWJi.jpg"
     },
     {
       "title": "Your Friends & Neighbors",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "Una serie drammatica che si posiziona tra i programmi TV più popolari.",
+      "description": "Una serie drammatica che esplora le relazioni tra amici e vicini.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
-    },
-    {
-      "title": "Monarch: Legacy of Monsters",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 2,
-      "description": "Serie d'avventura che espande l'universo di Godzilla e i Titani.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jxreNunNZ1HJLFO24hQ5t4O942w.jpg"
-    },
-    {
-      "title": "Outcome",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Film commedia tra i più popolari sulla piattaforma.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
-    },
-    {
-      "title": "F1 The Movie",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Film d'azione incentrato sul mondo della Formula 1.",
-      "posterUrl": ""
     },
     {
       "title": "For All Mankind",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Serie drammatica di fantascienza che esplora una storia alternativa della corsa allo spazio.",
+      "rank": 2,
+      "description": "Una serie drammatica di fantascienza che immagina una storia alternativa della corsa allo spazio.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+    },
+    {
+      "title": "Margo ha problemi di soldi",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 3,
+      "description": "Una serie commedia che segue le disavventure finanziarie di Margo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9UO47ekDKvWJ7uW3fesato0fMQ4.jpg"
+    },
+    {
+      "title": "Monarch: Legacy of Monsters",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 4,
+      "description": "Una serie d'avventura ambientata nel MonsterVerse.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jxreNunNZ1HJLFO24hQ5t4O942w.jpg"
+    },
+    {
+      "title": "Widow's Bay",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Una serie mistery ambientata in una baia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+    },
+    {
+      "title": "Outcome - Hollywood non dimentica",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 6,
+      "description": "Una commedia ambientata nel mondo di Hollywood.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
+    },
+    {
+      "title": "F1: Il film",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "Un film d'azione incentrato sul mondo della Formula 1.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
       "title": "Argylle",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Film commedia d'azione che ha riscosso successo.",
+      "rank": 8,
+      "description": "Una commedia d'azione e spionaggio.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5hqjSVl8EDsBjL3eB6aGY2CYoTd.jpg"
     },
     {
-      "title": "Ted Lasso",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Serie comedy acclamata dalla critica per la sua storia ispiratrice e umoristica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
-    },
-    {
-      "title": "My Tennis Maestro",
+      "title": "Il Maestro",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Film drammatico che si trova tra i più visti.",
+      "rank": 9,
+      "description": "Un film drammatico.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg"
     },
     {
-      "title": "Shrinking",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Serie comedy con Jason Segel e Harrison Ford.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
-    },
-    {
-      "title": "Greyhound",
+      "title": "Misteri dal profondo",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "Film d'azione ambientato durante la Seconda Guerra Mondiale con Tom Hanks.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iJBLPfZkYF5tphFeEULjOMCgwlR.jpg"
+      "description": "Un thriller che esplora misteri sottomarini.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
     },
     {
       "title": "Buen Camino",
       "type": "movie",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Film italiano con Checco Zalone, ha debuttato al primo posto dei film più visti su Netflix in Italia e nel mondo tra quelli non in lingua inglese.",
+      "description": "Un film che segue un viaggio di scoperta e avventura.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4buulRVfRJcqgkR3AF6ln23TqR6.jpg"
     },
     {
-      "title": "Unchosen",
-      "type": "tv",
+      "title": "Anna",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 2,
-      "description": "Miniserie thriller britannica uscita a fine aprile e ambientata all'interno di una setta religiosa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg"
-    },
-    {
-      "title": "Man on Fire - Sete di vendetta",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "Un action thriller con protagonista un ex mercenario delle Forze Speciali in missione a Rio de Janeiro.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Bocciato",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "Commedia francese che parla di un genio della matematica che si finge insegnante per evitare il carcere.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/x9dHspzucm5PY4ChbHJzIabO2LA.jpg"
+      "description": "Un thriller drammatico che esplora temi di sopravvivenza e identità.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mPvVpHdsqWnUbQDGOKNE5avPtIy.jpg"
     },
     {
       "title": "Apex",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 5,
-      "description": "Un film d'azione con Charlize Theron che ha scalato le classifiche.",
+      "rank": 3,
+      "description": "Un film d'azione e avventura con Charlize Theron.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qvdg7McYoHmCyw1B35px9fWU1ZF.jpg"
     },
     {
-      "title": "Running Point: Stagione 2",
-      "type": "tv",
+      "title": "Swapped",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 4,
+      "description": "Una commedia familiare animata che racconta uno scambio di corpi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uCRXsCpMZJDrxAAXJC2xHOz6r9T.jpg"
+    },
+    {
+      "title": "Hercules",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "Un film d'azione e mitologia basato sul leggendario eroe greco.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/x9xx36OTEijHCrdhdkxLGBCnjid.jpg"
+    },
+    {
+      "title": "Je m'appelle Agneta",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 6,
-      "description": "Serie comedy con Kate Hudson.",
-      "posterUrl": ""
+      "description": "Un film drammatico che narra la storia di Agneta.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2YOVL5eZhd4L6Cc1yxqq12ClLzF.jpg"
     },
     {
-      "title": "La legge di Lidia Poët: Stagione 3",
-      "type": "tv",
+      "title": "Unforgettable",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 7,
-      "description": "Serie storica italiana con Matilda De Angelis, arrivata alla terza stagione.",
-      "posterUrl": ""
+      "description": "Un film che esplora i temi della memoria e del passato.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kiZSv7nLG9YKpV2yv1itviuwZmn.jpg"
     },
     {
-      "title": "Ted",
-      "type": "tv",
+      "title": "My Favorite Wedding",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 8,
-      "description": "Serie basata sul popolare film omonimo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cPn71YFDENH0JkWUezlsLyWmLfN.jpg"
+      "description": "Una commedia romantica incentrata su un matrimonio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8zQd6jWYakos8zvZFV7pV2KZCcK.jpg"
     },
     {
-      "title": "Sposare un assassino",
-      "type": "tv",
+      "title": "An Autumn Romance",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 9,
-      "description": "Una serie limitata che esplora la storia vera di una donna che sposa un assassino.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zGOBLxxsV0X9RuhYaLp4rSFmjQN.jpg"
+      "description": "Una storia d'amore ambientata in autunno.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/o2sbwqbQwG06ufgzzGiJYAMPnfP.jpg"
     },
     {
-      "title": "Profilo Falso: Stagione 3",
+      "title": "Should I Marry A Murderer?",
       "type": "tv",
       "platform": "Netflix",
       "rank": 10,
-      "description": "Serie thriller che continua a essere tra le più apprezzate.",
-      "posterUrl": ""
+      "description": "Una miniserie che indaga un dilemma morale e un mistero.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zGOBLxxsV0X9RuhYaLp4rSFmjQN.jpg"
     },
     {
-      "title": "Rosa Elettrica",
-      "type": "tv",
+      "title": "Le assaggiatrici",
+      "type": "movie",
       "platform": "Sky",
       "rank": 1,
-      "description": "Nuova serie Sky Original, un poliziesco con Maria Chiara Giannetta, ispirata a un bestseller.",
-      "posterUrl": ""
+      "description": "Un film drammatico ambientato nel 2025.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hjjPe2rQINX18JvS0EiWfxlJaFg.jpg"
     },
     {
-      "title": "L'assassinio di Gianni Versace - American Crime Story",
-      "type": "tv",
+      "title": "Il diavolo veste Prada",
+      "type": "movie",
       "platform": "Sky",
       "rank": 2,
-      "description": "La seconda stagione della serie antologica crime di Ryan Murphy, ripercorre il celebre caso dell'omicidio di Gianni Versace.",
-      "posterUrl": ""
+      "description": "Una commedia drammatica sul mondo della moda.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2qyD1izvofdwFTX5CRLsSmjn98f.jpg"
     },
     {
       "title": "Euphoria",
       "type": "tv",
       "platform": "Sky",
       "rank": 3,
-      "description": "Dramma adolescenziale HBO, molto popolare e con nuovi episodi in arrivo.",
+      "description": "Una serie drammatica che segue le vite di un gruppo di adolescenti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
+    },
+    {
+      "title": "No Other Choice - Non c'è altra scelta",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "Un film thriller del 2025.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6U7LDiu4IBMxw9chpT79UhuE3bR.jpg"
     },
     {
       "title": "The Pitt",
       "type": "tv",
       "platform": "Sky",
-      "rank": 4,
-      "description": "Un drama ospedaliero ambientato in un centro traumatologico di Pittsburgh, considerato un must-watch.",
+      "rank": 5,
+      "description": "Una serie TV del 2025.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
     },
     {
-      "title": "M - Il Figlio del Secolo",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 5,
-      "description": "Serie Sky Original che racconta la storia di Benito Mussolini.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/m3ntFWL8nT1MOTji7HsqvHonjeI.jpg"
-    },
-    {
-      "title": "No Other Choice",
+      "title": "Una di famiglia",
       "type": "movie",
       "platform": "Sky",
       "rank": 6,
-      "description": "Film che si è posizionato al primo posto tra i film più visti su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6U7LDiu4IBMxw9chpT79UhuE3bR.jpg"
+      "description": "Un film drammatico del 2025.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vhcLvSkPaD7udoRqEXKBWO9ld1D.jpg"
     },
     {
-      "title": "Venom: The Last Dance",
+      "title": "Mortal Kombat",
       "type": "movie",
       "platform": "Sky",
       "rank": 7,
-      "description": "Film che figura tra i più visti su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u1WtJvvqNbN2AwUW1xdQU08MerE.jpg"
+      "description": "Un film d'azione basato sul celebre videogioco.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
     },
     {
-      "title": "Il Maestro",
+      "title": "Breve storia d'amore",
       "type": "movie",
       "platform": "Sky",
       "rank": 8,
-      "description": "Un film drammatico tra i titoli di spicco del catalogo Cinema di NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg"
+      "description": "Un film romantico del 2025.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/avqBTEK53Zqyr5sWIi6EuE51UaH.jpg"
     },
     {
-      "title": "House of the Dragon",
-      "type": "tv",
+      "title": "I peccatori",
+      "type": "movie",
       "platform": "Sky",
       "rank": 9,
-      "description": "Serie fantasy prequel de Il Trono di Spade, molto attesa e seguita.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
+      "description": "Un film drammatico del 2025.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
     },
     {
-      "title": "The Last Of Us",
-      "type": "tv",
+      "title": "Fuori",
+      "type": "movie",
       "platform": "Sky",
       "rank": 10,
-      "description": "Serie post-apocalittica acclamata dalla critica, basata sul videogioco omonimo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6WlffOd3bszyndGgsKGcUL6k28n.jpg"
+      "description": "Un film del 2025.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gxSkBOfTEOX2f6KhqMFSXf24nMo.jpg"
     }
   ]
 }
