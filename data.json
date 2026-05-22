@@ -1,22 +1,49 @@
 {
-  "date": "21/05/2026, 10:29:27",
+  "date": "22/05/2026, 10:20:06",
   "data": [
     {
-      "title": "Swapped – Al tuo posto",
+      "title": "Swapped - Al tuo posto",
       "type": "movie",
       "platform": "Netflix",
       "releaseDate": "2026-05-01",
       "displayDate": "1 Maggio 2026",
-      "description": "Una commedia che esplora lo scambio di identità e le sue conseguenze inaspettate.",
+      "description": "Una commedia in cui i protagonisti si scambiano di posto.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uCRXsCpMZJDrxAAXJC2xHOz6r9T.jpg"
     },
     {
-      "title": "Jujutsu Kaisen - Stagione 2",
+      "title": "Ted",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-05-01",
       "displayDate": "1 Maggio 2026",
-      "description": "La seconda stagione dell'acclamata serie anime basata sul manga di Gege Akutami.",
+      "description": "Serie prequel spin-off del celebre orsetto Ted.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cPn71YFDENH0JkWUezlsLyWmLfN.jpg"
+    },
+    {
+      "title": "Hercules: Il guerriero",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-05-01",
+      "displayDate": "1 Maggio 2026",
+      "description": "Un film d'azione e avventura.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eVIPtdaoo6SygyF9TFk99w9q0om.jpg"
+    },
+    {
+      "title": "Jujutsu Kaisen (Stagione 2)",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-05-01",
+      "displayDate": "1 Maggio 2026",
+      "description": "Seconda stagione della popolare serie anime.",
+      "posterUrl": ""
+    },
+    {
+      "title": "30 Rock (Stagioni 1-7)",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-05-01",
+      "displayDate": "1 Maggio 2026",
+      "description": "Tutte le stagioni della celebre sitcom.",
       "posterUrl": ""
     },
     {
@@ -29,21 +56,30 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/idnepza7yKhvh2fUBL356ZBdB7S.jpg"
     },
     {
-      "title": "Il capo - El Encargado - Stagione 4",
+      "title": "Il capo - El Encargado (Stagione 4)",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-05-01",
       "displayDate": "1 Maggio 2026",
-      "description": "La quarta stagione della serie che segue le vicende di un portiere di condominio.",
+      "description": "Quarta stagione della serie.",
       "posterUrl": ""
     },
     {
-      "title": "Impuros - Stagione 6",
+      "title": "Impuros (Stagione 6)",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-05-01",
       "displayDate": "1 Maggio 2026",
-      "description": "La sesta stagione della serie crime che esplora il mondo del narcotraffico.",
+      "description": "Sesta stagione della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Magicampers (Stagione 1 Parte 2)",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-05-01",
+      "displayDate": "1 Maggio 2026",
+      "description": "Seconda parte della prima stagione della serie per ragazzi.",
       "posterUrl": ""
     },
     {
@@ -52,17 +88,35 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-05-01",
       "displayDate": "1 Maggio 2026",
-      "description": "Un dramma che esplora le contraddizioni della società coreana attraverso la storia di un artigiano.",
+      "description": "Un dramma coreano presentato a Venezia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6U7LDiu4IBMxw9chpT79UhuE3bR.jpg"
     },
     {
-      "title": "Willie Peyote - Elegia Sabauda",
+      "title": "Guns Up",
       "type": "movie",
-      "platform": "Cinema in Italia",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-05-03",
+      "displayDate": "3 Maggio 2026",
+      "description": "Un film d'azione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/y1d9d6uCbpCb2VWGY8xsiY0wGXf.jpg"
+    },
+    {
+      "title": "A Line of Fire: Sotto tiro",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
       "releaseDate": "2026-05-04",
       "displayDate": "4 Maggio 2026",
-      "description": "Un documentario musicale che ripercorre la carriera di Willie Peyote, partendo da Torino.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/o2Hc5N8FQhaNcEpD297QCwimKBG.jpg"
+      "description": "Un film d'azione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jSG2mg1998DUAam6X9EA6SeJmqD.jpg"
+    },
+    {
+      "title": "Breve storia d'amore",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-05-04",
+      "displayDate": "4 Maggio 2026",
+      "description": "Una pellicola sentimentale con Pilar Fogliati e Adriano Giannini.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/avqBTEK53Zqyr5sWIi6EuE51UaH.jpg"
     },
     {
       "title": "American Crime Story 2 - L'assassinio di Gianni Versace",
@@ -70,52 +124,52 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-05-05",
       "displayDate": "5 Maggio 2026",
-      "description": "La seconda stagione della serie antologica che ricostruisce l'omicidio di Gianni Versace.",
+      "description": "Seconda stagione della serie antologica che ricostruisce celebri casi giudiziari.",
       "posterUrl": ""
     },
     {
-      "title": "The Handmaid's Tale - Stagioni 1-6",
+      "title": "FARE SEMPRE DI PIÙ",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-05-05",
+      "displayDate": "5 Maggio 2026",
+      "description": "Documentario sulle missioni umanitarie del dottor Giampiero Campanelli.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Handmaid's Tale (Stagioni 1-6)",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-05-06",
       "displayDate": "6 Maggio 2026",
-      "description": "Tutte le stagioni della serie distopica basata sul romanzo di Margaret Atwood.",
+      "description": "Tutte le stagioni della serie distopica.",
       "posterUrl": ""
     },
     {
-      "title": "Citadel 2",
+      "title": "Citadel (Stagione 2)",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-05-06",
       "displayDate": "6 Maggio 2026",
-      "description": "La seconda stagione della serie spy-thriller con un cast internazionale.",
+      "description": "Seconda stagione della serie action-spionaggio.",
       "posterUrl": ""
     },
     {
-      "title": "Mortal Kombat II",
-      "type": "movie",
-      "platform": "Cinema in Italia",
+      "title": "TURISTI PER CASE (Stagione 2)",
+      "type": "tv",
+      "platform": "Discovery+",
       "releaseDate": "2026-05-06",
       "displayDate": "6 Maggio 2026",
-      "description": "Il sequel del film d'azione e fantastico basato sul celebre videogioco.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg"
+      "description": "Seconda stagione del programma con Tommaso Zorzi, Ida De Filippo e Gianluca Torre.",
+      "posterUrl": ""
     },
     {
-      "title": "L'amore sta bene su tutto",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-05-06",
-      "displayDate": "6 Maggio 2026",
-      "description": "Una commedia italiana diretta e interpretata da Giampaolo Morelli.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uGevFszuvC2yVGb3foshoPQNhgP.jpg"
-    },
-    {
-      "title": "L'uomo delle castagne: Nascondino",
+      "title": "L'uomo delle castagne: Conta fino a due (Stagione 2)",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-05-07",
       "displayDate": "7 Maggio 2026",
-      "description": "Un thriller che segue una complessa indagine su omicidi legati a figure di castagne.",
+      "description": "Seconda stagione della serie crime svedese.",
       "posterUrl": ""
     },
     {
@@ -124,17 +178,8 @@
       "platform": "Disney+",
       "releaseDate": "2026-05-07",
       "displayDate": "7 Maggio 2026",
-      "description": "Un thriller di Sam Raimi dove due sopravvissuti a un disastro aereo si ritrovano su un'isola deserta.",
+      "description": "Un thriller venato di horror comedy diretto da Sam Raimi.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pZjbgtRKatZLPxqHNwTE1pXqaso.jpg"
-    },
-    {
-      "title": "Manas - Sorelle",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-05-07",
-      "displayDate": "7 Maggio 2026",
-      "description": "Un film drammatico che esplora il legame tra due sorelle.",
-      "posterUrl": ""
     },
     {
       "title": "Creature luminose",
@@ -142,7 +187,7 @@
       "platform": "Netflix",
       "releaseDate": "2026-05-08",
       "displayDate": "8 Maggio 2026",
-      "description": "Un film fantastico che narra di esseri misteriosi e luminosi.",
+      "description": "Un mystery drama tratto da un bestseller.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8pUkU7t4MhfIaxbSPYeRTo96jdl.jpg"
     },
     {
@@ -151,8 +196,17 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-05-08",
       "displayDate": "8 Maggio 2026",
-      "description": "Una commedia romantica tratta dal romanzo di Felicia Kingsley, ambientata in Toscana.",
+      "description": "Una commedia romantica italiana tratta da un bestseller.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3BsaBkOalMIRMwNE6OxFUGqrnEB.jpg"
+    },
+    {
+      "title": "Freaky Friday 2: Ancora nei panni di mia madre",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-05-08",
+      "displayDate": "8 Maggio 2026",
+      "description": "Un film inedito.",
+      "posterUrl": ""
     },
     {
       "title": "Unconditional",
@@ -160,17 +214,44 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-05-08",
       "displayDate": "8 Maggio 2026",
-      "description": "Un thriller drammatico che promette suspense e colpi di scena.",
+      "description": "Un thriller drama.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/y4Y1ZYlAIpfERNpM00ZaYOdik9W.jpg"
     },
     {
-      "title": "Rosa Elettrica – In fuga con il nemico",
+      "title": "Rosa Elettrica - In fuga con il nemico",
       "type": "tv",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-05-08",
       "displayDate": "8 Maggio 2026",
-      "description": "Una miniserie crime thriller Sky Original con Maria Chiara Giannetta.",
+      "description": "Miniserie crime thriller Sky Original con Maria Chiara Giannetta.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6L8mWi31O2SwdX8b3oCLv0S6eJI.jpg"
+    },
+    {
+      "title": "La casa delle bambole di Gabby - Il film",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-05-09",
+      "displayDate": "9 Maggio 2026",
+      "description": "Un film per tutta la famiglia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9Tc4A7AsmZJLyaRzZjyFY9QgxI1.jpg"
+    },
+    {
+      "title": "My mother's Wedding",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-05-10",
+      "displayDate": "10 Maggio 2026",
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/feHTwv3BplNlLW3o9LtW2kqZLJg.jpg"
+    },
+    {
+      "title": "Relay: Informazioni pericolose",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-05-11",
+      "displayDate": "11 Maggio 2026",
+      "description": "Un film thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4gkRKQC5oTUHsPFS4i1fJBsC6ae.jpg"
     },
     {
       "title": "The Running Man",
@@ -178,16 +259,16 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-05-11",
       "displayDate": "11 Maggio 2026",
-      "description": "Un film d'azione e fantascienza.",
+      "description": "Un film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/c7CAzgr2IIvwI6PlbfvFNfLtVRg.jpg"
     },
     {
-      "title": "Devil May Cry - Stagione 2",
+      "title": "Devil May Cry (Stagione 2)",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-05-12",
       "displayDate": "12 Maggio 2026",
-      "description": "La seconda stagione della serie anime basata sul popolare videogioco.",
+      "description": "Seconda stagione della serie animata.",
       "posterUrl": ""
     },
     {
@@ -196,7 +277,7 @@
       "platform": "Disney+",
       "releaseDate": "2026-05-12",
       "displayDate": "12 Maggio 2026",
-      "description": "Stanley Tucci torna a esplorare le regioni italiane attraverso il cibo.",
+      "description": "Seconda stagione della docuserie gastronomica con Stanley Tucci.",
       "posterUrl": ""
     },
     {
@@ -205,16 +286,25 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-05-12",
       "displayDate": "12 Maggio 2026",
-      "description": "Un film drammatico che esplora temi di rinascita e cambiamento.",
+      "description": "Un film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6Giqb3a9ITCKhlkNeWtfzGWOxU0.jpg"
     },
     {
-      "title": "Good Omens 3",
+      "title": "IL RE DEL BISTURI POST BARIATRICO",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-05-12",
+      "displayDate": "12 Maggio 2026",
+      "description": "Nuova stagione del programma che segue il dott. Giulio Basoccu.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Good Omens (Stagione 3)",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-05-13",
       "displayDate": "13 Maggio 2026",
-      "description": "La terza stagione della serie fantasy basata sul romanzo di Terry Pratchett e Neil Gaiman.",
+      "description": "Terza stagione della serie fantasy-commedia.",
       "posterUrl": ""
     },
     {
@@ -223,16 +313,16 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-05-13",
       "displayDate": "13 Maggio 2026",
-      "description": "Un drama young adult che esplora le vite di studenti universitari.",
+      "description": "Un drama young adult ambientato in un college.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
     },
     {
-      "title": "DareDevil La Rinascita - Stagione 2",
+      "title": "Daredevil: La Rinascita (Stagione 2)",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-05-13",
       "displayDate": "13 Maggio 2026",
-      "description": "La seconda stagione della serie Marvel con il vigilante cieco.",
+      "description": "Seconda stagione della serie Marvel.",
       "posterUrl": ""
     },
     {
@@ -241,16 +331,25 @@
       "platform": "Disney+",
       "releaseDate": "2026-05-13",
       "displayDate": "13 Maggio 2026",
-      "description": "Uno speciale Marvel Television in cui Frank Castle torna a combattere.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3leYjvDUmDQQSsbTXcftazevIHo.jpg"
+      "description": "Uno speciale Marvel con Jon Bernthal nei panni di Frank Castle.",
+      "posterUrl": ""
     },
     {
-      "title": "I Simpson - Stagione 36",
+      "title": "I Simpson (Stagione 36)",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-05-13",
       "displayDate": "13 Maggio 2026",
-      "description": "La trentaseiesima stagione della celebre famiglia animata di Springfield.",
+      "description": "Trentaseiesima stagione della celebre serie animata.",
+      "posterUrl": ""
+    },
+    {
+      "title": "CASE A 1 EURO… O POCO PIÙ – SICILIA",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-05-14",
+      "displayDate": "14 Maggio 2026",
+      "description": "Serie che segue acquirenti che ristrutturano case a 1 euro in Sicilia.",
       "posterUrl": ""
     },
     {
@@ -259,7 +358,7 @@
       "platform": "Netflix",
       "releaseDate": "2026-05-15",
       "displayDate": "15 Maggio 2026",
-      "description": "Un nuovo capitolo dell'universo de La casa di carta, con Berlino protagonista di un colpo a Siviglia.",
+      "description": "Nuovo capitolo dell'universo de La casa di carta.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/7WLO1krc2Dp6xdhAf9QsLymepwg.jpg"
     },
     {
@@ -268,7 +367,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-05-15",
       "displayDate": "15 Maggio 2026",
-      "description": "Un action thriller che promette adrenalina e suspense.",
+      "description": "Un action thriller.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/mwzDApMZAGeYCEVjhegKvCzDX0W.jpg"
     },
     {
@@ -277,17 +376,26 @@
       "platform": "Disney+",
       "releaseDate": "2026-05-15",
       "displayDate": "15 Maggio 2026",
-      "description": "La seconda stagione della serie drammatica che segue intrighi e lotte di potere.",
+      "description": "Seconda stagione della serie britannica.",
       "posterUrl": ""
     },
     {
-      "title": "Welcome to Wrexham - Stagione 5",
+      "title": "Welcome to Wrexham (Stagione 5)",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-05-15",
       "displayDate": "15 Maggio 2026",
-      "description": "La quinta stagione della docuserie che segue la squadra di calcio gallese.",
+      "description": "Quinta stagione della docuserie sportiva.",
       "posterUrl": ""
+    },
+    {
+      "title": "Le cose non dette",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-05-16",
+      "displayDate": "16 Maggio 2026",
+      "description": "Il quattordicesimo film di Gabriele Muccino.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sK4MZKEzQk5ajgLKI8QnU129UdY.jpg"
     },
     {
       "title": "Bardot",
@@ -295,8 +403,17 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-05-16",
       "displayDate": "16 Maggio 2026",
-      "description": "Una serie biografica che racconta la vita dell'icona Brigitte Bardot.",
+      "description": "Una serie sulla vita di Brigitte Bardot.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5fAHVS8C88mWvwzMWqchNwYVcQO.jpg"
+    },
+    {
+      "title": "Dragon Ball Kai (Stagioni 1-2)",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-05-17",
+      "displayDate": "17 Maggio 2026",
+      "description": "Prime due stagioni della serie anime.",
+      "posterUrl": ""
     },
     {
       "title": "Sentimental Value",
@@ -304,8 +421,44 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-05-17",
       "displayDate": "17 Maggio 2026",
-      "description": "Un film drammatico premiato agli Oscar e a Cannes.",
+      "description": "Miglior film internazionale agli Oscar® 2026.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg"
+    },
+    {
+      "title": "How to Lose a Popularity Contest",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-05-18",
+      "displayDate": "18 Maggio 2026",
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/v5RNCGejmtZcA1wIGkVZXrpOhPl.jpg"
+    },
+    {
+      "title": "Allora Balliamo",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-05-18",
+      "displayDate": "18 Maggio 2026",
+      "description": "Una commedia drammatica e musicale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dUREuQwE8sZUbKS7EH4KChdceIf.jpg"
+    },
+    {
+      "title": "Michael Jackson - Anatomia di una caduta",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-05-18",
+      "displayDate": "18 Maggio 2026",
+      "description": "Un documentario.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/12jZrqSjj5oSxkUQsOwJt3n8arP.jpg"
+    },
+    {
+      "title": "The Nightmare Upstairs: What Happened to Ty and Bryn?",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-05-19",
+      "displayDate": "19 Maggio 2026",
+      "description": "Una docuserie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ijUqXJ8SpOyZo3BvfXqooHyQb7S.jpg"
     },
     {
       "title": "Tom Clancy's Jack Ryan: Ghost War",
@@ -313,7 +466,16 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-05-20",
       "displayDate": "20 Maggio 2026",
-      "description": "Jack Ryan torna in una nuova missione internazionale tra spionaggio e geopolitica.",
+      "description": "Nuova missione internazionale per Jack Ryan.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Le Piccole Storie di Bluey (Nuovi episodi)",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-05-20",
+      "displayDate": "20 Maggio 2026",
+      "description": "Nuovi episodi della serie animata per bambini.",
       "posterUrl": ""
     },
     {
@@ -322,8 +484,17 @@
       "platform": "Disney+",
       "releaseDate": "2026-05-20",
       "displayDate": "20 Maggio 2026",
-      "description": "Una docuserie che esplora le dinamiche e i segreti della 'Ndrangheta.",
+      "description": "Docuserie sulle indagini della 'Ndrangheta.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/on88qvkBtZH3YUELMNW0MYc9XwF.jpg"
+    },
+    {
+      "title": "Betrayal: Secrets and Lies (Stagione 1)",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-05-20",
+      "displayDate": "20 Maggio 2026",
+      "description": "Prima stagione della serie.",
+      "posterUrl": ""
     },
     {
       "title": "Maximum Pleasure Guaranteed",
@@ -331,17 +502,35 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-05-20",
       "displayDate": "20 Maggio 2026",
-      "description": "Una dark comedy che mescola thriller e ironia, con una protagonista coinvolta in una rete di ricatti.",
+      "description": "Una dark comedy che mescola thriller e ironia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
     },
     {
-      "title": "Star Wars: The Mandalorian and Grogu",
-      "type": "movie",
-      "platform": "Cinema in Italia",
+      "title": "Chicago Med (Stagione 11b)",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-05-20",
       "displayDate": "20 Maggio 2026",
-      "description": "Il film che porta sul grande schermo le avventure di Din Djarin e Grogu.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2XX2XlXdfEWV0tfUyWunBj1SFpx.jpg"
+      "description": "Seconda parte dell'undicesima stagione della serie medical drama.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Chicago Fire (Stagione 14b)",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-05-20",
+      "displayDate": "20 Maggio 2026",
+      "description": "Seconda parte della quattordicesima stagione della serie drammatica.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Chicago P.D. (Stagione 13b)",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-05-20",
+      "displayDate": "20 Maggio 2026",
+      "description": "Seconda parte della tredicesima stagione della serie crime.",
+      "posterUrl": ""
     },
     {
       "title": "The Boroughs – Ribelli senza tempo",
@@ -349,35 +538,26 @@
       "platform": "Netflix",
       "releaseDate": "2026-05-21",
       "displayDate": "21 Maggio 2026",
-      "description": "Una serie che segue un gruppo di ribelli in una storia senza tempo.",
+      "description": "Una nuova serie mystery drama.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg"
     },
     {
-      "title": "Passenger",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-05-21",
-      "displayDate": "21 Maggio 2026",
-      "description": "Un thriller diretto da André Øvredal.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vqtX2uwAq4ziVR3V3aC2yqypR9k.jpg"
+      "title": "The 50",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-05-22",
+      "displayDate": "22 Maggio 2026",
+      "description": "Un reality show italiano con 50 concorrenti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/r7ZPWfdKJJmSjZDOIMQCz3PXjIa.jpg"
     },
     {
-      "title": "Amarga Navidad",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-05-21",
-      "displayDate": "21 Maggio 2026",
-      "description": "Un film drammatico diretto da Pedro Almodóvar.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ji29dXqoeIsQiVnXAkzI4nzxMjr.jpg"
-    },
-    {
-      "title": "Aldair – Cuore giallorosso",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-05-21",
-      "displayDate": "21 Maggio 2026",
-      "description": "Un film documentario sulla leggenda del calcio Aldair.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9i3r0zzYYbizTVyi9baSWg4eTZS.jpg"
+      "title": "The Serpent Queen",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-05-23",
+      "displayDate": "23 Maggio 2026",
+      "description": "Serie sull'ascesa di Caterina de' Medici.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qrpIpzbwoAZJTegfKSTlmz15jbf.jpg"
     },
     {
       "title": "Francesca e Giovanni - Una storia d'amore e di mafia",
@@ -385,8 +565,17 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-05-23",
       "displayDate": "23 Maggio 2026",
-      "description": "Un film drammatico che narra una storia d'amore sullo sfondo della mafia.",
+      "description": "Film su Francesca Morvillo e Giovanni Falcone.",
       "posterUrl": ""
+    },
+    {
+      "title": "Downton Abbey - Il gran finale",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-05-24",
+      "displayDate": "24 Maggio 2026",
+      "description": "Il gran finale della celebre serie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5zULdRh1vTqqC52TNnubG1DO9P8.jpg"
     },
     {
       "title": "2 cuori e 2 capanne",
@@ -403,16 +592,16 @@
       "platform": "Netflix",
       "releaseDate": "2026-05-27",
       "displayDate": "27 Maggio 2026",
-      "description": "Una nuova serie animata creata, scritta e diretta da Zerocalcare.",
+      "description": "Nuova serie animata creata e diretta da Zerocalcare.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg"
     },
     {
-      "title": "Come uccidono le brave ragazze - Stagione 2",
+      "title": "Come uccidono le brave ragazze (Stagione 2)",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-05-27",
       "displayDate": "27 Maggio 2026",
-      "description": "La seconda stagione del thriller che segue un'indagine su un misterioso omicidio.",
+      "description": "Seconda stagione della serie.",
       "posterUrl": ""
     },
     {
@@ -421,8 +610,71 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-05-27",
       "displayDate": "27 Maggio 2026",
-      "description": "Una serie live-action ambientata nella New York degli anni '30 con un'estetica noir.",
+      "description": "Serie live-action Marvel in chiave noir con Nicolas Cage.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cRAzL6mmdM6Q6UuQgc335UMgcfd.jpg"
+    },
+    {
+      "title": "9-1-1 (Stagione 9 Parte 3)",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-05-27",
+      "displayDate": "27 Maggio 2026",
+      "description": "Terza parte della nona stagione della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Abbott Elementary (Stagione 5 Parte 2)",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-05-27",
+      "displayDate": "27 Maggio 2026",
+      "description": "Seconda parte della quinta stagione della serie comedy.",
+      "posterUrl": ""
+    },
+    {
+      "title": "BACKROOMS",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-05-27",
+      "displayDate": "27 Maggio 2026",
+      "description": "Film tratto dal fenomeno globale che ha terrorizzato il web.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg"
+    },
+    {
+      "title": "The Four Seasons (Stagione 2)",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-05-28",
+      "displayDate": "28 Maggio 2026",
+      "description": "Seconda stagione della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Deli Boys (Stagione 2)",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-05-28",
+      "displayDate": "28 Maggio 2026",
+      "description": "Seconda stagione della crime comedy.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Emmanuelle",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-05-29",
+      "displayDate": "29 Maggio 2026",
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/s9gmKus9YPTDzdMKZQJYPh0VoGk.jpg"
+    },
+    {
+      "title": "La Guerra delle Rose",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-05-29",
+      "displayDate": "29 Maggio 2026",
+      "description": "Un film.",
+      "posterUrl": ""
     },
     {
       "title": "Star City",
@@ -430,7 +682,7 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-05-29",
       "displayDate": "29 Maggio 2026",
-      "description": "Uno spy thriller che promette intrighi e azione.",
+      "description": "Uno spy thriller.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
     },
     {
@@ -439,7 +691,7 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-05-29",
       "displayDate": "29 Maggio 2026",
-      "description": "Un film d'avventura dal sapore nostalgico.",
+      "description": "Un film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vAHBciNtxN3l4sPob8n0BHXnvQr.jpg"
     },
     {
@@ -448,62 +700,215 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-05-29",
       "displayDate": "29 Maggio 2026",
-      "description": "Una serie creata da Rian Johnson con Natasha Lyonne, che risolve crimini grazie a un dono speciale.",
+      "description": "Serie thriller creata da Rian Johnson con Natasha Lyonne.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eA32Vs0z8w6vn6E3oJdJKdk0s33.jpg"
     },
     {
-      "title": "House of the Dragons – Stagione 3",
+      "title": "Una di famiglia",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-05-30",
+      "displayDate": "30 Maggio 2026",
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vhcLvSkPaD7udoRqEXKBWO9ld1D.jpg"
+    },
+    {
+      "title": "Quattro Matrimoni (Nuova stagione)",
       "type": "tv",
       "platform": "Sky (incl. NOW)",
-      "releaseDate": "2026-06-01",
-      "displayDate": "1 Giugno 2026",
-      "description": "La terza stagione del prequel di Game of Thrones.",
+      "releaseDate": "2026-05-31",
+      "displayDate": "31 Maggio 2026",
+      "description": "Nuova stagione del reality show.",
       "posterUrl": ""
     },
     {
-      "title": "The Michael Jackson Story",
+      "title": "Come ti muovi, sbagli",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-05-31",
+      "displayDate": "31 Maggio 2026",
+      "description": "Una commedia di Gianni di Gregorio.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Mission: Impossible (Tutta la saga)",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "L'intera saga di film d'azione con Tom Cruise.",
+      "posterUrl": ""
+    },
+    {
+      "title": "House of the Dragon (Stagione 3)",
       "type": "tv",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-06-01",
       "displayDate": "1 Giugno 2026",
-      "description": "Un documentario che racconta la vita e la carriera di Michael Jackson.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/irzh3mV3nK7SdYgbWJ8MNYyS2zh.jpg"
+      "description": "Terza stagione della serie prequel de Il Trono di Spade.",
+      "posterUrl": ""
     },
     {
-      "title": "La leggenda dei Vox Machina – Stagione 4",
+      "title": "Sisu: Road to Revenge",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kiNeaEXHkOauCB0jwwYrQV6sU2.jpg"
+    },
+    {
+      "title": "Fire Country (Stagione 4)",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "Quarta stagione della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "L'isola di Andrea",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "Un dramma italiano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pj7KDOVRIZHfZHrpWQphD58CpBU.jpg"
+    },
+    {
+      "title": "Il piacere è tutto mio",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "Una commedia britannica.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yLmDXwVmxlmID7sXBLrAweVF5Yx.jpg"
+    },
+    {
+      "title": "Kneecap",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "Un dramma irlandese.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9eKPLclW0FrvKpRr5PgiisFJavE.jpg"
+    },
+    {
+      "title": "Il sentiero azzurro",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "Un dramma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ajv99fDULy90GXvxWtl6a9FVRK9.jpg"
+    },
+    {
+      "title": "Eternal - Odissea negli abissi",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "Un film di fantascienza e drammatico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eLpsptZYG2GMJTSbyuwN6H5TiXc.jpg"
+    },
+    {
+      "title": "Un inverno in Corea",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "Un dramma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lU2ttwVLxaJG2FFbbfGFSel5K57.jpg"
+    },
+    {
+      "title": "La Divina di Francia - Sarah Bernhardt",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "Un film biografico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ftur5VPlLwgOd1tPNLl56x7cNI7.jpg"
+    },
+    {
+      "title": "La gazza ladra",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "Una commedia francese.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vZaUtgFJP4uQ5NXo6WvyYkQlhfp.jpg"
+    },
+    {
+      "title": "Portobello",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-06-01",
+      "displayDate": "1 Giugno 2026",
+      "description": "Una serie tv ispirata alle vicende giudiziarie di Enzo Tortora.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mS6rJQXFDHk5ZHz6oisEuudpmAo.jpg"
+    },
+    {
+      "title": "La Fattoria di Clarkson (Stagione 5)",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-06-03",
       "displayDate": "3 Giugno 2026",
-      "description": "La quarta stagione della serie animata fantasy basata sulla campagna di Dungeons & Dragons.",
+      "description": "Quinta stagione della docuserie con Jeremy Clarkson.",
       "posterUrl": ""
     },
     {
-      "title": "Masters of the Universe",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-06-04",
-      "displayDate": "4 Giugno 2026",
-      "description": "Un film di fantascienza e azione basato sull'iconico franchise.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/myxz3z3VOOcDPudmKTr3TUjjIUg.jpg"
+      "title": "The Legend of Vox Machina (Stagione 4)",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-06-03",
+      "displayDate": "3 Giugno 2026",
+      "description": "Quarta stagione della serie animata fantasy-avventura.",
+      "posterUrl": ""
     },
     {
-      "title": "Smart Working",
-      "type": "movie",
-      "platform": "Cinema in Italia",
+      "title": "The Murder of Rachel Nickell",
+      "type": "tv",
+      "platform": "Netflix",
       "releaseDate": "2026-06-04",
       "displayDate": "4 Giugno 2026",
-      "description": "Una commedia contemporanea e surreale che racconta il caos del lavoro da remoto.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qim9z1ZZWoGh5iDGicKgmrnfiXg.jpg"
+      "description": "Documentario sul brutale assassinio di Rachel Nickell.",
+      "posterUrl": ""
     },
     {
-      "title": "Scary Movie",
-      "type": "movie",
-      "platform": "Cinema in Italia",
+      "title": "Night Shift For Cuties",
+      "type": "tv",
+      "platform": "Netflix",
       "releaseDate": "2026-06-04",
       "displayDate": "4 Giugno 2026",
-      "description": "Un film che unisce commedia e horror.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/AaTg95kewgcTNyGYxm3VmH3RSj5.jpg"
+      "description": "Una nuova serie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/e8Hze00U0XmIRd6IXxP1Egdqw2u.jpg"
+    },
+    {
+      "title": "The Witness",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-06-04",
+      "displayDate": "4 Giugno 2026",
+      "description": "Una nuova serie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/n6i4LpDcyiwGbZg3to3Z8puyS1F.jpg"
+    },
+    {
+      "title": "Billy the Kid (Stagioni 1-2)",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-06-04",
+      "displayDate": "4 Giugno 2026",
+      "description": "Serie d'avventura sulla vita di Billy the Kid.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Cape Fear",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-06-05",
+      "displayDate": "5 Giugno 2026",
+      "description": "Una miniserie thriller psicologico prodotta da Martin Scorsese e Steven Spielberg.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
     },
     {
       "title": "La casa dell'estate",
@@ -511,7 +916,43 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-06-06",
       "displayDate": "6 Giugno 2026",
-      "description": "Un film che esplora la possibilità di viaggiare indietro nel tempo fino a un'estate che ha cambiato tutto.",
+      "description": "Un film.",
+      "posterUrl": ""
+    },
+    {
+      "title": "FolleMente",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-06-06",
+      "displayDate": "6 Giugno 2026",
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3inRpYgwsWCA9p889eTcw2QQ7Km.jpg"
+    },
+    {
+      "title": "Predator: Killer of Killers",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-06-06",
+      "displayDate": "6 Giugno 2026",
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4I5jDbDZW7WxeieSCJ30edzk2Xe.jpg"
+    },
+    {
+      "title": "Alice and Steve",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-06-08",
+      "displayDate": "8 Giugno 2026",
+      "description": "Una nuova serie comedy-drama britannica.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2YT4xGwuA0bq7YPguLOsuVYclbH.jpg"
+    },
+    {
+      "title": "David Attenborough: Oceano",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-06-08",
+      "displayDate": "8 Giugno 2026",
+      "description": "Un documentario sulla vita negli oceani.",
       "posterUrl": ""
     },
     {
@@ -520,7 +961,7 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-06-09",
       "displayDate": "9 Giugno 2026",
-      "description": "Una serie TV che mescola fantascienza, romanticismo, dramma e commedia.",
+      "description": "Una promettente serie dramedy con Elizabeth Banks.",
       "posterUrl": ""
     },
     {
@@ -529,26 +970,44 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-06-10",
       "displayDate": "10 Giugno 2026",
-      "description": "Una storia romantica e nostalgica sui primi amori e le scelte che ci segnano per sempre.",
+      "description": "Una serie romantica ambientata nell'arco di sei anni.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6q5bO7n6aFeygjfhuAVcqH72Gx0.jpg"
     },
     {
-      "title": "Il prigioniero",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-06-10",
-      "displayDate": "10 Giugno 2026",
-      "description": "Un film d'avventura, drammatico e thriller.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4MCuatxIkzRJJPnebkZJzMPR1ep.jpg"
-    },
-    {
-      "title": "Disclosure Day",
-      "type": "movie",
-      "platform": "Cinema in Italia",
+      "title": "Il colore delle magnolie (Stagione 5)",
+      "type": "tv",
+      "platform": "Netflix",
       "releaseDate": "2026-06-11",
       "displayDate": "11 Giugno 2026",
-      "description": "Un film di fantascienza e thriller diretto da Steven Spielberg.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2HfLCkrCc7mnT15lp8tfZag1a9L.jpg"
+      "description": "Quinta stagione della serie drammatica.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Ancora più sexy",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-06-12",
+      "displayDate": "12 Giugno 2026",
+      "description": "Sequel della commedia italiana.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qtQJxCo1fI1sbSzZH31zlv2duQy.jpg"
+    },
+    {
+      "title": "I Ladri: La Tiara di Sant'Agata",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-06-13",
+      "displayDate": "13 Giugno 2026",
+      "description": "Una nuova serie TV.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Underdogs",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-06-16",
+      "displayDate": "16 Giugno 2026",
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bk5v11Ul6n33x2sX4xgsIM3hxF8.jpg"
     },
     {
       "title": "È colpa tua: Londra",
@@ -556,17 +1015,125 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-06-17",
       "displayDate": "17 Giugno 2026",
-      "description": "Noah si trasferisce a Londra e incontra il ribelle Nick, scoprendo presto una complessa relazione.",
+      "description": "Un film.",
       "posterUrl": ""
     },
     {
-      "title": "Toy Story 5",
+      "title": "Storia della mia famiglia (Stagione 1)",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-06-18",
+      "displayDate": "18 Giugno 2026",
+      "description": "Prima stagione della serie drammatica/commedia.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Fisica o Chimica (Stagioni 1-7)",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-06-18",
+      "displayDate": "18 Giugno 2026",
+      "description": "Tutte le stagioni della serie spagnola.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Sugar (Stagione 2)",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-06-19",
+      "displayDate": "19 Giugno 2026",
+      "description": "Seconda stagione della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Sherpa",
       "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-06-17",
-      "displayDate": "17 Giugno 2026",
-      "description": "Il quinto capitolo della celebre saga d'animazione Pixar.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/i7eQGriXCmNpScSVzepNHn9nMPM.jpg"
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-06-20",
+      "displayDate": "20 Giugno 2026",
+      "description": "Un documentario sullo scontro del 2013 sull'Everest.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dyPEylOnFrcscb33M8ZWPM9qqS3.jpg"
+    },
+    {
+      "title": "Rhythm + Flow Italy: Season 3",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-06-23",
+      "displayDate": "23 Giugno 2026",
+      "description": "Terza stagione del reality show musicale italiano.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Ryan Hamilton: This Just Hit Me",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-06-24",
+      "displayDate": "24 Giugno 2026",
+      "description": "Uno speciale comico di Ryan Hamilton.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Avatar: Fuoco e Cenere",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-06-24",
+      "displayDate": "24 Giugno 2026",
+      "description": "Terzo capitolo della saga sci-fi di James Cameron.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Alessandro Borghese: Celebrity Chef (Stagione 5)",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-06-24",
+      "displayDate": "24 Giugno 2026",
+      "description": "Quinta stagione del cooking show.",
+      "posterUrl": ""
+    },
+    {
+      "title": "In the Hand of Dante",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-06-25",
+      "displayDate": "25 Giugno 2026",
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/FVyNH1Y7Zro3kukCtwhyw1J0o2.jpg"
+    },
+    {
+      "title": "Avatar The Last Airbender: Season 2",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-06-26",
+      "displayDate": "26 Giugno 2026",
+      "description": "Seconda stagione della serie animata.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Chris & Martina: The Final Set",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-06-26",
+      "displayDate": "26 Giugno 2026",
+      "description": "Un film.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Little Brother",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-06-26",
+      "displayDate": "26 Giugno 2026",
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg"
+    },
+    {
+      "title": "Enola Holmes 3",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Terzo capitolo delle avventure della sorella di Sherlock Holmes.",
+      "posterUrl": ""
     },
     {
       "title": "Elle",
@@ -574,8 +1141,197 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-07-01",
       "displayDate": "1 Luglio 2026",
-      "description": "Prequel di 'La rivincita delle bionde', racconta la vita di Elle Woods al liceo.",
+      "description": "Serie prequel de La rivincita delle bionde.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/AuqhQiW9sqRbjfazchuBe0dZr72.jpg"
+    },
+    {
+      "title": "La famiglia Addams 1 e 2",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "I primi due film dell'iconica famiglia Addams.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Rocky I-VI",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "La saga completa di Rocky.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Shrek 1, 2, 3",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "I primi tre film dell'orco Shrek.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Fast & Furious: Hobbs & Shaw",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Film spin-off della serie Fast & Furious.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cnzGX61xD0G02D3EqivfZ1bOCDv.jpg"
+    },
+    {
+      "title": "Pasolini: un delitto italiano",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Film che ricostruisce gli eventi della morte di Pier Paolo Pasolini.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gWR4OPViXD3Ry9LUGUt1Sipw8WT.jpg"
+    },
+    {
+      "title": "Il signore delle mosche (Stagione 1)",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Miniserie tratta dal romanzo di William Golding.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Gomorra: Le origini (Stagione 1)",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Prequel della storica saga Sky Original.",
+      "posterUrl": ""
+    },
+    {
+      "title": "War",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Un thriller giudiziario che racconta un divorzio scandaloso.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/n7DJOdcjE2CRvmSQgNg0nUJlDdo.jpg"
+    },
+    {
+      "title": "Prisoner",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Una serie in cui un'agente penitenziaria e un criminale fuggono insieme.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Euphoria (Stagione 3)",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Terza stagione della serie cult.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Great Lillian Hall",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Un film che racconta la storia di una celebre attrice teatrale di Broadway.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8rbwcw8yQXEmSweaxDfyMRwXaVt.jpg"
+    },
+    {
+      "title": "The Alto Knights - I due volti del crimine",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Un crime diretto da Barry Levinson ambientato nella New York anni '50.",
+      "posterUrl": ""
+    },
+    {
+      "title": "I peccatori",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Un thriller che segue due fratelli gemelli alle prese con un male radicato nella loro città.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Olimpiadi di Milano-Cortina 2026",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Copertura integrale delle Olimpiadi invernali.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Human Vapor",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-07-02",
+      "displayDate": "2 Luglio 2026",
+      "description": "Una serie j-drama in cui un misterioso 'Human Vapor' terrorizza la nazione.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Silo (Stagione 3)",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-07-03",
+      "displayDate": "3 Luglio 2026",
+      "description": "Terza stagione della serie distopica.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Sparks of Tomorrow",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-07-05",
+      "displayDate": "5 Luglio 2026",
+      "description": "Una serie anime ambientata in una Kyoto alternativa.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Ghost in the Shell",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-07-07",
+      "displayDate": "7 Luglio 2026",
+      "description": "Nuova serie anime reboot del celebre manga cyberpunk.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Sniper: L'ultimo baluardo",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-07-07",
+      "displayDate": "7 Luglio 2026",
+      "description": "Un film d'azione su un cecchino.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/TVvIyCsFCmLk9MRLbAZi4X8f32.jpg"
+    },
+    {
+      "title": "Trying (Stagione 5)",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-07-08",
+      "displayDate": "8 Luglio 2026",
+      "description": "Quinta stagione della serie comedy.",
+      "posterUrl": ""
+    },
+    {
+      "title": "La casa nella prateria",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-07-09",
+      "displayDate": "9 Luglio 2026",
+      "description": "Reboot della celebre serie tv.",
+      "posterUrl": ""
     },
     {
       "title": "Ride or Die",
@@ -583,8 +1339,98 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-07-15",
       "displayDate": "15 Luglio 2026",
-      "description": "Una serie adrenalinica e ricca di azione, ambientata in Europa, con due amiche in fuga.",
+      "description": "Una miniserie action con Octavia Spencer e Hannah Waddingham.",
       "posterUrl": ""
+    },
+    {
+      "title": "Don Jon",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-07-15",
+      "displayDate": "15 Luglio 2026",
+      "description": "Una commedia romantica diretta e interpretata da Joseph Gordon-Levitt.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Lucky",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-07-15",
+      "displayDate": "15 Luglio 2026",
+      "description": "Una miniserie con Anya Taylor-Joy.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8p2HhNFKFi14Yl5DjSQ2Ex1SnKo.jpg"
+    },
+    {
+      "title": "The Hawk",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-07-16",
+      "displayDate": "16 Luglio 2026",
+      "description": "Una serie comedy sul golf con Will Ferrell.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/klwdBtkpdW1RIqOl0dkSWJ7mtjq.jpg"
+    },
+    {
+      "title": "Odissea",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-07-16",
+      "displayDate": "16 Luglio 2026",
+      "description": "Un film di Christopher Nolan.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Damaged",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-07-19",
+      "displayDate": "19 Luglio 2026",
+      "description": "Un thriller con Samuel L. Jackson e Vincent Cassel.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Killing season",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-07-22",
+      "displayDate": "22 Luglio 2026",
+      "description": "Un thriller con John Travolta e Robert De Niro.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Ransom Canyon (Stagione 2)",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-07-23",
+      "displayDate": "23 Luglio 2026",
+      "description": "Seconda stagione della serie romance western.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Truthers",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-07-24",
+      "displayDate": "24 Luglio 2026",
+      "description": "Un thriller psicologico spagnolo.",
+      "posterUrl": ""
+    },
+    {
+      "title": "72 Hours",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-07-24",
+      "displayDate": "24 Luglio 2026",
+      "description": "Una commedia sul posto di lavoro con Kevin Hart.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ifuzZizxgZA1HT9sp667BqIqjXe.jpg"
+    },
+    {
+      "title": "The Dink",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-07-24",
+      "displayDate": "24 Luglio 2026",
+      "description": "Una commedia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9m4uEdjPqdiU9MOl3tOkyFpMO7L.jpg"
     }
   ]
 }
