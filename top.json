@@ -1,325 +1,325 @@
 {
-  "date": "09/06/2026, 12:25:50",
+  "date": "11/06/2026, 13:16:21",
   "data": [
     {
       "title": "The Boys",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Una serie TV di supereroi irriverente e violenta, molto popolare.",
+      "description": "Una serie satirica sui supereroi.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/h55FdfqCsaYRvtS2lLc88dHmWJi.jpg"
-    },
-    {
-      "title": "La Fattoria Clarkson",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Una docu-serie che segue Jeremy Clarkson nelle sue avventure agricole.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/giw6nkgPz0K4CooyjSVVBIoKc5V.jpg"
-    },
-    {
-      "title": "Crime 101 - La strada del crimine",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Un film poliziesco che esplora il mondo del crimine.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ouD5CS3DPyarfQkJf5kWF6akptZ.jpg"
-    },
-    {
-      "title": "Balls Up - Palle Al Sicuro",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Un film che offre intrattenimento e risate.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fnVuGv3dMCQr48DmZzRUHpgrvMo.jpg"
     },
     {
       "title": "Tom Clancy's Jack Ryan: Ghost War",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Un nuovo film d'azione basato sul famoso personaggio di Tom Clancy.",
+      "rank": 2,
+      "description": "Un film d'azione con Jack Ryan in una nuova missione di spionaggio.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8ehYxUh5MWE41AeE9gkHE8DKzvB.jpg"
     },
     {
-      "title": "La leggenda di Vox Machina",
+      "title": "La Fattoria Clarkson",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Una serie TV animata fantasy basata su una campagna di Dungeons & Dragons.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yNYVig6udrHW03mqoIxqmm8LO5J.jpg"
+      "rank": 3,
+      "description": "La serie documentaristica di Jeremy Clarkson sull'agricoltura.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/giw6nkgPz0K4CooyjSVVBIoKc5V.jpg"
+    },
+    {
+      "title": "Shelter",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 4,
+      "description": "Un film popolare sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/drZmD0QO2E08Rqa5S9ko2pTmzhe.jpg"
     },
     {
       "title": "INVINCIBLE",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Una serie TV animata di supereroi acclamata dalla critica.",
+      "rank": 5,
+      "description": "Una serie animata di supereroi.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4tblBrslcKSifMVZ3TmtT2ukMor.jpg"
+    },
+    {
+      "title": "The Housemaid",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 6,
+      "description": "Un film popolare sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vhcLvSkPaD7udoRqEXKBWO9ld1D.jpg"
     },
     {
       "title": "Citadel",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Una serie TV thriller di spionaggio con un cast stellare.",
+      "rank": 7,
+      "description": "Una serie thriller di spionaggio globale.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg"
     },
     {
-      "title": "Kyle Larson e il Double",
+      "title": "Crime 101 - La strada del crimine",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Un nuovo documentario/film che segue l'impresa di Kyle Larson.",
-      "posterUrl": ""
+      "rank": 8,
+      "description": "Un film a tema criminale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ouD5CS3DPyarfQkJf5kWF6akptZ.jpg"
     },
     {
-      "title": "The Longest Day",
+      "title": "La leggenda di Vox Machina",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "Una serie animata fantasy.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yNYVig6udrHW03mqoIxqmm8LO5J.jpg"
+    },
+    {
+      "title": "Balls Up - Palle Al Sicuro",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Un film storico di guerra.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6uhEGxZHfpjNJBa7xV5xr7ZN3Ah.jpg"
-    },
-    {
-      "title": "F1: Il film",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 1,
-      "description": "Un film che porta gli spettatori nel mondo della Formula 1.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
+      "description": "Un film popolare sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fnVuGv3dMCQr48DmZzRUHpgrvMo.jpg"
     },
     {
       "title": "Widow's Bay",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 2,
-      "description": "Una serie TV mistery che si svolge in una baia isolata.",
+      "rank": 1,
+      "description": "Una serie TV mistery.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
     },
     {
-      "title": "Il Maestro",
+      "title": "F1: Il film",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Un film drammatico che racconta la storia di un mentore.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg"
+      "rank": 2,
+      "description": "Un film d'azione legato alla Formula 1.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
       "title": "Your Friends & Neighbors",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Una serie TV drammatica che esplora le dinamiche sociali.",
+      "rank": 3,
+      "description": "Una serie TV drammatica.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
     },
     {
-      "title": "Volo notturno per Los Angeles",
+      "title": "Il Maestro",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Un film drammatico ambientato durante un volo notturno.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vAHBciNtxN3l4sPob8n0BHXnvQr.jpg"
+      "rank": 4,
+      "description": "Un film drammatico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg"
     },
     {
       "title": "For All Mankind",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Una serie TV di fantascienza che immagina una storia alternativa della corsa allo spazio.",
+      "rank": 5,
+      "description": "Una serie drammatica che esplora una storia alternativa della corsa allo spazio.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
     },
     {
-      "title": "Outcome - Hollywood non dimentica",
+      "title": "Volo notturno per Los Angeles",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Una commedia che segue le vicende di una star di Hollywood.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
+      "rank": 6,
+      "description": "Un film drammatico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vAHBciNtxN3l4sPob8n0BHXnvQr.jpg"
     },
     {
       "title": "Criminal Record",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Una serie TV crime drama che indaga su un vecchio caso.",
+      "rank": 7,
+      "description": "Una serie TV poliziesca.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
+    },
+    {
+      "title": "Outcome - Hollywood non dimentica",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Un film commedia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
+    },
+    {
+      "title": "Ted Lasso",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Una serie comica su un allenatore di football americano che gestisce una squadra di calcio britannica.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
     },
     {
       "title": "Greyhound: il nemico invisibile",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Un film di guerra ambientato durante la Seconda Guerra Mondiale con Tom Hanks.",
+      "rank": 10,
+      "description": "Un film d'azione ambientato durante la Seconda Guerra Mondiale.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iJBLPfZkYF5tphFeEULjOMCgwlR.jpg"
     },
     {
-      "title": "Margo ha problemi di soldi",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 10,
-      "description": "Una serie TV commedia che segue le disavventure finanziarie di Margo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9UO47ekDKvWJ7uW3fesato0fMQ4.jpg"
-    },
-    {
-      "title": "My 2 Cents",
+      "title": "My 2 Cents: Limited Series",
       "type": "tv",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Una serie limitata che esplora temi contemporanei.",
+      "description": "Una miniserie che esplora un tema o una storia specifica.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Office Romance",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 2,
+      "description": "Una commedia romantica ambientata in un contesto lavorativo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg"
+    },
+    {
+      "title": "Michael Jackson: The Verdict: Season 1",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 3,
+      "description": "Una docuserie che analizza il processo a Michael Jackson e la sua eredità.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Marked Woman",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 4,
+      "description": "Un film su una donna che diventa un bersaglio.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Witness: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "Una miniserie che si concentra sulla storia di un testimone.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Creed III",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Il terzo capitolo della serie drammatica sul pugilato.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yf0RvumqADYTS3UXr4SxHL2f18H.jpg"
+    },
+    {
+      "title": "Berlin and the Lady with an Ermine: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "Una miniserie legata a Berlino e al famoso dipinto 'La dama con l'ermellino'.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Diamonds",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Un film incentrato sui diamanti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iHhbsC39Y3FYaIne9Rqp7AIpgel.jpg"
+    },
+    {
+      "title": "Tear Along the Dotted Line: Season 1",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "Una serie animata di Zerocalcare.",
       "posterUrl": ""
     },
     {
       "title": "Ladies First",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 2,
-      "description": "Un film popolare che ha catturato l'attenzione del pubblico.",
+      "rank": 10,
+      "description": "Un film che si concentra su protagoniste femminili.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/kjR56Yv17pbjTVBTMjqepvcus4f.jpg"
     },
     {
-      "title": "Berlin and the Lady with an Ermine",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "Una serie limitata che combina arte e mistero.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7WLO1krc2Dp6xdhAf9QsLymepwg.jpg"
-    },
-    {
-      "title": "A Perfect Getaway",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "Un thriller avvincente che tiene con il fiato sospeso.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/632GbfRmiduiP76JHXlR6KdVdyS.jpg"
-    },
-    {
-      "title": "The Boroughs",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "Una nuova serie TV che sta scalando le classifiche.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nfuy7JjuNWRYHjCyU3VGTNEK5rA.jpg"
-    },
-    {
-      "title": "Buen Camino",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "Un film che segue un viaggio significativo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9wpeQoaIJxsqULF6OvslFW1gDCT.jpg"
-    },
-    {
-      "title": "Nemesis",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "Una serie TV ricca di suspense e intrighi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aLLblo2FVEM3FNn1TqTL4Lt8BlA.jpg"
-    },
-    {
-      "title": "Per Te",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 8,
-      "description": "Un film drammatico che tocca corde emotive.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mWuuunAQuSAlUTbPBJrycYAFS5A.jpg"
-    },
-    {
-      "title": "A Good Girl's Guide to Murder",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 9,
-      "description": "Una popolare serie TV basata su un romanzo giallo per ragazzi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5c4Wj9czmM0T1zZC5jQmXJwm1dG.jpg"
-    },
-    {
-      "title": "Breaking In",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 10,
-      "description": "Un film d'azione e thriller su un'irruzione in casa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/twp9a6B0FqHzDvuAY3YOyAg0T7Z.jpg"
-    },
-    {
-      "title": "Law & Order: Unità Speciale",
+      "title": "The Miniature Wife - Un piccolo problema",
       "type": "tv",
       "platform": "Sky",
       "rank": 1,
-      "description": "Una longeva serie TV poliziesca che segue i casi di un'unità speciale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ygRqQATWXSQLUN7CatZV4be0C2N.jpg"
+      "description": "Una nuova serie TV su un problema unico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg"
     },
     {
-      "title": "Euphoria",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 2,
-      "description": "Una serie TV drammatica acclamata dalla critica che esplora la vita di adolescenti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
-    },
-    {
-      "title": "Le cose non dette",
+      "title": "The Bourne Legacy",
       "type": "movie",
       "platform": "Sky",
-      "rank": 3,
-      "description": "Un film che affronta segreti e rivelazioni.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sK4MZKEzQk5ajgLKI8QnU129UdY.jpg"
+      "rank": 2,
+      "description": "Un film d'azione-thriller del franchise di Bourne.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2DWJ7JnfBLQ1DWFCFJWPGp5eueu.jpg"
     },
     {
-      "title": "The Pitt",
+      "title": "Money Road: Ogni tentazione ha un prezzo",
       "type": "tv",
       "platform": "Sky",
-      "rank": 4,
-      "description": "Una serie TV che si concentra su un dramma medico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
+      "rank": 3,
+      "description": "Una serie TV sulle tentazioni e il loro costo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pyEoNwlpLgRenbHUwjVvuPYcVQr.jpg"
     },
     {
-      "title": "Outlander",
+      "title": "Batman",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "Il classico film di supereroi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg"
+    },
+    {
+      "title": "Law & Order: Organized Crime",
       "type": "tv",
       "platform": "Sky",
       "rank": 5,
-      "description": "Una serie TV storico-fantastica che mescola romance e avventura.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg"
+      "description": "Una serie drammatica poliziesca.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4AvB6Dg8eAbfWv5WOqzCCv2zS90.jpg"
     },
     {
-      "title": "No Other Choice - Non c'è altra scelta",
+      "title": "Il Maestro",
       "type": "movie",
       "platform": "Sky",
       "rank": 6,
-      "description": "Un film che presenta un dilemma difficile.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6U7LDiu4IBMxw9chpT79UhuE3bR.jpg"
+      "description": "Un film popolare sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oDucYHSU6iDlRKAj0tJmvNBgoq0.jpg"
     },
     {
-      "title": "I peccatori",
-      "type": "movie",
+      "title": "House of the Dragon",
+      "type": "tv",
       "platform": "Sky",
       "rank": 7,
-      "description": "Un film che esplora le conseguenze delle azioni umane.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
+      "description": "Una serie drammatica fantasy, prequel di Game of Thrones.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     },
     {
-      "title": "Sentimental Value",
+      "title": "Cattivissimo me",
       "type": "movie",
       "platform": "Sky",
       "rank": 8,
-      "description": "Un film che indaga il valore emotivo degli oggetti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg"
+      "description": "Un film d'animazione per famiglie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2n7hzxUCieTetGBmJX8OZZfwYhO.jpg"
     },
     {
-      "title": "2 cuori e 2 capanne",
-      "type": "movie",
+      "title": "Poker Face",
+      "type": "tv",
       "platform": "Sky",
       "rank": 9,
-      "description": "Una commedia romantica che esplora le relazioni.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iqzJFIm7p64xVnRHLD5FKQM5XcJ.jpg"
+      "description": "Una serie TV mystery con un caso a settimana.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nZnHwYpK27fC9AIK6DKVomrUAbk.jpg"
     },
     {
-      "title": "Il diavolo veste Prada",
+      "title": "Il padrino",
       "type": "movie",
       "platform": "Sky",
       "rank": 10,
-      "description": "Una commedia drammatica iconica ambientata nel mondo della moda.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2qyD1izvofdwFTX5CRLsSmjn98f.jpg"
+      "description": "L'iconico film drammatico criminale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gemuM3FvVaWSEBrfk6nVFIOBhBY.jpg"
     }
   ]
 }
