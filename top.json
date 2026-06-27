@@ -1,325 +1,325 @@
 {
-  "date": "26/06/2026, 12:12:23",
+  "date": "27/06/2026, 11:20:51",
   "data": [
     {
-      "title": "Spider-Noir",
-      "type": "tv",
+      "title": "Un bel giorno",
+      "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "A popular series on Amazon Prime Video Italy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
+      "description": "Un film tra i più popolari su Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
+    },
+    {
+      "title": "Your Fault: London",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 2,
+      "description": "Un film che si trova nella top 10 di Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/AjhkEhNvJf7xaqrnahl0zjjgOgq.jpg"
+    },
+    {
+      "title": "Kissing Is the Easy Part",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 3,
+      "description": "Un film nella classifica dei più visti su Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lyCAGXP1dCpe8uGUHkO5KXAJX2E.jpg"
+    },
+    {
+      "title": "Shelter",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 4,
+      "description": "Un film popolare su Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/drZmD0QO2E08Rqa5S9ko2pTmzhe.jpg"
+    },
+    {
+      "title": "Agata Christian - Murder on the Snow",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 5,
+      "description": "Un film tra i più visti su Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nLOF571J6YOTAmryyO5qOwSyURm.jpg"
     },
     {
       "title": "Off Campus",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "A popular series on Amazon Prime Video Italy.",
+      "rank": 6,
+      "description": "Una serie TV popolare su Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
     },
     {
-      "title": "Un anno dopo l'altro",
+      "title": "Every Year After",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "A popular series on Amazon Prime Video Italy.",
+      "rank": 7,
+      "description": "Una serie TV tra le più viste su Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6q5bO7n6aFeygjfhuAVcqH72Gx0.jpg"
     },
     {
       "title": "The 50",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "A popular series on Amazon Prime Video Italy.",
+      "rank": 8,
+      "description": "Una serie TV presente nella top 10 di Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/AwbcDhblTbQIuNDCdNLhZiPyC2t.jpg"
+    },
+    {
+      "title": "Spider-Noir",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "Una serie TV che ha raggiunto la top 10 di Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
     },
     {
       "title": "The Boys",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "A popular series on Amazon Prime Video Italy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cmLcdprQHdtwbadpMBfZYUzl3Oq.jpg"
-    },
-    {
-      "title": "La fattoria Clarkson",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "A popular series on Amazon Prime Video Italy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/giw6nkgPz0K4CooyjSVVBIoKc5V.jpg"
-    },
-    {
-      "title": "La leggenda di Vox Machina",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "A popular series on Amazon Prime Video Italy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yNYVig6udrHW03mqoIxqmm8LO5J.jpg"
-    },
-    {
-      "title": "Missione Shelter",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "A popular movie on Amazon Prime Video Italy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/drZmD0QO2E08Rqa5S9ko2pTmzhe.jpg"
-    },
-    {
-      "title": "Supernatural",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "A popular series on Amazon Prime Video Italy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg"
-    },
-    {
-      "title": "Ancora più sexy",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "A popular movie on Amazon Prime Video Italy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg"
-    },
-    {
-      "title": "Echo Valley",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 1,
-      "description": "A thriller movie currently popular on Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aYopnBSnhPbQt7UnwypAz3sM12r.jpg"
-    },
-    {
-      "title": "Widow's Bay",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 2,
-      "description": "A mystery TV series currently popular on Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
+      "description": "Una serie TV di successo su Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cmLcdprQHdtwbadpMBfZYUzl3Oq.jpg"
     },
     {
       "title": "F1 The Movie",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 3,
-      "description": "An action movie currently popular on Apple TV+.",
+      "rank": 1,
+      "description": "Un film d'azione tra i più popolari su Apple TV+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qRxAvGF3t8IHESZ0lBb3QDz5DTP.jpg"
-    },
-    {
-      "title": "Sugar",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 4,
-      "description": "A mystery TV series currently popular on Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
     },
     {
       "title": "Outcome",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 5,
-      "description": "A comedy movie currently popular on Apple TV+.",
+      "rank": 2,
+      "description": "Un film commedia nella classifica dei più visti su Apple TV+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
-    },
-    {
-      "title": "Your Friends & Neighbors",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 6,
-      "description": "A dramatic TV series currently popular on Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
     },
     {
       "title": "The Gorge",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "A thriller movie currently popular on Apple TV+.",
+      "rank": 3,
+      "description": "Un film thriller popolare su Apple TV+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+    },
+    {
+      "title": "Echo Valley",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 4,
+      "description": "Un film thriller tra i più visti su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aYopnBSnhPbQt7UnwypAz3sM12r.jpg"
+    },
+    {
+      "title": "The Family Plan 2",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Un film commedia presente nella top 10 di Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aUPrVTBfu7NS1D0Z5L5OxWTrZS7.jpg"
     },
     {
       "title": "Cape Fear",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 8,
-      "description": "A thriller TV series currently popular on Apple TV+.",
+      "rank": 6,
+      "description": "Una serie TV thriller tra le più popolari su Apple TV+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg"
     },
     {
-      "title": "Greyhound",
-      "type": "movie",
+      "title": "Sugar",
+      "type": "tv",
       "platform": "Apple TV+",
-      "rank": 9,
-      "description": "An action movie currently popular on Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iJBLPfZkYF5tphFeEULjOMCgwlR.jpg"
+      "rank": 7,
+      "description": "Una serie TV mistery nella classifica dei più visti su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
     },
     {
-      "title": "For All Mankind",
+      "title": "Widow's Bay",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Una serie TV mistery popolare su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
+    },
+    {
+      "title": "Star City",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Una serie TV drammatica tra le più viste su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aOyhj8ERPpijIyrwJoTd4ZEhqJR.jpg"
+    },
+    {
+      "title": "Your Friends & Neighbors",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "A dramatic TV series currently popular on Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+      "description": "Una serie TV drammatica presente nella top 10 di Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
+    },
+    {
+      "title": "I Will Find You",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 1,
+      "description": "Una serie limitata basata su un adattamento di Harlan Coben.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9dBe3lN3LfWyBAWGXflVEVCWrpt.jpg"
+    },
+    {
+      "title": "Losing Judgment",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 2,
+      "description": "La prima stagione di una serie TV.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ioyuupNi55EPjqutl0Kl6KaXZuV.jpg"
+    },
+    {
+      "title": "My Family",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 3,
+      "description": "La seconda stagione della serie TV.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yjZIAhfqJoXLyWVFNzoTxOdNDDA.jpg"
+    },
+    {
+      "title": "My 2 Cents",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 4,
+      "description": "Una serie limitata.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Oasis",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "La prima stagione di una serie spagnola.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg"
     },
     {
       "title": "Voicemails for Isabelle",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 1,
-      "description": "A popular movie currently trending on Netflix Italy.",
+      "rank": 6,
+      "description": "Un film popolare su Netflix.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oaxqHkmpDNTNYnEr79bW6k6VpUA.jpg"
     },
     {
-      "title": "I Will Find You: Limited Series",
-      "type": "tv",
+      "title": "Lavoreremo da grandi",
+      "type": "movie",
       "platform": "Netflix",
-      "rank": 2,
-      "description": "A popular limited series on Netflix Italy.",
-      "posterUrl": ""
+      "rank": 7,
+      "description": "Un film tra i più visti su Netflix.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/73rycpKhykMonuXJxigc0LHMlVu.jpg"
     },
     {
       "title": "Fuori la verità",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 3,
-      "description": "A movie currently popular on Netflix Italy.",
+      "rank": 8,
+      "description": "Un film che si trova nella top 10 di Netflix.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/y2qh219D9mFaGrtO1hhjlHv8fEV.jpg"
-    },
-    {
-      "title": "Losing Judgment: Season 1",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "The first season of a popular TV series on Netflix Italy.",
-      "posterUrl": ""
     },
     {
       "title": "Poseidon",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 5,
-      "description": "A movie currently popular on Netflix Italy.",
+      "rank": 9,
+      "description": "Un film presente nella classifica dei più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qWenXpjkzQ04wt5DLwzwrSjxLhl.jpg"
     },
     {
-      "title": "My Family: Season 2",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "The second season of a popular TV series on Netflix Italy.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Sweetheart",
+      "title": "Tre di troppo",
       "type": "movie",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "A movie currently popular on Netflix Italy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg"
-    },
-    {
-      "title": "My 2 Cents: Limited Series",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 8,
-      "description": "A popular limited series on Netflix Italy.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Life as We Know It",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 9,
-      "description": "A movie currently popular on Netflix Italy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tx4gX742kLhQRLUvbjisCMSfYB6.jpg"
-    },
-    {
-      "title": "Oasis: Season 1",
-      "type": "tv",
       "platform": "Netflix",
       "rank": 10,
-      "description": "The first season of a popular TV series on Netflix Italy.",
-      "posterUrl": ""
+      "description": "Un film che ha scalato la classifica dei più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kUdehyzniVTCupwxOt5zxHJWsec.jpg"
     },
     {
       "title": "Un bel giorno",
       "type": "movie",
       "platform": "Sky",
       "rank": 1,
-      "description": "A popular movie on NOW (Sky).",
+      "description": "Un film tra i più visti su NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
-    },
-    {
-      "title": "House of the Dragon",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 2,
-      "description": "A popular fantasy series, prequel to Game of Thrones, available on Sky and NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     },
     {
       "title": "Tired Of Killing",
       "type": "movie",
       "platform": "Sky",
-      "rank": 3,
-      "description": "A popular movie on NOW (Sky), also known as 'Ammazzare stanca'.",
+      "rank": 2,
+      "description": "Un film nella top 10 di NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6Pb2vdZE8mpvDvMbXKYU8dwCYG0.jpg"
-    },
-    {
-      "title": "Billy The Kid",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 4,
-      "description": "A western/dramatic series about the famous outlaw, available on Sky and NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hwPPA0sqlU9kGRHDDyl4cVp4Vum.jpg"
     },
     {
       "title": "Hunting Season",
       "type": "movie",
       "platform": "Sky",
-      "rank": 5,
-      "description": "A popular movie on NOW (Sky).",
+      "rank": 3,
+      "description": "Un film popolare su NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hG4WWZf0eKe58rzBCxSNK82Cfzx.jpg"
-    },
-    {
-      "title": "The Miniature Wife - Un piccolo problema",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 6,
-      "description": "A comedy/sci-fi series available on Sky and NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg"
     },
     {
       "title": "Gioia",
       "type": "movie",
       "platform": "Sky",
-      "rank": 7,
-      "description": "A popular movie on NOW (Sky), also known as 'La gioia'.",
+      "rank": 4,
+      "description": "Un film presente nella classifica dei più visti su NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/kYw62IF023miZMKyiAqX4mYat3a.jpg"
-    },
-    {
-      "title": "Ray Donovan",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 8,
-      "description": "A drama series with all seasons available on Sky and NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cwJ6nLNvX62By0yoLYWFhRelPkF.jpg"
     },
     {
       "title": "The Housemaid",
       "type": "movie",
       "platform": "Sky",
-      "rank": 9,
-      "description": "A popular movie on NOW (Sky), also known as 'Una di famiglia – The Housemaid'.",
+      "rank": 5,
+      "description": "Un film che si trova nella top 10 di NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vhcLvSkPaD7udoRqEXKBWO9ld1D.jpg"
     },
     {
-      "title": "Lost",
+      "title": "House of the Dragon",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Una serie TV con nuovi episodi disponibili ogni lunedì.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
+    },
+    {
+      "title": "Money Road",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 7,
+      "description": "Una serie TV con tutti gli episodi disponibili.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pyEoNwlpLgRenbHUwjVvuPYcVQr.jpg"
+    },
+    {
+      "title": "The Miniature Wife - Un piccolo problema",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 8,
+      "description": "La prima stagione di una serie TV tra le più cercate.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg"
+    },
+    {
+      "title": "Quattro matrimoni in Italia",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 9,
+      "description": "L'ottava stagione di un popolare show televisivo.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Euphoria",
       "type": "tv",
       "platform": "Sky",
       "rank": 10,
-      "description": "A popular mystery/drama series with all seasons available on Sky and NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg"
+      "description": "Una serie TV con tutti gli episodi disponibili.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg"
     }
   ]
 }
