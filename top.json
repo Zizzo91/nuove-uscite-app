@@ -1,325 +1,325 @@
 {
-  "date": "27/06/2026, 11:20:51",
+  "date": "28/06/2026, 11:51:31",
   "data": [
+    {
+      "title": "The Sheep Detectives",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 1,
+      "description": "Un film su un gregge di pecore che risolve la misteriosa morte del loro pastore.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hWELMex5ZbcdULp4M8CECiWBBkO.jpg"
+    },
     {
       "title": "Un bel giorno",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 1,
-      "description": "Un film tra i più popolari su Prime Video.",
+      "rank": 2,
+      "description": "Un film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
     },
     {
       "title": "Your Fault: London",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Un film che si trova nella top 10 di Prime Video.",
+      "rank": 3,
+      "description": "Un film su Nick e Noah che lottano per mantenere la loro relazione a distanza.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/AjhkEhNvJf7xaqrnahl0zjjgOgq.jpg"
+    },
+    {
+      "title": "The Boys",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 4,
+      "description": "Una serie su un gruppo di vigilanti che combattono supereroi corrotti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cmLcdprQHdtwbadpMBfZYUzl3Oq.jpg"
+    },
+    {
+      "title": "La Fattoria Clarkson",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 5,
+      "description": "Una serie che segue i tentativi di Jeremy Clarkson di gestire una fattoria.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/giw6nkgPz0K4CooyjSVVBIoKc5V.jpg"
     },
     {
       "title": "Kissing Is the Easy Part",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Un film nella classifica dei più visti su Prime Video.",
+      "rank": 6,
+      "description": "Un film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/lyCAGXP1dCpe8uGUHkO5KXAJX2E.jpg"
     },
     {
       "title": "Shelter",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Un film popolare su Prime Video.",
+      "rank": 7,
+      "description": "Un film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/drZmD0QO2E08Rqa5S9ko2pTmzhe.jpg"
     },
     {
-      "title": "Agata Christian - Murder on the Snow",
+      "title": "Ancora più sexy",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Un film tra i più visti su Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nLOF571J6YOTAmryyO5qOwSyURm.jpg"
-    },
-    {
-      "title": "Off Campus",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Una serie TV popolare su Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
-    },
-    {
-      "title": "Every Year After",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Una serie TV tra le più viste su Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6q5bO7n6aFeygjfhuAVcqH72Gx0.jpg"
-    },
-    {
-      "title": "The 50",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
       "rank": 8,
-      "description": "Una serie TV presente nella top 10 di Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/AwbcDhblTbQIuNDCdNLhZiPyC2t.jpg"
+      "description": "Un film originale italiano di Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg"
     },
     {
-      "title": "Spider-Noir",
-      "type": "tv",
+      "title": "Aquaman e il regno perduto",
+      "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 9,
-      "description": "Una serie TV che ha raggiunto la top 10 di Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
+      "description": "Un film di supereroi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yv77pBEJa3yKvv3qRQHJZfu1jci.jpg"
     },
     {
-      "title": "The Boys",
+      "title": "Supernatural",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Una serie TV di successo su Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cmLcdprQHdtwbadpMBfZYUzl3Oq.jpg"
+      "description": "Una serie di lunga data su due fratelli che cacciano esseri soprannaturali.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg"
     },
     {
       "title": "F1 The Movie",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "Un film d'azione tra i più popolari su Apple TV+.",
+      "description": "Un film d'azione legato alla Formula 1.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qRxAvGF3t8IHESZ0lBb3QDz5DTP.jpg"
-    },
-    {
-      "title": "Outcome",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 2,
-      "description": "Un film commedia nella classifica dei più visti su Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
-    },
-    {
-      "title": "The Gorge",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Un film thriller popolare su Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
-    },
-    {
-      "title": "Echo Valley",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Un film thriller tra i più visti su Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aYopnBSnhPbQt7UnwypAz3sM12r.jpg"
-    },
-    {
-      "title": "The Family Plan 2",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Un film commedia presente nella top 10 di Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aUPrVTBfu7NS1D0Z5L5OxWTrZS7.jpg"
     },
     {
       "title": "Cape Fear",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Una serie TV thriller tra le più popolari su Apple TV+.",
+      "rank": 2,
+      "description": "Una serie thriller.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg"
+    },
+    {
+      "title": "Outcome",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 3,
+      "description": "Un film commedia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
     },
     {
       "title": "Sugar",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Una serie TV mistery nella classifica dei più visti su Apple TV+.",
+      "rank": 4,
+      "description": "Una serie mistery.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
+    },
+    {
+      "title": "Echo Valley",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Un film thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aYopnBSnhPbQt7UnwypAz3sM12r.jpg"
     },
     {
       "title": "Widow's Bay",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Una serie TV mistery popolare su Apple TV+.",
+      "rank": 6,
+      "description": "Una serie mistery.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
     },
     {
-      "title": "Star City",
-      "type": "tv",
+      "title": "The Gorge",
+      "type": "movie",
       "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Una serie TV drammatica tra le più viste su Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aOyhj8ERPpijIyrwJoTd4ZEhqJR.jpg"
+      "rank": 7,
+      "description": "Un film thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
     },
     {
-      "title": "Your Friends & Neighbors",
+      "title": "Ted Lasso",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Una serie commedia su un allenatore di football americano ingaggiato per gestire una squadra di calcio inglese.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
+    },
+    {
+      "title": "The Family Plan",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Un film commedia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9LAjGL88QH5tpcq9veT7gG3ildP.jpg"
+    },
+    {
+      "title": "Shrinking",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "Una serie TV drammatica presente nella top 10 di Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
-    },
-    {
-      "title": "I Will Find You",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 1,
-      "description": "Una serie limitata basata su un adattamento di Harlan Coben.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9dBe3lN3LfWyBAWGXflVEVCWrpt.jpg"
-    },
-    {
-      "title": "Losing Judgment",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 2,
-      "description": "La prima stagione di una serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ioyuupNi55EPjqutl0Kl6KaXZuV.jpg"
-    },
-    {
-      "title": "My Family",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "La seconda stagione della serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yjZIAhfqJoXLyWVFNzoTxOdNDDA.jpg"
-    },
-    {
-      "title": "My 2 Cents",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "Una serie limitata.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Oasis",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "La prima stagione di una serie spagnola.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg"
+      "description": "Una serie commedia su un terapista in lutto.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
     },
     {
       "title": "Voicemails for Isabelle",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 6,
-      "description": "Un film popolare su Netflix.",
+      "rank": 1,
+      "description": "Una commedia romantica su una donna che lascia messaggi vocali alla sorella defunta, che vengono poi ascoltati da un uomo che ha ereditato il numero.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oaxqHkmpDNTNYnEr79bW6k6VpUA.jpg"
+    },
+    {
+      "title": "I Will Find You: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 2,
+      "description": "Una miniserie su una donna alla ricerca del figlio scomparso.",
+      "posterUrl": ""
     },
     {
       "title": "Lavoreremo da grandi",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 7,
-      "description": "Un film tra i più visti su Netflix.",
+      "rank": 3,
+      "description": "Una nuova commedia italiana.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/73rycpKhykMonuXJxigc0LHMlVu.jpg"
     },
     {
       "title": "Fuori la verità",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "Un film che si trova nella top 10 di Netflix.",
+      "rank": 4,
+      "description": "Un film italiano su un segreto.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/y2qh219D9mFaGrtO1hhjlHv8fEV.jpg"
     },
     {
-      "title": "Poseidon",
-      "type": "movie",
+      "title": "My 2 Cents: Limited Series",
+      "type": "tv",
       "platform": "Netflix",
-      "rank": 9,
-      "description": "Un film presente nella classifica dei più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qWenXpjkzQ04wt5DLwzwrSjxLhl.jpg"
+      "rank": 5,
+      "description": "Una miniserie che esplora le dinamiche familiari.",
+      "posterUrl": ""
     },
     {
-      "title": "Tre di troppo",
+      "title": "Office Romance",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Una commedia romantica su una spietata CEO e un ambizioso avvocato.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1HRUTqEVDmJC4L6tp6zd85MI6uH.jpg"
+    },
+    {
+      "title": "Teach You a Lesson: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "Una miniserie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Colors Of Evil: Black",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Un film thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bQV434JB05gfRM4KaILzTOF0l6F.jpg"
+    },
+    {
+      "title": "The Witness: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "Una miniserie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Sweetheart",
       "type": "movie",
       "platform": "Netflix",
       "rank": 10,
-      "description": "Un film che ha scalato la classifica dei più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kUdehyzniVTCupwxOt5zxHJWsec.jpg"
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xyPPBPkGbZxfS6UM4PjR5bnVfwR.jpg"
     },
     {
       "title": "Un bel giorno",
       "type": "movie",
       "platform": "Sky",
       "rank": 1,
-      "description": "Un film tra i più visti su NOW.",
+      "description": "Un film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
-    },
-    {
-      "title": "Tired Of Killing",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 2,
-      "description": "Un film nella top 10 di NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6Pb2vdZE8mpvDvMbXKYU8dwCYG0.jpg"
-    },
-    {
-      "title": "Hunting Season",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 3,
-      "description": "Un film popolare su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hG4WWZf0eKe58rzBCxSNK82Cfzx.jpg"
-    },
-    {
-      "title": "Gioia",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 4,
-      "description": "Un film presente nella classifica dei più visti su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kYw62IF023miZMKyiAqX4mYat3a.jpg"
-    },
-    {
-      "title": "The Housemaid",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 5,
-      "description": "Un film che si trova nella top 10 di NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vhcLvSkPaD7udoRqEXKBWO9ld1D.jpg"
     },
     {
       "title": "House of the Dragon",
       "type": "tv",
       "platform": "Sky",
-      "rank": 6,
-      "description": "Una serie TV con nuovi episodi disponibili ogni lunedì.",
+      "rank": 2,
+      "description": "Una serie fantasy ambientata prima di Game of Thrones, incentrata sulla guerra civile dei Targaryen.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     },
     {
-      "title": "Money Road",
-      "type": "tv",
+      "title": "Tired Of Killing",
+      "type": "movie",
       "platform": "Sky",
-      "rank": 7,
-      "description": "Una serie TV con tutti gli episodi disponibili.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pyEoNwlpLgRenbHUwjVvuPYcVQr.jpg"
+      "rank": 3,
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6Pb2vdZE8mpvDvMbXKYU8dwCYG0.jpg"
     },
     {
-      "title": "The Miniature Wife - Un piccolo problema",
+      "title": "Billy The Kid",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "Una serie western/drama sul leggendario fuorilegge Billy the Kid.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hwPPA0sqlU9kGRHDDyl4cVp4Vum.jpg"
+    },
+    {
+      "title": "Hunting Season",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 5,
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hG4WWZf0eKe58rzBCxSNK82Cfzx.jpg"
+    },
+    {
+      "title": "The Iris Affair",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Una serie thriller Sky Original su una donna che corre contro una cospirazione globale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dsoSmmAcAXmK338SVLe1SM6cGZl.jpg"
+    },
+    {
+      "title": "Gioia",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 7,
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kYw62IF023miZMKyiAqX4mYat3a.jpg"
+    },
+    {
+      "title": "Ray Donovan",
       "type": "tv",
       "platform": "Sky",
       "rank": 8,
-      "description": "La prima stagione di una serie TV tra le più cercate.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg"
+      "description": "Una serie drammatica su un 'fixer' professionista per i ricchi e famosi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cwJ6nLNvX62By0yoLYWFhRelPkF.jpg"
     },
     {
-      "title": "Quattro matrimoni in Italia",
-      "type": "tv",
+      "title": "The Housemaid",
+      "type": "movie",
       "platform": "Sky",
       "rank": 9,
-      "description": "L'ottava stagione di un popolare show televisivo.",
-      "posterUrl": ""
+      "description": "Un film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vhcLvSkPaD7udoRqEXKBWO9ld1D.jpg"
     },
     {
-      "title": "Euphoria",
+      "title": "Poker Face",
       "type": "tv",
       "platform": "Sky",
       "rank": 10,
-      "description": "Una serie TV con tutti gli episodi disponibili.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg"
+      "description": "Una serie 'mystery-of-the-week' che segue Charlie Cale, in grado di capire quando qualcuno mente.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nZnHwYpK27fC9AIK6DKVomrUAbk.jpg"
     }
   ]
 }
