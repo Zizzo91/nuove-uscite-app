@@ -1,112 +1,130 @@
 {
-  "date": "05/07/2026, 12:55:08",
+  "date": "06/07/2026, 14:32:28",
   "data": [
     {
       "title": "Heartstopper Forever",
-      "type": "movie",
+      "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
       "rank": 1,
-      "description": "Il film conclusivo dell'amatissima saga adolescenziale LGBTQ+ 'Heartstopper' è un evento imperdibile per la Gen Z, che ne ha seguito la crescita sui social e ne apprezza i temi di inclusività, amore giovanile e accettazione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg"
-    },
-    {
-      "title": "Elle",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "target": "Gen Z",
-      "rank": 2,
-      "description": "Questo prequel de 'La rivincita delle bionde' esplora gli anni del liceo di Elle Woods, offrendo un teen drama con un'estetica 'pink' e temi di empowerment femminile che risuonano con la Gen Z, anche grazie al coinvolgimento di Reese Witherspoon nella produzione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg"
-    },
-    {
-      "title": "Backrooms",
-      "type": "movie",
-      "platform": "Cinema",
-      "target": "Gen Z",
-      "rank": 3,
-      "description": "Basato su una celebre 'creepypasta' virale su internet e nato da un fenomeno YouTube, questo horror psicologico è un must per la Gen Z, che apprezza le storie nate dal web e l'horror innovativo e atmosferico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg"
+      "description": "Il capitolo finale di questa amata serie teen, basata sulle graphic novel di Alice Oseman, è attesissimo e genera un enorme buzz su TikTok per le sue tematiche LGBTQ+ e la narrazione commovente e autentica.",
+      "posterUrl": ""
     },
     {
       "title": "Enola Holmes 3",
       "type": "movie",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": 4,
-      "description": "Il ritorno di Millie Bobby Brown nei panni della brillante detective Enola Holmes è molto atteso dalla Gen Z, che segue con entusiasmo le sue avventure ricche di mistero, azione e un forte messaggio di indipendenza femminile.",
+      "rank": 2,
+      "description": "Il terzo film della saga con Millie Bobby Brown è molto popolare tra la Gen Z per il suo mix di mistero, avventura e un'eroina forte e indipendente, spesso discussa sui social media.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
     },
     {
-      "title": "Minerva Academy (Minerva – La Scuola)",
-      "type": "tv",
-      "platform": "Netflix",
+      "title": "Spider-Man: Brand New Day",
+      "type": "movie",
+      "platform": "Cinema",
       "target": "Gen Z",
-      "rank": 5,
-      "description": "Questa nuova serie è un teen drama esplicito, un genere sempre molto popolare tra la Gen Z per le sue narrazioni sulle dinamiche sociali, le sfide adolescenziali e le prime esperienze.",
-      "posterUrl": ""
+      "rank": 3,
+      "description": "Un nuovo film di Spider-Man è sempre un evento per la Gen Z, che predilige l'esperienza collettiva del cinema per i blockbuster e i film di supereroi, generando hype e discussioni online.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg"
     },
     {
-      "title": "X-Men '97 - Stagione 2",
+      "title": "Five Nights at Freddy's 2",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Gen Z",
+      "rank": 4,
+      "description": "Il sequel dell'adattamento cinematografico del celebre videogioco è un must per la Gen Z, che segue con passione i franchise legati al mondo del gaming e ne discute attivamente sulle piattaforme social.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8DPTPGLR86L52LkDWEDR9sYOXdb.jpg"
+    },
+    {
+      "title": "Elle",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "target": "Gen Z",
+      "rank": 5,
+      "description": "Questo prequel de 'La rivincita delle bionde', che esplora gli anni del liceo di Elle Woods, attrae la Gen Z per la sua estetica Y2K, le tematiche di crescita personale e il tocco nostalgico ma fresco.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg"
+    },
+    {
+      "title": "X-Men '97 Stagione 2",
       "type": "tv",
       "platform": "Disney+",
       "target": "Gen Z",
       "rank": 6,
-      "description": "La seconda stagione di questa acclamata serie animata Marvel attira la Gen Z sia per la nostalgia di un'animazione di qualità, sia per le tematiche attuali di diversità e accettazione che gli X-Men rappresentano.",
+      "description": "Il revival di questa iconica serie animata Marvel è molto apprezzato dalla Gen Z, che riscopre e celebra contenuti nostalgici con un tocco moderno, spesso attraverso meme e clip virali.",
       "posterUrl": ""
     },
     {
-      "title": "The Ghost in the Shell",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "target": "Gen Z",
-      "rank": 7,
-      "description": "L'iconica opera cyberpunk sbarca sulla piattaforma, offrendo alle nuove generazioni (Gen Z) l'opportunità di scoprire un cult dell'animazione giapponese con temi futuristici e filosofici ancora attuali.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/izNAIQIT0zPMAPpC74n3xddwOBv.jpg"
-    },
-    {
-      "title": "Dragon Striker",
-      "type": "tv",
-      "platform": "Disney+",
-      "target": "Gen Z",
-      "rank": 8,
-      "description": "Questa serie animata che unisce sport e magia è un'opzione fresca e originale che cattura l'attenzione della Gen Z più giovane, appassionata di storie di formazione e avventura.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/a18A8XQPmuEBV6C4lQOdcKaNp09.jpg"
-    },
-    {
-      "title": "Obsession",
+      "title": "Minions & Monsters",
       "type": "movie",
       "platform": "Cinema",
       "target": "Gen Z",
-      "rank": 9,
-      "description": "Un film horror che mescola terrore soprannaturale e dramma emotivo, diventato un successo di critica e pubblico, particolarmente apprezzato dalla Gen Z per le sue dinamiche relazionali e il tono 'malato' che rispecchia certe sensibilità giovanili.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yUoqSYvBaikPsEasT8BjvmEaANU.jpg"
+      "rank": 7,
+      "description": "I Minions continuano a essere un fenomeno culturale per la Gen Z più giovane e per le famiglie, con il loro umorismo slapstick e i personaggi riconoscibili che generano engagement sui social.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg"
     },
     {
-      "title": "Unchosen",
+      "title": "The Amazing Digital Circus",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": 10,
-      "description": "Questo thriller/drammatico, con una star di 'Sex Education' nel cast, è un titolo che attira la Gen Z per le sue trame avvincenti e la presenza di attori già noti e amati da questa fascia d'età.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg"
+      "rank": 8,
+      "description": "Nata come web-serie virale, la sua estetica unica e le tematiche legate alla realtà digitale risuonano profondamente con la Gen Z, che ne discute e crea contenuti a riguardo online.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg"
     },
     {
-      "title": "House of the Dragon - Stagione 3",
+      "title": "The Hawk",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 9,
+      "description": "Questa comedy con Will Ferrell, incentrata sul mondo del golf, attrae la Gen Z per il suo umorismo leggero e la presenza di un attore comico di fama, ideale per un intrattenimento spensierato.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/klwdBtkpdW1RIqOl0dkSWJ7mtjq.jpg"
+    },
+    {
+      "title": "Destination X: Scopri la meta",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Gen Z",
+      "rank": 10,
+      "description": "Un travel show avventuroso e interattivo, condotto da Jeffrey Dean Morgan, che stimola la curiosità e il desiderio di scoperta della Gen Z, abituata a contenuti dinamici e coinvolgenti.",
+      "posterUrl": ""
+    },
+    {
+      "title": "House of the Dragon Stagione 3",
       "type": "tv",
       "platform": "Sky",
       "target": "Millennials",
       "rank": 1,
-      "description": "Il ritorno dell'attesissimo prequel di 'Game of Thrones' è un evento televisivo di grande risonanza per i Millennials, che seguono con passione le intricate vicende della Casa Targaryen e le epiche battaglie fantasy.",
+      "description": "Il ritorno di questa acclamata serie fantasy è un evento imperdibile per i Millennials, che seguono con passione le grandi saghe e ne discutono ampiamente su piattaforme come X e Instagram.",
       "posterUrl": ""
     },
     {
-      "title": "Silo – Stagione 3",
+      "title": "L'Odissea (Christopher Nolan)",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Millennials",
+      "rank": 2,
+      "description": "Il nuovo kolossal di Christopher Nolan è un appuntamento cinematografico di prestigio per i Millennials, che apprezzano il cinema d'autore e le esperienze visive immersive offerte dalla sala.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Silo Stagione 3",
       "type": "tv",
       "platform": "Apple TV+",
       "target": "Millennials",
-      "rank": 2,
-      "description": "La terza stagione di questo distopico e avvincente dramma sci-fi continua a tenere incollati i Millennials, attratti dalla complessità della trama, dai misteri da svelare e dalle performance attoriali.",
+      "rank": 3,
+      "description": "La terza stagione di questa serie distopica e intrigante continua a catturare l'attenzione dei Millennials per la sua trama complessa, i misteri avvincenti e la profonda riflessione sociale.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Poker Face Stagione 2",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Millennials",
+      "rank": 4,
+      "description": "La seconda stagione di questa serie crime con Natasha Lyonne è molto apprezzata dai Millennials per la sua struttura alla 'Tenente Colombo', i casi autoconclusivi e la scrittura intelligente.",
       "posterUrl": ""
     },
     {
@@ -114,72 +132,54 @@
       "type": "tv",
       "platform": "Apple TV+",
       "target": "Millennials",
-      "rank": 3,
-      "description": "Questa miniserie thriller con Anya Taylor-Joy, basata su un romanzo bestseller, cattura l'attenzione dei Millennials per la sua trama avvincente, il cast di alto profilo e il genere crime-drama che spesso prediligono.",
+      "rank": 5,
+      "description": "Questa miniserie thriller con Anya Taylor-Joy, basata su un romanzo bestseller, attrae i Millennials per la sua suspense, la narrazione sofisticata e la performance dell'attrice protagonista.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dJWzzeCuqMMbVyTbIfpa30AUDTW.jpg"
+    },
+    {
+      "title": "The Walking Dead: Dead City Stagione 3",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Millennials",
+      "rank": 6,
+      "description": "Il proseguimento di questo spin-off di 'The Walking Dead' mantiene alto l'interesse dei Millennials, molti dei quali sono cresciuti con il franchise originale e apprezzano le nuove evoluzioni narrative.",
+      "posterUrl": ""
     },
     {
       "title": "Furious",
       "type": "tv",
       "platform": "Disney+",
       "target": "Millennials",
-      "rank": 4,
-      "description": "Un thriller psicologico con Emmy Rossum, paragonato a 'Killing Eve', che offre ai Millennials una narrazione tesa e un duello a distanza tra un'agente FBI e una serial killer, esplorando i confini tra bene e male.",
+      "rank": 7,
+      "description": "Questo crime thriller con Emmy Rossum offre una trama avvincente e psicologicamente intensa, ideale per i Millennials che cercano serie drammatiche e ricche di tensione.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
     },
     {
-      "title": "Blade Runner 2099",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "target": "Millennials",
-      "rank": 5,
-      "description": "L'attesissima serie sequel di un caposaldo della fantascienza come 'Blade Runner' è un evento imperdibile per i Millennials, molti dei quali sono cresciuti con il film originale e il suo universo cyberpunk.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/g8q3HCYazze3cl9Jc3hdlKKJ8sU.jpg"
-    },
-    {
-      "title": "La legge di Lidia Poët - Stagione 3",
+      "title": "Estate '36",
       "type": "tv",
       "platform": "Netflix",
       "target": "Millennials",
-      "rank": 6,
-      "description": "La terza stagione di questo legal drama storico italiano continua a essere molto seguita dai Millennials, che apprezzano la ricostruzione d'epoca, la figura forte e moderna della protagonista e le trame giudiziarie.",
-      "posterUrl": ""
+      "rank": 8,
+      "description": "Un dramma storico ambientato nella Francia del 1936, con una produzione sontuosa e una trama ricca di intrighi sociali, che affascina i Millennials amanti delle ricostruzioni d'epoca e delle storie complesse.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6rSzSsSxSOk3nzYAHzm8yFpXnYQ.jpg"
     },
     {
-      "title": "I Cesaroni - Il ritorno",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Millennials",
-      "rank": 7,
-      "description": "Il reboot di una delle serie familiari italiane più amate offre un forte elemento di nostalgia per i Millennials, che possono rivedere volti storici e seguire nuove vicende di un classico della televisione italiana.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Poker Face",
+      "title": "Nazzi racconta: Luca Sacchi",
       "type": "tv",
       "platform": "Sky",
       "target": "Millennials",
-      "rank": 8,
-      "description": "Questa serie detective con Natasha Lyonne, elogiata per il suo formato 'alla Tenente Colombo' con casi autoconclusivi, è apprezzata dai Millennials per la sua originalità e la capacità di intrattenere senza richiedere un impegno di visione continuativo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nZnHwYpK27fC9AIK6DKVomrUAbk.jpg"
+      "rank": 9,
+      "description": "Il documentario true crime di Stefano Nazzi, che approfondisce un caso di cronaca italiana, è molto seguito dai Millennials interessati al giornalismo investigativo e alle storie vere.",
+      "posterUrl": ""
     },
     {
-      "title": "Saltburn",
-      "type": "movie",
+      "title": "The Westies",
+      "type": "tv",
       "platform": "Amazon Prime Video",
       "target": "Millennials",
-      "rank": 9,
-      "description": "Questo film, una dark comedy/thriller con un'estetica distintiva e temi provocatori, ha generato ampie discussioni sui social media (X/Instagram), rendendolo molto popolare tra i Millennials che apprezzano il cinema d'autore con un tocco di scandalo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zGTfMwG112BC66mpaveVxoWPOaB.jpg"
-    },
-    {
-      "title": "Lupin III – Il Castello di Cagliostro",
-      "type": "movie",
-      "platform": "Cinema",
-      "target": "Millennials",
       "rank": 10,
-      "description": "Il ritorno al cinema di questo capolavoro dell'animazione giapponese di Hayao Miyazaki è un evento che attira i Millennials, molti dei quali hanno un forte legame nostalgico con Lupin III e l'animazione classica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/i6b9YY0TfZM4Ws64oFn933NN2s8.jpg"
+      "description": "Questo gangster drama ambientato nella New York degli anni '80, con un cast solido, attrae i Millennials appassionati di storie di criminalità organizzata e narrazioni grintose.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg"
     }
   ]
 }
