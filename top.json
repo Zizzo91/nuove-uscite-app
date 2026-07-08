@@ -1,325 +1,325 @@
 {
-  "date": "07/07/2026, 12:17:45",
+  "date": "08/07/2026, 11:19:23",
   "data": [
     {
       "title": "Project Hail Mary",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "An astronaut wakes up with amnesia on a desperate mission to save Earth from a star-eating parasite, with the help of an unlikely alien companion.",
+      "description": "Un film di fantascienza basato sul romanzo di Andy Weir, con un astronauta che deve salvare la Terra.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xfwpfBtZ255ceVKEj2CK7mmYjF6.jpg"
-    },
-    {
-      "title": "Pídeme lo que quieras",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "A Spanish erotic romance film where Judith Flores's life changes after meeting her boss, Eric Zimmerman, who introduces her to a world of fantasies and eroticism.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/27kRatT0llh6dyi1t74zGE2wLC7.jpg"
-    },
-    {
-      "title": "The Sheep Detectives (Pecore sotto copertura)",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "A comedic mystery film where a flock of sheep, inspired by detective novels, sets out to investigate their shepherd's mysterious death.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hWELMex5ZbcdULp4M8CECiWBBkO.jpg"
-    },
-    {
-      "title": "Un bel giorno",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "A compelling drama that explores themes of love, loss, and second chances, set against a backdrop of emotional challenges.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
-    },
-    {
-      "title": "Shelter",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "A suspenseful thriller that follows characters seeking refuge, only to find themselves in greater danger as secrets unravel.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/drZmD0QO2E08Rqa5S9ko2pTmzhe.jpg"
-    },
-    {
-      "title": "Your Fault: London (È colpa tua: Londra)",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "A dramatic film exploring complex relationships and the consequences of past actions, set in the vibrant city of London.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/AjhkEhNvJf7xaqrnahl0zjjgOgq.jpg"
-    },
-    {
-      "title": "Agata Christian - Murder on the Snow",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "A classic-style murder mystery set in a snowy landscape, where a detective must uncover the truth behind a perplexing crime.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nLOF571J6YOTAmryyO5qOwSyURm.jpg"
     },
     {
       "title": "Elle",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "A prequel series exploring Elle Woods' high school years in 1995, before she became the iconic character known for her legal pursuits.",
+      "rank": 2,
+      "description": "Una nuova serie che funge da prequel di 'Legally Blonde', esplorando gli anni del liceo di Elle Woods.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg"
     },
     {
       "title": "Off Campus",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "A college romantic drama based on Elle Kennedy's book series, following an elite ice hockey team and the women in their lives as they navigate love, heartbreak, and self-discovery.",
+      "rank": 3,
+      "description": "Una serie che segue le vicende di studenti universitari e le loro relazioni.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
     },
     {
-      "title": "Every Year After (Un anno dopo l'altro)",
+      "title": "The Sheep Detectives",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 4,
+      "description": "Un film in cui un gregge di pecore indaga sulla morte del loro pastore.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hWELMex5ZbcdULp4M8CECiWBBkO.jpg"
+    },
+    {
+      "title": "Every Year After",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 5,
+      "description": "Un dramma romantico che ricorda 'The Summer I Turned Pretty'.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6q5bO7n6aFeygjfhuAVcqH72Gx0.jpg"
+    },
+    {
+      "title": "Pídeme lo que quieras",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 6,
+      "description": "Un film che esplora temi di desiderio e relazioni.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/27kRatT0llh6dyi1t74zGE2wLC7.jpg"
+    },
+    {
+      "title": "Un bel giorno",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 7,
+      "description": "Un film drammatico che racconta una giornata significativa.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
+    },
+    {
+      "title": "The Boys",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 8,
+      "description": "La popolare serie sui supereroi corrotti e il gruppo che cerca di fermarli.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
+    },
+    {
+      "title": "Tom Clancy's Jack Ryan: Ghost War",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "Un'avventura ricca di azione basata sul personaggio di Jack Ryan.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Spider-Noir",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "A poignant series that chronicles the evolving lives and relationships of characters over the course of many years.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6q5bO7n6aFeygjfhuAVcqH72Gx0.jpg"
+      "description": "Una nuova serie animata con una versione noir di Spider-Man.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
+    },
+    {
+      "title": "F1 The Movie",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 1,
+      "description": "Un film d'azione legato al mondo della Formula 1.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
       "title": "Silo",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 1,
-      "description": "In a dystopian future, a community lives underground in a giant silo, believing the outside world is toxic, and questioning the truths they've been told.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
-    },
-    {
-      "title": "F1 (The Movie)",
-      "type": "movie",
-      "platform": "Apple TV+",
       "rank": 2,
-      "description": "A high-octane movie related to Formula 1 racing, starring Brad Pitt as a former F1 driver who comes out of retirement to mentor a young talent.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
-    },
-    {
-      "title": "Cape Fear",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 3,
-      "description": "A suspenseful thriller series that explores themes of obsession and revenge, keeping viewers on the edge of their seats.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg"
+      "description": "Una serie di fantascienza distopica ambientata in un gigantesco silo sotterraneo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
     },
     {
       "title": "Outcome",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 4,
-      "description": "A dark comedy where a beloved Hollywood star, Reef Hawk, must confront his hidden demons and make amends after being extorted with a mysterious, image-shattering video.",
+      "rank": 3,
+      "description": "Una commedia che ha catturato l'attenzione del pubblico.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
     },
     {
-      "title": "Sugar",
+      "title": "Cape Fear",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 5,
-      "description": "A private detective investigates the disappearance of a Hollywood producer's granddaughter in Los Angeles, uncovering dark secrets along the way.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
+      "rank": 4,
+      "description": "Una serie thriller che si distingue tra i più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg"
     },
     {
-      "title": "Eternity",
+      "title": "Echo Valley",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between her long-time husband and her first love.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg"
+      "rank": 5,
+      "description": "Un thriller avvincente che si posiziona tra i film più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aYopnBSnhPbQt7UnwypAz3sM12r.jpg"
     },
     {
       "title": "Widow's Bay",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "A comedy horror series set in a quaint New England island town afflicted by a centuries-old curse, blending genuine horror with character-driven comedy.",
+      "rank": 6,
+      "description": "Una serie mystery che intriga gli spettatori.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
     },
     {
       "title": "The Gorge",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Two elite snipers are ordered to guard a deep gorge without knowing what lies inside, eventually bonding and facing a mysterious evil that emerges from within.",
+      "rank": 7,
+      "description": "Un thriller che si mantiene tra i titoli più popolari.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
     },
     {
-      "title": "Your Friends & Neighbors",
+      "title": "Ted Lasso",
       "type": "tv",
       "platform": "Apple TV+",
+      "rank": 8,
+      "description": "La pluripremiata serie comedy sul coach di football americano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
+    },
+    {
+      "title": "Fountain of Youth",
+      "type": "movie",
+      "platform": "Apple TV+",
       "rank": 9,
-      "description": "A compelling drama series that explores the intricate lives and relationships of a group of friends and neighbors, revealing their secrets and struggles.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
+      "description": "Un film d'azione che esplora il tema della giovinezza eterna.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kCWGK8QoK8ZPt6sju8pjohG4oxv.jpg"
     },
     {
       "title": "Wolfs",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "Two rival professional fixers, who prefer to operate as lone wolves, are forced to collaborate on a high-profile crime, leading to a chaotic and dangerous night.",
+      "description": "Un film d'azione che figura tra i più visti sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nPedyM69paBxP5I2QrajL5ziB7r.jpg"
     },
     {
-      "title": "I Will Find You: Limited Series",
+      "title": "I Will Find You",
       "type": "tv",
       "platform": "Netflix",
       "rank": 1,
-      "description": "A gripping limited series that follows a complex investigation, unraveling secrets and mysteries across its episodes.",
-      "posterUrl": ""
+      "description": "Una miniserie drammatica che segue una ricerca intensa e personale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9dBe3lN3LfWyBAWGXflVEVCWrpt.jpg"
     },
     {
       "title": "Enola Holmes 3",
       "type": "movie",
       "platform": "Netflix",
       "rank": 2,
-      "description": "Enola Holmes, Sherlock's younger sister, embarks on a new international adventure, leaving Victorian London for Malta to solve her most complex and risky case yet.",
+      "description": "Il terzo capitolo della saga con Millie Bobby Brown nei panni della giovane detective Enola Holmes.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
     },
     {
-      "title": "Rhythm + Flow Italy: Season 3",
+      "title": "Rhythm + Flow Italy",
       "type": "tv",
       "platform": "Netflix",
       "rank": 3,
-      "description": "The Italian version of the popular music competition show, where aspiring hip-hop artists compete through various challenges for a grand prize and recognition.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Succede anche nelle migliori famiglie",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "An Italian comedy about three adult siblings who unite to prevent their recently widowed mother from marrying her first love, a decision that throws their family into disarray.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6bvKlsPRWmRlzulVl7GmmSfhk2Z.jpg"
-    },
-    {
-      "title": "Oasis: Season 1",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "A compelling drama series that explores intertwined lives and hidden truths within a unique setting, drawing viewers into its intricate narrative.",
-      "posterUrl": ""
+      "description": "La terza stagione del talent show musicale italiano dedicato al mondo del rap.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dV0b1xdqg7WoAgmq3j9rU1gayjg.jpg"
     },
     {
       "title": "Voicemails for Isabelle",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 6,
-      "description": "A woman coping with the death of her younger sister continues to leave voicemails on her old phone number, unaware that it has been reassigned to a stranger who gradually falls for her.",
+      "rank": 4,
+      "description": "Un film che esplora una storia attraverso messaggi vocali.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oaxqHkmpDNTNYnEr79bW6k6VpUA.jpg"
     },
     {
-      "title": "Losing Judgment: Season 1",
+      "title": "Avatar: The Last Airbender",
       "type": "tv",
       "platform": "Netflix",
+      "rank": 5,
+      "description": "La seconda stagione della serie live-action basata sull'amato cartone animato.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wyotdtbrAXUEHpoLxznOYAQNYe8.jpg"
+    },
+    {
+      "title": "Oasis",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "La prima stagione di una serie che cattura l'attenzione del pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg"
+    },
+    {
+      "title": "Succede Anche Nelle Migliori Famiglie",
+      "type": "movie",
+      "platform": "Netflix",
       "rank": 7,
-      "description": "A captivating series that delves into complex legal and personal dilemmas, as characters face difficult choices and their consequences.",
+      "description": "Una commedia italiana che esplora le dinamiche familiari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6bvKlsPRWmRlzulVl7GmmSfhk2Z.jpg"
+    },
+    {
+      "title": "My 2 Cents",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Una serie che offre una prospettiva unica su vari argomenti.",
       "posterUrl": ""
     },
     {
       "title": "Sonic the Hedgehog 3",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "Sonic, Knuckles, and Tails reunite for their most epic adventure yet, facing a new formidable foe, Shadow, with powers unlike anything they've seen.",
+      "rank": 9,
+      "description": "Il terzo film d'animazione e avventura con il famoso riccio blu.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hArbAOlNZX0qfd2Udpr6RCTflpg.jpg"
     },
     {
-      "title": "Avatar: The Last Airbender: Season 2",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 9,
-      "description": "The live-action adaptation of the beloved animated series continues, following Aang and his friends as they strive to master the elements and end the Fire Nation's war.",
-      "posterUrl": ""
-    },
-    {
-      "title": "La coda del diavolo",
+      "title": "Lavoreremo da Grandi",
       "type": "movie",
       "platform": "Netflix",
       "rank": 10,
-      "description": "A thrilling and suspenseful movie that keeps audiences on the edge of their seats with its intricate plot and unexpected twists.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6vSlLfUpzpWf6vvMDMFLGC6gt01.jpg"
+      "description": "Una commedia italiana che segue le vicende di un gruppo di amici.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lRpHSwgcjcGrysxixDTek1ONiph.jpg"
     },
     {
       "title": "House of the Dragon",
       "type": "tv",
       "platform": "Sky",
       "rank": 1,
-      "description": "A prequel to Game of Thrones, this fantasy drama focuses on the Targaryen civil war for the Iron Throne, set centuries before the original series.",
+      "description": "La serie prequel de 'Il Trono di Spade', che narra la storia della Casa Targaryen.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     },
     {
-      "title": "The Rookie",
-      "type": "tv",
+      "title": "Bugonia",
+      "type": "movie",
       "platform": "Sky",
       "rank": 2,
-      "description": "A man in his forties pursues his lifelong dream of becoming an LAPD officer, facing challenges from younger colleagues and the demanding nature of the job.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg"
+      "description": "Un film che ha raggiunto la vetta delle classifiche su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nhtC3xgsZMkotrPMzOHotUyHw6l.jpg"
     },
     {
-      "title": "Ted",
+      "title": "Poker Face",
       "type": "tv",
       "platform": "Sky",
       "rank": 3,
-      "description": "A prequel series to the Ted movies, following a teenage John Bennett and his foul-mouthed, sentient teddy bear in 1993.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cPn71YFDENH0JkWUezlsLyWmLfN.jpg"
+      "description": "La seconda stagione della serie mystery con Natasha Lyonne.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nZnHwYpK27fC9AIK6DKVomrUAbk.jpg"
     },
     {
-      "title": "A Knight Of The Seven Kingdoms",
-      "type": "tv",
+      "title": "Un bel giorno",
+      "type": "movie",
       "platform": "Sky",
       "rank": 4,
-      "description": "A Game of Thrones spin-off based on George R. R. Martin's novellas, set a century before the events of Game of Thrones, following the adventures of Ser Duncan the Tall and his squire Egg.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/A2yhJhFusPcLbmzz0eDY5pIUIW3.jpg"
-    },
-    {
-      "title": "FROM.",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 5,
-      "description": "Residents of a mysterious town are trapped and must find a way out while surviving terrifying nocturnal creatures and uncovering the secrets of their predicament.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oRTAA5VqHi2W2rfkiJ3fHiGfI9M.jpg"
-    },
-    {
-      "title": "The Day of the Jackal",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 6,
-      "description": "A contemporary reimagining of the classic thriller about an unrivaled and elusive assassin, the Jackal, and the tenacious intelligence officer hunting him across Europe.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tQpw2NlX50IXJ5KewqFvWBP56YB.jpg"
-    },
-    {
-      "title": "Gangs of London",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 7,
-      "description": "A visceral crime drama exploring the power struggles of London's criminal underworld after the assassination of its most powerful crime boss, leading to chaos and revenge.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fVgwa6wGw9ddGM5O7mqrrwB6gHK.jpg"
-    },
-    {
-      "title": "Euphoria",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 8,
-      "description": "A drama series following a group of high school students as they navigate complex issues of identity, trauma, drugs, sex, and love in a modern world.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg"
+      "description": "Un film drammatico popolare anche su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
     },
     {
       "title": "The Walking Dead: Dead City",
       "type": "tv",
       "platform": "Sky",
-      "rank": 9,
-      "description": "A spin-off of The Walking Dead, following Maggie and Negan as they navigate a post-apocalyptic New York City, facing new threats and old demons.",
+      "rank": 5,
+      "description": "La terza stagione dello spin-off di 'The Walking Dead' con Maggie e Negan a Manhattan.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
     },
     {
-      "title": "Money Road",
+      "title": "The Batman",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Il recente film sul Cavaliere Oscuro con Robert Pattinson.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg"
+    },
+    {
+      "title": "Apples Never Fall",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 7,
+      "description": "Una miniserie drammatica tratta dal bestseller di Liane Moriarty.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/goa4saZkf8r4zmBNgS6IiiPxEEN.jpg"
+    },
+    {
+      "title": "Il padrino - Parte seconda",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 8,
+      "description": "Il classico capolavoro di Francis Ford Coppola, disponibile su NOW.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Euphoria",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 9,
+      "description": "La serie drammatica acclamata dalla critica con Zendaya.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg"
+    },
+    {
+      "title": "Delitti in Paradiso",
       "type": "tv",
       "platform": "Sky",
       "rank": 10,
-      "description": "A gripping drama series that delves into the high-stakes world of finance and crime, where ambition and danger intertwine.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pyEoNwlpLgRenbHUwjVvuPYcVQr.jpg"
+      "description": "Le nuove stagioni della popolare serie poliziesca ambientata ai Caraibi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/d3lJvKFXTtCtZ4VgXJtsetym5Hh.jpg"
     }
   ]
 }
