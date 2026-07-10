@@ -1,325 +1,325 @@
 {
-  "date": "09/07/2026, 12:17:13",
+  "date": "10/07/2026, 12:13:32",
   "data": [
     {
       "title": "Project Hail Mary",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 1,
-      "description": "Il film di fantascienza è al primo posto tra i film più visti su Prime Video.",
+      "rank": "1",
+      "description": "Un film di fantascienza in cui un astronauta, bloccato a milioni di anni luce da casa, deve salvare il sole morente con l'aiuto di un improbabile amico.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xfwpfBtZ255ceVKEj2CK7mmYjF6.jpg"
     },
     {
       "title": "Elle",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "La nuova serie che esplora la vita di Elle Woods al liceo è tra le più popolari.",
+      "rank": "2",
+      "description": "Una serie TV prequel di 'La rivincita delle bionde', che segue le vicende di una giovane Elle Woods al liceo nel 1995.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg"
     },
     {
       "title": "Pídeme lo que quieras",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 3,
+      "rank": "3",
       "description": "Un film che si posiziona tra i più visti sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/27kRatT0llh6dyi1t74zGE2wLC7.jpg"
-    },
-    {
-      "title": "Off Campus",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "La serie continua a essere molto popolare tra gli utenti di Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
     },
     {
       "title": "Un bel giorno",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Un film che ha scalato la classifica dei più visti.",
+      "rank": "4",
+      "description": "Un film popolare nel catalogo di Prime Video Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
-    },
-    {
-      "title": "The Boys",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "La popolare serie sui supereroi irriverenti rimane un titolo di tendenza.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
     },
     {
       "title": "The Sheep Detectives",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Un nuovo film animato che ha catturato l'attenzione del pubblico.",
+      "rank": "5",
+      "description": "Un nuovo film che ha catturato l'attenzione degli spettatori.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hWELMex5ZbcdULp4M8CECiWBBkO.jpg"
     },
     {
-      "title": "Your Fault: London",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Il sequel della storia di Noah e Nick continua a essere molto seguito.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/AjhkEhNvJf7xaqrnahl0zjjgOgq.jpg"
-    },
-    {
-      "title": "Clarkson's Farm",
+      "title": "Off Campus",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "La serie che segue Jeremy Clarkson nella gestione della sua fattoria è tornata con una nuova stagione ed è molto popolare.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/giw6nkgPz0K4CooyjSVVBIoKc5V.jpg"
+      "rank": "6",
+      "description": "Una serie TV che rientra tra i titoli più popolari del momento.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
     },
     {
       "title": "Shelter",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 10,
+      "rank": "7",
       "description": "Un film che si mantiene nella top 10 dei contenuti più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/drZmD0QO2E08Rqa5S9ko2pTmzhe.jpg"
     },
     {
-      "title": "F1 (F1 The Movie)",
+      "title": "Every Year After",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": "8",
+      "description": "Una serie TV che continua a essere apprezzata dal pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6q5bO7n6aFeygjfhuAVcqH72Gx0.jpg"
+    },
+    {
+      "title": "Boulevard",
       "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 1,
-      "description": "Il film sulla Formula 1 è il più popolare tra i film su Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
+      "platform": "Amazon Prime Video",
+      "rank": "9",
+      "description": "Un dramedy che racconta il legame inaspettato tra due ragazzi del liceo che affrontano dipendenze e demoni personali.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fvk8wxyQXLlrBIMuglDxdMYLgBW.jpg"
+    },
+    {
+      "title": "The Ghost in the Shell",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": "10",
+      "description": "Una serie TV animata ambientata nel Giappone del 2029, dove la cyborg Motoko Kusanagi guida una task force contro minacce emergenti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/v6D7aBJynhY6opGugGJkofzknw6.jpg"
     },
     {
       "title": "Silo",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 2,
-      "description": "La serie di fantascienza distopica è al primo posto tra le serie TV più viste.",
+      "rank": "1",
+      "description": "La terza stagione della serie di fantascienza distopica, che continua a esplorare una società sotterranea e le sue origini misteriose.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
+    },
+    {
+      "title": "F1: Il film",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": "2",
+      "description": "Un film d'azione legato al mondo della Formula 1, tra i più popolari sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
+    },
+    {
+      "title": "Widow's Bay",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": "3",
+      "description": "Una serie TV di genere giallo/mistero che ha catturato l'attenzione del pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
+    },
+    {
+      "title": "Fountain of Youth",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": "4",
+      "description": "Un film che si posiziona tra i titoli più visti su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kCWGK8QoK8ZPt6sju8pjohG4oxv.jpg"
+    },
+    {
+      "title": "Eternity",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": "5",
+      "description": "Un film che rientra nella top 10 dei contenuti più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg"
     },
     {
       "title": "Outcome",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Una commedia che si posiziona tra i film più visti sulla piattaforma.",
+      "rank": "6",
+      "description": "Un film che ha scalato le classifiche di Apple TV+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
     },
     {
       "title": "Cape Fear",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Il thriller è tra le serie TV più popolari su Apple TV+.",
+      "rank": "7",
+      "description": "Una serie TV thriller che si mantiene tra i titoli più popolari.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg"
     },
     {
-      "title": "Echo Valley",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Un thriller che si mantiene nella top 10 dei film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aYopnBSnhPbQt7UnwypAz3sM12r.jpg"
-    },
-    {
-      "title": "Widow's Bay",
+      "title": "Sugar",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "La serie mistery è tra le più viste su Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
+      "rank": "8",
+      "description": "La seconda stagione della serie investigativa moderna con Colin Farrell nei panni del detective John Sugar.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
     },
     {
-      "title": "The Gorge",
+      "title": "The Family Plan",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Un thriller che continua a essere popolare tra gli utenti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+      "rank": "9",
+      "description": "Una commedia che ha riscosso successo tra gli spettatori.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9LAjGL88QH5tpcq9veT7gG3ildP.jpg"
     },
     {
-      "title": "Ted Lasso",
+      "title": "Trying",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 8,
-      "description": "La pluripremiata serie comedy rimane un successo costante.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
-    },
-    {
-      "title": "Fountain of Youth",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Un film d'azione che si trova nella top 10 dei più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kCWGK8QoK8ZPt6sju8pjohG4oxv.jpg"
-    },
-    {
-      "title": "Your Friends & Neighbors",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 10,
-      "description": "Una serie drammatica che figura tra i titoli più popolari sulla piattaforma.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
-    },
-    {
-      "title": "Enola Holmes 3",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 1,
-      "description": "Il nuovo film con Millie Bobby Brown nei panni della sorella detective di Sherlock Holmes, questa volta ambientato a Malta, è il più visto della settimana.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
+      "rank": "10",
+      "description": "La quinta stagione della commedia britannica che segue le vicende di una coppia londinese che cerca di adottare un bambino.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ekMxB1ZnYB9hHcT7V2kB4PVNYOd.jpg"
     },
     {
       "title": "I Will Find You",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 2,
-      "description": "Una miniserie drammatica che si mantiene al primo posto nella classifica delle serie TV più popolari.",
+      "rank": "1",
+      "description": "Una miniserie drammatica che esplora l'incubo di un genitore, mantenendo la prima posizione nella classifica delle serie TV.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9dBe3lN3LfWyBAWGXflVEVCWrpt.jpg"
     },
     {
-      "title": "Succede Anche Nelle Migliori Famiglie",
+      "title": "Enola Holmes 3",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 3,
-      "description": "Una commedia italiana che debutta al terzo posto tra i film più visti, con Alessandro Siani.",
+      "rank": "2",
+      "description": "Il terzo capitolo delle avventure della detective Enola Holmes, che si ritrova a Malta e viene coinvolta in un caso pericoloso a causa della scomparsa di Sherlock.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
+    },
+    {
+      "title": "L'Été 36",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": "3",
+      "description": "Una serie TV che si posiziona tra i titoli più visti sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6rSzSsSxSOk3nzYAHzm8yFpXnYQ.jpg"
+    },
+    {
+      "title": "Rhythm + Flow Italy",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": "4",
+      "description": "La terza stagione del reality show musicale italiano, che continua a essere popolare tra gli spettatori.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dV0b1xdqg7WoAgmq3j9rU1gayjg.jpg"
+    },
+    {
+      "title": "Anora",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": "5",
+      "description": "Un film che ha scalato le classifiche dei più visti su Netflix Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fjUmU6DEt75a535pSBLUdRAmK6t.jpg"
+    },
+    {
+      "title": "Succede anche nelle migliori famiglie",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": "6",
+      "description": "Una commedia che si conferma tra i film più popolari del momento.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6bvKlsPRWmRlzulVl7GmmSfhk2Z.jpg"
     },
     {
-      "title": "Rhythm + Flow Italy: Season 3",
+      "title": "Oasis",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 4,
-      "description": "La terza stagione del talent show musicale italiano continua a essere tra le serie più seguite.",
-      "posterUrl": ""
+      "rank": "7",
+      "description": "La prima stagione di questa serie TV è tra le più seguite in Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg"
     },
     {
-      "title": "Voicemails for Isabelle",
+      "title": "Avatar: The Last Airbender",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": "8",
+      "description": "La seconda stagione della serie continua ad appassionare il pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wyotdtbrAXUEHpoLxznOYAQNYe8.jpg"
+    },
+    {
+      "title": "La casa nella prateria",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": "9",
+      "description": "Un nuovo adattamento televisivo dei celebri romanzi di Laura Ingalls Wilder, che racconta la vita della famiglia Ingalls nel selvaggio West americano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xtnikkXaQYZvxCX38hLAjER0ftW.jpg"
+    },
+    {
+      "title": "The Hawk",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 5,
-      "description": "Un film che si mantiene nella top 10 dei più visti su Netflix Italia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oaxqHkmpDNTNYnEr79bW6k6VpUA.jpg"
-    },
-    {
-      "title": "Sullivan's Crossing: Season 4",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "Il dramma romantico con Chad Michael Murray è tra le serie più viste con la sua quarta stagione.",
-      "posterUrl": ""
-    },
-    {
-      "title": "La coda del diavolo",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "Un film che ha scalato la classifica dei più visti su Netflix.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6vSlLfUpzpWf6vvMDMFLGC6gt01.jpg"
-    },
-    {
-      "title": "Avatar: The Last Airbender: Season 2",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 8,
-      "description": "La seconda stagione della serie live-action continua ad appassionare il pubblico.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Blood and Bone",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 9,
-      "description": "Un film d'azione che rientra nella top 10 dei contenuti più popolari.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg"
-    },
-    {
-      "title": "Worst Neighbor Ever: Season 1",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 10,
-      "description": "La docuserie true crime prodotta da Blumhouse racconta storie vere di vicinato degenerato.",
-      "posterUrl": ""
+      "rank": "10",
+      "description": "Una commedia sportiva con Will Ferrell nei panni di Lonnie Hawkins, un ex campione di golf che cerca di vincere il torneo che gli è sempre sfuggito.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/geOKiGqYzDsJEm1lEjgtBFaTerl.jpg"
     },
     {
       "title": "House of the Dragon",
       "type": "tv",
       "platform": "Sky",
-      "rank": 1,
-      "description": "La serie prequel de Il Trono di Spade continua a essere uno dei titoli più visti su Sky e NOW.",
+      "rank": "1",
+      "description": "La terza stagione della popolare serie prequel de 'Il Trono di Spade', con un nuovo episodio disponibile ogni lunedì.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     },
     {
       "title": "Bugonia",
       "type": "movie",
       "platform": "Sky",
-      "rank": 2,
-      "description": "Un film che si posiziona al primo posto tra i film più visti su NOW.",
+      "rank": "2",
+      "description": "Un film che si posiziona tra i più visti su NOW e Sky.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nhtC3xgsZMkotrPMzOHotUyHw6l.jpg"
     },
     {
-      "title": "True Detective",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 3,
-      "description": "La serie antologica crime-drama rimane un classico amato dal pubblico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dC7jkj2g1aU8sxKqM6D4g44xA6w.jpg"
-    },
-    {
-      "title": "Un bel giorno",
+      "title": "Black Phone 2",
       "type": "movie",
       "platform": "Sky",
-      "rank": 4,
-      "description": "Un film che è entrato nella classifica dei più visti su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
+      "rank": "3",
+      "description": "Il sequel del thriller horror, disponibile tra le nuove uscite.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zzMmJl4XHqID7tQOnY3SNvYsnwa.jpg"
     },
     {
-      "title": "The Pitt",
+      "title": "Poker Face",
       "type": "tv",
       "platform": "Sky",
-      "rank": 5,
-      "description": "Una serie che si trova tra i titoli più popolari su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
+      "rank": "4",
+      "description": "Una serie TV che continua a essere molto seguita dagli abbonati Sky e NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nZnHwYpK27fC9AIK6DKVomrUAbk.jpg"
+    },
+    {
+      "title": "Prendiamoci una pausa",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": "5",
+      "description": "Una commedia italiana che esplora le dinamiche di tre coppie che decidono di prendersi una pausa dalle loro relazioni.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3C0ru5cyzMS761V7LhhboBsmknW.jpg"
+    },
+    {
+      "title": "Greenland 2: Migration",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": "6",
+      "description": "Il sequel del disaster movie del 2020, che segue la famiglia Garrity in cerca di un nuovo posto dove stabilirsi dopo l'impatto di una cometa.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oEmubwIZivvNUpfVwTf6lHtpWNf.jpg"
+    },
+    {
+      "title": "La lezione",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": "7",
+      "description": "Un thriller psicologico che vede una giovane avvocatessa difendere un professore universitario, mentre un uomo del suo passato torna a perseguitarla.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4RRLD2tkiJ8YwNGAOv4ZS3Pp54z.jpg"
+    },
+    {
+      "title": "Anemone",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": "8",
+      "description": "Un film tra le novità di luglio, presente nella classifica dei più visti su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dubKbJTRTJmji0VUEo5pVoZ92ra.jpg"
+    },
+    {
+      "title": "Monsieur Aznavour",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": "9",
+      "description": "Un film biografico che celebra la vita e la carriera del celebre artista, disponibile su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/23FkaTaAosaTcTgyuJdTf7TvcJu.jpg"
     },
     {
       "title": "The Batman",
       "type": "movie",
       "platform": "Sky",
-      "rank": 6,
-      "description": "Il recente film sul Cavaliere Oscuro continua a essere molto apprezzato.",
+      "rank": "10",
+      "description": "Il film sul supereroe di Gotham City, ancora molto popolare tra gli spettatori.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg"
-    },
-    {
-      "title": "The Last of Us",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 7,
-      "description": "La serie post-apocalittica tratta dal videogioco è tra le più amate dal pubblico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u0xTEHOd8pw6SLGRL5fZyDpoaew.jpg"
-    },
-    {
-      "title": "Snowden",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 8,
-      "description": "Il thriller biografico diretto da Oliver Stone è presente nella top 10.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rNCadXoLMW5xVzyEJehIfbeBvv1.jpg"
-    },
-    {
-      "title": "The Rookie",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 9,
-      "description": "La serie poliziesca è tra i titoli più visti e di tendenza su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg"
-    },
-    {
-      "title": "Gomorra - La serie",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 10,
-      "description": "La celebre serie italiana sulla camorra napoletana rimane un punto di riferimento.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg"
     }
   ]
 }
