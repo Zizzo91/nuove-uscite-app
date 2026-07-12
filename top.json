@@ -1,12 +1,12 @@
 {
-  "date": "11/07/2026, 10:41:46",
+  "date": "12/07/2026, 10:57:11",
   "data": [
     {
       "title": "Project Hail Mary",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Un film di fantascienza in cui un astronauta deve salvare la Terra.",
+      "description": "Un attesissimo film di fantascienza con Ryan Gosling.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xfwpfBtZ255ceVKEj2CK7mmYjF6.jpg"
     },
     {
@@ -14,7 +14,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 2,
-      "description": "Il sequel della celebre saga horror.",
+      "description": "Una recente uscita cinematografica.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4YmnuJHhCtYvPdNwYB2fMaLEhUc.jpg"
     },
     {
@@ -22,7 +22,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 3,
-      "description": "Un film romantico ed erotico di produzione spagnola.",
+      "description": "Un film popolare.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/27kRatT0llh6dyi1t74zGE2wLC7.jpg"
     },
     {
@@ -30,7 +30,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 4,
-      "description": "Un thriller avvincente che tiene gli spettatori col fiato sospeso.",
+      "description": "Un film attualmente di tendenza.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ejaxaWjgaRXG9EgbgHgNcRpsnJq.jpg"
     },
     {
@@ -38,39 +38,39 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 5,
-      "description": "Un film drammatico che esplora le complessità della vita.",
+      "description": "Un film che è stato in cima alle classifiche per qualche tempo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
+    },
+    {
+      "title": "See You at Work Tomorrow!",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 6,
+      "description": "Una popolare serie originale sudcoreana.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6MELksXL65sIWNMZHR8Z9nLt1DE.jpg"
     },
     {
       "title": "The Boys",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Una serie TV dark-comedy sui supereroi.",
+      "rank": 7,
+      "description": "Una serie di supereroi acclamata dalla critica, nota per il suo umorismo nero.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
     },
     {
-      "title": "L'estate nei tuoi occhi",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Una serie drammatica romantica per adolescenti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4ucAqEvXoAjQPlh9k4r0LqF9JWJ.jpg"
-    },
-    {
-      "title": "Supernatural",
+      "title": "The Summer I Turned Pretty",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 8,
-      "description": "Una serie TV fantasy horror di lunga data.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8iixmfGx5EIFPdpNvB2JvI3VIqX.jpg"
+      "description": "Una popolare serie drammatica romantica basata sui libri.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4ucAqEvXoAjQPlh9k4r0LqF9JWJ.jpg"
     },
     {
       "title": "Tom Clancy's Jack Ryan: Ghost War",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 9,
-      "description": "Una serie TV thriller d'azione basata sui personaggi di Tom Clancy.",
+      "description": "Una serie ricca di azione basata sul popolare personaggio.",
       "posterUrl": ""
     },
     {
@@ -78,248 +78,248 @@
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Una popolare serie TV comedy-drama.",
+      "description": "Una serie drammatica amata che continua a essere di tendenza.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fnmOtqNGeWvUbbjI9i0orTsdJIt.jpg"
+    },
+    {
+      "title": "F1",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 1,
+      "description": "Un film sulla Formula 1, attualmente il film più popolare.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
+    },
+    {
+      "title": "Fountain of Youth",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 2,
+      "description": "Un film d'azione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kCWGK8QoK8ZPt6sju8pjohG4oxv.jpg"
+    },
+    {
+      "title": "The Gorge",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 3,
+      "description": "Un film thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+    },
+    {
+      "title": "Eternity",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 4,
+      "description": "Un film romantico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg"
+    },
+    {
+      "title": "The Family Plan 2",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Un film commedia, sequel di The Family Plan.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aUPrVTBfu7NS1D0Z5L5OxWTrZS7.jpg"
     },
     {
       "title": "Silo",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 1,
-      "description": "Una serie TV distopica di fantascienza ambientata in un futuro sotterraneo.",
+      "rank": 6,
+      "description": "Una popolare serie di fantascienza.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
     },
     {
       "title": "Sugar",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 2,
-      "description": "Una serie TV giallo/thriller con un investigatore privato a Los Angeles.",
+      "rank": 7,
+      "description": "Una serie mistery.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
-    },
-    {
-      "title": "Trying",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Una commedia britannica che segue una coppia che cerca di avere un bambino.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ekMxB1ZnYB9hHcT7V2kB4PVNYOd.jpg"
     },
     {
       "title": "Ted Lasso",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Una serie comedy-drama sportiva acclamata dalla critica.",
+      "rank": 8,
+      "description": "Una serie comica pluripremiata.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
     },
     {
-      "title": "Scissione (Severance)",
+      "title": "Scissione",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Un thriller psicologico di fantascienza su un programma di 'scissione' della memoria.",
+      "rank": 9,
+      "description": "Una serie thriller acclamata dalla critica.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jnwqpZpmwvEo0CFLjDwfnnAf4ow.jpg"
     },
     {
       "title": "For All Mankind",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Una serie drammatica di storia alternativa che immagina una corsa allo spazio continua.",
+      "rank": 10,
+      "description": "Una serie drammatica che esplora una storia alternativa della corsa allo spazio.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
     },
     {
-      "title": "Foundation",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Una serie epica di fantascienza basata sui romanzi di Isaac Asimov.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/g28M5Qzpb8CeX2fYraNQjH79QZp.jpg"
-    },
-    {
-      "title": "The Morning Show",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Una serie drammatica che esplora il mondo dei notiziari mattutini.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/y9x2R87yt2U616736NJrP0d56dt.jpg"
-    },
-    {
-      "title": "Pachinko",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Una serie drammatica pluripremiata che segue una famiglia coreana attraverso generazioni.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uvYaNchldJhAl3syNiaHk1FpRuN.jpg"
-    },
-    {
-      "title": "Slow Horses",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 10,
-      "description": "Un thriller di spionaggio britannico con un team di agenti dell'MI5 emarginati.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
-    },
-    {
-      "title": "I Will Find You",
+      "title": "I Will Find You: Limited Series",
       "type": "tv",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Una serie limitata che segue una storia avvincente.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9dBe3lN3LfWyBAWGXflVEVCWrpt.jpg"
-    },
-    {
-      "title": "Rhythm + Flow Italy",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 2,
-      "description": "La terza stagione del talent show musicale italiano dedicato al rap.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dV0b1xdqg7WoAgmq3j9rU1gayjg.jpg"
-    },
-    {
-      "title": "Oasis",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "La prima stagione di una serie TV di genere drammatico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg"
-    },
-    {
-      "title": "Avatar: The Last Airbender",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "La seconda stagione dell'adattamento live-action della celebre serie animata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wyotdtbrAXUEHpoLxznOYAQNYe8.jpg"
-    },
-    {
-      "title": "Sullivan's Crossing",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "La quarta stagione di questa serie drammatica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/y07aaUa07t6ro6Y62teg4GHo45b.jpg"
-    },
-    {
-      "title": "Anora",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "Un film che ha scalato le classifiche dei più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fjUmU6DEt75a535pSBLUdRAmK6t.jpg"
-    },
-    {
-      "title": "Il Bene Comune",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "Un film popolare tra gli utenti italiani.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nUMekW0Zs12SniJuo1L1V9OypUd.jpg"
+      "description": "Una serie limitata che attualmente detiene il primo posto tra le serie TV più viste.",
+      "posterUrl": ""
     },
     {
       "title": "Enola Holmes 3",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "Il terzo capitolo delle avventure della sorella di Sherlock Holmes.",
+      "rank": 2,
+      "description": "Il terzo capitolo della serie di film misteriosi, con Millie Bobby Brown che riprende il suo ruolo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
     },
     {
-      "title": "Blood and Bone",
-      "type": "movie",
+      "title": "Rhythm + Flow Italy: Season 3",
+      "type": "tv",
       "platform": "Netflix",
-      "rank": 9,
-      "description": "Un film d'azione che continua a essere tra i più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4XoqjwKhqN3GlGt0fQtcY2OhkZq.jpg"
+      "rank": 3,
+      "description": "La terza stagione della competizione musicale italiana.",
+      "posterUrl": ""
     },
     {
-      "title": "It Happens in the Best of Families",
+      "title": "Voicemails for Isabelle",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 10,
-      "description": "Una commedia familiare che riscuote successo.",
+      "rank": 4,
+      "description": "Un film con Zoey Deutch e Nick Robinson.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oaxqHkmpDNTNYnEr79bW6k6VpUA.jpg"
+    },
+    {
+      "title": "Oasis: Season 1",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "La prima stagione di una popolare serie TV.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Succede Anche Nelle Migliori Famiglie",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Un film italiano attualmente tra i film più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6bvKlsPRWmRlzulVl7GmmSfhk2Z.jpg"
     },
     {
-      "title": "House of the Dragon",
+      "title": "Avatar: The Last Airbender: Season 2",
       "type": "tv",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "La seconda stagione dell'adattamento live-action, che continua ad appassionare il pubblico.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Sonic the Hedgehog 3",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Il terzo film della popolare serie di adattamenti di videogiochi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hArbAOlNZX0qfd2Udpr6RCTflpg.jpg"
+    },
+    {
+      "title": "Sullivan's Crossing: Season 4",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "La quarta stagione della serie drammatica.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Little Brother",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 10,
+      "description": "Un film attualmente tra i film più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg"
+    },
+    {
+      "title": "Bugonia",
+      "type": "movie",
       "platform": "Sky",
       "rank": 1,
-      "description": "La terza stagione del prequel di Game of Thrones, incentrata sulla guerra civile dei Targaryen.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
-    },
-    {
-      "title": "Sentimental Value",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 2,
-      "description": "Un film del 2025 che ha catturato l'attenzione del pubblico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lk0Tfskd5V84AbpJs9M1ZXJjVPf.jpg"
-    },
-    {
-      "title": "The Pitt",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 3,
-      "description": "Una serie TV del 2025 tra le più seguite.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
-    },
-    {
-      "title": "No Other Choice - Non c'è altra scelta",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 4,
-      "description": "Un film del 2025 che offre una trama avvincente.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nt2WCkLXv1VSlcwiNIEpnspWM5x.jpg"
-    },
-    {
-      "title": "I peccatori",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 5,
-      "description": "Un film del 2025 che esplora temi complessi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
-    },
-    {
-      "title": "Outlander",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 6,
-      "description": "Una serie TV drammatica storica con elementi romantici.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg"
+      "description": "Un film attualmente nella top 10 su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nhtC3xgsZMkotrPMzOHotUyHw6l.jpg"
     },
     {
       "title": "Un bel giorno",
       "type": "movie",
       "platform": "Sky",
-      "rank": 7,
-      "description": "Un film del 2026 che si distingue nel catalogo.",
+      "rank": 2,
+      "description": "Un film che è stato popolare per qualche tempo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
     },
     {
-      "title": "True Detective",
+      "title": "Anemone",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 3,
+      "description": "Un film recentemente aggiunto alla top 10.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dubKbJTRTJmji0VUEo5pVoZ92ra.jpg"
+    },
+    {
+      "title": "The Batman",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "Un popolare film di supereroi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg"
+    },
+    {
+      "title": "Snowden",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 5,
+      "description": "Un film thriller biografico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rNCadXoLMW5xVzyEJehIfbeBvv1.jpg"
+    },
+    {
+      "title": "Avvocato Ligas",
       "type": "tv",
       "platform": "Sky",
-      "rank": 8,
-      "description": "La serie antologica crime che affascina con le sue indagini complesse.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dC7jkj2g1aU8sxKqM6D4g44xA6w.jpg"
+      "rank": 6,
+      "description": "Sky Original, il primo legal drama italiano, in onda da marzo 2026.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg"
+    },
+    {
+      "title": "M Il figlio del secolo",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 7,
+      "description": "Adattamento Sky Original del romanzo vincitore del Premio Strega, con Luca Marinelli nei panni di Mussolini.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/m3ntFWL8nT1MOTji7HsqvHonjeI.jpg"
     },
     {
       "title": "The Last of Us",
       "type": "tv",
       "platform": "Sky",
-      "rank": 9,
-      "description": "La serie post-apocalittica tratta dal videogioco di successo.",
+      "rank": 8,
+      "description": "Una serie HBO molto acclamata, disponibile anche su Sky e NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/u0xTEHOd8pw6SLGRL5fZyDpoaew.jpg"
     },
     {
-      "title": "Poker Face",
+      "title": "Yellowstone",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 9,
+      "description": "Una popolare serie drammatica americana.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg"
+    },
+    {
+      "title": "House of the Dragon",
       "type": "tv",
       "platform": "Sky",
       "rank": 10,
-      "description": "La seconda stagione della serie thriller con Charlie Cale, capace di capire quando qualcuno mente.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nZnHwYpK27fC9AIK6DKVomrUAbk.jpg"
+      "description": "Una popolare serie fantasy HBO, disponibile anche su Sky e NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     }
   ]
 }
