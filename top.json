@@ -1,172 +1,172 @@
 {
-  "date": "13/07/2026, 12:15:55",
+  "date": "14/07/2026, 10:57:55",
   "data": [
     {
-      "title": "Project Hail Mary",
+      "title": "Boulevard",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Un film di fantascienza basato su un romanzo di successo, molto popolare.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xfwpfBtZ255ceVKEj2CK7mmYjF6.jpg"
+      "description": "Un nuovo film che ha rapidamente raggiunto la vetta delle classifiche su Prime Video in Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6QmYPv8KkK5sscksmAWFHTO3gkF.jpg"
     },
     {
-      "title": "The Boys",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "La serie satirica sui supereroi continua a essere un successo di pubblico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
-    },
-    {
-      "title": "28 Years Later: The Bone Temple",
+      "title": "L'ultima missione: Project Hail Mary",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Un nuovo capitolo della saga horror/thriller '28 giorni dopo'.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4YmnuJHhCtYvPdNwYB2fMaLEhUc.jpg"
+      "rank": 2,
+      "description": "Un film di fantascienza molto atteso, basato su un romanzo popolare, che si è posizionato tra i più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xfwpfBtZ255ceVKEj2CK7mmYjF6.jpg"
     },
     {
       "title": "Elle",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Una nuova serie che esplora le origini di un'iconica protagonista.",
+      "rank": 3,
+      "description": "Una nuova serie che ha debuttato con successo, diventando rapidamente una delle più popolari.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg"
     },
     {
-      "title": "Pídeme lo que quieras",
+      "title": "28 anni dopo: Il tempio delle ossa",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Un film drammatico romantico che ha conquistato il pubblico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/27kRatT0llh6dyi1t74zGE2wLC7.jpg"
-    },
-    {
-      "title": "Off Campus",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Una serie basata sui bestseller di Elle Kennedy, molto apprezzata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
+      "rank": 4,
+      "description": "Il terzo capitolo della saga horror sugli zombie, che ha generato grande interesse.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4YmnuJHhCtYvPdNwYB2fMaLEhUc.jpg"
     },
     {
       "title": "Dangerous Animals",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Un thriller avvincente che si mantiene nella top 10.",
+      "rank": 5,
+      "description": "Un film che ha catturato l'attenzione del pubblico, entrando nella top 10.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ejaxaWjgaRXG9EgbgHgNcRpsnJq.jpg"
     },
     {
-      "title": "Spider-Noir",
+      "title": "Pecore sotto copertura",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 6,
+      "description": "Un film d'animazione o per famiglie che ha trovato il suo posto tra i titoli più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hWELMex5ZbcdULp4M8CECiWBBkO.jpg"
+    },
+    {
+      "title": "Road House",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 7,
+      "description": "Un film d'azione che continua a essere popolare sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg"
+    },
+    {
+      "title": "Off Campus",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 8,
-      "description": "La nuova serie live-action che reinterpreta l'universo Marvel in chiave dark.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
+      "description": "Una serie TV che mantiene una posizione elevata nelle classifiche di popolarità.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
     },
     {
-      "title": "Un bel giorno",
-      "type": "movie",
+      "title": "Tom Clancy's Jack Ryan: Ghost War",
+      "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 9,
-      "description": "Un film che continua a essere tra i più visti sulla piattaforma.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
+      "description": "Una serie d'azione e spionaggio che continua a essere molto seguita.",
+      "posterUrl": ""
     },
     {
-      "title": "La Fattoria Clarkson",
+      "title": "L'estate nei tuoi occhi",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "La popolare serie reality che segue le avventure agricole di Jeremy Clarkson.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/giw6nkgPz0K4CooyjSVVBIoKc5V.jpg"
+      "description": "Una serie drammatica romantica che ha conquistato il pubblico, specialmente quello più giovane.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4ucAqEvXoAjQPlh9k4r0LqF9JWJ.jpg"
     },
     {
       "title": "Silo",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "Una serie distopica di fantascienza acclamata dalla critica.",
+      "description": "Una serie di fantascienza distopica che ha ricevuto ampi consensi e si mantiene in cima alle classifiche.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
     },
     {
-      "title": "F1 The Movie",
-      "type": "movie",
+      "title": "Cape Fear",
+      "type": "tv",
       "platform": "Apple TV+",
       "rank": 2,
-      "description": "Un film dedicato al mondo della Formula 1, molto popolare.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
+      "description": "Una serie thriller ispirata al celebre film, che ha catturato l'attenzione del pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg"
     },
     {
       "title": "Sugar",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 3,
-      "description": "Una serie mistery che ha catturato l'attenzione del pubblico.",
+      "description": "Una serie mystery che offre una rivisitazione contemporanea del genere investigativo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
-    },
-    {
-      "title": "The Gorge",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Un film d'azione e avventura che si mantiene nella top 10.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
     },
     {
       "title": "Widow's Bay",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Una serie mistery che continua a essere tra le più viste.",
+      "rank": 4,
+      "description": "Una serie che mescola horror e commedia, ambientata in una pittoresca ma misteriosa cittadina.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
     },
     {
-      "title": "Outcome",
+      "title": "F1: Il film",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Una commedia drammatica con un cast stellare.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
-    },
-    {
-      "title": "Star City",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Una serie drammatica che esplora storie complesse.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
-    },
-    {
-      "title": "Your Friends & Neighbors",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Una serie drammatica che indaga le relazioni umane.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
-    },
-    {
-      "title": "For All Mankind",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 9,
-      "description": "La serie di fantascienza che immagina una storia alternativa della corsa allo spazio.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+      "rank": 5,
+      "description": "Un film o documentario sulla Formula 1, molto popolare tra gli appassionati di motori.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
       "title": "Ted Lasso",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 10,
-      "description": "La pluripremiata serie comedy sul calcio e l'ottimismo.",
+      "rank": 6,
+      "description": "La pluripremiata serie comedy che continua a essere uno dei titoli di punta della piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
+    },
+    {
+      "title": "The Gorge",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "Un film thriller che si è posizionato tra i più visti sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+    },
+    {
+      "title": "For All Mankind",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Una serie drammatica di fantascienza che esplora una storia alternativa della corsa allo spazio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+    },
+    {
+      "title": "Outcome",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Un film che ha generato interesse e si trova nella top 10 dei contenuti più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
+    },
+    {
+      "title": "Trying",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 10,
+      "description": "Una commedia britannica che segue le vicende di una coppia che cerca di avere un bambino.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ekMxB1ZnYB9hHcT7V2kB4PVNYOd.jpg"
     },
     {
       "title": "I Will Find You: Limited Series",
       "type": "tv",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Una serie limitata che ha catturato l'attenzione del pubblico italiano.",
+      "description": "Una serie limitata che ha rapidamente scalato le classifiche, catturando l'attenzione del pubblico italiano.",
       "posterUrl": ""
     },
     {
@@ -174,7 +174,7 @@
       "type": "movie",
       "platform": "Netflix",
       "rank": 2,
-      "description": "Il terzo capitolo della popolare saga investigativa con Enola Holmes.",
+      "description": "Il terzo capitolo delle avventure della sorella minore di Sherlock Holmes, molto popolare tra gli spettatori.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
     },
     {
@@ -182,144 +182,144 @@
       "type": "tv",
       "platform": "Netflix",
       "rank": 3,
-      "description": "La terza stagione della versione italiana del talent show musicale hip-hop.",
+      "description": "La terza stagione del talent show musicale italiano dedicato al rap e all'hip-hop.",
       "posterUrl": ""
     },
     {
-      "title": "Voicemails for Isabelle",
+      "title": "Costa Concordia: Incubo in mare",
       "type": "movie",
       "platform": "Netflix",
       "rank": 4,
-      "description": "Un film recentemente aggiunto al catalogo che ha scalato le classifiche.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oaxqHkmpDNTNYnEr79bW6k6VpUA.jpg"
+      "description": "Un documentario o film drammatico basato sul disastro della Costa Concordia, che ha debuttato in cima alle classifiche.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg"
     },
     {
       "title": "Oasis: Season 1",
       "type": "tv",
       "platform": "Netflix",
       "rank": 5,
-      "description": "La prima stagione di una nuova serie TV che sta riscuotendo successo.",
+      "description": "La prima stagione di questa serie, che ha trovato un vasto pubblico in Italia.",
       "posterUrl": ""
     },
     {
-      "title": "Succede Anche Nelle Migliori Famiglie",
+      "title": "Voicemails for Isabelle",
       "type": "movie",
       "platform": "Netflix",
       "rank": 6,
-      "description": "Una commedia italiana che si conferma tra i titoli più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6bvKlsPRWmRlzulVl7GmmSfhk2Z.jpg"
+      "description": "Un film che ha generato interesse, posizionandosi stabilmente nella top 10 dei film più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oaxqHkmpDNTNYnEr79bW6k6VpUA.jpg"
     },
     {
       "title": "Avatar: The Last Airbender: Season 2",
       "type": "tv",
       "platform": "Netflix",
       "rank": 7,
-      "description": "La seconda stagione dell'adattamento live-action del celebre cartone animato.",
+      "description": "La seconda stagione dell'adattamento live-action della popolare serie animata, che continua ad attrarre spettatori.",
       "posterUrl": ""
     },
     {
-      "title": "Sonic the Hedgehog 3",
+      "title": "Anora",
       "type": "movie",
       "platform": "Netflix",
       "rank": 8,
-      "description": "Il terzo film basato sul famoso personaggio dei videogiochi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hArbAOlNZX0qfd2Udpr6RCTflpg.jpg"
+      "description": "Un film che ha conquistato una posizione elevata nella classifica dei più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fjUmU6DEt75a535pSBLUdRAmK6t.jpg"
     },
     {
       "title": "Sullivan's Crossing: Season 4",
       "type": "tv",
       "platform": "Netflix",
       "rank": 9,
-      "description": "La quarta stagione della serie drammatica familiare.",
+      "description": "La quarta stagione di questa serie drammatica, apprezzata dal pubblico.",
       "posterUrl": ""
     },
     {
-      "title": "Little Brother",
+      "title": "Succede Anche Nelle Migliori Famiglie",
       "type": "movie",
       "platform": "Netflix",
       "rank": 10,
-      "description": "Un film che ha trovato il suo posto nella top 10 italiana.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg"
+      "description": "Un film italiano che si è fatto strada nella top 10 dei contenuti più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6bvKlsPRWmRlzulVl7GmmSfhk2Z.jpg"
     },
     {
       "title": "House of the Dragon",
       "type": "tv",
       "platform": "Sky",
       "rank": 1,
-      "description": "La serie prequel de 'Il Trono di Spade' continua a essere un fenomeno.",
+      "description": "Il prequel de 'Il Trono di Spade', una delle serie più attese e seguite su Sky e NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     },
     {
-      "title": "Bugonia",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 2,
-      "description": "Un film che si posiziona tra i più visti su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nhtC3xgsZMkotrPMzOHotUyHw6l.jpg"
-    },
-    {
-      "title": "The Rookie",
+      "title": "The Equalizer",
       "type": "tv",
       "platform": "Sky",
-      "rank": 3,
-      "description": "La serie poliziesca che segue le vicende di un agente di polizia alle prime armi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg"
+      "rank": 2,
+      "description": "Una serie TV d'azione e poliziesca recentemente aggiunta a NOW, che ha subito guadagnato popolarità.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7nrKPxGJWYe5cacNN9AV9bVplNZ.jpg"
     },
     {
-      "title": "Un bel giorno",
+      "title": "Pulp Fiction",
       "type": "movie",
       "platform": "Sky",
-      "rank": 4,
-      "description": "Un film popolare disponibile su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
+      "rank": 3,
+      "description": "Un classico del cinema recentemente disponibile su NOW, che continua ad attrarre spettatori.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hOpN58hkQGZph5LHhyRrryy1hzF.jpg"
     },
     {
-      "title": "FROM",
+      "title": "Gomorra - La Serie",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "L'iconica serie Sky Original sul crimine organizzato, un successo costante in Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg"
+    },
+    {
+      "title": "Cucine da incubo",
       "type": "tv",
       "platform": "Sky",
       "rank": 5,
-      "description": "Una serie horror fantascientifica che tiene gli spettatori col fiato sospeso.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oRTAA5VqHi2W2rfkiJ3fHiGfI9M.jpg"
+      "description": "Il popolare show Sky Original in cui chef Antonino Cannavacciuolo aiuta ristoranti in difficoltà.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sfgZ4KXNQQ8ZNNdQvuaJY4ebeof.jpg"
     },
     {
-      "title": "Anemone",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 6,
-      "description": "Un film che rientra nella classifica dei più visti su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dubKbJTRTJmji0VUEo5pVoZ92ra.jpg"
-    },
-    {
-      "title": "The Good Doctor",
+      "title": "Diavoli",
       "type": "tv",
       "platform": "Sky",
-      "rank": 7,
-      "description": "Il medical drama con protagonista un chirurgo affetto da autismo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg"
+      "rank": 6,
+      "description": "Un thriller finanziario Sky Original con un cast internazionale, molto apprezzato dal pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/itHN6LpHWnWVUZ6qSCAKJbEyvcQ.jpg"
     },
     {
-      "title": "The Batman",
+      "title": "Million Dollar Baby",
       "type": "movie",
       "platform": "Sky",
-      "rank": 8,
-      "description": "L'ultima incarnazione cinematografica del Cavaliere Oscuro.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg"
+      "rank": 7,
+      "description": "Un film drammatico vincitore di Oscar, recentemente aggiunto al catalogo NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3ehWHEKe54gTpYoTZ19q2qRCCyH.jpg"
     },
     {
-      "title": "Ted",
+      "title": "The Walking Dead: Dead City",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 8,
+      "description": "Uno spin-off della celebre serie 'The Walking Dead', che continua a essere seguito dagli appassionati.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
+    },
+    {
+      "title": "Pechino Express",
       "type": "tv",
       "platform": "Sky",
       "rank": 9,
-      "description": "La serie comedy prequel dei film con l'orso Ted.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cPn71YFDENH0JkWUezlsLyWmLfN.jpg"
+      "description": "Il reality show d'avventura che porta i concorrenti in giro per il mondo, molto popolare su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/97WBjxeRtwLwapHeHTig7Xt8xMd.jpg"
     },
     {
-      "title": "Snowden",
-      "type": "movie",
+      "title": "Hanno Ucciso l'Uomo Ragno - La leggendaria storia degli 883",
+      "type": "tv",
       "platform": "Sky",
       "rank": 10,
-      "description": "Il film biografico sul famoso whistleblower Edward Snowden.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rNCadXoLMW5xVzyEJehIfbeBvv1.jpg"
+      "description": "Una nuova serie Sky Original che racconta la storia del celebre gruppo musicale italiano 883.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/q7AkRxRGiD2s0lO8xY6RbVSPWFl.jpg"
     }
   ]
 }
