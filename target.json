@@ -1,185 +1,185 @@
 {
-  "date": "14/07/2026, 12:27:41",
+  "date": "15/07/2026, 12:30:53",
   "data": [
     {
-      "title": "Heartstopper Forever",
+      "title": "Parthenope",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Gen Z",
+      "rank": 1,
+      "description": "Il nuovo film di Paolo Sorrentino ha saputo intercettare un pubblico giovane grazie a una mirata strategia di marketing sui social media, in particolare TikTok, rendendolo un fenomeno discusso e un'esperienza cinematografica sociale per la Gen Z.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1PrYlFquzqEEZOvBYGwnGXB8mti.jpg"
+    },
+    {
+      "title": "Inside Out 2",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Gen Z",
+      "rank": 2,
+      "description": "Questo attesissimo sequel d'animazione ha registrato un enorme successo al botteghino, attirando un vasto pubblico di giovani e giovanissimi per la sua capacità di affrontare temi emotivi in modo accessibile e coinvolgente.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mVkg1k4Iun40ZFiBQPFAxJHRZBu.jpg"
+    },
+    {
+      "title": "Deadpool & Wolverine",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Gen Z",
+      "rank": 3,
+      "description": "L'uscita di questo blockbuster di supereroi è tra le più attese dell'estate 2024 e genera un forte hype tra la Gen Z, appassionata di fumetti e film d'azione con un tocco irriverente.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tDYG0QPL54nUKDUoBPdvtsmzbBI.jpg"
+    },
+    {
+      "title": "Twisters",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Gen Z",
+      "rank": 4,
+      "description": "Un altro film d'azione estivo molto atteso, 'Twisters' promette effetti speciali spettacolari e adrenalina, elementi che attraggono fortemente il pubblico più giovane in cerca di intrattenimento al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xEspUMrTfhXfqRTqV9wehwzzGpX.jpg"
+    },
+    {
+      "title": "Exploding Kittens",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 5,
+      "description": "Questa nuova serie animata, basata su un popolare gioco di carte, è virale per il suo umorismo surreale e irriverente, perfetto per il gusto della Gen Z che apprezza contenuti originali e divertenti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4WctqRtusYpTLHNkuVjQe4R51DZ.jpg"
+    },
+    {
+      "title": "Cobra Kai (Stagione 6, Parte 1)",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 6,
+      "description": "La prima parte della sesta stagione, in uscita a luglio, continua a essere un punto di riferimento per la Gen Z che segue le vicende dei giovani protagonisti e le loro sfide nel mondo delle arti marziali, mantenendo vivo il dibattito sui social.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Elite (Stagione 8)",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 7,
+      "description": "La stagione finale di questa serie drammatica spagnola, in uscita a luglio, è molto discussa tra la Gen Z per le sue trame avvincenti, i personaggi complessi e le tematiche giovanili che spesso diventano virali su piattaforme come TikTok.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Maxton Hall",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "target": "Gen Z",
+      "rank": 8,
+      "description": "Questa serie romantica è diventata un fenomeno virale su TikTok, con la Gen Z che ne ha apprezzato la trama avvincente e i personaggi carismatici, generando un'enorme discussione e attesa per la seconda stagione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wzd1FLibKsSh5IGbQX01gNg7Q0G.jpg"
+    },
+    {
+      "title": "Fabbricante di Lacrime",
       "type": "movie",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": "1",
-      "description": "Film conclusivo dell'amatissima saga adolescenziale, molto atteso dalla Gen Z per le sue tematiche LGBTQ+ e la rappresentazione autentica delle relazioni giovanili, generando grande engagement sui social.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg"
+      "rank": 9,
+      "description": "Film italiano basato su un romanzo young adult di successo, ha catturato l'attenzione della Gen Z per la sua storia romantica e drammatica, diventando un titolo molto commentato e apprezzato tra i giovani spettatori.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zKClzN4PIzrh3kStNIDgoD3KI8d.jpg"
     },
     {
-      "title": "Enola Holmes 3",
-      "type": "film",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "2",
-      "description": "Il terzo capitolo con Millie Bobby Brown continua a catturare l'attenzione della Gen Z grazie al suo mix di mistero, avventura e un'eroina forte e indipendente che risuona con i valori di questa generazione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "type": "film",
-      "platform": "Cinema",
-      "target": "Gen Z",
-      "rank": "3",
-      "description": "L'ultimo capitolo della saga con Tom Holland e Zendaya è un evento cinematografico imperdibile per la Gen Z, che segue le vicende di un supereroe giovane e relazionabile, generando discussioni e hype online.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg"
-    },
-    {
-      "title": "Minions & Monsters",
-      "type": "film",
-      "platform": "Cinema",
-      "target": "Gen Z",
-      "rank": "4",
-      "description": "Film d'animazione che, pur essendo per famiglie, ha un forte appeal sulla Gen Z grazie alla viralità dei Minions sui social media e al loro umorismo leggero e facilmente condivisibile.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg"
-    },
-    {
-      "title": "La casa nella prateria",
+      "title": "Heartstopper (Stagione 3)",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": "5",
-      "description": "Il reboot di una serie classica, che attira la Gen Z con una rivisitazione moderna e temi di resilienza e famiglia, spesso apprezzati in chiave di 'comfort watch' e riscoperta di contenuti nostalgici.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg"
-    },
-    {
-      "title": "Arcane",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "6",
-      "description": "Serie animata acclamata basata su League of Legends, estremamente popolare tra la Gen Z appassionata di gaming e animazione di alta qualità, per la sua trama complessa e lo stile visivo unico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/abf8tHznhSvl9BAElD2cQeRr7do.jpg"
-    },
-    {
-      "title": "Rick and Morty",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "7",
-      "description": "Serie animata per adulti con umorismo irriverente e concetti sci-fi complessi, un cult tra la Gen Z per la sua originalità, intelligenza e la capacità di generare meme e citazioni virali.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
-    },
-    {
-      "title": "Rhythm + Flow Italy S3",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "8",
-      "description": "Reality show sulla scena rap italiana, cattura l'attenzione della Gen Z per la sua connessione diretta con la cultura musicale giovanile, l'autenticità e la possibilità di scoprire nuovi talenti.",
+      "rank": 10,
+      "description": "Sebbene la terza stagione sia prevista per ottobre, 'Heartstopper' rimane una delle serie più amate e discusse dalla Gen Z per la sua rappresentazione autentica e inclusiva delle relazioni adolescenziali e delle tematiche LGBTQ+.",
       "posterUrl": ""
     },
     {
-      "title": "Worst Neighbor Ever - Vicini letali",
+      "title": "The Bear (Stagione 3)",
       "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "9",
-      "description": "Docu-serie true-crime che esplora storie di vicinato da incubo, un genere molto popolare tra la Gen Z per il suo contenuto drammatico, spesso scioccante e facilmente condivisibile sui social.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1WarGMl1xR0l7ut72putZcgrCJS.jpg"
-    },
-    {
-      "title": "Beef – Lo scontro 2",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": "10",
-      "description": "Una dark comedy-drama che, con la sua trama avvincente e i personaggi complessi, inclusi dipendenti Gen Z, offre spunti di discussione e risonanza con le dinamiche sociali e le frustrazioni attuali.",
+      "platform": "Disney+",
+      "target": "Millennials",
+      "rank": 1,
+      "description": "La terza stagione di questa serie acclamata dalla critica, in uscita a luglio, è molto popolare tra i Millennials per la sua narrazione intensa, i personaggi ben sviluppati e le tematiche legate al mondo del lavoro e delle relazioni personali.",
       "posterUrl": ""
     },
     {
-      "title": "House of the Dragon S3",
-      "type": "tv",
-      "platform": "Sky",
-      "target": "Millennials",
-      "rank": "1",
-      "description": "L'attesissima terza stagione del prequel di Game of Thrones è un must-watch per i Millennials che hanno seguito la saga originale e amano il fantasy epico e le trame politiche complesse.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Poker Face S2",
-      "type": "tv",
-      "platform": "Sky",
-      "target": "Millennials",
-      "rank": "2",
-      "description": "La seconda stagione della serie mystery con Natasha Lyonne è apprezzata dai Millennials per la sua struttura alla 'Tenente Colombo' e i casi autoconclusivi e intelligenti.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Elle",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "target": "Millennials",
-      "rank": "3",
-      "description": "La serie prequel di 'La rivincita delle bionde' gioca sull'effetto nostalgia per i Millennials che hanno amato il film originale, offrendo una nuova prospettiva su un personaggio iconico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg"
-    },
-    {
-      "title": "The Walking Dead - Dead City S3",
-      "type": "tv",
-      "platform": "Sky",
-      "target": "Millennials",
-      "rank": "4",
-      "description": "Il proseguimento dello spin-off di The Walking Dead continua ad attrarre i Millennials fedeli al franchise zombie-apocalittico per le sue storie di sopravvivenza e dramma.",
-      "posterUrl": ""
-    },
-    {
-      "title": "The Hawk",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Millennials",
-      "rank": "5",
-      "description": "Commedia sportiva con Will Ferrell, che affronta temi di riscatto e accettazione del tempo che passa, risuonando con i Millennials che apprezzano commedie con un tocco drammatico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/klwdBtkpdW1RIqOl0dkSWJ7mtjq.jpg"
-    },
-    {
-      "title": "Silo S3",
+      "title": "La Donna del lago",
       "type": "tv",
       "platform": "Apple TV+",
       "target": "Millennials",
-      "rank": "6",
-      "description": "La terza stagione della serie distopica, che offre una narrazione complessa e misteriosa, ideale per i Millennials che cercano sci-fi di qualità e storie profonde.",
-      "posterUrl": ""
+      "rank": 2,
+      "description": "Questa nuova serie thriller con Natalie Portman attira i Millennials per la sua trama avvincente e la presenza di un'attrice di calibro, offrendo un'esperienza di visione di alta qualità e stimolante.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/plPE34ffTfEwBIp74IkX4gwwiLw.jpg"
     },
     {
-      "title": "Estate '36",
+      "title": "Those About to Die",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Millennials",
+      "rank": 3,
+      "description": "L'epica serie drammatica ambientata nell'Antica Roma, con Anthony Hopkins, è un magnete per i Millennials appassionati di produzioni storiche di grande respiro e con un cast di prestigio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg"
+    },
+    {
+      "title": "Vikings: Valhalla (Stagione 3)",
       "type": "tv",
       "platform": "Netflix",
       "target": "Millennials",
-      "rank": "7",
-      "description": "Un dramma storico ambientato nella Costa Azzurra degli anni '30, con un mistero al centro, attrae i Millennials interessati a produzioni d'epoca e trame avvincenti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6rSzSsSxSOk3nzYAHzm8yFpXnYQ.jpg"
+      "rank": 4,
+      "description": "La terza stagione, disponibile a luglio, continua a essere seguita dai Millennials che apprezzano le saghe storiche ricche di azione, intrighi e personaggi carismatici, mantenendo viva la discussione sulle piattaforme social.",
+      "posterUrl": ""
     },
     {
-      "title": "Greenland 2: Migration",
-      "type": "film",
-      "platform": "Sky",
-      "target": "Millennials",
-      "rank": "8",
-      "description": "Un film catastrofico e d'azione, che offre intrattenimento ad alta tensione, popolare tra i Millennials che cercano adrenalina e suspense.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oEmubwIZivvNUpfVwTf6lHtpWNf.jpg"
-    },
-    {
-      "title": "Prendiamoci una pausa",
-      "type": "film",
-      "platform": "Sky",
-      "target": "Millennials",
-      "rank": "9",
-      "description": "Commedia italiana con un cast noto, che esplora le dinamiche di coppia e le crisi di mezza età, offrendo spunti di riflessione e risate per un pubblico Millennial.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3C0ru5cyzMS761V7LhhboBsmknW.jpg"
-    },
-    {
-      "title": "The Sandman S2",
+      "title": "The Rookie (Stagione 5)",
       "type": "tv",
       "platform": "Netflix",
       "target": "Millennials",
-      "rank": "10",
-      "description": "La seconda stagione dell'adattamento del fumetto di Neil Gaiman è apprezzata dai Millennials per la sua estetica dark fantasy, la complessità narrativa e la fedeltà all'opera originale.",
+      "rank": 5,
+      "description": "La quinta stagione, in arrivo a luglio, è una serie procedurale che continua a riscuotere successo tra i Millennials per le sue trame avvincenti, il mix di azione e dramma e i personaggi con cui è facile empatizzare.",
       "posterUrl": ""
+    },
+    {
+      "title": "Bridgerton (Stagione 3)",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 6,
+      "description": "La terza stagione di questa popolare serie romantica storica è stata ampiamente discussa sui social media come Instagram e X, catturando l'attenzione dei Millennials per le sue storie d'amore, i costumi sontuosi e l'evasione che offre.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Supersex",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 7,
+      "description": "Questa serie biografica italiana su Rocco Siffredi ha generato un notevole dibattito e interesse tra i Millennials per la sua audacia narrativa e l'esplorazione di una figura iconica della cultura pop italiana.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aZrdCklOUe4nQ1sbH3j2WjMXGIe.jpg"
+    },
+    {
+      "title": "Perfect Days",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Millennials",
+      "rank": 8,
+      "description": "Questo film d'autore ha sorprendentemente attratto una significativa percentuale di spettatori sotto i 34 anni, inclusi molti Millennials, che ne hanno apprezzato la profondità e la narrazione contemplativa, rendendolo un titolo di discussione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vRLicecIah55HKQkmXpkpD5KuPq.jpg"
+    },
+    {
+      "title": "Povere creature!",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Millennials",
+      "rank": 9,
+      "description": "Il film acclamato dalla critica ha registrato un notevole successo anche tra il pubblico under 34, dimostrando l'interesse dei Millennials per opere cinematografiche originali, visivamente audaci e che stimolano la riflessione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8rwQrD5PBr290AaePDC9kd61dnD.jpg"
+    },
+    {
+      "title": "Un piedipiatti a Beverly Hills: Axel F",
+      "type": "movie",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 10,
+      "description": "Il ritorno di Eddie Murphy in questo iconico franchise genera un forte senso di nostalgia tra i Millennials, che sono cresciuti con i film originali e sono entusiasti di rivedere il personaggio in una nuova avventura.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rUCcqsvEJsCX0IgucHKBAlmgHgu.jpg"
     }
   ]
 }
