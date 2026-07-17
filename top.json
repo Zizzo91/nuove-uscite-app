@@ -1,276 +1,276 @@
 {
-  "date": "16/07/2026, 11:07:31",
+  "date": "17/07/2026, 11:02:23",
   "data": [
-    {
-      "title": "Boulevard",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 1,
-      "description": "Un film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6QmYPv8KkK5sscksmAWFHTO3gkF.jpg"
-    },
     {
       "title": "Elle",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Una serie TV.",
+      "rank": 1,
+      "description": "Serie che racconta la vita di Elle Woods al liceo, rivelando le esperienze che l'hanno trasformata.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg"
+    },
+    {
+      "title": "Boulevard",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 2,
+      "description": "Film tra i più popolari sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6QmYPv8KkK5sscksmAWFHTO3gkF.jpg"
     },
     {
       "title": "Project Hail Mary",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 3,
-      "description": "Un film di fantascienza.",
+      "description": "Film di fantascienza tra i più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xfwpfBtZ255ceVKEj2CK7mmYjF6.jpg"
     },
     {
-      "title": "Off Campus",
-      "type": "tv",
+      "title": "Primitive War",
+      "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 4,
-      "description": "Una serie TV.",
-      "posterUrl": ""
+      "description": "Film che si posiziona nella top 10.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4vn9P6zWNsyXzAp54WzbAIFUj0r.jpg"
     },
     {
       "title": "Pídeme lo que quieras",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 5,
-      "description": "Un film.",
+      "description": "Film tra i più visti su Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/27kRatT0llh6dyi1t74zGE2wLC7.jpg"
-    },
-    {
-      "title": "Every Year After",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Una serie TV.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Un bel giorno",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Un film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
-    },
-    {
-      "title": "See You at Work Tomorrow!",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Una serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6MELksXL65sIWNMZHR8Z9nLt1DE.jpg"
-    },
-    {
-      "title": "28 Years Later: The Bone Temple",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Un film horror.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4YmnuJHhCtYvPdNwYB2fMaLEhUc.jpg"
     },
     {
       "title": "Dangerous Animals",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 10,
-      "description": "Un film.",
+      "rank": 6,
+      "description": "Film presente nella classifica dei più popolari.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ejaxaWjgaRXG9EgbgHgNcRpsnJq.jpg"
+    },
+    {
+      "title": "Off Campus",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 7,
+      "description": "Serie TV tra le più seguite sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
+    },
+    {
+      "title": "Un bel giorno",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 8,
+      "description": "Film che rientra nella top 10.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
+    },
+    {
+      "title": "MR-9: Do or Die",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "Film d'azione tra i più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nSsDLBqr3Z5rxUdCjy4vlGKpQm5.jpg"
+    },
+    {
+      "title": "The Sheep Detectives",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 10,
+      "description": "Nuovo film che ha raggiunto la top 10.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hWELMex5ZbcdULp4M8CECiWBBkO.jpg"
     },
     {
       "title": "Silo",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "Una serie TV di fantascienza ambientata in una comunità sotterranea.",
+      "description": "Serie distopica di fantascienza, la terza stagione continua il racconto di una società sotterranea.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
-    },
-    {
-      "title": "F1: Il film",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 2,
-      "description": "Un film d'azione sulla Formula 1.",
-      "posterUrl": ""
     },
     {
       "title": "Lucky",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Una serie TV d'azione.",
+      "rank": 2,
+      "description": "Miniserie thriller d'azione con Anya Taylor-Joy.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5TO5TP3Q6sVDw2NQ5eZ9OZ56MjB.jpg"
-    },
-    {
-      "title": "Outcome",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Un film commedia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
     },
     {
       "title": "Maximum Pleasure Guaranteed",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Una serie TV thriller.",
-      "posterUrl": ""
-    },
-    {
-      "title": "The Gorge",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Un film thriller.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+      "rank": 3,
+      "description": "Thriller con Tatiana Maslany, una madre single coinvolta in una spirale di ricatti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
     },
     {
       "title": "Widow's Bay",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Una serie TV gialla.",
+      "rank": 4,
+      "description": "Serie mistery tra le più popolari sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
-    },
-    {
-      "title": "Echo Valley",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Un film thriller.",
-      "posterUrl": ""
     },
     {
       "title": "Cape Fear",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Una serie TV thriller.",
+      "rank": 5,
+      "description": "Thriller psicologico ispirato al romanzo 'The Executioners'.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3ZLy3cfQa9prahoRq1teMmr5pvW.jpg"
     },
     {
-      "title": "Greyhound",
+      "title": "Sugar",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 6,
+      "description": "Rivisitazione moderna del genere investigativo con Colin Farrell.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
+    },
+    {
+      "title": "Ted Lasso",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "Serie commedia pluripremiata.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
+    },
+    {
+      "title": "Your Friends & Neighbors",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Serie drammatica con Jon Hamm, la cui doppia vita da ladro si fa rischiosa.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
+    },
+    {
+      "title": "F1: Il film",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Film d'azione sulla Formula 1.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
+    },
+    {
+      "title": "Outcome",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "Un film d'azione ambientato durante la Seconda Guerra Mondiale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iJBLPfZkYF5tphFeEULjOMCgwlR.jpg"
+      "description": "Film commedia tra i più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ln6AxyDbXI8UrH3CjR2XFo8wcdF.jpg"
     },
     {
-      "title": "I Will Find You",
+      "title": "Ovunque tu sia",
       "type": "tv",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Una miniserie drammatica.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Enola Holmes 3",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 2,
-      "description": "Millie Bobby Brown torna nei panni della sorella detective di Sherlock Holmes.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
-    },
-    {
-      "title": "Summer '36",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "Una miniserie.",
-      "posterUrl": ""
+      "description": "Miniserie thriller che ha mantenuto il primo posto tra le serie più viste per la quarta settimana consecutiva.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9dBe3lN3LfWyBAWGXflVEVCWrpt.jpg"
     },
     {
       "title": "Shipwrecked: Nightmare at Sea",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 4,
-      "description": "Un film su un naufragio.",
+      "rank": 2,
+      "description": "Film thriller che si posiziona tra i più visti sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg"
     },
     {
-      "title": "Rhythm + Flow Italy",
+      "title": "La casa nella prateria",
       "type": "tv",
       "platform": "Netflix",
+      "rank": 3,
+      "description": "Nuovo adattamento della celebre serie di romanzi, un drama familiare ambientato nel West americano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xtnikkXaQYZvxCX38hLAjER0ftW.jpg"
+    },
+    {
+      "title": "Death on the Nile",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 4,
+      "description": "Film giallo che figura nella top 10 dei film più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nOZbrExSknD5OEadW08LGKjSZiM.jpg"
+    },
+    {
+      "title": "Nothing to Lose",
+      "type": "movie",
+      "platform": "Netflix",
       "rank": 5,
-      "description": "La terza stagione della competizione musicale.",
-      "posterUrl": ""
+      "description": "Film presente nella classifica dei più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lYQmXiKEooImScqysi2HbjjRrgC.jpg"
+    },
+    {
+      "title": "Journey 2: The Mysterious Island",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Film d'avventura popolare sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vmf8nhY5INYXTp1mhxEUsoyDGj6.jpg"
     },
     {
       "title": "Anora",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 6,
-      "description": "Un film drammatico.",
-      "posterUrl": ""
+      "rank": 7,
+      "description": "Film che rientra nella top 10 dei contenuti più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fjUmU6DEt75a535pSBLUdRAmK6t.jpg"
     },
     {
-      "title": "Little House on the Prairie",
-      "type": "tv",
+      "title": "Enola Holmes 3",
+      "type": "movie",
       "platform": "Netflix",
-      "rank": 7,
-      "description": "La prima stagione della classica serie.",
-      "posterUrl": ""
+      "rank": 8,
+      "description": "Terzo capitolo delle avventure della detective Enola Holmes.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
+    },
+    {
+      "title": "The Town",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "Film drammatico/crime tra i più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eidieDxgVkm3xmpCm3VXwon9GEB.jpg"
     },
     {
       "title": "Il Bene Comune",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "Un film.",
+      "rank": 10,
+      "description": "Film presente nella classifica dei più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nUMekW0Zs12SniJuo1L1V9OypUd.jpg"
     },
     {
-      "title": "Sullivan's Crossing",
+      "title": "House of the Dragon 3",
       "type": "tv",
-      "platform": "Netflix",
-      "rank": 9,
-      "description": "La quarta stagione della serie.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Blood and Bone",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 10,
-      "description": "Un film d'azione.",
+      "platform": "Sky",
+      "rank": 1,
+      "description": "Terza stagione della popolare serie fantasy, con nuovi episodi disponibili ogni lunedì.",
       "posterUrl": ""
     },
     {
       "title": "Greenland 2: Migration",
       "type": "movie",
       "platform": "Sky",
-      "rank": 1,
-      "description": "Un film d'azione e catastrofico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oEmubwIZivvNUpfVwTf6lHtpWNf.jpg"
-    },
-    {
-      "title": "House of the Dragon",
-      "type": "tv",
-      "platform": "Sky",
       "rank": 2,
-      "description": "La terza stagione della serie fantasy prequel de Il Trono di Spade.",
-      "posterUrl": ""
+      "description": "Film catastrofico tra i più visti su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oEmubwIZivvNUpfVwTf6lHtpWNf.jpg"
     },
     {
       "title": "Prendiamoci una pausa",
       "type": "movie",
       "platform": "Sky",
       "rank": 3,
-      "description": "Un film.",
+      "description": "Commedia che esplora le 'pause di riflessione' nelle relazioni.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3C0ru5cyzMS761V7LhhboBsmknW.jpg"
     },
     {
-      "title": "The House That Dragons Built",
+      "title": "Poker Face 2",
       "type": "tv",
       "platform": "Sky",
       "rank": 4,
-      "description": "Una serie TV.",
+      "description": "Seconda stagione della serie mystery con Charlie Cale, capace di riconoscere le bugie.",
       "posterUrl": ""
     },
     {
@@ -278,48 +278,48 @@
       "type": "movie",
       "platform": "Sky",
       "rank": 5,
-      "description": "Un film di Christopher Nolan.",
-      "posterUrl": ""
+      "description": "Film d'azione e fantascienza di Christopher Nolan.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iKXqUiLFDgeIGozRR6JYRvFmD5A.jpg"
     },
     {
-      "title": "Chicago P.D.",
-      "type": "tv",
+      "title": "Black Phone 2",
+      "type": "movie",
       "platform": "Sky",
       "rank": 6,
-      "description": "Una serie TV poliziesca.",
-      "posterUrl": ""
+      "description": "Sequel horror tra i film più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zzMmJl4XHqID7tQOnY3SNvYsnwa.jpg"
     },
     {
       "title": "Bugonia",
       "type": "movie",
       "platform": "Sky",
       "rank": 7,
-      "description": "Un film.",
-      "posterUrl": ""
+      "description": "Film presente nella top 10 di NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nhtC3xgsZMkotrPMzOHotUyHw6l.jpg"
     },
     {
-      "title": "Law & Order: Special Victims Unit",
-      "type": "tv",
+      "title": "La Lezione",
+      "type": "movie",
       "platform": "Sky",
       "rank": 8,
-      "description": "Una serie TV poliziesca.",
-      "posterUrl": ""
+      "description": "Thriller psicologico con Matilda De Angelis e Stefano Accorsi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fck83vluL9Gih143i4q1SwIlRKh.jpg"
     },
     {
-      "title": "Black Phone 2",
+      "title": "The Batman",
       "type": "movie",
       "platform": "Sky",
       "rank": 9,
-      "description": "Un film horror.",
-      "posterUrl": ""
+      "description": "Film di supereroi tra i più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg"
     },
     {
-      "title": "Quattro matrimoni",
+      "title": "Avvocato Ligas",
       "type": "tv",
       "platform": "Sky",
       "rank": 10,
-      "description": "Un reality show sui matrimoni.",
-      "posterUrl": ""
+      "description": "Primo legal drama italiano Sky Original con Luca Argentero.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg"
     }
   ]
 }
