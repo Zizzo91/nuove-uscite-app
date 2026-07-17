@@ -1,139 +1,103 @@
 {
-  "date": "16/07/2026, 12:47:39",
+  "date": "17/07/2026, 12:27:59",
   "data": [
     {
-      "title": "Enola Holmes 3",
+      "title": "Odissea",
       "type": "movie",
-      "platform": "Netflix",
+      "platform": "Cinema",
       "target": "Gen Z",
       "rank": 1,
-      "description": "Il ritorno di Millie Bobby Brown nei panni della giovane detective è molto atteso dalla Gen Z, che apprezza le avventure dinamiche, i misteri e un'eroina femminile forte e indipendente. La saga è popolare per il suo mix di azione, ironia e colpi di scena.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
+      "description": "Il nuovo colossal di Christopher Nolan, uscito il 16 luglio 2026, è un evento cinematografico di cui si parla moltissimo sui social e tra i giovani, che apprezzano le esperienze immersive e i registi di culto. La sua ambizione e le discussioni che genera lo rendono un must-see per la Gen Z.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg"
     },
     {
-      "title": "X-Men '97 - Stagione 2",
+      "title": "Bad Influence: Il lato oscuro dei giovani influencer",
       "type": "tv",
-      "platform": "Disney+",
+      "platform": "Netflix",
       "target": "Gen Z",
       "rank": 2,
-      "description": "Questa serie animata Marvel riprende un franchise amato, offrendo un mix di nostalgia per chi è cresciuto con i cartoni degli anni '90 e nuove storie che attraggono il pubblico più giovane con tematiche attuali e animazione di qualità.",
+      "description": "Questa docuserie investigativa di Netflix, uscita ad aprile 2025, esplora il mondo controverso dei giovani influencer e le accuse di abusi. Il tema è estremamente rilevante per la Gen Z, cresciuta con i social media e attenta alle dinamiche del mondo digitale, generando discussioni e consapevolezza.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kbgdBz6VezAOCgNAhzNP6dL7XBC.jpg"
+    },
+    {
+      "title": "L'estate nei tuoi occhi 3",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "target": "Gen Z",
+      "rank": 3,
+      "description": "La terza stagione di questa popolare saga teen, basata sui romanzi di Jenny Han e uscita a luglio 2025, continua a catturare l'attenzione della Gen Z con i suoi triangoli amorosi, le dinamiche adolescenziali e l'estetica estiva, elementi che la rendono virale e molto discussa.",
       "posterUrl": ""
     },
     {
-      "title": "Heartstopper Forever",
-      "type": "movie",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": 3,
-      "description": "Il film conclusivo di questa dolcissima e celebrata saga adolescenziale, tratta dalle graphic novel di Alice Oseman, è un evento imperdibile per la Gen Z, che si identifica con le tematiche LGBTQ+ e le storie di crescita personale e relazioni autentiche.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg"
-    },
-    {
-      "title": "Elle",
+      "title": "Marked Men: Oltre le regole",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "target": "Gen Z",
       "rank": 4,
-      "description": "Prequel de 'La rivincita delle bionde', questa serie segue le origini di Elle Woods al liceo. Attira la Gen Z per il suo tono teen, l'estetica 'pink' e il messaggio di empowerment femminile, con un tocco di nostalgia per un'icona pop.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg"
+      "description": "Basata su un romanzo bestseller young adult e uscita a luglio 2025, questa serie attrae la Gen Z con la sua storia d'amore ribelle, i personaggi complessi e le tematiche di crescita personale, rispecchiando gli interessi di questa generazione per le relazioni intense e le sfide sociali.",
+      "posterUrl": ""
     },
     {
-      "title": "Minions & Monsters",
-      "type": "movie",
-      "platform": "Cinema",
+      "title": "Sul più bello - La serie",
+      "type": "tv",
+      "platform": "Sky",
       "target": "Gen Z",
       "rank": 5,
-      "description": "Un nuovo capitolo del celebre franchise animato, che introduce personaggi inediti. I film d'animazione di successo globale come i Minions sono sempre molto popolari tra la Gen Z, specialmente i più giovani, per il loro umorismo e la vivacità.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg"
+      "description": "Tratta da una saga cinematografica amata dagli adolescenti italiani, questa serie (uscita a luglio 2024) affronta le contraddizioni sentimentali e le sfide dell'età della formazione, risuonando profondamente con le esperienze e le emozioni della Gen Z italiana.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9pMWFGN8EkgxFu9h7O7ommuUPVW.jpg"
     },
     {
-      "title": "Venom: The Last Dance",
+      "title": "Descendants: L'ascesa di Red",
       "type": "movie",
-      "platform": "Netflix",
+      "platform": "Disney+",
       "target": "Gen Z",
       "rank": 6,
-      "description": "Il genere dei cinecomic e degli anti-eroi è estremamente popolare tra la Gen Z. Questo sequel offre azione, effetti speciali e il carisma del personaggio, mantenendo alto l'interesse per l'universo Marvel.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u1WtJvvqNbN2AwUW1xdQU08MerE.jpg"
+      "description": "Questo nuovo capitolo della popolare saga Disney, uscito a luglio 2024, continua ad attrarre la Gen Z più giovane con i suoi personaggi iconici, le canzoni accattivanti e le storie di magia e amicizia, mantenendo viva la discussione tra i fan del franchise.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jaYo0psDw6b1DMLH7pcXJwKpepv.jpg"
     },
     {
-      "title": "Descendants: Wicked Wonderland",
-      "type": "movie",
-      "platform": "Disney+",
-      "target": "Gen Z",
-      "rank": 7,
-      "description": "Il nuovo capitolo del franchise 'Descendants' è un appuntamento fisso per i più giovani della Gen Z, che amano le storie musicali fantasy con personaggi iconici e un'estetica colorata e accattivante.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tPbMu1LH4YzyvG2a9X5qYERHmIv.jpg"
-    },
-    {
-      "title": "The Hawk",
+      "title": "Five Nights at Freddy's",
       "type": "movie",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": 8,
-      "description": "Una commedia con Will Ferrell, che unisce sport e umorismo. La Gen Z apprezza le commedie leggere e divertenti, specialmente quelle con attori noti, per un intrattenimento spensierato.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/geOKiGqYzDsJEm1lEjgtBFaTerl.jpg"
+      "rank": 7,
+      "description": "L'adattamento cinematografico del celebre videogioco horror, arrivato su Netflix a luglio 2024, mantiene una forte popolarità tra la Gen Z grazie al suo status di cult, ai jump scare e alla lore complessa che continua a essere discussa e analizzata sui social media.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8DPTPGLR86L52LkDWEDR9sYOXdb.jpg"
     },
     {
-      "title": "Batman: Caped Crusader - Stagione 2",
+      "title": "Miller's Girl",
+      "type": "movie",
+      "platform": "Streaming",
+      "target": "Gen Z",
+      "rank": 8,
+      "description": "Con Jenna Ortega, icona della Gen Z, questo film (menzionato per luglio 2024) continua a essere rilevante per la sua protagonista. La sua presenza garantisce un'attenzione costante da parte del pubblico giovane, che segue le sue scelte artistiche e le discussioni che ne derivano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ieU0zUj7WhE0GrgpgofRH0sNjbI.jpg"
+    },
+    {
+      "title": "Exploding Kittens",
       "type": "tv",
-      "platform": "Amazon Prime Video",
+      "platform": "Netflix",
       "target": "Gen Z",
       "rank": 9,
-      "description": "Questa serie animata con atmosfere noir e retrò attrae la Gen Z appassionata di fumetti e di animazione più matura, offrendo una rivisitazione stilistica e narrativa del Cavaliere Oscuro.",
-      "posterUrl": ""
+      "description": "Questa serie animata basata sul popolare gioco di carte, uscita a luglio 2024, attrae la Gen Z con il suo umorismo surreale, lo stile visivo unico e la capacità di trasformare un fenomeno virale in un contenuto di intrattenimento leggero e divertente.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4WctqRtusYpTLHNkuVjQe4R51DZ.jpg"
     },
     {
-      "title": "Furious",
+      "title": "Cobra Kai",
       "type": "tv",
-      "platform": "Disney+",
+      "platform": "Netflix",
       "target": "Gen Z",
       "rank": 10,
-      "description": "Un nuovo thriller psicologico con Emmy Rossum, che può catturare l'attenzione della Gen Z per le sue trame avvincenti e la suspense, un genere sempre molto seguito.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
+      "description": "La serie, con la sua sesta stagione menzionata per luglio 2024, continua a essere un successo tra la Gen Z grazie al mix di arti marziali, dramma adolescenziale e nostalgia per un franchise iconico, che la rende un punto di riferimento per le discussioni online e le maratone.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg"
     },
     {
-      "title": "The Bear - Stagione 5 (finale)",
+      "title": "The Bear - Stagione 5",
       "type": "tv",
       "platform": "Disney+",
       "target": "Millennials",
       "rank": 1,
-      "description": "La stagione finale di questa serie cult è molto attesa dai Millennials, che ne apprezzano la narrazione intensa, i personaggi complessi e le tematiche legate al mondo del lavoro, all'ambizione e al caos della vita adulta.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Il Diavolo veste Prada 2",
-      "type": "movie",
-      "platform": "Disney+",
-      "target": "Millennials",
-      "rank": 2,
-      "description": "L'attesissimo sequel di un film cult genera un forte senso di nostalgia tra i Millennials, che hanno amato il primo capitolo e sono curiosi di rivedere i personaggi e le dinamiche del mondo della moda.",
-      "posterUrl": ""
-    },
-    {
-      "title": "L'Odissea di Christopher Nolan",
-      "type": "movie",
-      "platform": "Cinema",
-      "target": "Millennials",
-      "rank": 3,
-      "description": "Il nuovo kolossal di Christopher Nolan, con un cast stellare, è un evento cinematografico imperdibile per i Millennials, che apprezzano la regia visionaria, le trame complesse e l'esperienza immersiva offerta dai suoi film.",
-      "posterUrl": ""
-    },
-    {
-      "title": "La casa nella prateria",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Millennials",
-      "rank": 4,
-      "description": "Questo nuovo adattamento della celebre saga di romanzi evoca un forte senso di nostalgia nei Millennials che sono cresciuti con la serie originale, offrendo una rivisitazione moderna di un classico intramontabile.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xtnikkXaQYZvxCX38hLAjER0ftW.jpg"
-    },
-    {
-      "title": "Super Market",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "target": "Millennials",
-      "rank": 5,
-      "description": "La nuova comedy italiana del collettivo 'Il Terzo Segreto di Satira' attrae i Millennials per il suo umorismo locale, le situazioni lavorative riconoscibili e la capacità di raccontare la quotidianità italiana con ironia.",
+      "description": "La quinta e ultima stagione di questa acclamata serie, disponibile da luglio 2026, è un appuntamento imperdibile per i Millennials. Apprezzano la sua narrazione intensa, i personaggi complessi e l'esplorazione di temi come la pressione lavorativa e la salute mentale, rendendola molto discussa.",
       "posterUrl": ""
     },
     {
@@ -141,45 +105,81 @@
       "type": "tv",
       "platform": "Apple TV+",
       "target": "Millennials",
-      "rank": 6,
-      "description": "Questa serie distopica di fantascienza, acclamata dalla critica, è popolare tra i Millennials che cercano trame complesse, riflessioni sociali e produzioni di alta qualità.",
+      "rank": 2,
+      "description": "La terza stagione di questa serie distopica, uscita il 3 luglio 2026, continua a tenere incollati i Millennials con la sua trama avvincente, i misteri da risolvere e le profonde riflessioni sulla società e la sopravvivenza, stimolando dibattiti e teorie tra i fan.",
       "posterUrl": ""
     },
     {
-      "title": "Poker Face - Stagione 2",
-      "type": "tv",
-      "platform": "Sky",
+      "title": "The Hawk",
+      "type": "movie",
+      "platform": "Netflix",
       "target": "Millennials",
-      "rank": 7,
-      "description": "La serie 'howdunit' con Natasha Lyonne è apprezzata dai Millennials per la sua scrittura intelligente, le guest star di alto livello e il format che ribalta le convenzioni del giallo classico.",
-      "posterUrl": ""
+      "rank": 3,
+      "description": "Il nuovo film con Will Ferrell, uscito il 16 luglio 2026, attrae i Millennials con la sua commedia sportiva. Ferrell è un attore che ha segnato la loro giovinezza, e il suo ritorno in un ruolo da protagonista genera interesse e un senso di nostalgia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/geOKiGqYzDsJEm1lEjgtBFaTerl.jpg"
     },
     {
       "title": "House of the Dragon",
       "type": "tv",
       "platform": "Sky",
       "target": "Millennials",
-      "rank": 8,
-      "description": "Il prequel di 'Game of Thrones' continua a catturare l'attenzione dei Millennials, fan dell'epica fantasy, delle complesse dinamiche politiche e della presenza di draghi.",
+      "rank": 4,
+      "description": "Il prequel di Game of Thrones continua a essere un argomento caldo tra i Millennials, che sono stati grandi fan della serie originale. Le sue trame complesse, i draghi e le lotte di potere mantengono alta l'attenzione e le discussioni sui social media.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     },
     {
-      "title": "Priscilla",
+      "title": "Those About to Die",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "target": "Millennials",
+      "rank": 5,
+      "description": "Questa epica serie ambientata nell'antica Roma, prodotta da Roland Emmerich e uscita a luglio 2024, affascina i Millennials con le sue ricostruzioni storiche, le battaglie spettacolari e le trame politiche, offrendo un intrattenimento di grande respiro.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gvz0m4MJ8sAj6yMcQdwN07bNjRY.jpg"
+    },
+    {
+      "title": "Il ministero della guerra sporca",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "target": "Millennials",
+      "rank": 6,
+      "description": "Il film di Guy Ritchie, basato su una storia vera e uscito a luglio 2024, è apprezzato dai Millennials per la sua azione adrenalinica, lo stile distintivo del regista e la narrazione di eventi storici poco conosciuti, che stimolano l'interesse per il genere spionistico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/n9hYoffqaciZ8e68Y1FsbHuAisX.jpg"
+    },
+    {
+      "title": "La donna del lago",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "target": "Millennials",
+      "rank": 7,
+      "description": "La serie con Natalie Portman, basata su un bestseller e uscita a luglio 2024, attrae i Millennials con il suo thriller psicologico, la performance dell'attrice protagonista e la trama avvincente che esplora temi di mistero e giustizia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/plPE34ffTfEwBIp74IkX4gwwiLw.jpg"
+    },
+    {
+      "title": "Un piedipiatti a Beverly Hills: Axel F",
       "type": "movie",
       "platform": "Netflix",
       "target": "Millennials",
+      "rank": 8,
+      "description": "Il ritorno di Eddie Murphy nei panni di Axel Foley, uscito a luglio 2024, è un forte richiamo per i Millennials, che provano un senso di nostalgia per il franchise originale. Il film offre un mix di azione e commedia che risuona con il loro gusto.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rUCcqsvEJsCX0IgucHKBAlmgHgu.jpg"
+    },
+    {
+      "title": "Vikings: Valhalla - Stagione 3",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Millennials",
       "rank": 9,
-      "description": "Il film di Sofia Coppola, che esplora la vita di Priscilla Presley, attrae un pubblico Millennial più maturo e cinefilo, interessato a biografie, drammi psicologici e alla visione autoriale della regista.",
+      "description": "La terza stagione di questo spin-off di Vikings, uscita a luglio 2024, continua a essere popolare tra i Millennials che amano le saghe storiche, le battaglie epiche e le complesse dinamiche dei personaggi, mantenendo viva la passione per il genere.",
       "posterUrl": ""
     },
     {
-      "title": "Mission: Impossible - The Final Reckoning",
+      "title": "Svaniti nella notte",
       "type": "movie",
-      "platform": "Sky",
+      "platform": "Netflix",
       "target": "Millennials",
       "rank": 10,
-      "description": "L'ultimo capitolo di questa longeva e di successo saga d'azione con Tom Cruise è un richiamo per i Millennials che cercano adrenalina, acrobazie spettacolari e un intrattenimento di alto livello.",
-      "posterUrl": ""
+      "description": "Questo thriller italiano, uscito a luglio 2024, ha catturato l'attenzione dei Millennials con la sua trama di suspense e mistero legata a un rapimento. Le produzioni italiane di genere sono spesso molto seguite dal pubblico locale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zCOUsl6aszRo6uVx7Vsp6gd8s5r.jpg"
     }
   ]
 }
