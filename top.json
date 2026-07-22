@@ -1,12 +1,12 @@
 {
-  "date": "21/07/2026, 11:21:44",
+  "date": "22/07/2026, 11:20:53",
   "data": [
     {
       "title": "Project Hail Mary",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Un astronauta si sveglia con amnesia e deve salvare l'umanità.",
+      "description": "Un film popolare su Amazon Prime Video in Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xfwpfBtZ255ceVKEj2CK7mmYjF6.jpg"
     },
     {
@@ -14,7 +14,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 2,
-      "description": "Un film di guerra ambientato in un contesto primitivo.",
+      "description": "Film in tendenza su Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4vn9P6zWNsyXzAp54WzbAIFUj0r.jpg"
     },
     {
@@ -22,47 +22,47 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 3,
-      "description": "Un film basato su una popolare serie di romanzi erotici.",
+      "description": "Un film attualmente nella top 10 di Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/27kRatT0llh6dyi1t74zGE2wLC7.jpg"
-    },
-    {
-      "title": "Boulevard",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Un film drammatico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6QmYPv8KkK5sscksmAWFHTO3gkF.jpg"
     },
     {
       "title": "Dangerous Animals",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Un thriller che coinvolge animali pericolosi.",
+      "rank": 4,
+      "description": "Questo film è tra i più visti su Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ejaxaWjgaRXG9EgbgHgNcRpsnJq.jpg"
+    },
+    {
+      "title": "Boulevard",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 5,
+      "description": "Un film in tendenza su Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6QmYPv8KkK5sscksmAWFHTO3gkF.jpg"
+    },
+    {
+      "title": "Nobody",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 6,
+      "description": "Questo film d'azione è popolare su Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iECT5xNf72P7cx9LDMrEwhGYD5O.jpg"
     },
     {
       "title": "MR-9: Do or Die",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Un film d'azione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nSsDLBqr3Z5rxUdCjy4vlGKpQm5.jpg"
-    },
-    {
-      "title": "Un bel giorno",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
       "rank": 7,
-      "description": "Un film drammatico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yhUWRael6f2dprS0OCbFSMp53tE.jpg"
+      "description": "Un film attualmente nella top 10 di Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nSsDLBqr3Z5rxUdCjy4vlGKpQm5.jpg"
     },
     {
       "title": "Super Market",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 8,
-      "description": "Una serie TV.",
+      "description": "Una serie TV popolare su Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wTCJnl01DaXYBny4uQs39JR6JgJ.jpg"
     },
     {
@@ -70,7 +70,7 @@
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 9,
-      "description": "Una serie TV.",
+      "description": "Questa serie TV è in tendenza su Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
     },
     {
@@ -78,183 +78,183 @@
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Una serie TV.",
+      "description": "Una serie TV attualmente nella top 10 di Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg"
+    },
+    {
+      "title": "F1",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 1,
+      "description": "Probabilmente 'F1 The Movie', un titolo popolare su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
+    },
+    {
+      "title": "The Instigators",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 2,
+      "description": "Un film in tendenza su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6wXRANRmPRmwbgzpvMuRKasWQNo.jpg"
+    },
+    {
+      "title": "The Gorge",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 3,
+      "description": "Un film popolare su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+    },
+    {
+      "title": "Napoleon",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 4,
+      "description": "Il film drammatico storico è in tendenza su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg"
+    },
+    {
+      "title": "The Family Plan 2",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Il sequel di 'The Family Plan' è popolare su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aUPrVTBfu7NS1D0Z5L5OxWTrZS7.jpg"
+    },
+    {
+      "title": "Wolfs",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 6,
+      "description": "Un film in tendenza su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nPedyM69paBxP5I2QrajL5ziB7r.jpg"
+    },
+    {
+      "title": "Greyhound",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "Un film di guerra popolare su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iJBLPfZkYF5tphFeEULjOMCgwlR.jpg"
+    },
+    {
+      "title": "Eternity",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Un film attualmente nella top 10 di Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg"
+    },
+    {
+      "title": "The Family Plan",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Un film popolare su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9LAjGL88QH5tpcq9veT7gG3ildP.jpg"
     },
     {
       "title": "Silo",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 1,
-      "description": "Una serie di fantascienza ambientata in un futuro distopico in cui l'umanità vive sottoterra.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
-    },
-    {
-      "title": "Lucky",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 2,
-      "description": "Un film d'animazione su una ragazza che scopre il mondo segreto della fortuna.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kzRAd7mj39ZY3FGNrDdZjqx56tn.jpg"
-    },
-    {
-      "title": "Cape Fear",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Un film thriller.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nefYdfOyNBvUYyreIqMWG9dCrJo.jpg"
-    },
-    {
-      "title": "Sugar",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Una serie mistery.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
-    },
-    {
-      "title": "Widow's Bay",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Una serie mistery.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
-    },
-    {
-      "title": "Ted Lasso",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Una serie comica su un allenatore di football americano ingaggiato per gestire una squadra di calcio inglese.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
-    },
-    {
-      "title": "Maximum Pleasure Guaranteed",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Una serie thriller.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
-    },
-    {
-      "title": "For All Mankind",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Una serie drammatica che esplora una storia alternativa in cui la corsa allo spazio globale non è mai finita.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-    },
-    {
-      "title": "Your Friends & Neighbors",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Una serie drammatica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
-    },
-    {
-      "title": "Scissione",
-      "type": "tv",
-      "platform": "Apple TV+",
       "rank": 10,
-      "description": "Una serie thriller in cui i dipendenti subiscono una procedura per separare i loro ricordi lavorativi e personali.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jnwqpZpmwvEo0CFLjDwfnnAf4ow.jpg"
+      "description": "Una popolare serie di fantascienza su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
     },
     {
       "title": "I Will Find You: Limited Series",
       "type": "tv",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Una serie limitata che esplora l'incubo di un genitore.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Summer '36: Limited Series",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 2,
-      "description": "Una serie limitata ambientata nell'estate del 1936.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Rhythm + Flow Italy: Season 3",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "La terza stagione del talent show musicale italiano dedicato all'hip-hop.",
+      "description": "Una miniserie attualmente tra le più popolari su Netflix Italia.",
       "posterUrl": ""
     },
     {
       "title": "Little House on the Prairie: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 4,
-      "description": "La prima stagione della classica serie televisiva che debutta nella top 10.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Sullivan's Crossing: Season 4",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "La quarta stagione della serie drammatica familiare.",
+      "rank": 2,
+      "description": "La prima stagione della classica serie è tra le più viste.",
       "posterUrl": ""
     },
     {
       "title": "Oasis: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 6,
-      "description": "La prima stagione della serie 'Oasis'.",
+      "rank": 3,
+      "description": "La prima stagione di questa serie è tra i contenuti più guardati.",
       "posterUrl": ""
     },
     {
       "title": "Losing Judgment: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 7,
-      "description": "La prima stagione della serie 'Losing Judgment'.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Avatar: The Last Airbender: Season 2",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 8,
-      "description": "La seconda stagione dell'adattamento live-action della popolare serie animata.",
+      "rank": 4,
+      "description": "Questa serie è attualmente nella top delle serie TV.",
       "posterUrl": ""
     },
     {
       "title": "Agent Kim Reactivated: Limited Series",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 9,
-      "description": "Una serie limitata che segue l'agente Kim.",
+      "rank": 5,
+      "description": "Una miniserie popolare su Netflix.",
       "posterUrl": ""
     },
     {
-      "title": "Salish & Jordan Matter: Season 2",
-      "type": "tv",
+      "title": "Shipwrecked: Nightmare at Sea",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Un film attualmente in alta classifica su Netflix Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/z9z9e5HgOTPuFVIVhxnHnbk89U2.jpg"
+    },
+    {
+      "title": "Desire",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "Questo film è tra i più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5lJPvf7cJ2r2EiNrnvBVYpusKFM.jpg"
+    },
+    {
+      "title": "Nothing to Lose",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Un film popolare su Netflix Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lYQmXiKEooImScqysi2HbjjRrgC.jpg"
+    },
+    {
+      "title": "Journey 2: The Mysterious Island",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "Questo film d'avventura è in tendenza.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vmf8nhY5INYXTp1mhxEUsoyDGj6.jpg"
+    },
+    {
+      "title": "Enola Holmes 3",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 10,
-      "description": "La seconda stagione della serie con Salish e Jordan Matter.",
-      "posterUrl": ""
+      "description": "Il terzo capitolo della serie Enola Holmes è popolare.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
     },
     {
-      "title": "Dunkirk",
-      "type": "movie",
+      "title": "True Detective",
+      "type": "tv",
       "platform": "Sky",
       "rank": 1,
-      "description": "Un film di guerra storico sull'evacuazione dei soldati alleati durante la Seconda Guerra Mondiale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sInkpq76Q9L3JOEXEOVEQeJTjGl.jpg"
+      "description": "Una popolare serie drammatica crime disponibile su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dC7jkj2g1aU8sxKqM6D4g44xA6w.jpg"
     },
     {
       "title": "La guerra di Troia",
       "type": "movie",
       "platform": "Sky",
       "rank": 2,
-      "description": "Un film epico storico.",
+      "description": "Un film attualmente nella top 10 di NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9nKoLXl4JaRfTFUVC3pEz6UqKRQ.jpg"
     },
     {
@@ -262,7 +262,7 @@
       "type": "tv",
       "platform": "Sky",
       "rank": 3,
-      "description": "Una serie prequel di Game of Thrones.",
+      "description": "Una serie fantasy molto attesa e popolare su Sky e NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     },
     {
@@ -270,7 +270,7 @@
       "type": "movie",
       "platform": "Sky",
       "rank": 4,
-      "description": "Un film d'avventura di fantascienza sui dinosauri.",
+      "description": "Il classico film sui dinosauri è in tendenza su NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/y6JuwymU5jzxKx4oLTrlpFZg0vj.jpg"
     },
     {
@@ -278,48 +278,48 @@
       "type": "movie",
       "platform": "Sky",
       "rank": 5,
-      "description": "Un thriller misterioso su maghi rivali.",
+      "description": "Un film popolare disponibile su NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1GjRCeZoE251tWkYc3erwjpdBpU.jpg"
-    },
-    {
-      "title": "The Pitt",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 6,
-      "description": "Una serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
     },
     {
       "title": "Euphoria",
       "type": "tv",
       "platform": "Sky",
-      "rank": 7,
-      "description": "Una serie drammatica su un gruppo di studenti delle scuole superiori.",
+      "rank": 6,
+      "description": "Una serie drammatica attualmente tra le più viste su NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg"
-    },
-    {
-      "title": "Breaking Bad",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 8,
-      "description": "Una serie drammatica poliziesca su un professore di chimica diventato signore della droga.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg"
     },
     {
       "title": "Chicago Fire",
       "type": "tv",
       "platform": "Sky",
-      "rank": 9,
-      "description": "Una serie drammatica su vigili del fuoco e paramedici.",
+      "rank": 7,
+      "description": "Una popolare serie TV disponibile su NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/r915sk2JpthZSjHEgZKifWxgo6L.jpg"
     },
     {
       "title": "I peccatori",
       "type": "movie",
       "platform": "Sky",
-      "rank": 10,
-      "description": "Un film.",
+      "rank": 8,
+      "description": "Un film attualmente nella top 10 di NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
+    },
+    {
+      "title": "Outlander",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 9,
+      "description": "Una serie drammatica storica popolare su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg"
+    },
+    {
+      "title": "Dunkirk",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 10,
+      "description": "Un film di guerra attualmente nella top 10 di NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sInkpq76Q9L3JOEXEOVEQeJTjGl.jpg"
     }
   ]
 }
