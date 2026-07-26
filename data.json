@@ -1,13 +1,13 @@
 {
-  "date": "25/07/2026, 09:11:25",
+  "date": "26/07/2026, 09:32:43",
   "data": [
     {
       "title": "Enola Holmes 3",
-      "type": "movie",
+      "type": "film",
       "platform": "Netflix",
       "releaseDate": "2026-07-01",
       "displayDate": "1 Luglio 2026",
-      "description": "Il ritorno della giovane detective Enola Holmes.",
+      "description": "Il terzo capitolo della serie di film con Millie Bobby Brown sposta l'azione verso Malta, intrecciando le ambizioni personali della giovane investigatrice con il caso più complicato e insidioso affrontato finora.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
     },
     {
@@ -16,7 +16,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-07-01",
       "displayDate": "1 Luglio 2026",
-      "description": "Serie TV.",
+      "description": "Racconta la vita di Elle Woods al liceo, rivelando le esperienze che l'hanno trasformata nella celebre giovane donna de 'La rivincita delle bionde'.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg"
     },
     {
@@ -25,71 +25,125 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-07-01",
       "displayDate": "1 Luglio 2026",
-      "description": "Comedy made in Italy.",
+      "description": "Una comedy made in Italy.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wTCJnl01DaXYBny4uQs39JR6JgJ.jpg"
     },
     {
-      "title": "Due cuori in affitto",
+      "title": "X-Men '97 stagione 2",
       "type": "tv",
-      "platform": "Amazon Prime Video",
+      "platform": "Disney+",
       "releaseDate": "2026-07-01",
       "displayDate": "1 Luglio 2026",
-      "description": "Serie enemy-romance tratta dal romanzo di Felicia Kingsley.",
+      "description": "La serie prosegue seguendo l'eroica squadra degli X-Men, divisa e dispersa in varie epoche temporali, mentre cerca di trovare la via di casa.",
       "posterUrl": ""
     },
     {
-      "title": "Come distruggere l'ex",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
+      "title": "Bleach: Thousand-Year Blood War",
+      "type": "tv",
+      "platform": "Disney+",
       "releaseDate": "2026-07-01",
       "displayDate": "1 Luglio 2026",
-      "description": "Commedia romantica con Greta Scarano.",
+      "description": "Stagione inedita dell'anime.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/e0kKmeM8R7Kersh5N2PPzIRNRhr.jpg"
+    },
+    {
+      "title": "One Piece - arc Elbaff",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Nuovo arco narrativo dell'anime.",
       "posterUrl": ""
+    },
+    {
+      "title": "Il testamento di Ann Lee",
+      "type": "film",
+      "platform": "Disney+",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Diretto da Mona Fastvold, racconta la figura della leader degli Shakers interpretata da Amanda Seyfried.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kJwLIiIQP7Vp6shSGI7HBnv6Pxb.jpg"
+    },
+    {
+      "title": "I Fantastici 4: gli inizi",
+      "type": "film",
+      "platform": "Disney+",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Il nuovo capitolo del Marvel Cinematic Universe segue Reed Richards, Sue Storm, Johnny Storm e Ben Grimm in un'avventura spaziale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lnatQ2ZgpTJet7jqjGPRo2h9Xuw.jpg"
+    },
+    {
+      "title": "Il Diavolo veste Prada 2",
+      "type": "film",
+      "platform": "Disney+",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Sequel dell'iconico film dei primi anni 2000 con Anne Hathaway, Meryl Streep, Emily Blunt e Stanley Tucci.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xASsfTW9eBs0PT6d6YbvJ6e5jxH.jpg"
     },
     {
       "title": "Minions & Monsters",
-      "type": "movie",
+      "type": "film",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-07-01",
       "displayDate": "1 Luglio 2026",
-      "description": "Terzo film dei Minions.",
+      "description": "Un'avventura godibile che mantiene viva la natura surreale dei piccoli protagonisti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/glzOv4Vzr6ZHP0ToHqLakF5fkfk.jpg"
     },
     {
-      "title": "Il Santo e il Vampiro",
-      "type": "movie",
+      "title": "Shiver – Il giorno degli squali",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-07-01",
+      "displayDate": "1 Luglio 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Finché morte non ci separi 2",
+      "type": "film",
+      "platform": "Disney+",
+      "releaseDate": "2026-07-02",
+      "displayDate": "2 Luglio 2026",
+      "description": "Questo secondo capitolo riprende dalla fine del primo film, quando Grace, dopo essere sopravvissuta, si ritrova in ospedale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fro6xA6STLdHJRyoleRGIerwKC.jpg"
+    },
+    {
+      "title": "Love Letters",
+      "type": "film",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-07-02",
       "displayDate": "2 Luglio 2026",
-      "description": "Documentario che esplora visioni opposte dell'eterno.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/i8EAoUL1FOU3ytDk4NPaO5TMBMM.jpg"
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lDsWm55KptwEIa0eQXfDcdDCsUn.jpg"
     },
     {
-      "title": "Silo – Stagione 3",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-07-03",
-      "displayDate": "3 Luglio 2026",
-      "description": "Terza stagione della serie drammatica e thriller.",
-      "posterUrl": ""
+      "title": "Separazioni",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-07-02",
+      "displayDate": "2 Luglio 2026",
+      "description": "Film drammatico in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jpIjT6atZo6xWDcTzGxbR9NDT5s.jpg"
     },
     {
-      "title": "Trying – Stagione 5",
-      "type": "tv",
-      "platform": "Apple TV+",
+      "title": "Rosebush Pruning",
+      "type": "film",
+      "platform": "Cinema in Italia",
       "releaseDate": "2026-07-08",
       "displayDate": "8 Luglio 2026",
-      "description": "Quinta stagione della comedy.",
-      "posterUrl": ""
+      "description": "Film drammatico, thriller in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rEn0kHtZAjb44R2Jv0FUBLdFPsY.jpg"
     },
     {
-      "title": "The Walking Dead: Dead City",
-      "type": "tv",
-      "platform": "Sky (incl. NOW)",
+      "title": "La casa – Il rogo del male",
+      "type": "film",
+      "platform": "Cinema in Italia",
       "releaseDate": "2026-07-08",
       "displayDate": "8 Luglio 2026",
-      "description": "Spin-off della serie cult The Walking Dead con Maggie e Negan.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
+      "description": "Film horror in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kLxEGoygDHbOvxJIclXZbieoX45.jpg"
     },
     {
       "title": "La casa nella prateria",
@@ -97,98 +151,98 @@
       "platform": "Netflix",
       "releaseDate": "2026-07-09",
       "displayDate": "9 Luglio 2026",
-      "description": "Nuovo adattamento dei celebri libri di Laura Ingalls Wilder.",
+      "description": "Grande attesa per questo nuovo e ambizioso adattamento dei celeberrimi libri semi-autobiografici di Laura Ingalls Wilder.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xtnikkXaQYZvxCX38hLAjER0ftW.jpg"
     },
     {
-      "title": "Election Day",
-      "type": "movie",
+      "title": "L'Hangar Rosso",
+      "type": "film",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-07-09",
       "displayDate": "9 Luglio 2026",
-      "description": "Commedia con Angela Finocchiaro e Giorgio Tirabassi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lYndI3wlV6QD1HGuEVUihAUkBsi.jpg"
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/owA1QtBUMmJ5DBN4eLL4fmrUxRH.jpg"
     },
     {
-      "title": "Pericolosamente obesi",
+      "title": "R.J Decker",
       "type": "tv",
-      "platform": "Discovery+",
-      "releaseDate": "2026-07-09",
-      "displayDate": "9 Luglio 2026",
-      "description": "Serie che segue persone obese nel loro percorso di perdita di peso.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Famiglie criminali: Il massacro di Lecce",
-      "type": "tv",
-      "platform": "Discovery+",
-      "releaseDate": "2026-07-11",
-      "displayDate": "11 Luglio 2026",
-      "description": "Puntata speciale dedicata al massacro di Lecce.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Greenland II Migration",
-      "type": "movie",
-      "platform": "Sky (incl. NOW)",
-      "releaseDate": "2026-07-13",
-      "displayDate": "13 Luglio 2026",
-      "description": "Sequel del disaster movie con Gerard Butler.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Lucky",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-07-15",
-      "displayDate": "15 Luglio 2026",
-      "description": "Miniserie con Anya Taylor-Joy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5TO5TP3Q6sVDw2NQ5eZ9OZ56MjB.jpg"
+      "platform": "Disney+",
+      "releaseDate": "2026-07-14",
+      "displayDate": "14 Luglio 2026",
+      "description": "La storia segue un fotoreporter caduto in disgrazia ed ex detenuto che ricomincia da zero come investigatore privato nel mondo pieno di criminalità del Sud della Florida.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg"
     },
     {
       "title": "The Hawk",
-      "type": "movie",
+      "type": "film",
       "platform": "Netflix",
       "releaseDate": "2026-07-16",
       "displayDate": "16 Luglio 2026",
-      "description": "Film con Will Ferrell.",
+      "description": "Will Ferrell è il protagonista di questa nuova produzione.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/geOKiGqYzDsJEm1lEjgtBFaTerl.jpg"
     },
     {
-      "title": "Odissea",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-07-16",
-      "displayDate": "16 Luglio 2026",
-      "description": "Kolossal tratto dall'opera di Omero con un cast stellare.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg"
-    },
-    {
-      "title": "La modella assassina: La storia di Rosa Della Corte",
-      "type": "tv",
-      "platform": "Discovery+",
-      "releaseDate": "2026-07-18",
-      "displayDate": "18 Luglio 2026",
-      "description": "Inchiesta sul caso di Rosa Della Corte.",
+      "title": "Descendants: La Maledizione del Paese delle Meraviglie",
+      "type": "film",
+      "platform": "Disney+",
+      "releaseDate": "2026-07-17",
+      "displayDate": "17 Luglio 2026",
+      "description": "Film in arrivo sul catalogo Disney+.",
       "posterUrl": ""
     },
     {
-      "title": "Terapia di Famiglia",
-      "type": "movie",
+      "title": "A New Dawn",
+      "type": "film",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-07-23",
       "displayDate": "23 Luglio 2026",
-      "description": "Film.",
+      "description": "Film anime, animazione in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/a105UQIL5lblYEeYOtyrsCCjfjO.jpg"
+    },
+    {
+      "title": "Blue",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-07-23",
+      "displayDate": "23 Luglio 2026",
+      "description": "Film drammatico in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kmBiiP02Bl86dmfMsaem0jaWpWI.jpg"
+    },
+    {
+      "title": "Deep Water - Incubo dagli abissi",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-07-23",
+      "displayDate": "23 Luglio 2026",
+      "description": "Film thriller in uscita al cinema.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Terapia di famiglia",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-07-23",
+      "displayDate": "23 Luglio 2026",
+      "description": "Film commedia in uscita al cinema.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cJUjUI1hyIlCax8GRmxIiaHxRFq.jpg"
     },
     {
       "title": "Iuventa",
-      "type": "movie",
+      "type": "film",
       "platform": "Netflix",
       "releaseDate": "2026-07-27",
       "displayDate": "27 Luglio 2026",
-      "description": "Film.",
+      "description": "Film in uscita su Netflix Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/mZOm3RqQPnQ0NAHpDfqRiaQINRf.jpg"
+    },
+    {
+      "title": "Furious",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-07-27",
+      "displayDate": "27 Luglio 2026",
+      "description": "Una serie TV drammatica e thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
     },
     {
       "title": "Fúria",
@@ -196,7 +250,7 @@
       "platform": "Netflix",
       "releaseDate": "2026-07-29",
       "displayDate": "29 Luglio 2026",
-      "description": "Serie TV.",
+      "description": "Serie TV in uscita su Netflix Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pls9kRzY71KiUkBsloDXidLFVJF.jpg"
     },
     {
@@ -205,7 +259,7 @@
       "platform": "Netflix",
       "releaseDate": "2026-07-29",
       "displayDate": "29 Luglio 2026",
-      "description": "Serie TV.",
+      "description": "Serie TV in uscita su Netflix Italia.",
       "posterUrl": ""
     },
     {
@@ -214,16 +268,16 @@
       "platform": "Netflix",
       "releaseDate": "2026-07-29",
       "displayDate": "29 Luglio 2026",
-      "description": "Serie TV.",
+      "description": "Serie TV in uscita su Netflix Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2Fjgxlv2ishFAaYYZLa6jccswbq.jpg"
     },
     {
-      "title": "Spider-Man: Brand New Day",
-      "type": "movie",
+      "title": "Spider-Man - Brand New Day",
+      "type": "film",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-07-29",
       "displayDate": "29 Luglio 2026",
-      "description": "Nuovo capitolo delle avventure di Spider-Man con Tom Holland e Zendaya.",
+      "description": "Nuovo capitolo delle avventure di Spiderman con Tom Holland e Zendaya.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg"
     },
     {
@@ -232,34 +286,43 @@
       "platform": "Netflix",
       "releaseDate": "2026-07-30",
       "displayDate": "30 Luglio 2026",
-      "description": "Serie TV.",
+      "description": "Serie TV in uscita su Netflix Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9RR6jkc35HOJcZG3modHZwh3J3J.jpg"
     },
     {
       "title": "Wild Sing",
-      "type": "movie",
+      "type": "film",
       "platform": "Netflix",
       "releaseDate": "2026-07-30",
       "displayDate": "30 Luglio 2026",
-      "description": "Film.",
+      "description": "Film in uscita su Netflix Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/s4IUDzLZJb4CosgEXcmouY32Jfg.jpg"
     },
     {
+      "title": "Kim Novak's Vertigo",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-07-30",
+      "displayDate": "30 Luglio 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6QdEBZybmgpcYnzd8IgyXGxlbOO.jpg"
+    },
+    {
       "title": "Ladies in Black",
-      "type": "movie",
+      "type": "film",
       "platform": "Netflix",
       "releaseDate": "2026-07-31",
       "displayDate": "31 Luglio 2026",
-      "description": "Film.",
+      "description": "Film in uscita su Netflix Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/sIC0Y0dGLnxbdCksftZ38FZ2c61.jpg"
     },
     {
       "title": "Final Destination",
-      "type": "movie",
+      "type": "film",
       "platform": "Netflix",
       "releaseDate": "2026-08-01",
       "displayDate": "1 Agosto 2026",
-      "description": "Film horror.",
+      "description": "Film in arrivo su Netflix.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/b2miftxDl5yQA8gKcZ3pX8j5R1C.jpg"
     },
     {
@@ -268,169 +331,133 @@
       "platform": "Netflix",
       "releaseDate": "2026-08-01",
       "displayDate": "1 Agosto 2026",
-      "description": "Le prime cinque stagioni della serie poliziesca.",
+      "description": "Serie TV in arrivo su Netflix.",
       "posterUrl": ""
     },
     {
-      "title": "Immaculate",
-      "type": "movie",
-      "platform": "Netflix",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Un'infermiera americana scopre segreti orribili in un convento italiano.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fYUljPVdywCmOfodcZ8Ofswpx6I.jpg"
-    },
-    {
-      "title": "My Brilliant Career (Season 1)",
+      "title": "Tires season 3",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-08-01",
       "displayDate": "1 Agosto 2026",
-      "description": "Drama australiano d'epoca su una giovane donna che sogna di scrivere.",
+      "description": "La terza stagione della comedy di Shane Gillis.",
       "posterUrl": ""
     },
     {
-      "title": "Tires (Season 3)",
+      "title": "Ride or Die",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Serie adrenalinica e ricca di azione, ambientata in Europa, dove Debbie scopre che la sua migliore amica Judith è un'assassina.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lNCS8rxW7gU0c5LDe3iq7teWBEQ.jpg"
+    },
+    {
+      "title": "Camp Rock 3",
+      "type": "film",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Film in arrivo su Disney+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kc3L6SqOEVfGA4ERx7YDrp15X5H.jpg"
+    },
+    {
+      "title": "Ted Lasso - Stagione 4",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Ted torna a Richmond per affrontare la più grande sfida della sua vita: allenare una squadra di calcio femminile di seconda divisione.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Athletes To Watch: Winter Olympics 2026",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Programma sugli atleti da seguire per le Olimpiadi Invernali 2026.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Race Bikes with Ric McLaughlin",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Programma sulle corse in bicicletta.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pXVVlfMjaqaZxpu4Bt6VgHaUvPL.jpg"
+    },
+    {
+      "title": "Paris, La Vie Sportive",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Programma sulla vita sportiva a Parigi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bo1xVYYDaPYBsAU5nRD1Ud4yT0M.jpg"
+    },
+    {
+      "title": "Shaun White: la storia di un campione",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Documentario sulla storia del campione Shaun White.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Ricomincio da Taaac!",
+      "type": "film",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-02",
+      "displayDate": "2 Agosto 2026",
+      "description": "Film in uscita su Netflix Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/j2Kif5hjpnYjUS3rR8oR9aCVbJj.jpg"
+    },
+    {
+      "title": "GATE24: The Border",
       "type": "tv",
       "platform": "Netflix",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Terza stagione della comedy ambientata in un'officina.",
-      "posterUrl": ""
+      "releaseDate": "2026-08-02",
+      "displayDate": "2 Agosto 2026",
+      "description": "Serie TV in uscita su Netflix Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg"
     },
     {
-      "title": "LEGO Star Wars: Rebuild the Galaxy",
+      "title": "La famiglia del professore matto",
+      "type": "film",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-02",
+      "displayDate": "2 Agosto 2026",
+      "description": "Film in uscita su Netflix Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lMR7z5IUjC7oCVwdTvzpQae2zU4.jpg"
+    },
+    {
+      "title": "August 4th: an Olympic Odyssey",
       "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Serie TV animata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tkdDI7FvsH7eLDbpe0iYCiWMNY7.jpg"
-    },
-    {
-      "title": "Wizards Beyond Waverly Place (Season 3)",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Terza stagione della serie.",
+      "platform": "Discovery+",
+      "releaseDate": "2026-08-04",
+      "displayDate": "4 Agosto 2026",
+      "description": "Programma a tema olimpico.",
       "posterUrl": ""
-    },
-    {
-      "title": "X-Men '97 (Season 2)",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Seconda stagione della serie animata.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Disney Princess: The Ultimate Concert Celebration",
-      "type": "movie",
-      "platform": "Disney+",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Concerto celebrativo delle Principesse Disney.",
-      "posterUrl": ""
-    },
-    {
-      "title": "LION",
-      "type": "movie",
-      "platform": "Disney+",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1KiMOx6msn45G0J5h6UWUpPrvBo.jpg"
-    },
-    {
-      "title": "Il Diavolo Veste Prada 2",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Sequel del famoso film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xASsfTW9eBs0PT6d6YbvJ6e5jxH.jpg"
-    },
-    {
-      "title": "Michael",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xUjMqG7GH6md8qX5e3MyLAzAYSZ.jpg"
-    },
-    {
-      "title": "Mortal Kombat II",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Sequel del film d'azione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vKKOUvWkofWt8x62I7utwj7ouLB.jpg"
-    },
-    {
-      "title": "Pecore sotto copertura",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hWELMex5ZbcdULp4M8CECiWBBkO.jpg"
-    },
-    {
-      "title": "Billie Eilish: Hit Me Hard and Soft - The Tour (3D)",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-08-01",
-      "displayDate": "1 Agosto 2026",
-      "description": "Concerto in 3D di Billie Eilish.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zfFvltKHntGBupFuubx3r61v48e.jpg"
     },
     {
       "title": "Let's Marry Harry",
-      "type": "movie",
+      "type": "film",
       "platform": "Netflix",
       "releaseDate": "2026-08-05",
       "displayDate": "5 Agosto 2026",
-      "description": "Film.",
-      "posterUrl": ""
-    },
-    {
-      "title": "VisionQuest",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-08-05",
-      "displayDate": "5 Agosto 2026",
-      "description": "Serie TV drammatica e thriller.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6j60tGRAjBmWRPTOEwhW6oRbPMP.jpg"
-    },
-    {
-      "title": "Star Wars: Visions Presenta – The Ninth Jedi",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-08-05",
-      "displayDate": "5 Agosto 2026",
-      "description": "Serie TV animata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5acgh6v45GqpEnnQaDccW1mP26V.jpg"
-    },
-    {
-      "title": "Ted Lasso – Stagione 4",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-08-05",
-      "displayDate": "5 Agosto 2026",
-      "description": "Quarta stagione della pluripremiata serie comedy.",
+      "description": "Film in arrivo su Netflix.",
       "posterUrl": ""
     },
     {
       "title": "Hokum",
-      "type": "movie",
+      "type": "film",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-08-05",
       "displayDate": "5 Agosto 2026",
-      "description": "Thriller con Adam Scott ambientato in un hotel infestato.",
+      "description": "Film horror di Damian McCarthy.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg"
     },
     {
@@ -439,16 +466,61 @@
       "platform": "Netflix",
       "releaseDate": "2026-08-06",
       "displayDate": "6 Agosto 2026",
-      "description": "Terza stagione della serie.",
+      "description": "La terza stagione della serie.",
       "posterUrl": ""
     },
     {
+      "title": "My Life with the Walter Boys season 3",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-06",
+      "displayDate": "6 Agosto 2026",
+      "description": "La terza stagione dell'amata serie teen drama.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Predator: Badlands",
+      "type": "film",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-06",
+      "displayDate": "6 Agosto 2026",
+      "description": "Film in arrivo su Disney+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zn14Felr0VlFg6A86IUx4PDt2E7.jpg"
+    },
+    {
+      "title": "FX The Shards",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-06",
+      "displayDate": "6 Agosto 2026",
+      "description": "Serie TV in arrivo su Disney+.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Greta e le favole vere",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-08-06",
+      "displayDate": "6 Agosto 2026",
+      "description": "Film commedia in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cbviggp1WTZeijGuFKOoF6XYpsg.jpg"
+    },
+    {
+      "title": "Borgo",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-08-06",
+      "displayDate": "6 Agosto 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/48xwJpo5tecapOAEq0Gio1LQ3Q1.jpg"
+    },
+    {
       "title": "The Last House",
-      "type": "movie",
+      "type": "film",
       "platform": "Netflix",
       "releaseDate": "2026-08-07",
       "displayDate": "7 Agosto 2026",
-      "description": "Film.",
+      "description": "Film in arrivo su Netflix.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tz3Afb8yxSrYmbfHGGRsJ6HvwRO.jpg"
     },
     {
@@ -466,35 +538,35 @@
       "platform": "Netflix",
       "releaseDate": "2026-08-11",
       "displayDate": "11 Agosto 2026",
-      "description": "Documentario sul famoso allenatore di calcio.",
+      "description": "Documentario su Mourinho.",
       "posterUrl": ""
     },
     {
-      "title": "Las Azules – Stagione 2",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-08-12",
-      "displayDate": "12 Agosto 2026",
-      "description": "Seconda stagione della serie storica e drammatica.",
-      "posterUrl": ""
+      "title": "Nimrods",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-08-11",
+      "displayDate": "11 Agosto 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l79yUWutmY0Nr8MfEwfurxcnmTY.jpg"
     },
     {
-      "title": "Robin Hood. Il prezzo del sangue",
-      "type": "movie",
+      "title": "La fine di Oak Street",
+      "type": "film",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-08-12",
       "displayDate": "12 Agosto 2026",
-      "description": "Una versione cupa e senile di Robin Hood con Hugh Jackman.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg"
+      "description": "Film d'azione, avventura, horror, giallo, fantascienza, thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg"
     },
     {
-      "title": "Camp Rock 3",
-      "type": "movie",
-      "platform": "Disney+",
-      "releaseDate": "2026-08-14",
-      "displayDate": "14 Agosto 2026",
-      "description": "Film con i Jonas Brothers.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kc3L6SqOEVfGA4ERx7YDrp15X5H.jpg"
+      "title": "Robin Hood - Il prezzo del sangue",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-08-13",
+      "displayDate": "13 Agosto 2026",
+      "description": "Film con Hugh Jackman che fornisce una versione insolitamente cupa e senile di Robin Hood.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg"
     },
     {
       "title": "NOVE RACCONTA",
@@ -502,7 +574,7 @@
       "platform": "Discovery+",
       "releaseDate": "2026-08-15",
       "displayDate": "15 Agosto 2026",
-      "description": "Casi di cronaca nera italiana.",
+      "description": "Tornano i casi di cronaca nera che hanno sconvolto l'opinione pubblica italiana negli ultimi anni.",
       "posterUrl": ""
     },
     {
@@ -511,8 +583,35 @@
       "platform": "Netflix",
       "releaseDate": "2026-08-19",
       "displayDate": "19 Agosto 2026",
-      "description": "Documentario.",
+      "description": "Documentario in arrivo su Netflix.",
       "posterUrl": ""
+    },
+    {
+      "title": "Oceania",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-08-19",
+      "displayDate": "19 Agosto 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg"
+    },
+    {
+      "title": "Camp Miasma - Adolescenza, sesso e morte",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-08-19",
+      "displayDate": "19 Agosto 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oSbPv3AbfXKEoboItK2DeDK397S.jpg"
+    },
+    {
+      "title": "Insidious - Fuori dall'altrove",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-08-19",
+      "displayDate": "19 Agosto 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg"
     },
     {
       "title": "NOVE COMEDY CLUB",
@@ -520,7 +619,7 @@
       "platform": "Discovery+",
       "releaseDate": "2026-08-19",
       "displayDate": "19 Agosto 2026",
-      "description": "Sei serate all'insegna della comicità italiana.",
+      "description": "Sei grandi prime serate all'insegna della leggerezza, comicità e risate.",
       "posterUrl": ""
     },
     {
@@ -529,80 +628,215 @@
       "platform": "Netflix",
       "releaseDate": "2026-08-20",
       "displayDate": "20 Agosto 2026",
-      "description": "Quinta e ultima stagione della serie.",
+      "description": "La quinta e ultima stagione della serie.",
       "posterUrl": ""
     },
     {
-      "title": "Facing El Chapo",
-      "type": "movie",
-      "platform": "Netflix",
-      "releaseDate": "2026-08-21",
-      "displayDate": "21 Agosto 2026",
-      "description": "Film messicano.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pNxOjmWb5hyVwXrw54RRPj2p7yW.jpg"
-    },
-    {
-      "title": "Flex X Cop (Season 2 — New Episode)",
+      "title": "Djokovic",
       "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-08-21",
-      "displayDate": "21 Agosto 2026",
-      "description": "Nuovo episodio della seconda stagione.",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-20",
+      "displayDate": "20 Agosto 2026",
+      "description": "Documentario su Novak Djokovic.",
       "posterUrl": ""
     },
     {
-      "title": "LEGO Disney Princess: Magical Mayhem",
-      "type": "movie",
-      "platform": "Disney+",
-      "releaseDate": "2026-08-21",
-      "displayDate": "21 Agosto 2026",
-      "description": "Film animato LEGO.",
+      "title": "Maldoror",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-08-20",
+      "displayDate": "20 Agosto 2026",
+      "description": "Film in uscita al cinema.",
       "posterUrl": ""
     },
     {
-      "title": "The Dynasty: UConn Huskies",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-08-21",
-      "displayDate": "21 Agosto 2026",
-      "description": "Documentario sportivo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5lZ0NLV93fIx8yIWT38h8rt5u2I.jpg"
-    },
-    {
-      "title": "BORDER CONTROL TURCHIA",
+      "title": "BORDER CONTROL TURCHIA / PRIMA TV",
       "type": "tv",
       "platform": "Discovery+",
       "releaseDate": "2026-08-21",
       "displayDate": "21 Agosto 2026",
-      "description": "Segue il lavoro degli agenti alla dogana turca.",
+      "description": "Seguiamo il lavoro degli agenti che lavorano alla dogana turca, impegnati a proteggere i confini del Paese.",
       "posterUrl": ""
     },
     {
-      "title": "L'uomo dei sussurri",
-      "type": "movie",
+      "title": "Zootopia 2",
+      "type": "film",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-27",
+      "displayDate": "27 Agosto 2026",
+      "description": "Film in arrivo su Disney+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lVesXbaSnCh0e27punAv4ZKWkxk.jpg"
+    },
+    {
+      "title": "The Whisper Man",
+      "type": "film",
       "platform": "Netflix",
       "releaseDate": "2026-08-28",
       "displayDate": "28 Agosto 2026",
-      "description": "Film.",
+      "description": "Thriller con Robert De Niro, Michelle Monaghan e Adam Scott, basato sul libro di Alex North.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg"
     },
     {
-      "title": "Enfrentandos (Drawn Together)",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
+      "title": "All the Truth in My Lies",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-28",
+      "displayDate": "28 Agosto 2026",
+      "description": "Miniserie drammatica romantica spagnola adattata dall'opera di Elísabet Benavent.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2RxRHm05SdtM7vu2Be4FkkkLow3.jpg"
+    },
+    {
+      "title": "Per silenzio e vento",
+      "type": "film",
+      "platform": "Cinema in Italia",
       "releaseDate": "2026-09-01",
       "displayDate": "1 Settembre 2026",
-      "description": "Film definito un 'Guardia del Corpo 2.0'.",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pxrKTvQYOvJkQ3RgWyM2KfturiN.jpg"
+    },
+    {
+      "title": "Coyote vs. Acme",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-01",
+      "displayDate": "1 Settembre 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/w2RWkYBajevWGG9lUmTDGlDphI2.jpg"
+    },
+    {
+      "title": "Katy Perry: The Lifetimes Tour - Live from Paris",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-01",
+      "displayDate": "1 Settembre 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hMhQBN3fyGtR3zlO8GntrpYzrKp.jpg"
+    },
+    {
+      "title": "Silent Friend",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-01",
+      "displayDate": "1 Settembre 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bUUd6D7E0DuzxwSo4qnu136LW5v.jpg"
+    },
+    {
+      "title": "Come rapinare una banca",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-01",
+      "displayDate": "1 Settembre 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/c0wJ0zBp0pgacpdn3foT9MlFZpW.jpg"
+    },
+    {
+      "title": "Fammi il piacere",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-01",
+      "displayDate": "1 Settembre 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bkmsl7MsV0NwFrAKxDEUmy1Ls3c.jpg"
+    },
+    {
+      "title": "Amori & incantesimi 2",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-01",
+      "displayDate": "1 Settembre 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uA8ytJv17alSiREcUthbYAdiPCX.jpg"
+    },
+    {
+      "title": "Mutiny",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-01",
+      "displayDate": "1 Settembre 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg"
+    },
+    {
+      "title": "Resident Evil",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-01",
+      "displayDate": "1 Settembre 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zP83bIkBViw5b1s9bDemYJ3AAgX.jpg"
+    },
+    {
+      "title": "Santiago - Un cammino per ricominciare",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-01",
+      "displayDate": "1 Settembre 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sKkVmciht8qqC0wmAfUdVCTaeMz.jpg"
+    },
+    {
+      "title": "Spezie e Bugie - La piccola cucina di Mehdi",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-01",
+      "displayDate": "1 Settembre 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mOZyiorBFLBiHopLsyLpFmgiGzx.jpg"
+    },
+    {
+      "title": "Il Malloppo",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-01",
+      "displayDate": "1 Settembre 2026",
+      "description": "Film in uscita al cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tTpHYA1XCg4ZzN2pn6n58XDiuxV.jpg"
+    },
+    {
+      "title": "All of You",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-09-04",
+      "displayDate": "4 Settembre 2026",
+      "description": "Serie TV in arrivo su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lYnjrJVGsP50iGi9gdQXaJ3CPQE.jpg"
+    },
+    {
+      "title": "Mayday",
+      "type": "film",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-09-04",
+      "displayDate": "4 Settembre 2026",
+      "description": "Commedia d'azione con Ryan Reynolds e Kenneth Branagh, su un brillante pilota della Marina Militare americana in missione top secret.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wEer9vVL8PWMX59flsAwfdnXZPN.jpg"
+    },
+    {
+      "title": "Last Seen",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-09-09",
+      "displayDate": "9 Settembre 2026",
+      "description": "Serie TV thriller, drammatica.",
       "posterUrl": ""
     },
     {
-      "title": "Roast in Peace – Stagione 2",
+      "title": "Slow Horses",
       "type": "tv",
-      "platform": "Amazon Prime Video",
-      "releaseDate": "2026-09-18",
-      "displayDate": "18 Settembre 2026",
-      "description": "Comedy show con Michela Giraud.",
-      "posterUrl": ""
+      "platform": "Apple TV+",
+      "releaseDate": "2026-09-16",
+      "displayDate": "16 Settembre 2026",
+      "description": "Serie TV in arrivo su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
+    },
+    {
+      "title": "The Invite - Il piacere è tutto nostro",
+      "type": "film",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-09-16",
+      "displayDate": "16 Settembre 2026",
+      "description": "Una graffiante commedia sexy, tra Perfetti sconosciuti e Woody Allen, diretta e interpretata dalla pluripremiata Olivia Wilde.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/p9kaEC6mE6oNFhZjkbA1ALuvv2q.jpg"
     }
   ]
 }
