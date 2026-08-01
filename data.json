@@ -1,293 +1,212 @@
 {
-  "date": "31/07/2026, 09:47:20",
+  "date": "01/08/2026, 09:25:34",
   "data": [
     {
-      "title": "Enola Holmes 3",
-      "type": "movie",
-      "platform": "Netflix",
-      "releaseDate": "2026-07-01",
-      "displayDate": "1 Luglio 2026",
-      "description": "Il terzo capitolo della serie di film con Millie Bobby Brown sposta l'azione verso Malta, intrecciando le ambizioni personali della giovane investigatrice con il caso più complicato e insidioso affrontato finora.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zRAFS10kZ0o8IyOLe2HVMsUgEXO.jpg"
-    },
-    {
-      "title": "Elle",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "releaseDate": "2026-07-01",
-      "displayDate": "1 Luglio 2026",
-      "description": "Una nuova serie televisiva con una trama avvincente.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5WkuTTsRp6u8hOqlANT2NC2cOKG.jpg"
-    },
-    {
-      "title": "Abandonados",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-07-01",
-      "displayDate": "1 Luglio 2026",
-      "description": "Una nuova docuserie che esplora storie di abbandono.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u5it96IIWGZjOFDUGbheeFmLAR9.jpg"
-    },
-    {
-      "title": "X-Men '97 – Stagione 2",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-07-01",
-      "displayDate": "1 Luglio 2026",
-      "description": "La seconda stagione della serie animata Marvel, che riprende da dove si era interrotta.",
-      "posterUrl": ""
-    },
-    {
-      "title": "R.J. Decker",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-07-01",
-      "displayDate": "1 Luglio 2026",
-      "description": "Una nuova serie televisiva con una trama intrigante.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg"
-    },
-    {
-      "title": "Shark Night",
-      "type": "tv",
-      "platform": "Discovery+",
-      "releaseDate": "2026-07-01",
-      "displayDate": "1 Luglio 2026",
-      "description": "Nuovi documentari in prima assoluta che esplorano il mondo degli squali.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Silo – Stagione 3",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-07-03",
-      "displayDate": "3 Luglio 2026",
-      "description": "La terza stagione della serie distopica che esplora i segreti di una comunità sotterranea.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Paddington in Perù",
-      "type": "movie",
-      "platform": "Disney+",
-      "releaseDate": "2026-07-05",
-      "displayDate": "5 Luglio 2026",
-      "description": "Il nuovo film che vede protagonista l'amato orsetto Paddington.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9EV96yXDWFXaPRZbaS4jkILfOL8.jpg"
-    },
-    {
-      "title": "Trying – Stagione 5",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-07-08",
-      "displayDate": "8 Luglio 2026",
-      "description": "La quinta stagione della commedia che segue Nikki e Jason nelle loro sfide familiari.",
-      "posterUrl": ""
-    },
-    {
-      "title": "La casa nella prateria",
+      "title": "WWE SummerSlam",
       "type": "tv",
       "platform": "Netflix",
-      "releaseDate": "2026-07-09",
-      "displayDate": "9 Luglio 2026",
-      "description": "Un nuovo e ambizioso adattamento dei celeberrimi libri semi-autobiografici di Laura Ingalls Wilder, un toccante dramma familiare e un epico racconto di sopravvivenza nell'Ovest americano.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xtnikkXaQYZvxCX38hLAjER0ftW.jpg"
-    },
-    {
-      "title": "TRON: Ares",
-      "type": "movie",
-      "platform": "Disney+",
-      "releaseDate": "2026-07-09",
-      "displayDate": "9 Luglio 2026",
-      "description": "Il nuovo capitolo cinematografico dell'universo di TRON.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tb0eHTbOEKviO4EhZzuknUoTjOe.jpg"
-    },
-    {
-      "title": "Pericolosamente Obesi",
-      "type": "tv",
-      "platform": "Discovery+",
-      "releaseDate": "2026-07-09",
-      "displayDate": "9 Luglio 2026",
-      "description": "Nuovi episodi del programma che segue persone in un percorso di perdita di peso.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Famiglie Criminali: Il Massacro di Lecce",
-      "type": "tv",
-      "platform": "Discovery+",
-      "releaseDate": "2026-07-11",
-      "displayDate": "11 Luglio 2026",
-      "description": "Una puntata speciale che ripercorre le indagini sul massacro di Lecce.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Lucky",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-07-15",
-      "displayDate": "15 Luglio 2026",
-      "description": "Una miniserie thriller con Anya Taylor-Joy, che segue una truffatrice in fuga.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5TO5TP3Q6sVDw2NQ5eZ9OZ56MjB.jpg"
-    },
-    {
-      "title": "La Guerra Civile Spagnola",
-      "type": "tv",
-      "platform": "Discovery+",
-      "releaseDate": "2026-07-16",
-      "displayDate": "16 Luglio 2026",
-      "description": "Un programma che approfondisce gli eventi della Guerra Civile Spagnola.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Descendants: Wicked Wonderland",
-      "type": "movie",
-      "platform": "Disney+",
-      "releaseDate": "2026-07-17",
-      "displayDate": "17 Luglio 2026",
-      "description": "Un nuovo film per ragazzi ambientato nel mondo dei Descendants.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rzZI2kDOItoYgxgznFgysh2lxss.jpg"
-    },
-    {
-      "title": "La Modella Assassina: La Storia di Rosa Della Corte",
-      "type": "tv",
-      "platform": "Discovery+",
-      "releaseDate": "2026-07-18",
-      "displayDate": "18 Luglio 2026",
-      "description": "Un'inchiesta che ricostruisce il caso di Rosa Della Corte.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Evil Lives Here: My Child",
-      "type": "tv",
-      "platform": "Discovery+",
-      "releaseDate": "2026-07-23",
-      "displayDate": "23 Luglio 2026",
-      "description": "Nuovi episodi della serie che racconta storie di genitori che scoprono la vera natura criminale dei propri figli.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yRVjMeuY7E5lTtUPU9P7TNKA6mp.jpg"
-    },
-    {
-      "title": "The Dink – Mago del pickleball",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-07-24",
-      "displayDate": "24 Luglio 2026",
-      "description": "Una nuova serie che segue un ex prodigio del tennis che si ritrova ad allenare bambini e a confrontarsi con il pickleball.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Meccanici allo sbando - Stagione 1",
-      "type": "tv",
-      "platform": "Discovery+",
-      "releaseDate": "2026-07-24",
-      "displayDate": "24 Luglio 2026",
-      "description": "La prima stagione di una serie che segue le disavventure di meccanici.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Benim Adim Melek - Stagione 1",
-      "type": "tv",
-      "platform": "Discovery+",
-      "releaseDate": "2026-07-26",
-      "displayDate": "26 Luglio 2026",
-      "description": "La prima stagione di una nuova serie.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Furious",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-07-27",
-      "displayDate": "27 Luglio 2026",
-      "description": "Una nuova serie drama originale Hulu, con i primi episodi disponibili a fine luglio.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg"
-    },
-    {
-      "title": "Comandante",
-      "type": "movie",
-      "platform": "Netflix",
-      "releaseDate": "2026-07-28",
-      "displayDate": "28 Luglio 2026",
-      "description": "Un film italiano che narra la storia del comandante Salvatore Todaro durante la Seconda Guerra Mondiale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gx7I64c46380zpRX66EsdL7Ga9x.jpg"
-    },
-    {
-      "title": "The Walking Dead: Dead City – Stagione 3",
-      "type": "tv",
-      "platform": "Sky (incl. NOW)",
-      "releaseDate": "2026-07-28",
-      "displayDate": "28 Luglio 2026",
-      "description": "La terza stagione dello spin-off di The Walking Dead, con Maggie e Negan a Manhattan.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Winx Club – the Magic Is Back",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-07-29",
-      "displayDate": "29 Luglio 2026",
-      "description": "Un nuovo capitolo o una nuova stagione della popolare serie animata italiana.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/A9jCF5PripUrAu0CY7SEVfJInHm.jpg"
-    },
-    {
-      "title": "Disclaimer - La vita perfetta",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-07-29",
-      "displayDate": "29 Luglio 2026",
-      "description": "Una serie TV drammatica e thriller con Cate Blanchett.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oE57gL4kYYNo1znonyuN5dxQqjz.jpg"
-    },
-    {
-      "title": "Spider-Man: Brand New Day",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-07-29",
-      "displayDate": "29 Luglio 2026",
-      "description": "Un nuovo film d'azione e avventura dell'universo di Spider-Man.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg"
-    },
-    {
-      "title": "Odissea",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-07-30",
-      "displayDate": "30 Luglio 2026",
-      "description": "Un nuovo film epico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qQhInj9fw3S2bMbiEujVldthgKe.jpg"
-    },
-    {
-      "title": "Ladies in Black",
-      "type": "movie",
-      "platform": "Netflix",
-      "releaseDate": "2026-07-31",
-      "displayDate": "31 Luglio 2026",
-      "description": "Un film che segue le vicende di un gruppo di donne in un grande magazzino di lusso.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sIC0Y0dGLnxbdCksftZ38FZ2c61.jpg"
-    },
-    {
-      "title": "Sei a casa Snoopy",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-07-31",
-      "displayDate": "31 Luglio 2026",
-      "description": "Nuovi episodi o una nuova stagione della serie animata di Snoopy.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Squatters: Come ti libero casa (Stagione 1)",
-      "type": "tv",
-      "platform": "Sky (incl. NOW)",
-      "releaseDate": "2026-07-31",
-      "displayDate": "31 Luglio 2026",
-      "description": "Una docuserie che esplora il fenomeno degli squatters.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Il Diavolo Veste Prada 2",
-      "type": "movie",
-      "platform": "Cinema in Italia",
       "releaseDate": "2026-08-01",
       "displayDate": "1 Agosto 2026",
-      "description": "Il sequel della celebre commedia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xASsfTW9eBs0PT6d6YbvJ6e5jxH.jpg"
+      "description": "Evento live di wrestling.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Final Destination 1-5",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "La saga horror completa.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Troppo azzurro",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mhB76sSnFXWAVQ2uiBxZrC4ei7J.jpg"
+    },
+    {
+      "title": "Chicago P.D. S1-5",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Le prime cinque stagioni della serie poliziesca.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Novak Djokovic: Il Lupo in Inverno",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Docufilm con video d'archivio e interviste per ripercorrere i momenti salienti della carriera di Djokovic.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Last Sunrise - L'estate delle prime volte",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Dramma romantico, storia di una ragazza alle prese con una malattia e il primo amore estivo.",
+      "posterUrl": ""
+    },
+    {
+      "title": "La bocca del diavolo",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Cinque amici intraprendono un viaggio avventuroso tra le grotte della Thailandia, ma l'esperienza si trasforma presto in un incubo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cr2B7TDlwajwUjRDreX4Yz6vhZ7.jpg"
+    },
+    {
+      "title": "Play Dirty - Triplo gioco",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Thriller mozzafiato sulle vicende di un ladro pronto a mettere a segno il colpo più grande della sua vita.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/604rBO6uIYBRbDruXq5o7W57nzl.jpg"
+    },
+    {
+      "title": "Non è un paese per Single",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Romantica commedia tratta dal romanzo di Felicia Kingsley, ambientata nel Chianti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3BsaBkOalMIRMwNE6OxFUGqrnEB.jpg"
+    },
+    {
+      "title": "Love Me Love Me",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Film Prime Original italiano girato in inglese con cast internazionale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg"
+    },
+    {
+      "title": "Lollapalooza Livestream Day 3",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Livestream del festival musicale di Chicago.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Big Dreams: Little League World Series 2024",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Documentario sportivo.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Book of Manning",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Documentario sportivo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6rhOKFbgtbZcoOX7bcctihrzKKI.jpg"
+    },
+    {
+      "title": "Eight on Eight",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Documentario sportivo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dz3y2eNNg3KF1jsloPTbWUFW5c4.jpg"
+    },
+    {
+      "title": "E60: The Many Lives of Lane Kiffin",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Documentario sportivo.",
+      "posterUrl": ""
+    },
+    {
+      "title": "30 for 30 - Jordan Rides the Bus",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Documentario sportivo della serie '30 for 30'.",
+      "posterUrl": ""
+    },
+    {
+      "title": "30 for 30 - Little Big Men",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Documentario sportivo della serie '30 for 30'.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Theme Song Takeover Season 6",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Nuovi episodi della sesta stagione.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Locker Diaries: Descendants: Shorts",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Nuovi episodi della serie di cortometraggi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2gqUrmVrgmmbghymywdpzPFw2as.jpg"
+    },
+    {
+      "title": "Time and Water",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Documentario di National Geographic.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1hksIYHtsHCG70nZKbnrYBPk600.jpg"
+    },
+    {
+      "title": "Banana Ball – Tailgaters vs. Party Animals",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Evento sportivo.",
+      "posterUrl": ""
+    },
+    {
+      "title": "I delitti del Barlume",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Serie italiana di genere giallo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bF6kBL1AMldPVhihMOelAbHeU2V.jpg"
+    },
+    {
+      "title": "Glasgow 2026 Commonwealth Games",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-08-01",
+      "displayDate": "1 Agosto 2026",
+      "description": "Evento sportivo internazionale.",
+      "posterUrl": ""
     },
     {
       "title": "Ricomincio da Taaac!",
@@ -295,8 +214,44 @@
       "platform": "Netflix",
       "releaseDate": "2026-08-02",
       "displayDate": "2 Agosto 2026",
-      "description": "Una commedia italiana che promette risate e situazioni esilaranti.",
+      "description": "Film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/j2Kif5hjpnYjUS3rR8oR9aCVbJj.jpg"
+    },
+    {
+      "title": "GATE24: The Border",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-02",
+      "displayDate": "2 Agosto 2026",
+      "description": "Serie Tv.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg"
+    },
+    {
+      "title": "La famiglia del professore matto",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-02",
+      "displayDate": "2 Agosto 2026",
+      "description": "Film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lMR7z5IUjC7oCVwdTvzpQae2zU4.jpg"
+    },
+    {
+      "title": "WNBA – Connecticut Sun vs. Dallas Wings",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-02",
+      "displayDate": "2 Agosto 2026",
+      "description": "Partita di basket femminile WNBA.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Temporale a Sesame Street",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-03",
+      "displayDate": "3 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": ""
     },
     {
       "title": "Desiderio proibito",
@@ -304,8 +259,17 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-08-03",
       "displayDate": "3 Agosto 2026",
-      "description": "Un nuovo film in arrivo sulla piattaforma.",
+      "description": "Breve sinossi non disponibile.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/3ljt0dXKldNlxEP5kARfwbQ2NnK.jpg"
+    },
+    {
+      "title": "2026 LoL KeSPA Cup",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-03",
+      "displayDate": "3 Agosto 2026",
+      "description": "Torneo di League of Legends.",
+      "posterUrl": ""
     },
     {
       "title": "Chopin – Notturno a Parigi",
@@ -313,7 +277,7 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-08-03",
       "displayDate": "3 Agosto 2026",
-      "description": "Un film che racconta la vita del giovane Frédéric Chopin a Parigi.",
+      "description": "Parigi, 1835. Il giovane Frédéric Chopin è il re dei salotti mondani, ma nasconde l'avanzare della tubercolosi.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ibhCjnwYJGcnaiOMU86vEgeE2Up.jpg"
     },
     {
@@ -322,7 +286,34 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-08-03",
       "displayDate": "3 Agosto 2026",
-      "description": "La terza stagione della serie prequel de Il Trono di Spade, che prosegue la guerra tra le fazioni dei Verdi e dei Neri.",
+      "description": "Terza stagione della serie ambientata 200 anni prima de Il Trono di Spade.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Badly in Love",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-04",
+      "displayDate": "4 Agosto 2026",
+      "description": "Serie Tv.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iAGXAIlRhpgK4cqv51eUc9dCl8h.jpg"
+    },
+    {
+      "title": "I Tudors",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-04",
+      "displayDate": "4 Agosto 2026",
+      "description": "Serie Tv.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7pdeNK1CUqj1yuG9VMDeynnq9xK.jpg"
+    },
+    {
+      "title": "CoComelon Playdates with Sanrio Friends",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-04",
+      "displayDate": "4 Agosto 2026",
+      "description": "Serie animata per bambini.",
       "posterUrl": ""
     },
     {
@@ -331,16 +322,52 @@
       "platform": "Netflix",
       "releaseDate": "2026-08-05",
       "displayDate": "5 Agosto 2026",
-      "description": "La serie, tratta dai romanzi di Gabriel García Márquez, esplora sette generazioni della famiglia Buendía nel paese senza tempo di Macondo.",
+      "description": "Nel paese senza tempo di Macondo, sette generazioni della famiglia Buendía esplorano l'amore, l'oblio e l'impossibilità di sfuggire al passato... oltre che al proprio destino.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/q1mmRCEwImIcmA18AmhY0OsMuOi.jpg"
     },
     {
-      "title": "Sterling Point – L'isola dei segreti",
+      "title": "1670",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-05",
+      "displayDate": "5 Agosto 2026",
+      "description": "In questa serie commedia satirica, un nobile strampalato affronta liti familiari e scontri con i contadini nel tentativo di diventare la persona più famosa della Polonia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sMPLjSZYJEeeXfxeKQ7Ct7SEYuV.jpg"
+    },
+    {
+      "title": "Big Chicken: il complotto del fast food",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-05",
+      "displayDate": "5 Agosto 2026",
+      "description": "Film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vNvkzG9HpVbnAPqAgkDJBzYi8be.jpg"
+    },
+    {
+      "title": "Lo scandalo Trustor",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-05",
+      "displayDate": "5 Agosto 2026",
+      "description": "Film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zTKzYt7N7BXlSajkfm8RE2sEsdN.jpg"
+    },
+    {
+      "title": "Let's Marry Harry",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-05",
+      "displayDate": "5 Agosto 2026",
+      "description": "Serie Tv.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oV3Kr8qV9ta1RYqtk35ajYmrFax.jpg"
+    },
+    {
+      "title": "Sterling Point – stagione 1",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-08-05",
       "displayDate": "5 Agosto 2026",
-      "description": "Una nuova serie televisiva young adult che segue la diciassettenne Annie Jacobson in un'estate che le cambierà la vita.",
+      "description": "La nuova serie tra amore e segreti di famiglia.",
       "posterUrl": ""
     },
     {
@@ -349,7 +376,7 @@
       "platform": "Disney+",
       "releaseDate": "2026-08-05",
       "displayDate": "5 Agosto 2026",
-      "description": "Un'espansione dell'universo di Star Wars con nuove storie animate.",
+      "description": "Spin-off di 'Star Wars: Visions' che racconta il continuo viaggio di Kara.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5acgh6v45GqpEnnQaDccW1mP26V.jpg"
     },
     {
@@ -358,17 +385,8 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-08-05",
       "displayDate": "5 Agosto 2026",
-      "description": "La quarta stagione della pluripremiata commedia sportiva, con Ted che affronta una nuova sfida.",
+      "description": "Ted torna a Richmond per affrontare la più grande sfida della sua vita: allenare una squadra di calcio femminile di seconda divisione.",
       "posterUrl": ""
-    },
-    {
-      "title": "Hokum",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-08-05",
-      "displayDate": "5 Agosto 2026",
-      "description": "Un film horror distribuito da Lucky Red.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nhF54SQmeaMUODgRKEuMMJoTysT.jpg"
     },
     {
       "title": "Uno splendido errore – stagione 3",
@@ -376,8 +394,35 @@
       "platform": "Netflix",
       "releaseDate": "2026-08-06",
       "displayDate": "6 Agosto 2026",
-      "description": "La terza stagione della serie che racconta la storia di Jackie alle prese con i fratelli Walter.",
+      "description": "Racconta la storia di Jackie alle prese con i fratelli Walter.",
       "posterUrl": ""
+    },
+    {
+      "title": "Edge of Tomorrow",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-06",
+      "displayDate": "6 Agosto 2026",
+      "description": "Film di fantascienza con Tom Cruise ed Emily Blunt.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/AbzpU4ookiyWFmiq1bTZwjNl7Y1.jpg"
+    },
+    {
+      "title": "Zodiac",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-06",
+      "displayDate": "6 Agosto 2026",
+      "description": "Thriller di David Fincher.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yzIN9T4aRacsdoFiaHEUYRYFWa2.jpg"
+    },
+    {
+      "title": "Predator: Badlands",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-06",
+      "displayDate": "6 Agosto 2026",
+      "description": "Nuovo capitolo della saga Predator.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zn14Felr0VlFg6A86IUx4PDt2E7.jpg"
     },
     {
       "title": "The Shards",
@@ -385,26 +430,8 @@
       "platform": "Disney+",
       "releaseDate": "2026-08-06",
       "displayDate": "6 Agosto 2026",
-      "description": "Una nuova serie FX che promette dramma e mistero.",
+      "description": "Serie FX tratta dal romanzo di Bret Easton Ellis.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/876V23IJpddyLcO1wvJUdSft585.jpg"
-    },
-    {
-      "title": "Greta e le favole vere",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-08-06",
-      "displayDate": "6 Agosto 2026",
-      "description": "Un nuovo film distribuito da Vision Distribution.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cbviggp1WTZeijGuFKOoF6XYpsg.jpg"
-    },
-    {
-      "title": "Borgo",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-08-06",
-      "displayDate": "6 Agosto 2026",
-      "description": "Un film drammatico distribuito da Movies Inspired.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/48xwJpo5tecapOAEq0Gio1LQ3Q1.jpg"
     },
     {
       "title": "The Last House",
@@ -412,17 +439,35 @@
       "platform": "Netflix",
       "releaseDate": "2026-08-07",
       "displayDate": "7 Agosto 2026",
-      "description": "Un film horror e di fantascienza diretto da Louis Leterrier.",
+      "description": "Film horror e di fantascienza di Louis Leterrier.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
     },
     {
-      "title": "In the Lost Lands",
+      "title": "Ricky Gervais – Alley Cats",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-07",
+      "displayDate": "7 Agosto 2026",
+      "description": "Sitcom animata per adulti, ideata e interpretata dal pluripremiato Ricky Gervais.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mWC77mH2Nv7KMP8vGzwwCVkhsWu.jpg"
+    },
+    {
+      "title": "Anaconda",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-08-07",
       "displayDate": "7 Agosto 2026",
-      "description": "Un film fantasy proposto in esclusiva.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iL7XhmTUpBHocjGumilOawM4n4Z.jpg"
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qp8JklgbpFFXmKZv78kde1duVO2.jpg"
+    },
+    {
+      "title": "Gran Turismo",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-09",
+      "displayDate": "9 Agosto 2026",
+      "description": "Film ispirato a una storia vera.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/34moeAXmzjYgDq73yzy1kuYe4di.jpg"
     },
     {
       "title": "Dirty Angels – Missione sotto copertura",
@@ -430,26 +475,44 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-08-10",
       "displayDate": "10 Agosto 2026",
-      "description": "Un action film diretto da Martin Campbell con Eva Green, ambientato in Afghanistan.",
+      "description": "Martin Campbell dirige Eva Green in un action ambientato in Afghanistan.",
       "posterUrl": ""
     },
     {
-      "title": "Reacher — stagione 4",
+      "title": "Mourinho",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-11",
+      "displayDate": "11 Agosto 2026",
+      "description": "Documentario su José Mourinho.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Beekeeper",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-11",
+      "displayDate": "11 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ctJLZO2E4gWkSwXG06y9bE2jfTN.jpg"
+    },
+    {
+      "title": "I Borgia",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-08-11",
+      "displayDate": "11 Agosto 2026",
+      "description": "Serie canadese vincitrice di 3 Emmy con Jeremy Irons nei panni di Rodrigo Borgia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/y6CHDkNDhswuaqwQEC0wgC7MMox.jpg"
+    },
+    {
+      "title": "Reacher – stagione 4",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-08-12",
       "displayDate": "12 Agosto 2026",
-      "description": "La serie d'azione adattata dai romanzi di Lee Child torna con la sua quarta stagione.",
+      "description": "Alan Ritchson torna in azione nella quarta stagione.",
       "posterUrl": ""
-    },
-    {
-      "title": "The Last Showgirl",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "releaseDate": "2026-08-12",
-      "displayDate": "12 Agosto 2026",
-      "description": "Un drama con Pamela Anderson disponibile in esclusiva.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/q8YXP8en90G7iWyR5LRzkvMvMsq.jpg"
     },
     {
       "title": "Las Azules – Stagione 2",
@@ -457,35 +520,17 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-08-12",
       "displayDate": "12 Agosto 2026",
-      "description": "La seconda stagione della serie crime messicana ambientata nel 1970, con María che indaga su un nuovo caso.",
+      "description": "María, ora promossa a tenente, si ritrova divisa tra le regole che ha giurato di rispettare e un'irrefrenabile spinta verso la verità.",
       "posterUrl": ""
     },
     {
-      "title": "La fine di Oak Street",
+      "title": "J. Edgar",
       "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-08-12",
-      "displayDate": "12 Agosto 2026",
-      "description": "Un film d'azione, avventura, horror, giallo, fantascienza e thriller distribuito da Warner Bros.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3sBzqJcVjl4VKb9ULS569IIiUwu.jpg"
-    },
-    {
-      "title": "Sacrifice",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-08-12",
-      "displayDate": "12 Agosto 2026",
-      "description": "Un nuovo film in uscita nelle sale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/o4iceiahzncK2yMnG6lnb4JSheq.jpg"
-    },
-    {
-      "title": "Robin Hood - Il prezzo del sangue",
-      "type": "movie",
-      "platform": "Cinema in Italia",
+      "platform": "Netflix",
       "releaseDate": "2026-08-13",
       "displayDate": "13 Agosto 2026",
-      "description": "Un nuovo film con Hugh Jackman, Jodie Comer e Bill Skarsgård.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg"
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/aygoXbrKW2zdMUGAsrYmOMeMkbq.jpg"
     },
     {
       "title": "Sniper: Senza Nazione",
@@ -493,7 +538,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-08-14",
       "displayDate": "14 Agosto 2026",
-      "description": "Un nuovo film d'azione.",
+      "description": "Breve sinossi non disponibile.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5g2JfYILQ8rNPK6IR9zvfoR1kDF.jpg"
     },
     {
@@ -502,17 +547,44 @@
       "platform": "Disney+",
       "releaseDate": "2026-08-14",
       "displayDate": "14 Agosto 2026",
-      "description": "Il terzo capitolo della saga musicale Disney Channel.",
+      "description": "Terzo capitolo della saga musicale Disney Channel.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/kc3L6SqOEVfGA4ERx7YDrp15X5H.jpg"
     },
     {
-      "title": "Nove Racconta",
+      "title": "The Magicians – stagioni 1 a 5",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-15",
+      "displayDate": "15 Agosto 2026",
+      "description": "Le prime cinque stagioni della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "NOVE RACCONTA",
       "type": "tv",
       "platform": "Discovery+",
       "releaseDate": "2026-08-15",
       "displayDate": "15 Agosto 2026",
-      "description": "Tornano i casi di cronaca nera che hanno sconvolto l'opinione pubblica italiana.",
+      "description": "Tornano i casi di cronaca nera che hanno sconvolto l'opinione pubblica italiana negli ultimi anni.",
       "posterUrl": ""
+    },
+    {
+      "title": "Rob Peace",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-16",
+      "displayDate": "16 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1BwKbTidW5QaEKb1pVY3p4u9cVg.jpg"
+    },
+    {
+      "title": "Gunner",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-17",
+      "displayDate": "17 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cS2TXN1YlrCvkZmMxaevC1ZKtEz.jpg"
     },
     {
       "title": "Delitti in Paradiso – Stagione 14",
@@ -520,43 +592,79 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-08-17",
       "displayDate": "17 Agosto 2026",
-      "description": "La quattordicesima stagione della serie poliziesca ambientata in un'isola caraibica.",
+      "description": "Una serie di detective inglesi si trova a comandare il posto di polizia di una meravigliosa isola caraibica.",
       "posterUrl": ""
     },
     {
-      "title": "Il dio dell'amore",
+      "title": "Il Dio dell'amore",
       "type": "movie",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-08-17",
       "displayDate": "17 Agosto 2026",
-      "description": "Un nuovo film drammatico.",
+      "description": "Breve sinossi non disponibile.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iQYcXLE9j3GHo8JfuMh0Wiew7Uv.jpg"
     },
     {
-      "title": "Outer banks – stagione 5",
+      "title": "Freefall: La resa dei conti",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-19",
+      "displayDate": "19 Agosto 2026",
+      "description": "Documentario sulle accuse rivolte a Boeing.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Le aquile della repubblica",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-08-19",
+      "displayDate": "19 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h3nqTUmseF8KtTuF24iWcKueZ57.jpg"
+    },
+    {
+      "title": "Oceania (Live-action)",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-08-19",
+      "displayDate": "19 Agosto 2026",
+      "description": "Adattamento live-action di Oceania, con Catherine Lagaʻaia nei panni di Vaiana e Dwayne Johnson in quelli del semidio Maui.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/g4zumtvkkH5QbyXyL0mO8HpCSaw.jpg"
+    },
+    {
+      "title": "NOVE COMEDY CLUB",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-08-19",
+      "displayDate": "19 Agosto 2026",
+      "description": "Sei grandi prime serate all'insegna della leggerezza, comicità e risate.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Outer Banks – stagione 5",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-08-20",
       "displayDate": "20 Agosto 2026",
-      "description": "La quinta stagione della serie che segue le avventure dei Pogue.",
+      "description": "I Pogues tornano con la stagione 5.",
       "posterUrl": ""
     },
     {
-      "title": "Novak Djokovic: Il lupo d'inverno",
+      "title": "GOAT: Sogna in grande",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "releaseDate": "2026-08-20",
-      "displayDate": "20 Agosto 2026",
-      "description": "Un documentario sulla vita privata e la carriera del celebre tennista Novak Djokovic.",
-      "posterUrl": ""
+      "releaseDate": "2026-08-21",
+      "displayDate": "21 Agosto 2026",
+      "description": "Film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u2MoLTmM6ivKVObduajXUDkwRER.jpg"
     },
     {
-      "title": "Atomic – Stagione 1",
+      "title": "The Five-Star Weekend – stagione 1",
       "type": "tv",
-      "platform": "Sky (incl. NOW)",
-      "releaseDate": "2026-08-20",
-      "displayDate": "20 Agosto 2026",
-      "description": "Una serie thriller ispirata al libro \"Atomic Bazaar\", che segue due uomini coinvolti nel traffico illegale di uranio.",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-21",
+      "displayDate": "21 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
       "posterUrl": ""
     },
     {
@@ -565,17 +673,44 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-08-21",
       "displayDate": "21 Agosto 2026",
-      "description": "Una docuserie sportiva che racconta la storia della squadra di basket femminile più dominante.",
+      "description": "Racconta come UConn sia passata da outsider a punto di riferimento mondiale sotto la guida di Geno Auriemma.",
       "posterUrl": ""
     },
     {
-      "title": "Border Control Turchia / Prima TV",
+      "title": "Acquasilente – Stagione 5",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-08-21",
+      "displayDate": "21 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Operazione vendetta",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-08-21",
+      "displayDate": "21 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9IoYsiQEUe50ViywjffKh5pUJqX.jpg"
+    },
+    {
+      "title": "BORDER CONTROL TURCHIA / PRIMA TV",
       "type": "tv",
       "platform": "Discovery+",
       "releaseDate": "2026-08-21",
       "displayDate": "21 Agosto 2026",
-      "description": "Una nuova serie che segue il lavoro degli agenti alla dogana turca.",
+      "description": "Seguiamo il lavoro degli agenti che lavorano alla dogana turca.",
       "posterUrl": ""
+    },
+    {
+      "title": "Gloria!",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-24",
+      "displayDate": "24 Agosto 2026",
+      "description": "Pellicola diretta da Margherita Vicario, al suo esordio da regista.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jkuPBtqkQ6h0AKnc21FxfNy1K14.jpg"
     },
     {
       "title": "You Can't Run Forever",
@@ -583,52 +718,196 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-08-24",
       "displayDate": "24 Agosto 2026",
-      "description": "Un nuovo film thriller.",
+      "description": "Breve sinossi non disponibile.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/mkQEa3W4UbkAaL8kwv7pj7AiM0u.jpg"
     },
     {
-      "title": "RFDS: Medici dal cielo stagione 3",
-      "type": "tv",
+      "title": "Il mago del Cremlino - Le origini di Putin",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-08-24",
+      "displayDate": "24 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6YilH8o9Y2ZJNdu2Ak5m6you8zL.jpg"
+    },
+    {
+      "title": "Luce Fredda",
+      "type": "movie",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-08-26",
       "displayDate": "26 Agosto 2026",
-      "description": "La terza stagione che segue il lavoro dei medici del Royal Flying Doctor Service in Australia.",
-      "posterUrl": ""
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rnrrZfFiUIpL00wUh15OBKStnDD.jpg"
     },
     {
-      "title": "Dark Matter, stagione 2",
+      "title": "Shrek",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-27",
+      "displayDate": "27 Agosto 2026",
+      "description": "La saga animata di Shrek.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ieQwl8tzgRr0iNA0jfoG1342xrp.jpg"
+    },
+    {
+      "title": "Zootropolis 2",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-08-27",
+      "displayDate": "27 Agosto 2026",
+      "description": "Film d'animazione Disney.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lVesXbaSnCh0e27punAv4ZKWkxk.jpg"
+    },
+    {
+      "title": "L'uomo dei sussurri",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-08-28",
+      "displayDate": "28 Agosto 2026",
+      "description": "Un thriller sulla scomparsa di un bambino e di un serial killer.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6UqflU8Qqkz7Dq4swJPqs0ZJjY4.jpg"
+    },
+    {
+      "title": "Betty la Fea – La storia continua",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-28",
+      "displayDate": "28 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7qechyF13bAJJAlBz4beo5piaQH.jpg"
+    },
+    {
+      "title": "In the Grey",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-08-28",
+      "displayDate": "28 Agosto 2026",
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pSagHUL2PqegUuDoMLNrqtp36o8.jpg"
+    },
+    {
+      "title": "Widow's Bay",
       "type": "tv",
       "platform": "Apple TV+",
       "releaseDate": "2026-08-28",
       "displayDate": "28 Agosto 2026",
-      "description": "La seconda stagione del thriller fantascientifico.",
-      "posterUrl": ""
+      "description": "Serie drammatica nominata agli Emmy.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
     },
     {
-      "title": "Twisted Metal",
-      "type": "tv",
+      "title": "Song Sung Blue - Una melodia d'amore",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-08-30",
+      "displayDate": "30 Agosto 2026",
+      "description": "Film ispirato a una storia vera con Hugh Jackman e Kate Hudson.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oTYIe3BHQKCR8NtEHok8HDikIce.jpg"
+    },
+    {
+      "title": "Notte prima degli esami",
+      "type": "movie",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-08-31",
       "displayDate": "31 Agosto 2026",
-      "description": "Una serie action comedy post-apocalittica ispirata al videogioco PlayStation.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg"
+      "description": "Breve sinossi non disponibile.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zc43153cFR9uqbxILOqZnuaByyB.jpg"
     },
     {
-      "title": "Neagley",
+      "title": "The Gentlemen (stagione 2)",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-09-03",
+      "displayDate": "3 Settembre 2026",
+      "description": "Seconda stagione della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Mayday",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-09-04",
+      "displayDate": "4 Settembre 2026",
+      "description": "Commedia d'azione in piena Guerra Fredda con Ryan Reynolds e Kenneth Branagh.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wEer9vVL8PWMX59flsAwfdnXZPN.jpg"
+    },
+    {
+      "title": "Last Seen – Stagione 1",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-09-09",
+      "displayDate": "9 Settembre 2026",
+      "description": "Serie thriller drammatica australiana.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Chiami il mio agente! Il film",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-09-10",
+      "displayDate": "10 Settembre 2026",
+      "description": "Commedia francese in cui Andréa è costretta a riunire la vecchia squadra.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Crew Girl",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-09-10",
+      "displayDate": "10 Settembre 2026",
+      "description": "Teen-drama canadese su una canottiera agonista costretta a ricominciare da capo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wnYZ8PB9rDxDXM91Fm86fJ2Llg8.jpg"
+    },
+    {
+      "title": "Slow Horses – Stagione 6",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-09-16",
+      "displayDate": "16 Settembre 2026",
+      "description": "Sesta stagione della serie thriller.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Roast in Peace – stagione 2",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "releaseDate": "2026-09-16",
-      "displayDate": "16 Settembre 2026",
-      "description": "Uno spin-off della serie Reacher, con otto episodi disponibili al lancio.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg"
+      "releaseDate": "2026-09-18",
+      "displayDate": "18 Settembre 2026",
+      "description": "Seconda stagione della serie comedy.",
+      "posterUrl": ""
     },
     {
-      "title": "Untitled Olivia Wilde Film",
+      "title": "Il mistero dell'amore",
       "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-09-16",
-      "displayDate": "16 Settembre 2026",
-      "description": "Una graffiante commedia sexy, tra \"Perfetti sconosciuti\" e Woody Allen, diretta e interpretata da Olivia Wilde.",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-10-01",
+      "displayDate": "1 Ottobre 2026",
+      "description": "Titolo romance prodotto da Amazon e Idea Cinema con Pif nel cast.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Masterplan",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-10-16",
+      "displayDate": "16 Ottobre 2026",
+      "description": "Film action prodotto da Amazon e Gaumont Francia con Stanley Tucci.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Dov'è Wanda? – Stagione 2",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-10-21",
+      "displayDate": "21 Ottobre 2026",
+      "description": "Seconda stagione della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Nocturne – Stagione 1",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-10-30",
+      "displayDate": "30 Ottobre 2026",
+      "description": "Breve sinossi non disponibile.",
       "posterUrl": ""
     }
   ]
