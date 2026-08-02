@@ -1,100 +1,100 @@
 {
-  "date": "01/08/2026, 10:59:22",
+  "date": "02/08/2026, 11:04:52",
   "data": [
+    {
+      "title": "Cena di classe",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 1,
+      "description": "Un gruppo di ex compagni di liceo si riunisce dopo diciassette anni per il funerale di un vecchio amico, portando a una notte di eccessi, segreti e confessioni.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tq62SABP6986u7fYJ39vnexjgFU.jpg"
+    },
     {
       "title": "The Devil's Mouth",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 1,
-      "description": "Un nuovo film che ha rapidamente raggiunto la vetta delle classifiche.",
+      "rank": 2,
+      "description": "Cinque amici entrano nelle grotte della Bocca del Diavolo in Thailandia e scoprono qualcosa di letale che li sta cacciando sott'acqua.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cr2B7TDlwajwUjRDreX4Yz6vhZ7.jpg"
     },
     {
       "title": "Masters of the Universe",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Un film d'azione e avventura molto popolare.",
+      "rank": 3,
+      "description": "Dopo aver trovato la Spada del Potere, il Principe Adam torna su Eternia per affrontare Skeletor e accettare il suo destino come He-Man.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/bEEDkPSeSYJWQyXjjFzG81obzM2.jpg"
     },
     {
       "title": "Good Fortune",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Una commedia che si mantiene tra i titoli più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/irOghTy4rKqc4LtKYsB7eCeETz9.jpg"
-    },
-    {
-      "title": "Float",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
       "rank": 4,
-      "description": "Un film che continua a essere apprezzato dal pubblico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mgwObpU1NCXfPqF7ZaTpi80mxsF.jpg"
+      "description": "Una commedia/dramma che esplora le vite di un lavoratore precario e un ricco investitore, le cui esistenze si intrecciano in modo inaspettato grazie a un angelo custode maldestro.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/irOghTy4rKqc4LtKYsB7eCeETz9.jpg"
     },
     {
       "title": "Spider-Man: No Way Home",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 5,
-      "description": "Il blockbuster di supereroi è ancora molto popolare.",
+      "description": "L'identità di Spider-Man viene rivelata, spingendo Peter Parker a chiedere aiuto al Dottor Strange, il che apre il multiverso e porta potenti cattivi nel suo mondo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nt4ydhdArDsjinTrV1lct0pYipA.jpg"
+    },
+    {
+      "title": "Float",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 6,
+      "description": "Una giovane donna che non sa nuotare visita impulsivamente sua zia in una città costiera e trova l'amore con un bagnino, mentre affronta problemi familiari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mgwObpU1NCXfPqF7ZaTpi80mxsF.jpg"
     },
     {
       "title": "Project Hail Mary",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Un film di fantascienza che ha catturato l'attenzione degli spettatori.",
+      "rank": 7,
+      "description": "Un astronauta si risveglia su un'astronave senza memoria della sua missione, scoprendo di essere l'ultima speranza dell'umanità per salvare la Terra.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xfwpfBtZ255ceVKEj2CK7mmYjF6.jpg"
     },
     {
-      "title": "Troy",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Il classico epico continua a essere un titolo ricercato.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6n8BiphW9fvqC6biB0RMfblqi43.jpg"
-    },
-    {
-      "title": "L'estate nei tuoi occhi",
+      "title": "Super Market",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 8,
-      "description": "Una popolare serie drammatica per giovani adulti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/26JYpcClxonDcBSoqQ4qWn27n39.jpg"
+      "description": "Ambientata in un caotico discount alla periferia di Milano, questa serie comedy segue lo staff eccentrico mentre cerca di salvare il loro negozio dalla chiusura.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wTCJnl01DaXYBny4uQs39JR6JgJ.jpg"
     },
     {
-      "title": "Reacher",
+      "title": "Off Campus",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 9,
-      "description": "La serie d'azione basata sui romanzi di Lee Child è molto seguita.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg"
+      "description": "Una serie drammatica romantica universitaria basata su un bestseller, che segue una squadra di hockey su ghiaccio d'élite e le donne nelle loro vite mentre affrontano amore, crepacuore e scoperta di sé.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
     },
     {
-      "title": "The Boys",
+      "title": "Ride or Die",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "La serie satirica sui supereroi mantiene un'alta popolarità.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
+      "description": "Le vite delle migliori amiche Debbie e Judith vengono sconvolte quando Debbie scopre che Judith è un'assassina internazionale, costringendole alla fuga attraverso l'Europa.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lNCS8rxW7gU0c5LDe3iq7teWBEQ.jpg"
     },
     {
       "title": "The Dink",
-      "type": "tv",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "Una commedia che si posiziona al primo posto tra i più popolari.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mrvhI2XrPZnv8v0uuacw8589rfO.jpg"
+      "description": "Un ex prodigio del tennis in declino entra con riluttanza nel mondo del pickleball per salvare un club in difficoltà e guadagnarsi il rispetto del padre.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vTfsGRuVSxVoPobNnviYhJ4JrC5.jpg"
     },
     {
-      "title": "F1 The Movie",
+      "title": "F1",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 2,
-      "description": "Un film d'azione legato al mondo della Formula 1, molto popolare.",
+      "description": "Un leggendario pilota di Formula 1 in pensione viene convinto a tornare in pista per guidare una squadra in difficoltà e fare da mentore a un giovane talento, cercando un'ultima possibilità di redenzione.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
@@ -102,224 +102,224 @@
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 3,
-      "description": "Un thriller che ha catturato l'attenzione del pubblico.",
+      "description": "Un thriller neo-noir ambientato nel mondo dell'élite di New York, dove le motivazioni sono raramente ciò che sembrano e le fortune sono costruite su segreti e bugie.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/x7N0wGU5X6qzvoIrkkHjMkVAFmG.jpg"
-    },
-    {
-      "title": "The Gorge",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Un film thriller che sta riscuotendo successo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
     },
     {
       "title": "The Instigators",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Un film d'azione che si mantiene tra i più visti.",
+      "rank": 4,
+      "description": "Una commedia d'azione che segue due ladri che si ritrovano in fuga dopo che un colpo va storto, costretti a collaborare per sopravvivere.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6wXRANRmPRmwbgzpvMuRKasWQNo.jpg"
+    },
+    {
+      "title": "The Gorge",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Un thriller d'azione che vede due assassini d'élite costretti a lavorare insieme in una missione ad alto rischio, sviluppando sentimenti inaspettati l'uno per l'altra.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+    },
+    {
+      "title": "Ghosted",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 6,
+      "description": "Una commedia romantica d'azione in cui un uomo si innamora di una donna misteriosa che si rivela essere un'agente segreta, portandoli in una pericolosa avventura internazionale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg"
+    },
+    {
+      "title": "Napoleon",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "Un'epopea storica che racconta l'ascesa e la caduta dell'imperatore francese Napoleone Bonaparte, concentrandosi sul suo implacabile percorso verso il potere e la sua relazione con Giuseppina.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg"
+    },
+    {
+      "title": "Greyhound",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Durante la Seconda Guerra Mondiale, un comandante della Marina degli Stati Uniti guida un convoglio alleato attraverso l'Atlantico, inseguito incessantemente dagli U-boat tedeschi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iJBLPfZkYF5tphFeEULjOMCgwlR.jpg"
+    },
+    {
+      "title": "Wolfs",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Un thriller d'azione che vede due lupi solitari, professionisti nel loro campo, costretti a collaborare quando si ritrovano coinvolti nello stesso lavoro ad alto rischio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nPedyM69paBxP5I2QrajL5ziB7r.jpg"
     },
     {
       "title": "Silo",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "La serie di fantascienza distopica è un successo di critica e pubblico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
-    },
-    {
-      "title": "Ted Lasso",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 7,
-      "description": "La pluripremiata serie comedy continua a essere molto amata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
-    },
-    {
-      "title": "Cape Fear",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Un thriller che è tornato tra i titoli più popolari.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/nefYdfOyNBvUYyreIqMWG9dCrJo.jpg"
-    },
-    {
-      "title": "Sugar",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Una serie mistery che sta guadagnando popolarità.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
-    },
-    {
-      "title": "Scissione (Severance)",
-      "type": "tv",
-      "platform": "Apple TV+",
       "rank": 10,
-      "description": "L'acclamata serie thriller di fantascienza è tra le più viste.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jnwqpZpmwvEo0CFLjDwfnnAf4ow.jpg"
-    },
-    {
-      "title": "Elite Force: Season 1",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 1,
-      "description": "Una nuova serie d'azione che ha rapidamente scalato le classifiche.",
-      "posterUrl": ""
-    },
-    {
-      "title": "I Will Find You: Limited Series",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 2,
-      "description": "Una serie limitata molto seguita che cattura l'attenzione del pubblico.",
-      "posterUrl": ""
-    },
-    {
-      "title": "The Map of Longing: Limited Series",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "Una serie limitata che sta riscuotendo grande successo tra gli spettatori.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Oasis: Season 1",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "La prima stagione di questa serie è molto popolare in Italia.",
-      "posterUrl": ""
-    },
-    {
-      "title": "My Daughter's Father: Season 1",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "Un dramma familiare che ha conquistato il pubblico italiano.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Ransom Canyon: Season 2",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "La seconda stagione di questo dramma continua a essere molto vista.",
-      "posterUrl": ""
+      "description": "In un futuro tossico, una comunità vive in un gigantesco silo sotterraneo, credendo che il mondo esterno sia mortale, finché uno sceriffo non scopre una pericolosa cospirazione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
     },
     {
       "title": "72 Hours",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 7,
-      "description": "Un film d'azione che si mantiene nella top 10.",
+      "rank": 1,
+      "description": "Un dirigente quarantenne cerca di salvare la sua carriera unendosi a un gruppo di ventenni per un folle addio al celibato di tre giorni.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg"
     },
     {
       "title": "Elize: Shadows of a Woman",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "Un film drammatico che ha catturato l'interesse degli abbonati.",
+      "rank": 2,
+      "description": "Ispirato a un caso di cronaca nera brasiliana, il film esplora la storia di Elize Matsunaga, accusata dell'omicidio e smembramento del marito, approfondendo la loro relazione turbolenta.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/984sugm7oz9SiZ12CJvYCZEVFzG.jpg"
     },
     {
       "title": "The Truthers",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 9,
-      "description": "Un thriller che sta riscuotendo successo.",
+      "rank": 3,
+      "description": "Dopo l'improvvisa morte della madre, Ruth torna nella sua città natale e si riunisce con il padre, il cui strano comportamento la porta a dubitare di ciò che è realmente accaduto.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pUvs1iFFMDy3sNp5dNmkRak1oxD.jpg"
+    },
+    {
+      "title": "Someone Like You",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 4,
+      "description": "Dopo aver avuto il cuore spezzato, una talent scout di talk show affitta una stanza dal suo collega Casanova e inizia segretamente a scrivere una popolare rubrica sugli uomini.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zsvD0BjEQIIoh2PpE5X7VXmSrQO.jpg"
     },
     {
       "title": "Spider-Man: Far from Home",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 10,
-      "description": "Il popolare film di supereroi continua a essere tra i più visti.",
+      "rank": 5,
+      "description": "Peter Parker parte per un viaggio estivo in Europa con i suoi amici, ma la sua vacanza viene interrotta quando Nick Fury lo recluta per combattere creature elementali.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/blWCg2gs0uQiEl4e3ml6j3yDSKg.jpg"
     },
     {
-      "title": "House of the Dragon",
+      "title": "Ladies in Black",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Ambientato nella Sydney del 1959, una studentessa timida trova un lavoro estivo in un grande magazzino, dove fa amicizia con un gruppo di commesse che le aprono gli occhi su nuove possibilità.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sIC0Y0dGLnxbdCksftZ38FZ2c61.jpg"
+    },
+    {
+      "title": "WWE SummerSlam",
       "type": "tv",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "Un importante evento annuale di wrestling professionale in pay-per-view e streaming, con le principali superstar della WWE.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Avatar - La leggenda di Aang",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Un giovane ragazzo, l'Avatar, deve padroneggiare tutti e quattro gli elementi per salvare il mondo dalla Nazione del Fuoco e riportare l'equilibrio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wyotdtbrAXUEHpoLxznOYAQNYe8.jpg"
+    },
+    {
+      "title": "Ovunque tu sia",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "Ingiustamente imprigionato per l'omicidio del figlio, un padre intraprende una disperata missione per ritrovarlo dopo aver scoperto che potrebbe essere ancora vivo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9dBe3lN3LfWyBAWGXflVEVCWrpt.jpg"
+    },
+    {
+      "title": "Nuova Scena",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 10,
+      "description": "Un talent show musicale rap italiano in cui i giudici Fabri Fibra, Geolier e Rose Villain cercano la prossima superstar del rap italiano tra Roma, Napoli e Milano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dV0b1xdqg7WoAgmq3j9rU1gayjg.jpg"
+    },
+    {
+      "title": "Firebrand",
+      "type": "movie",
       "platform": "Sky",
       "rank": 1,
-      "description": "Il prequel de Il Trono di Spade è una delle serie più viste.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
+      "description": "Un dramma storico che esplora la vita di Caterina Parr, la sesta e ultima moglie di Enrico VIII, mentre cerca di sopravvivere alla corte del re.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pAMmly2uZ3w95JuuySSf3s0sUNe.jpg"
     },
     {
-      "title": "Silo",
-      "type": "tv",
+      "title": "The Eyes of Others",
+      "type": "movie",
       "platform": "Sky",
       "rank": 2,
-      "description": "La serie distopica di fantascienza è molto apprezzata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
+      "description": "Sull'isola di un ricco marchese, l'arrivo di Elena scatena una storia d'amore fatta di trasgressione, sesso e potere che sfocia nell'ossessione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xyresHnqdU1M2iPfGzRFdWwDcku.jpg"
     },
     {
-      "title": "Official Secrets",
-      "type": "movie",
+      "title": "Primate",
+      "type": "tv",
       "platform": "Sky",
       "rank": 3,
-      "description": "Un thriller basato su eventi reali che si trova nella top 10 di NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qFzED3Vgg0aTTANve9J6AUXeR2O.jpg"
-    },
-    {
-      "title": "The Lesson",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 4,
-      "description": "Un film drammatico che ha catturato l'attenzione su NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cgampq63AqCrza6bnvmWqCcvCzY.jpg"
+      "description": "La vacanza tropicale di un gruppo di amici si trasforma in un terrificante racconto di orrore e sopravvivenza quando uno scimpanzé adottato contrae la rabbia e diventa violento.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rRWyzCcVEofITBN4gdvkn5IGVyc.jpg"
     },
     {
       "title": "The Prestige",
       "type": "movie",
       "platform": "Sky",
-      "rank": 5,
-      "description": "Il film di Christopher Nolan è un classico molto apprezzato su NOW.",
+      "rank": 4,
+      "description": "Due maghi rivali nella Londra vittoriana si impegnano in una pericolosa e ossessiva competizione per creare l'illusione definitiva.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1GjRCeZoE251tWkYc3erwjpdBpU.jpg"
+    },
+    {
+      "title": "The Lesson",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 5,
+      "description": "Dopo aver difeso un professore accusato di abusi sessuali, il passato di un'abile avvocata torna a perseguitarla.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cgampq63AqCrza6bnvmWqCcvCzY.jpg"
+    },
+    {
+      "title": "Hangman",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Due detective cercano di rintracciare un serial killer che basa i suoi omicidi sul gioco per bambini dell'impiccato.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/e1pehGURvePYeGlsOx0XmMTpLm0.jpg"
+    },
+    {
+      "title": "Official Secrets",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 7,
+      "description": "Basato su una storia vera, una whistleblower dell'intelligence britannica fa trapelare un'e-mail classificata su un'operazione di spionaggio illegale per influenzare il voto del Consiglio di Sicurezza dell'ONU sull'invasione dell'Iraq del 2003.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qFzED3Vgg0aTTANve9J6AUXeR2O.jpg"
+    },
+    {
+      "title": "Honey Don't!",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 8,
+      "description": "Una commedia/dramma che segue le vicende di una coppia alle prese con le sfide della vita moderna e le dinamiche di una relazione complicata.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3TtCSSRTbgHrc9oHtUs3FDn6Nal.jpg"
     },
     {
       "title": "Greenland 2: Migration",
       "type": "movie",
       "platform": "Sky",
-      "rank": 6,
-      "description": "Il sequel del film catastrofico è tra i più visti su NOW.",
+      "rank": 9,
+      "description": "Il sequel di un film catastrofico in cui una famiglia lotta per la sopravvivenza mentre un asteroide minaccia di distruggere la Terra, affrontando nuove sfide in un mondo post-apocalittico.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oEmubwIZivvNUpfVwTf6lHtpWNf.jpg"
     },
     {
-      "title": "The Last of Us",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 7,
-      "description": "La serie post-apocalittica acclamata dalla critica continua a essere popolare.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u0xTEHOd8pw6SLGRL5fZyDpoaew.jpg"
-    },
-    {
-      "title": "Yellowstone",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 8,
-      "description": "Il dramma western con Kevin Costner è molto seguito.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vOYfRZ0NpUK5hG2CB2dJFnYJlGe.jpg"
-    },
-    {
-      "title": "The White Lotus",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 9,
-      "description": "La serie antologica satirica vincitrice di premi è un successo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg"
-    },
-    {
-      "title": "Gomorra",
+      "title": "Chicago P.D.",
       "type": "tv",
       "platform": "Sky",
       "rank": 10,
-      "description": "L'acclamata serie crime italiana rimane un punto di riferimento.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg"
+      "description": "Un dramma poliziesco procedurale che segue gli agenti di pattuglia in uniforme e l'Unità di Intelligence del 21° Distretto del Dipartimento di Polizia di Chicago.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bez40PgT36RUu4gstD2A6GSM0tP.jpg"
     }
   ]
 }
