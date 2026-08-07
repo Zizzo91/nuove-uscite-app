@@ -1,13 +1,22 @@
 {
-  "date": "06/08/2026, 13:10:02",
+  "date": "07/08/2026, 11:45:45",
   "data": [
+    {
+      "title": "Backrooms",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Gen Z",
+      "rank": 1,
+      "description": "Questo film horror, diventato virale sui social media, è il numero uno al botteghino in Italia e risuona con la Gen Z per i suoi temi di perdita, identità e solitudine, tipici dell'estetica e delle discussioni online di questa generazione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg"
+    },
     {
       "title": "Outer Banks S5",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": 1,
-      "description": "La quinta stagione di questa serie è estremamente popolare tra la Gen Z per il suo mix avvincente di avventura, mistero e romance adolescenziale. I suoi personaggi giovani e le trame ricche di colpi di scena la rendono molto discussa sui social media come TikTok e Instagram.",
+      "rank": 2,
+      "description": "La quinta stagione di questa serie d'azione e mistero continua a essere estremamente popolare tra la Gen Z per le sue avventure mozzafiato, i giovani protagonisti e le dinamiche relazionali, spesso discusse e promosse su piattaforme come TikTok.",
       "posterUrl": ""
     },
     {
@@ -15,8 +24,8 @@
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": 2,
-      "description": "Questa serie romantica LGBTQ+ risuona profondamente con la Gen Z per la sua rappresentazione autentica dell'amore giovanile, dell'amicizia e della scoperta di sé, diventando virale per i suoi contenuti positivi e relazionabili.",
+      "rank": 3,
+      "description": "Questa serie romantica LGBTQ+ è un fenomeno tra la Gen Z per la sua rappresentazione autentica e positiva delle relazioni giovanili e delle tematiche queer, generando un forte engagement e discussioni online.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dQc0QbDiHjGmWxTfKtBgYtS4bj5.jpg"
     },
     {
@@ -24,98 +33,71 @@
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": 3,
-      "description": "Conosciuta per il suo approccio aperto e umoristico alla sessualità e alle relazioni adolescenziali, questa serie affronta questioni sociali rilevanti in un modo che attrae il desiderio di autenticità e narrazione progressista della Gen Z.",
+      "rank": 4,
+      "description": "Conosciuta per il suo approccio sensibile, divertente e schietto ai temi della sessualità e della crescita, 'Sex Education' continua a essere un punto di riferimento per la Gen Z che cerca contenuti che riflettano le proprie esperienze e curiosità.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pmwsSCcz8aZOJXsTTrNs8LzGMwt.jpg"
     },
     {
-      "title": "Sterling Point – L'isola dei segreti",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "target": "Gen Z",
-      "rank": 4,
-      "description": "Una nuova serie coming-of-age che mescola mistero, primi amori e segreti familiari, offrendo una narrazione avvincente che si allinea con l'interesse della Gen Z per i drammi incentrati sui personaggi e le esperienze adolescenziali.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eRJmTnQrdmodTARDmI3z2tRFEZU.jpg"
-    },
-    {
-      "title": "The Shards",
+      "title": "I Maghi di Waverly: Ritorno a Waverly Place S3",
       "type": "tv",
       "platform": "Disney+",
       "target": "Gen Z",
       "rank": 5,
-      "description": "Un thriller psicologico ambientato negli anni '80, la sua estetica elegante e il mistero intrigante, uniti al coinvolgimento di Ryan Murphy e Bret Easton Ellis, possono attrarre la Gen Z che apprezza la narrazione sofisticata e le vibrazioni retrò popolari sui social media.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/876V23IJpddyLcO1wvJUdSft585.jpg"
-    },
-    {
-      "title": "Futurama, stagione 14",
-      "type": "tv",
-      "platform": "Disney+",
-      "target": "Gen Z",
-      "rank": 6,
-      "description": "Il ritorno di una serie animata classica con una miscela unica di fantascienza, satira e umorismo. Il suo stile irriverente e lo status di cult di lunga data la rendono attraente per la Gen Z che la scopre o ne apprezza la continuazione.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Star Wars Visions – The Ninth Jedi",
-      "type": "tv",
-      "platform": "Disney+",
-      "target": "Gen Z",
-      "rank": 7,
-      "description": "Un'antologia animata che espande l'universo di Star Wars con diversi stili di animazione e nuove prospettive. Il suo approccio innovativo a un franchise amato attrae l'apprezzamento della Gen Z per la narrazione creativa e la rappresentazione diversificata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/biNSBjhdjG6Gpik4vvl9Im9yjXC.jpg"
-    },
-    {
-      "title": "I Maghi Di Waverly: Ritorno A Waverly Place, stagione 3",
-      "type": "tv",
-      "platform": "Disney+",
-      "target": "Gen Z",
-      "rank": 8,
-      "description": "La continuazione di una popolare serie di Disney Channel, che attinge alla nostalgia per la Gen Z più anziana, offrendo nuove avventure magiche e drammi adolescenziali che attraggono i membri più giovani della generazione.",
+      "description": "Il ritorno di questa amata serie Disney Channel genera un'ondata di nostalgia per la parte più anziana della Gen Z che è cresciuta con i personaggi, mentre le nuove trame attirano un pubblico più giovane.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/u3yaRVwIJa8zD8WrNYZKIeMmzM9.jpg"
     },
     {
-      "title": "Alley Cats",
+      "title": "Uno splendido errore S3",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": 9,
-      "description": "Una commedia animata per adulti di Ricky Gervais, il suo spirito acuto, l'umorismo nero e l'attenzione al commento sociale attraverso la lente dei gatti di strada possono essere molto coinvolgenti per la Gen Z che apprezza l'umorismo tagliente e non convenzionale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mWC77mH2Nv7KMP8vGzwwCVkhsWu.jpg"
+      "rank": 6,
+      "description": "Questa serie romantica, ispirata a un romanzo, è molto seguita dalla Gen Z per le sue storie d'amore complesse e i drammi adolescenziali, che spesso diventano argomenti di tendenza sui social.",
+      "posterUrl": ""
     },
     {
-      "title": "Cent'anni di solitudine - Parte 2",
+      "title": "Young Royals",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 7,
+      "description": "La serie svedese che segue un principe in un collegio d'élite affronta temi di identità, amore e pressione sociale, risuonando con la Gen Z per la sua onestà e la rappresentazione di sfide giovanili.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uGGAoM8ojRHOXj16n6xWiccKr34.jpg"
+    },
+    {
+      "title": "The End of the F***ing World",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 8,
+      "description": "Con il suo umorismo nero e la narrazione di due adolescenti ribelli in fuga, questa serie cattura l'attenzione della Gen Z che apprezza storie anticonformiste e personaggi complessi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2z4fAyVlSyOy14wkMZu8Y9KW8JX.jpg"
+    },
+    {
+      "title": "Notte prima degli esami 3.0",
+      "type": "movie",
+      "platform": "Cinema",
+      "target": "Gen Z",
+      "rank": 9,
+      "description": "Questo film è una rivisitazione contemporanea di un cult italiano, specificamente pensata per la 'generazione dei social media e della AI', esplorando le sfide e le esperienze degli adolescenti di oggi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/akMWdGoPmiBNBTCX3WpMLr8q2u3.jpg"
+    },
+    {
+      "title": "Alley Cats Ricky Gervais",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
       "rank": 10,
-      "description": "Un adattamento di alto profilo di un classico letterario, la sua portata epica, il realismo magico e il potenziale per immagini mozzafiato possono generare un notevole interesse tra la Gen Z interessata a narrazioni culturalmente significative e visivamente ricche.",
-      "posterUrl": ""
+      "description": "La serie animata per adulti di Ricky Gervais, con il suo umorismo tagliente e nichilista, attrae la Gen Z che apprezza la satira sociale e le produzioni animate con contenuti più maturi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mWC77mH2Nv7KMP8vGzwwCVkhsWu.jpg"
     },
     {
-      "title": "House of the Dragon – Stagione 3",
+      "title": "House of the Dragon S3",
       "type": "tv",
       "platform": "Sky",
       "target": "Millennials",
       "rank": 1,
-      "description": "Il ritorno altamente atteso del prequel di Game of Thrones, un franchise profondamente radicato nella cultura pop Millennial. I suoi complessi intrighi politici, i draghi e la scala epica assicurano discussioni e visualizzazioni diffuse.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Reacher S4",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "target": "Millennials",
-      "rank": 2,
-      "description": "Un thriller ricco di azione basato su romanzi popolari, che attrae i Millennials che apprezzano serie d'azione grintose e intelligenti con un protagonista forte e carismatico. La sua qualità costante e le trame coinvolgenti alimentano la discussione.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Lioness S3",
-      "type": "tv",
-      "platform": "Sky",
-      "target": "Millennials",
-      "rank": 3,
-      "description": "Un thriller di spionaggio con una forte protagonista femminile e un cast di attori acclamati. La sua trama intensa, l'intrigo internazionale e l'attenzione ai personaggi complessi risuonano con i Millennials che cercano drammi sofisticati e coinvolgenti.",
+      "description": "Il prequel de 'Il Trono di Spade' continua a essere un evento televisivo imperdibile per i Millennials, che hanno seguito la saga originale e sono attratti dalle epiche battaglie fantasy e dagli intrighi politici.",
       "posterUrl": ""
     },
     {
@@ -123,8 +105,8 @@
       "type": "tv",
       "platform": "Apple TV+",
       "target": "Millennials",
-      "rank": 4,
-      "description": "Conosciuta per il suo umorismo commovente, la prospettiva ottimistica e i personaggi ben sviluppati, questa serie offre conforto e ispirazione, rendendola una delle preferite tra i Millennials che apprezzano storie positive con profondità.",
+      "rank": 2,
+      "description": "L'amatissima serie torna con la sua quarta stagione, offrendo ai Millennials una combinazione di umorismo intelligente, messaggi positivi e personaggi ben sviluppati, perfetti per una visione rilassante e ispiratrice.",
       "posterUrl": ""
     },
     {
@@ -132,54 +114,72 @@
       "type": "tv",
       "platform": "Disney+",
       "target": "Millennials",
-      "rank": 5,
-      "description": "Un thriller psicologico di Bret Easton Ellis e Ryan Murphy, la sua ambientazione anni '80 e la trama oscura e intricata attraggono i Millennials che apprezzano gli adattamenti letterari, i registi di culto e le estetiche nostalgiche con un tocco maturo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/876V23IJpddyLcO1wvJUdSft585.jpg"
+      "rank": 3,
+      "description": "Basata sul romanzo di Bret Easton Ellis e ambientata negli anni '80, questa serie thriller psicologica attrae i Millennials per la sua atmosfera nostalgica, la trama complessa e il tocco autoriale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg"
     },
     {
-      "title": "Contagion",
-      "type": "movie",
-      "platform": "Netflix",
+      "title": "Dark Matter S2",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "target": "Millennials",
+      "rank": 4,
+      "description": "La seconda stagione di questa serie sci-fi, basata su un romanzo di Blake Crouch, è apprezzata dai Millennials per le sue trame intricate, i concetti fantascientifici e le riflessioni sull'identità e le scelte di vita.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Atomic",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Millennials",
+      "rank": 5,
+      "description": "Questa serie thriller/comedy, ispirata a un libro sul contrabbando di uranio, offre una trama avvincente e un mix di generi che cattura l'attenzione dei Millennials in cerca di intrattenimento sofisticato e ricco di suspense.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2yhMWAmzKcCTgTSh1UkdFxTMLke.jpg"
+    },
+    {
+      "title": "Twisted Metal S1-2",
+      "type": "tv",
+      "platform": "Sky",
       "target": "Millennials",
       "rank": 6,
-      "description": "Un thriller medico che ha acquisito nuova rilevanza negli ultimi anni. La sua rappresentazione realistica di una pandemia globale e della corsa scientifica contro il tempo attrae l'interesse dei Millennials per i drammi attuali e ad alto rischio.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uBbAjo0SRrPaiQkQflLWdUUQZiM.jpg"
+      "description": "Tratta dall'omonimo videogioco per PlayStation, questa serie post-apocalittica ha un forte richiamo nostalgico per i Millennials che sono cresciuti con il gioco, combinando azione e umorismo nero.",
+      "posterUrl": ""
     },
     {
-      "title": "Zodiac",
-      "type": "movie",
+      "title": "Cent'anni di solitudine Parte 2",
+      "type": "tv",
       "platform": "Netflix",
       "target": "Millennials",
       "rank": 7,
-      "description": "Un thriller true-crime basato su eventi reali, la sua intricata indagine e la narrazione ricca di suspense attraggono il forte interesse dei Millennials per i documentari true-crime e i thriller psicologici.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yzIN9T4aRacsdoFiaHEUYRYFWa2.jpg"
+      "description": "L'adattamento del capolavoro letterario di Gabriel García Márquez attrae i Millennials con un interesse per la letteratura e le storie complesse e ricche di significato culturale.",
+      "posterUrl": ""
     },
     {
-      "title": "Oppenheimer",
+      "title": "Generazione 56K",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 8,
+      "description": "Questa serie italiana è specificamente incentrata sulle esperienze dei Millennials, esplorando il loro rapporto con l'amore e la tecnologia tra flashback negli anni '90 e il presente, creando un forte senso di identificazione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/S9tTvVxHpzkKsH45jpitzFa6lz.jpg"
+    },
+    {
+      "title": "The Last House",
+      "type": "movie",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 9,
+      "description": "Questo horror psicologico, con attori come Anne Hathaway e Ewan McGregor, si distingue per un terrore più strisciante e autoriale, attraendo i Millennials che cercano film horror più sofisticati e meno basati su jump scare.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tz3Afb8yxSrYmbfHGGRsJ6HvwRO.jpg"
+    },
+    {
+      "title": "Robin Hood – Il prezzo del sangue",
       "type": "movie",
       "platform": "Cinema",
       "target": "Millennials",
-      "rank": 8,
-      "description": "Un dramma storico acclamato dalla critica su un momento cruciale della storia. La sua profondità intellettuale, la splendida cinematografia e le forti interpretazioni lo rendono un film imperdibile per i Millennials che apprezzano la qualità cinematografica e le narrazioni storiche.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fRtaxfyynWMJI6DhejyA6JOzVTB.jpg"
-    },
-    {
-      "title": "Chopin – Notturno a Parigi",
-      "type": "movie",
-      "platform": "Sky",
-      "target": "Millennials",
-      "rank": 9,
-      "description": "Un dramma storico biografico incentrato su un rinomato compositore. I suoi temi artistici e culturali attraggono i Millennials che apprezzano la narrazione sofisticata, il contesto storico e le narrazioni incentrate sui personaggi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ibhCjnwYJGcnaiOMU86vEgeE2Up.jpg"
-    },
-    {
-      "title": "The Last Sunrise - L'estate delle prime volte",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "target": "Millennials",
       "rank": 10,
-      "description": "Un dramma romantico che esplora temi di primo amore e superamento delle avversità. La sua profondità emotiva e la trama romantica relazionabile attraggono i Millennials in cerca di narrazioni toccanti e coinvolgenti incentrate sui personaggi.",
-      "posterUrl": ""
+      "description": "Una versione più cupa e adulta del mito di Robin Hood, interpretata da Hugh Jackman, offre ai Millennials un'interpretazione grintosa e drammatica di un personaggio classico, con temi di redenzione e vendetta.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/knUCsVWsLv5583lsvs2cP1VRrGx.jpg"
     }
   ]
 }
