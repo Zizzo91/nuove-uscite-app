@@ -1,172 +1,172 @@
 {
-  "date": "21/08/2026, 09:33:40",
+  "date": "22/08/2026, 09:22:05",
   "data": [
-    {
-      "title": "Sterling Point - l'isola dei segreti: Season 1",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 1,
-      "description": "Una serie originale Prime che segue la storia di formazione di una diciassettenne che eredita un'isola misteriosa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eRJmTnQrdmodTARDmI3z2tRFEZU.jpg"
-    },
     {
       "title": "Gunner",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Un film che si posiziona tra i più visti su Prime Video.",
+      "rank": 1,
+      "description": "Un film d'azione ad alto ritmo con un protagonista determinato a raggiungere il suo obiettivo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cS2TXN1YlrCvkZmMxaevC1ZKtEz.jpg"
     },
     {
-      "title": "Reacher: Season 4",
+      "title": "Reacher",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "La quarta stagione della serie d'azione basata sui romanzi di Lee Child.",
-      "posterUrl": ""
+      "rank": 2,
+      "description": "Un ex investigatore militare si trova coinvolto in cospirazioni e misteri in ogni città che visita.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg"
     },
     {
       "title": "Anaconda",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Un film che continua a essere popolare sulla piattaforma.",
+      "rank": 3,
+      "description": "Un gruppo di documentaristi si avventura nella giungla amazzonica alla ricerca di un gigantesco anaconda.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qp8JklgbpFFXmKZv78kde1duVO2.jpg"
+    },
+    {
+      "title": "Sterling Point",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 4,
+      "description": "Una serie che segue misteri e segreti in una località remota.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eRJmTnQrdmodTARDmI3z2tRFEZU.jpg"
     },
     {
       "title": "Spider-Man: No Way Home",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 5,
-      "description": "Il popolare film di supereroi che rimane tra i più visti.",
+      "description": "Spider-Man affronta le conseguenze della sua identità rivelata, con l'aiuto di alleati inaspettati.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nt4ydhdArDsjinTrV1lct0pYipA.jpg"
     },
     {
-      "title": "Novak Djokovic: il lupo d'inverno",
-      "type": "movie",
+      "title": "Off Campus",
+      "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 6,
-      "description": "Un documentario che ripercorre la carriera del grande tennista Novak Djokovic.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4VvaFy9Z5C879akw3XJ31XK4lWO.jpg"
+      "description": "Una serie che esplora la vita di studenti universitari fuori dal campus.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
     },
     {
       "title": "Cena di classe",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 7,
-      "description": "Un film che figura nella classifica dei più popolari.",
+      "description": "Una commedia italiana che racconta una riunione di ex compagni di classe.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tq62SABP6986u7fYJ39vnexjgFU.jpg"
-    },
-    {
-      "title": "The Last Sunrise – L'estate delle prime volte",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Un dramma romantico su una studentessa universitaria che si innamora durante l'estate.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pego3yEZ5SuGvRjESKAguL4Wu7M.jpg"
     },
     {
       "title": "Good Fortune",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Una commedia che vede un lavoratore precario e un ricco investitore.",
+      "rank": 8,
+      "description": "Un film che esplora il tema della fortuna e del destino nella vita dei personaggi.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/irOghTy4rKqc4LtKYsB7eCeETz9.jpg"
     },
     {
-      "title": "The Mentalist",
-      "type": "tv",
+      "title": "Titanic 666",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "Un sequel horror del Titanic, dove un nuovo viaggio si trasforma in un incubo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/16KbLINXQRvIZi9cN3pTaaDG3qI.jpg"
+    },
+    {
+      "title": "Masters of the Universe",
+      "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Una serie TV poliziesca molto apprezzata dal pubblico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg"
+      "description": "Un'avventura fantasy basata sui celebri personaggi, con battaglie epiche tra il bene e il male.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wCCDyvRYdXApS4EiQD72kpsHfKj.jpg"
+    },
+    {
+      "title": "F1",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 1,
+      "description": "Un film che porta gli spettatori nel mondo ad alta velocità della Formula 1.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
       "title": "Ted Lasso",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 1,
-      "description": "La pluripremiata serie comedy su un allenatore di football americano che allena una squadra di calcio inglese.",
+      "rank": 2,
+      "description": "Un allenatore di football americano viene assunto per allenare una squadra di calcio inglese, nonostante la sua inesperienza.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
     },
     {
-      "title": "Dark Matter: Season 2",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 2,
-      "description": "La seconda stagione della serie thriller di fantascienza.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Las Azules: Season 2",
-      "type": "tv",
+      "title": "The Dink",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 3,
-      "description": "La seconda stagione della serie storica sulle prime donne poliziotto a Città del Messico negli anni '70.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Lucky",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Una serie popolare sulla piattaforma Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5TO5TP3Q6sVDw2NQ5eZ9OZ56MjB.jpg"
+      "description": "Una commedia che segue le vicende di un gruppo di amici e le loro avventure.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vTfsGRuVSxVoPobNnviYhJ4JrC5.jpg"
     },
     {
       "title": "Silo",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 5,
-      "description": "La serie distopica di fantascienza che ha riscosso successo.",
+      "rank": 4,
+      "description": "In un futuro distopico, l'umanità vive sottoterra in un gigantesco silo, con regole rigide e segreti da scoprire.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
     },
     {
-      "title": "Acquasilente",
+      "title": "Tetris",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "La storia vera e avvincente di come il videogioco Tetris è diventato un fenomeno globale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg"
+    },
+    {
+      "title": "Lucky",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 6,
-      "description": "Una serie animata che segue le avventure di tre fratelli e il loro saggio vicino panda.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eJHIYHEhAzEN7rNWyN8iHqe5BM0.jpg"
+      "description": "Una serie che segue le vicende di un personaggio che sembra avere una fortuna sfacciata, ma con risvolti inaspettati.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5TO5TP3Q6sVDw2NQ5eZ9OZ56MjB.jpg"
+    },
+    {
+      "title": "The Gorge",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "Un thriller d'azione ambientato in un futuro distopico, con una storia d'amore e pericoli mortali.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+    },
+    {
+      "title": "Napoleon",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Un'epica biografia che ripercorre l'ascesa e la caduta dell'imperatore francese Napoleone Bonaparte.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg"
+    },
+    {
+      "title": "Eternity",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Un film che esplora i temi dell'amore, della perdita e della ricerca dell'immortalità.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yz01yDGw9STzqTE8kSmRMbOiLo7.jpg"
     },
     {
       "title": "The Family Plan",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Un film d'azione-commedia disponibile su Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9LAjGL88QH5tpcq9veT7gG3ildP.jpg"
-    },
-    {
-      "title": "Slow Horses",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Una serie thriller di spionaggio.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
-    },
-    {
-      "title": "Bad Monkey",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Una serie drammatica che figura tra le novità di Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/y724Puta1j072kFK1avCRvIIR8r.jpg"
-    },
-    {
-      "title": "Il codice dei campioni",
-      "type": "tv",
-      "platform": "Apple TV+",
       "rank": 10,
-      "description": "Una serie documentario che esplora il mondo dello sport.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2yqK042BK2pouuyfU3gUdrIzIne.jpg"
+      "description": "Una commedia d'azione su un ex assassino che cerca di proteggere la sua famiglia ignara.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9LAjGL88QH5tpcq9veT7gG3ildP.jpg"
     },
     {
       "title": "The Beekeeper",
       "type": "movie",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Un film d'azione thriller che segue un uomo in cerca di vendetta.",
+      "description": "Un ex agente di un'organizzazione segreta si vendica di coloro che hanno ucciso la sua amica.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ctJLZO2E4gWkSwXG06y9bE2jfTN.jpg"
     },
     {
@@ -174,152 +174,152 @@
       "type": "tv",
       "platform": "Netflix",
       "rank": 2,
-      "description": "Una popolare serie drammatica che continua le vicende della protagonista.",
-      "posterUrl": ""
-    },
-    {
-      "title": "The Last House",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "Un film thriller che si posiziona tra i più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
-    },
-    {
-      "title": "My Brilliant Career: Season 1",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "Una nuova serie che ha rapidamente scalato le classifiche di popolarità.",
-      "posterUrl": ""
-    },
-    {
-      "title": "MOURINHO: Season 1",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "Una serie incentrata sulla vita e la carriera del celebre allenatore di calcio José Mourinho.",
+      "description": "Una ragazza orfana si trasferisce in una nuova famiglia numerosa in una piccola città.",
       "posterUrl": ""
     },
     {
       "title": "To The Max",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 6,
-      "description": "Un film che sta riscuotendo successo sulla piattaforma.",
+      "rank": 3,
+      "description": "Un film d'azione ad alta tensione che segue una missione pericolosa.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gJo7w34ahFZi6p4UIBALjKNxIz9.jpg"
     },
     {
-      "title": "The Bombing of Pan Am 103: Limited Series",
+      "title": "My Brilliant Career: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 7,
-      "description": "Una serie limitata che esplora gli eventi legati all'attentato di Lockerbie.",
+      "rank": 4,
+      "description": "Una serie che esplora le sfide e i trionfi di una giovane donna che cerca di farsi strada nel mondo del lavoro.",
       "posterUrl": ""
     },
     {
-      "title": "I Will Find You: Limited Series",
+      "title": "The Last House",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "Un thriller psicologico ambientato in una casa isolata con segreti oscuri.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
+    },
+    {
+      "title": "MOURINHO: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "Una serie avvincente che racconta l'incubo di un genitore.",
+      "rank": 6,
+      "description": "Un documentario che segue la carriera e la vita del celebre allenatore di calcio José Mourinho.",
       "posterUrl": ""
     },
     {
       "title": "Don't Say Good Luck",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 9,
-      "description": "Un film che si mantiene nella top 10 di Netflix Italia.",
+      "rank": 7,
+      "description": "Una commedia romantica che esplora le superstizioni e il destino in amore.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg"
     },
     {
-      "title": "Our Sticky Love: Limited Series",
+      "title": "The Bombing of Pan Am 103: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Una serie limitata che ricostruisce gli eventi e le indagini sull'attentato al volo Pan Am 103.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Um Pai em Apuros",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "Una commedia brasiliana su un padre che si trova in situazioni difficili per la sua famiglia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7dBVGQGV3H4mgMxN0He8Ry2MycZ.jpg"
+    },
+    {
+      "title": "I Will Find You: Limited Series",
       "type": "tv",
       "platform": "Netflix",
       "rank": 10,
-      "description": "Una serie limitata che ha catturato l'attenzione del pubblico.",
+      "description": "Un thriller avvincente su una ricerca disperata per trovare una persona scomparsa.",
       "posterUrl": ""
     },
     {
-      "title": "House of the Dragon: Season 3",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 1,
-      "description": "La terza stagione dell'attesissima serie fantasy, disponibile on demand.",
-      "posterUrl": ""
-    },
-    {
-      "title": "The Walking Dead: Dead City: Season 3",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 2,
-      "description": "Lo spin-off della serie cult con Maggie e Negan, con nuovi episodi disponibili.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Twisted Metal",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 3,
-      "description": "La serie basata sul celebre videogioco PlayStation, ambientata in un'America post-apocalittica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg"
-    },
-    {
-      "title": "M - Il Figlio del Secolo",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 4,
-      "description": "Una serie Sky Original che racconta la nascita del fascismo in Italia e l'ascesa di Benito Mussolini.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/m3ntFWL8nT1MOTji7HsqvHonjeI.jpg"
-    },
-    {
-      "title": "Gomorra: Le origini",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 5,
-      "description": "Il prequel della storica saga Sky Original, che esplora la perdita dell'innocenza del giovane Pietro Savastano.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
-    },
-    {
-      "title": "Diavoli",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 6,
-      "description": "Un thriller finanziario che esplora i segreti e i giochi di potere dietro la crisi finanziaria europea.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/itHN6LpHWnWVUZ6qSCAKJbEyvcQ.jpg"
-    },
-    {
-      "title": "Romanzo Criminale - La Serie",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 7,
-      "description": "Una serie crime ambientata tra gli anni '70 e '80, che narra l'ascesa e la caduta della Banda della Magliana.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4Ib3nB4kuHoqjtUC8og4270oBWt.jpg"
-    },
-    {
-      "title": "Gangs of London: Season 3",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 8,
-      "description": "Il pluripremiato action thriller Sky Original con lotte per il potere nella capitale britannica.",
-      "posterUrl": ""
-    },
-    {
-      "title": "RFDS: Medici dal cielo: Season 3",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 9,
-      "description": "Il medical drama che segue le vite e i soccorsi del Royal Flying Doctor Service nell'outback australiano.",
-      "posterUrl": ""
-    },
-    {
-      "title": "A Good Person",
+      "title": "Il Dio dell'Amore",
       "type": "movie",
       "platform": "Sky",
+      "rank": 1,
+      "description": "Una commedia romantica che esplora le complessità dell'amore e delle relazioni.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iQYcXLE9j3GHo8JfuMh0Wiew7Uv.jpg"
+    },
+    {
+      "title": "Dirty Angels",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 2,
+      "description": "Un film d'azione che segue un gruppo di soldati in una missione pericolosa.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1y3TG8N8zwwMxqh0qzdyDs3IyCq.jpg"
+    },
+    {
+      "title": "To Catch a Killer",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 3,
+      "description": "Un thriller poliziesco su un detective che cerca di catturare un serial killer.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mQ7GGNpxcno8S1DsVvgJY7l5JA.jpg"
+    },
+    {
+      "title": "Anna",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "In un mondo post-apocalittico, una ragazza cerca disperatamente suo fratello minore.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mPvVpHdsqWnUbQDGOKNE5avPtIy.jpg"
+    },
+    {
+      "title": "Eagles of the Republic",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 5,
+      "description": "Un film drammatico che racconta la storia di un gruppo di piloti militari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h3nqTUmseF8KtTuF24iWcKueZ57.jpg"
+    },
+    {
+      "title": "A Boss in the Living Room",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Una commedia italiana su un boss mafioso che si nasconde nella casa di una famiglia normale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2bBb7H7LMycRYb3omVbzlEoxihR.jpg"
+    },
+    {
+      "title": "Mindcage",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 7,
+      "description": "Un thriller psicologico in cui due detective devono chiedere aiuto a un serial killer per catturarne un altro.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bZWlihGHWYSqXTL0qEvrQnkFgEC.jpg"
+    },
+    {
+      "title": "Chopin, a Sonata in Paris",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 8,
+      "description": "Un dramma biografico che esplora la vita e la musica del compositore Frédéric Chopin a Parigi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ibhCjnwYJGcnaiOMU86vEgeE2Up.jpg"
+    },
+    {
+      "title": "The Eyes of Others",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 9,
+      "description": "Un thriller che gioca con i temi della sorveglianza e della paranoia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xyresHnqdU1M2iPfGzRFdWwDcku.jpg"
+    },
+    {
+      "title": "Chicago P.D.",
+      "type": "tv",
+      "platform": "Sky",
       "rank": 10,
-      "description": "Un film Sky Original con Florence Pugh e Morgan Freeman, che racconta la storia di una donna che cerca di ricostruire la sua vita.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/69NQCJN6Eg8ao3GN5zOIhX1HeBT.jpg"
+      "description": "Una squadra di agenti di polizia d'élite combatte il crimine per le strade di Chicago.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bez40PgT36RUu4gstD2A6GSM0tP.jpg"
     }
   ]
 }
