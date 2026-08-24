@@ -1,115 +1,139 @@
 {
-  "date": "23/08/2026, 09:23:53",
+  "date": "24/08/2026, 09:48:27",
   "data": [
     {
       "title": "Gunner",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Un film, probabilmente un film d'azione.",
+      "description": "Un film d'azione.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cS2TXN1YlrCvkZmMxaevC1ZKtEz.jpg"
-    },
-    {
-      "title": "Reacher",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Una serie TV basata sui romanzi di Jack Reacher.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg"
     },
     {
       "title": "GOAT",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Un film, il titolo suggerisce un tema sportivo o un tema 'Greatest Of All Time'.",
+      "rank": 2,
+      "description": "Un film, probabilmente un dramma sportivo o una commedia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2iobI8LOcnu3nyCSgmqux2dtkrV.jpg"
-    },
-    {
-      "title": "Sterling Point",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Una serie TV, descritta come 'l'isola dei segreti'.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/eRJmTnQrdmodTARDmI3z2tRFEZU.jpg"
     },
     {
       "title": "Cena di classe",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Un film, probabilmente una commedia o un dramma su una riunione di classe.",
+      "rank": 3,
+      "description": "Un film commedia su una riunione di classe.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tq62SABP6986u7fYJ39vnexjgFU.jpg"
-    },
-    {
-      "title": "Operazione Speciale: Lioness",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Una serie TV, un thriller di spionaggio.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ffsmgdEdbY0JLThEXK2L5T3MsDc.jpg"
     },
     {
       "title": "Anaconda",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Un classico film horror-avventura.",
+      "rank": 4,
+      "description": "Un film horror-avventura su un serpente gigante.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qp8JklgbpFFXmKZv78kde1duVO2.jpg"
-    },
-    {
-      "title": "Off Campus",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Una serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
     },
     {
       "title": "Spider-Man: No Way Home",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Un popolare film di supereroi.",
+      "rank": 5,
+      "description": "Un film di supereroi del Marvel Cinematic Universe.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nt4ydhdArDsjinTrV1lct0pYipA.jpg"
     },
     {
-      "title": "Masters of the Universe",
+      "title": "Good Fortune",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 10,
-      "description": "Un film, probabilmente un film fantasy/azione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wCCDyvRYdXApS4EiQD72kpsHfKj.jpg"
+      "rank": 6,
+      "description": "Un film commedia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/irOghTy4rKqc4LtKYsB7eCeETz9.jpg"
     },
     {
-      "title": "Silo",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 1,
-      "description": "Una serie drammatica di fantascienza distopica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
-    },
-    {
-      "title": "F1 The Movie",
+      "title": "Titanic 666",
       "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 2,
-      "description": "Un film legato alla Formula 1.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
+      "platform": "Amazon Prime Video",
+      "rank": 7,
+      "description": "Un film horror.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/16KbLINXQRvIZi9cN3pTaaDG3qI.jpg"
+    },
+    {
+      "title": "Reacher",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 8,
+      "description": "Una serie d'azione e crimine basata sui romanzi di Lee Child.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg"
+    },
+    {
+      "title": "Sterling Point",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "Una nuova serie, probabilmente un thriller o un dramma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eRJmTnQrdmodTARDmI3z2tRFEZU.jpg"
+    },
+    {
+      "title": "Off Campus",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 10,
+      "description": "Una serie, probabilmente un dramma o una commedia ambientata in un'università.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
     },
     {
       "title": "Ted Lasso",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Una serie comica acclamata dalla critica su un allenatore di calcio.",
+      "rank": 1,
+      "description": "Una serie comica su un allenatore di football americano assunto per gestire una squadra di calcio inglese.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
+    },
+    {
+      "title": "Silo",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 2,
+      "description": "Una serie di fantascienza distopica.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
+    },
+    {
+      "title": "Lucky",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 3,
+      "description": "Una serie d'azione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5TO5TP3Q6sVDw2NQ5eZ9OZ56MjB.jpg"
+    },
+    {
+      "title": "Slow Horses",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 4,
+      "description": "Una serie thriller di spionaggio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
+    },
+    {
+      "title": "Sugar",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Una serie poliziesca.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
+    },
+    {
+      "title": "F1 The Movie",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 6,
+      "description": "Un film sulla Formula 1.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
       "title": "The Dink",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 4,
+      "rank": 7,
       "description": "Un film commedia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/vTfsGRuVSxVoPobNnviYhJ4JrC5.jpg"
     },
@@ -117,209 +141,185 @@
       "title": "The Gorge",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 5,
+      "rank": 8,
       "description": "Un film thriller.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
-    },
-    {
-      "title": "Lucky",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Una serie TV d'azione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5TO5TP3Q6sVDw2NQ5eZ9OZ56MjB.jpg"
     },
     {
       "title": "Tetris",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Un film thriller sulla creazione del gioco Tetris.",
+      "rank": 9,
+      "description": "Un film drammatico biografico sulla creazione del gioco Tetris.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg"
-    },
-    {
-      "title": "Slow Horses",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Una serie TV thriller di spionaggio.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
     },
     {
       "title": "Napoleon",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Un film drammatico storico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg"
-    },
-    {
-      "title": "Sugar",
-      "type": "tv",
-      "platform": "Apple TV+",
       "rank": 10,
-      "description": "Una serie TV gialla e investigativa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
-    },
-    {
-      "title": "The Beekeeper",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 1,
-      "description": "Un thriller d'azione su una brutale campagna di vendetta di un uomo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ctJLZO2E4gWkSwXG06y9bE2jfTN.jpg"
+      "description": "Un film drammatico storico su Napoleone Bonaparte.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg"
     },
     {
       "title": "My Life With the Walter Boys: Season 3",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 2,
-      "description": "Una serie drammatica romantica su una ragazza che si trasferisce in una nuova città e vive con una grande famiglia di ragazzi.",
+      "rank": 1,
+      "description": "Una serie drammatica che segue una ragazza adolescente che si trasferisce in una grande famiglia di ragazzi dopo una tragedia.",
       "posterUrl": ""
-    },
-    {
-      "title": "The Last House",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "Un film, probabilmente un thriller o un horror, dato il titolo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
     },
     {
       "title": "My Brilliant Career: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 4,
-      "description": "Una serie TV, probabilmente un dramma, dato il titolo.",
+      "rank": 2,
+      "description": "Una serie che racconta la storia di una giovane donna che naviga tra le sue ambizioni e la sua vita personale.",
       "posterUrl": ""
-    },
-    {
-      "title": "Extinction",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "Un film, probabilmente di fantascienza o un thriller.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zPCCEkbyn5tzM2EMN7peYx9QFtv.jpg"
     },
     {
       "title": "MOURINHO: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 6,
+      "rank": 3,
       "description": "Una serie documentario sul famoso allenatore di calcio José Mourinho.",
       "posterUrl": ""
-    },
-    {
-      "title": "Nando Between Two Worlds - A Sintonia Film",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "Un film, probabilmente un dramma o un commento sociale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/15yM06ehNaDvaOosmNbUEwgetWf.jpg"
     },
     {
       "title": "The Bombing of Pan Am 103: Limited Series",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "Una serie limitata sull'attentato di Lockerbie.",
+      "rank": 4,
+      "description": "Una miniserie sul bombardamento di Lockerbie.",
       "posterUrl": ""
-    },
-    {
-      "title": "Edge of Tomorrow",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 9,
-      "description": "Un film d'azione di fantascienza con Tom Cruise.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/AbzpU4ookiyWFmiq1bTZwjNl7Y1.jpg"
     },
     {
       "title": "I Will Find You: Limited Series",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 10,
-      "description": "Una serie limitata, probabilmente un thriller o un dramma.",
+      "rank": 5,
+      "description": "Una miniserie sulla disperata ricerca di un genitore per il proprio figlio.",
       "posterUrl": ""
     },
     {
-      "title": "Hanno ucciso l'Uomo Ragno - La leggendaria storia degli 883",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 1,
-      "description": "Una serie Sky Original sulla storia del gruppo musicale italiano 883.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/q7AkRxRGiD2s0lO8xY6RbVSPWFl.jpg"
+      "title": "The Beekeeper",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Un thriller d'azione su una brutale campagna di vendetta di un uomo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ctJLZO2E4gWkSwXG06y9bE2jfTN.jpg"
     },
     {
-      "title": "House of the Dragon",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 2,
-      "description": "Una popolare serie drammatica fantasy, prequel di Game of Thrones.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
+      "title": "The Last House",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "Un film thriller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
     },
     {
-      "title": "I delitti del Barlume",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 3,
-      "description": "Una serie italiana di commedia-giallo investigativa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bF6kBL1AMldPVhihMOelAbHeU2V.jpg"
+      "title": "Extinction",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Un film thriller di fantascienza.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zPCCEkbyn5tzM2EMN7peYx9QFtv.jpg"
     },
     {
-      "title": "M - Il Figlio del Secolo",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 4,
-      "description": "Una serie Sky Original sull'ascesa al potere di Benito Mussolini.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/m3ntFWL8nT1MOTji7HsqvHonjeI.jpg"
+      "title": "Nando Between Two Worlds - A Sintonia Film",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "Un film legato all'universo di 'Sintonia'.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/15yM06ehNaDvaOosmNbUEwgetWf.jpg"
     },
     {
-      "title": "Diavoli",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 5,
-      "description": "Una serie thriller finanziaria Sky Original.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/itHN6LpHWnWVUZ6qSCAKJbEyvcQ.jpg"
+      "title": "Edge of Tomorrow",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 10,
+      "description": "Un film d'azione di fantascienza in cui un soldato rivive lo stesso giorno più e più volte.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/AbzpU4ookiyWFmiq1bTZwjNl7Y1.jpg"
     },
     {
       "title": "X Factor Audizioni",
       "type": "tv",
       "platform": "Sky",
-      "rank": 6,
+      "rank": 1,
       "description": "La fase delle audizioni del popolare talent show musicale.",
       "posterUrl": ""
     },
     {
-      "title": "Cucine da incubo",
+      "title": "Bruno Barbieri: 4 Hotel",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 2,
+      "description": "Un reality show in cui i proprietari di hotel competono tra loro.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pq7F4Wx36DAap7ikO5eBrY52G3I.jpg"
+    },
+    {
+      "title": "GialappaShow",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 3,
+      "description": "Uno show comico con la Gialappa's Band.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gczG92zbCmVDI2ahOpchGzr6895.jpg"
+    },
+    {
+      "title": "Masterchef Italia",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "La versione italiana del popolare concorso di cucina.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wD8S0XLIrHsKzGuw5xPMjDCYYbq.jpg"
+    },
+    {
+      "title": "Pechino Express",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 5,
+      "description": "Un reality show d'avventura.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/97WBjxeRtwLwapHeHTig7Xt8xMd.jpg"
+    },
+    {
+      "title": "House of the Dragon",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Una serie drammatica fantasy, prequel di Game of Thrones.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
+    },
+    {
+      "title": "Euphoria",
       "type": "tv",
       "platform": "Sky",
       "rank": 7,
-      "description": "La versione italiana di 'Kitchen Nightmares' con lo chef Antonino Cannavacciuolo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/10XpD4aEOExWcOg9bxCA28NNsMQ.jpg"
+      "description": "Una serie drammatica adolescenziale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg"
     },
     {
-      "title": "The Pitt",
+      "title": "The Last of Us",
       "type": "tv",
       "platform": "Sky",
       "rank": 8,
-      "description": "Una serie drammatica medica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
+      "description": "Una serie drammatica post-apocalittica basata sul videogioco.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u0xTEHOd8pw6SLGRL5fZyDpoaew.jpg"
     },
     {
-      "title": "I Peccatori",
-      "type": "movie",
+      "title": "Hanno ucciso l'uomo ragno",
+      "type": "tv",
       "platform": "Sky",
       "rank": 9,
-      "description": "Un film fanta-thriller.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gGhvLVcdWQanE1XuPkC3iE4PJN9.jpg"
+      "description": "Una serie sulla leggendaria storia della band italiana 883.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/q7AkRxRGiD2s0lO8xY6RbVSPWFl.jpg"
     },
     {
-      "title": "Operazione vendetta",
-      "type": "movie",
+      "title": "Gomorra: La serie",
+      "type": "tv",
       "platform": "Sky",
       "rank": 10,
-      "description": "Un film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9IoYsiQEUe50ViywjffKh5pUJqX.jpg"
+      "description": "Una serie drammatica criminale sulla Camorra napoletana.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg"
     }
   ]
 }
