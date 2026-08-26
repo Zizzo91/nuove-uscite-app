@@ -1,92 +1,92 @@
 {
-  "date": "25/08/2026, 09:34:41",
+  "date": "26/08/2026, 09:36:12",
   "data": [
-    {
-      "title": "Reacher",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 1,
-      "description": "Basata sui romanzi di Lee Child, la serie segue le avventure dell'ex investigatore militare Jack Reacher.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg"
-    },
     {
       "title": "GOAT",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Un film drammatico.",
+      "rank": 1,
+      "description": "A movie currently in the top 10 on Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2iobI8LOcnu3nyCSgmqux2dtkrV.jpg"
     },
     {
       "title": "Gunner",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Un film d'azione.",
+      "rank": 2,
+      "description": "A movie currently in the top 10 on Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cS2TXN1YlrCvkZmMxaevC1ZKtEz.jpg"
+    },
+    {
+      "title": "Cena di classe",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 3,
+      "description": "A movie currently in the top 10 on Amazon Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tq62SABP6986u7fYJ39vnexjgFU.jpg"
     },
     {
       "title": "Anaconda",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 4,
-      "description": "Un classico film horror-avventura con un gigantesco serpente.",
+      "description": "A movie currently in the top 10 on Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qp8JklgbpFFXmKZv78kde1duVO2.jpg"
     },
     {
-      "title": "Cena di classe",
+      "title": "Good Fortune",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 5,
-      "description": "Una commedia italiana.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tq62SABP6986u7fYJ39vnexjgFU.jpg"
+      "description": "A movie currently in the top 10 on Amazon Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/irOghTy4rKqc4LtKYsB7eCeETz9.jpg"
     },
     {
       "title": "Spider-Man: No Way Home",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 6,
-      "description": "Peter Parker deve affrontare le conseguenze della rivelazione della sua identità come Spider-Man.",
+      "description": "A popular superhero movie.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nt4ydhdArDsjinTrV1lct0pYipA.jpg"
-    },
-    {
-      "title": "Titanic 666",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Un film horror che immagina una nuova tragedia sul mare.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/16KbLINXQRvIZi9cN3pTaaDG3qI.jpg"
-    },
-    {
-      "title": "Good Fortune",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Un film che esplora il tema della fortuna.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/irOghTy4rKqc4LtKYsB7eCeETz9.jpg"
     },
     {
       "title": "Sniper: No Nation",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Un film d'azione sulla guerra e i cecchini.",
+      "rank": 7,
+      "description": "A movie currently in the top 10 on Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5g2JfYILQ8rNPK6IR9zvfoR1kDF.jpg"
     },
     {
-      "title": "Masters of the Universe",
+      "title": "Titanic 666",
       "type": "movie",
       "platform": "Amazon Prime Video",
+      "rank": 8,
+      "description": "A movie currently in the top 10 on Amazon Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/16KbLINXQRvIZi9cN3pTaaDG3qI.jpg"
+    },
+    {
+      "title": "Sterling Point",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 9,
+      "description": "A TV series currently in the top 10 on Amazon Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eRJmTnQrdmodTARDmI3z2tRFEZU.jpg"
+    },
+    {
+      "title": "Reacher",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Un film basato sull'iconica serie di giocattoli e cartoni animati.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wCCDyvRYdXApS4EiQD72kpsHfKj.jpg"
+      "description": "An action crime TV series, an Amazon Original.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg"
     },
     {
       "title": "Ted Lasso",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "Una commedia sportiva che segue un allenatore di football americano assunto per allenare una squadra di calcio inglese.",
+      "description": "A critically acclaimed comedy series.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
     },
     {
@@ -94,7 +94,7 @@
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 2,
-      "description": "In una società sotterranea, una ribelle lotta per ottenere risposte e la verità vedrà la luce.",
+      "description": "A popular sci-fi series.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
     },
     {
@@ -102,7 +102,7 @@
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 3,
-      "description": "Quando un colpo multimilionario va storto, una truffatrice è costretta alla fuga e a fare i conti con il suo passato.",
+      "description": "An action series.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5TO5TP3Q6sVDw2NQ5eZ9OZ56MjB.jpg"
     },
     {
@@ -110,7 +110,7 @@
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 4,
-      "description": "Una brillante saga di spionaggio che segue una squadra di agenti dell'MI5 emarginati.",
+      "description": "A thriller series.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
     },
     {
@@ -118,208 +118,208 @@
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 5,
-      "description": "Un giallo drammatico.",
+      "description": "A mystery series.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
     },
     {
-      "title": "Shrinking",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Una commedia che segue un terapista in lutto che inizia a dire ai suoi pazienti esattamente cosa pensa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
-    },
-    {
-      "title": "Scissione",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Un thriller psicologico in cui i ricordi di lavoro e personali sono chirurgicamente separati.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jnwqpZpmwvEo0CFLjDwfnnAf4ow.jpg"
-    },
-    {
-      "title": "F1: Il film",
+      "title": "F1 The Movie",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Un film d'azione incentrato sul mondo della Formula 1.",
+      "rank": 6,
+      "description": "An action movie about Formula 1.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
-      "title": "The Family Plan",
+      "title": "The Dink",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "A comedy movie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vTfsGRuVSxVoPobNnviYhJ4JrC5.jpg"
+    },
+    {
+      "title": "The Gorge",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "A thriller movie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+    },
+    {
+      "title": "Tetris",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 9,
-      "description": "Una commedia d'azione che segue un ex assassino costretto a fuggire con la sua ignara famiglia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9LAjGL88QH5tpcq9veT7gG3ildP.jpg"
+      "description": "A thriller movie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg"
     },
     {
-      "title": "Ghosted",
+      "title": "Napoleon",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "Un film d'azione romantico in cui un uomo scopre che la donna di cui si è innamorato è un agente segreto.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg"
+      "description": "A drama movie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg"
     },
     {
-      "title": "Outer Banks",
+      "title": "Outer Banks: Season 5",
       "type": "tv",
       "platform": "Netflix",
       "rank": 1,
-      "description": "John B e il suo affiatato gruppo di amici affrontano misteri e avventure mentre cercano un tesoro perduto.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
+      "description": "An adventure series following a group of teenagers on the hunt for treasure.",
+      "posterUrl": ""
     },
     {
-      "title": "Un sacrificio di sangue",
+      "title": "Blood Sacrifice: Season 1",
       "type": "tv",
       "platform": "Netflix",
       "rank": 2,
-      "description": "Dopo il brutale omicidio di due agenti, un tenace detective unisce a malincuore le forze con il padre ex poliziotto da cui si era allontanato per catturare l'assassino.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg"
+      "description": "A popular TV series currently trending on the platform.",
+      "posterUrl": ""
     },
     {
-      "title": "La mia brillante carriera",
+      "title": "My Brilliant Career: Season 1",
       "type": "tv",
       "platform": "Netflix",
       "rank": 3,
-      "description": "Inquieta, brillante e testarda, Sybylla è determinata a decidere della propria vita in autonomia in un periodo in cui ci si aspetta che si sistemi e trovi un marito.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/biuErDJnNoxKccF7NHGCRIyaGIo.jpg"
+      "description": "A trending TV series.",
+      "posterUrl": ""
     },
     {
-      "title": "Uno splendido errore",
+      "title": "My Life With the Walter Boys: Season 3",
       "type": "tv",
       "platform": "Netflix",
       "rank": 4,
-      "description": "Dopo un lutto, una ragazzina si abitua a vivere con la grande famiglia della sua tutrice legale in una piccola città e scopre nuove verità su amore, speranza e amicizia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oJ8SVHRe9ZzZMRSJAfebGdp78Yl.jpg"
+      "description": "A popular series, with a new season available.",
+      "posterUrl": ""
     },
     {
-      "title": "Ovunque tu sia",
+      "title": "I Will Find You: Limited Series",
       "type": "tv",
       "platform": "Netflix",
       "rank": 5,
-      "description": "Incarcerato ingiustamente per l'omicidio del figlio, un padre intraprende una disperata missione per ritrovarlo dopo aver scoperto che potrebbe essere ancora vivo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9dBe3lN3LfWyBAWGXflVEVCWrpt.jpg"
+      "description": "A riveting new limited series described as a parent's worst nightmare come to life.",
+      "posterUrl": ""
     },
     {
-      "title": "SEAL team",
+      "title": "MOURINHO: Season 1",
       "type": "tv",
       "platform": "Netflix",
       "rank": 6,
-      "description": "Questa serie drammatica militare segue una squadra di Navy SEAL.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg"
+      "description": "A trending TV series.",
+      "posterUrl": ""
     },
     {
-      "title": "Facing El Chapo",
-      "type": "movie",
+      "title": "Oasis: Season 1",
+      "type": "tv",
       "platform": "Netflix",
       "rank": 7,
-      "description": "Un film documentario che esplora la storia di El Chapo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iwCeOpuBtuTP1kLosqgniey5OvX.jpg"
+      "description": "A popular TV series.",
+      "posterUrl": ""
     },
     {
-      "title": "The Heat",
-      "type": "movie",
+      "title": "Seal Team: Season 1",
+      "type": "tv",
       "platform": "Netflix",
       "rank": 8,
-      "description": "Una commedia d'azione con Sandra Bullock e Melissa McCarthy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/lF53ZX8JtpFkGrSokxnnmn0pSMa.jpg"
-    },
-    {
-      "title": "The Last House",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 9,
-      "description": "Un thriller che vede una famiglia alle prese con eventi inquietanti in una casa isolata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
+      "description": "A trending TV series.",
+      "posterUrl": ""
     },
     {
       "title": "The Beekeeper",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 10,
-      "description": "Un film d'azione con Jason Statham.",
+      "rank": 9,
+      "description": "An action movie.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ctJLZO2E4gWkSwXG06y9bE2jfTN.jpg"
     },
     {
-      "title": "X Factor",
+      "title": "Facing El Chapo",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 10,
+      "description": "A popular movie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iwCeOpuBtuTP1kLosqgniey5OvX.jpg"
+    },
+    {
+      "title": "House of the Dragon",
       "type": "tv",
       "platform": "Sky",
       "rank": 1,
-      "description": "Il talent musicale che cerca la prossima stella della musica italiana.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tGIDuv3ySOGk8agG34fKMZI7BTB.jpg"
+      "description": "A popular fantasy drama series, available on Sky and NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     },
     {
-      "title": "MasterChef Italia",
+      "title": "The Rookie",
       "type": "tv",
       "platform": "Sky",
       "rank": 2,
-      "description": "Il celebre cooking show dove aspiranti chef si sfidano per il titolo di MasterChef.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wD8S0XLIrHsKzGuw5xPMjDCYYbq.jpg"
+      "description": "A trending TV series.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg"
     },
     {
-      "title": "House of the Dragon S3",
+      "title": "Ted",
       "type": "tv",
       "platform": "Sky",
       "rank": 3,
-      "description": "La terza stagione del prequel de Il Trono di Spade, che racconta la storia della Casa Targaryen.",
-      "posterUrl": ""
+      "description": "A trending TV series.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
     },
     {
-      "title": "Alessandro Borghese - 4 Ristoranti",
+      "title": "The Good Doctor",
       "type": "tv",
       "platform": "Sky",
       "rank": 4,
-      "description": "Chef Alessandro Borghese valuta e classifica i ristoranti in diverse località italiane.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ysiBG6R8e1ahrVFAm95OrQ1wkVB.jpg"
+      "description": "A trending TV series.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/luhKkdD80qe62fwop6sdrXK9jUT.jpg"
     },
     {
-      "title": "Cucine da incubo",
+      "title": "Under Salt Marsh",
       "type": "tv",
       "platform": "Sky",
       "rank": 5,
-      "description": "Chef Antonino Cannavacciuolo aiuta ristoranti in difficoltà a risollevarsi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/10XpD4aEOExWcOg9bxCA28NNsMQ.jpg"
+      "description": "A trending TV series.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/z3EsrKQyHqQQOmOHSgnoS76hQAF.jpg"
     },
     {
-      "title": "Dune: Prophecy",
+      "title": "FROM",
       "type": "tv",
       "platform": "Sky",
       "rank": 6,
-      "description": "Una serie di fantascienza che si inserisce nell'ampio universo di 'Dune' creato da Frank Herbert.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kXOeIhWmwFe1aSrdOwbDFwWc61n.jpg"
+      "description": "A trending TV series.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oRTAA5VqHi2W2rfkiJ3fHiGfI9M.jpg"
     },
     {
-      "title": "10 giorni senza mamma",
-      "type": "movie",
+      "title": "Gangs of London",
+      "type": "tv",
       "platform": "Sky",
       "rank": 7,
-      "description": "Una commedia italiana in cui un padre deve gestire i figli da solo mentre la moglie è in vacanza.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rIz4XmEjYQHyzovwx1v80YOioqf.jpg"
+      "description": "A Sky Original series.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fVgwa6wGw9ddGM5O7mqrrwB6gHK.jpg"
     },
     {
-      "title": "Amore oggi",
-      "type": "movie",
+      "title": "All Her Fault",
+      "type": "tv",
       "platform": "Sky",
       "rank": 8,
-      "description": "Un'ironica commedia romantica prodotta da Sky che esplora l'amore in diverse forme.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fLL5eCdySUYEUKXuRUD2pJBOmMz.jpg"
+      "description": "A Sky Original series.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg"
     },
     {
-      "title": "Delitti ai Tropici",
-      "type": "tv",
+      "title": "Superman",
+      "type": "movie",
       "platform": "Sky",
       "rank": 9,
-      "description": "Una serie che segue le indagini di due comandanti di polizia in Martinica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vR7ywdCu1hM9F0mDRKD08ZNCGY6.jpg"
+      "description": "A popular movie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mZtiFCSqqyT9q0B07pvGQIZRG62.jpg"
     },
     {
-      "title": "Outlander",
-      "type": "tv",
+      "title": "A Minecraft Movie",
+      "type": "movie",
       "platform": "Sky",
       "rank": 10,
-      "description": "Un period drama che segue le vicende di Claire Fraser, un'infermiera che viaggia nel tempo dalla Scozia del XX secolo al 1700.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg"
+      "description": "A popular movie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/myoxQxrAEZICqe3DRyJUsiE5lWS.jpg"
     }
   ]
 }
