@@ -1,92 +1,92 @@
 {
-  "date": "27/08/2026, 19:57:40",
+  "date": "28/08/2026, 21:07:50",
   "data": [
+    {
+      "title": "Reacher",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 1,
+      "description": "Una popolare serie d'azione e crime basata sui romanzi di Lee Child.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg"
+    },
+    {
+      "title": "The Last Sunrise",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 2,
+      "description": "Un nuovo film che si posiziona in alto nelle classifiche.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/w4e0I3cLcEoYmWSDL2uCNSIJ5Dj.jpg"
+    },
+    {
+      "title": "Sterling Point",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 3,
+      "description": "Una nuova serie che ha catturato l'attenzione del pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/eRJmTnQrdmodTARDmI3z2tRFEZU.jpg"
+    },
     {
       "title": "GOAT",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 1,
-      "description": "Un film che si posiziona al primo posto tra i più visti su Prime Video.",
+      "rank": 4,
+      "description": "Un film tra i più visti sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2iobI8LOcnu3nyCSgmqux2dtkrV.jpg"
     },
     {
       "title": "Gunner",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Un film d'azione o thriller popolare sulla piattaforma.",
+      "rank": 5,
+      "description": "Un film che figura nella top 10 di Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cS2TXN1YlrCvkZmMxaevC1ZKtEz.jpg"
     },
     {
       "title": "Cena di classe",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Una commedia italiana che racconta le vicende di una riunione di classe.",
+      "rank": 6,
+      "description": "Un film popolare tra gli utenti di Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tq62SABP6986u7fYJ39vnexjgFU.jpg"
-    },
-    {
-      "title": "Operazione Speciale: Lioness",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Una serie thriller di spionaggio che segue un'agente della CIA sotto copertura.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ffsmgdEdbY0JLThEXK2L5T3MsDc.jpg"
     },
     {
       "title": "Anaconda",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Il classico film horror-avventura con un gigantesco serpente.",
+      "rank": 7,
+      "description": "Un classico film d'azione-horror ancora molto apprezzato.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qp8JklgbpFFXmKZv78kde1duVO2.jpg"
     },
     {
       "title": "Sniper: No Nation",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Un film d'azione della saga 'Sniper'.",
+      "rank": 8,
+      "description": "Un film d'azione presente nella classifica dei più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5g2JfYILQ8rNPK6IR9zvfoR1kDF.jpg"
     },
     {
       "title": "Spider-Man: No Way Home",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Il blockbuster Marvel con Tom Holland nei panni di Spider-Man.",
+      "rank": 9,
+      "description": "Un popolare film di supereroi che continua a essere guardato.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nt4ydhdArDsjinTrV1lct0pYipA.jpg"
-    },
-    {
-      "title": "Good Fortune",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Un film che esplora il tema della buona sorte.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/irOghTy4rKqc4LtKYsB7eCeETz9.jpg"
     },
     {
       "title": "Icefall",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Un film che si concentra su eventi drammatici legati al ghiaccio o al freddo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg"
-    },
-    {
-      "title": "The Walking Dead: Dead City",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Uno spin-off della popolare serie 'The Walking Dead', ambientato a New York.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
+      "description": "Un film che rientra nella top 10 dei contenuti più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg"
     },
     {
       "title": "Ted Lasso",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "La pluripremiata serie comedy su un allenatore di football americano che allena una squadra di calcio inglese.",
+      "description": "Una serie comedy acclamata che segue un allenatore di football americano in Inghilterra.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
     },
     {
@@ -94,232 +94,232 @@
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 2,
-      "description": "Una serie di fantascienza distopica ambientata in un gigantesco silo sotterraneo.",
+      "description": "Una serie di fantascienza ambientata in un futuro distopico sotterraneo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
+    },
+    {
+      "title": "Lucky",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 3,
+      "description": "Una serie d'azione che si posiziona tra le più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5TO5TP3Q6sVDw2NQ5eZ9OZ56MjB.jpg"
     },
     {
       "title": "Slow Horses",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Una serie thriller di spionaggio con Gary Oldman, che segue un gruppo di agenti dell'MI5 caduti in disgrazia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
-    },
-    {
-      "title": "The Dink - Mago del pickleball",
-      "type": "movie",
-      "platform": "Apple TV+",
       "rank": 4,
-      "description": "Una commedia sportiva su un ex tennista che si reinventa nel mondo del pickleball.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vTfsGRuVSxVoPobNnviYhJ4JrC5.jpg"
+      "description": "Una serie thriller su un gruppo di agenti dell'MI5 emarginati.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
     },
     {
       "title": "Sugar",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 5,
-      "description": "Una serie mystery che segue un detective privato a Los Angeles.",
+      "description": "Una serie mystery che cattura l'attenzione del pubblico.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
     },
     {
-      "title": "Shrinking",
-      "type": "tv",
+      "title": "F1 The Movie",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 6,
-      "description": "Una commedia drammatica su un terapista in lutto che inizia a dire ai suoi pazienti esattamente cosa pensa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
+      "description": "Un film d'azione incentrato sul mondo della Formula 1.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
-      "title": "Scissione (Severance)",
-      "type": "tv",
+      "title": "The Dink",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 7,
-      "description": "Un thriller distopico in cui i ricordi lavorativi e personali sono chirurgicamente separati.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jnwqpZpmwvEo0CFLjDwfnnAf4ow.jpg"
+      "description": "Un film comedy tra i più popolari sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vTfsGRuVSxVoPobNnviYhJ4JrC5.jpg"
     },
     {
-      "title": "Napoleone",
+      "title": "The Gorge",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 8,
-      "description": "Il film epico di Ridley Scott sulla vita e le battaglie di Napoleone Bonaparte.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/n4TAmfgLLkmqAeS8wMiA8CIVuUi.jpg"
+      "description": "Un film thriller che figura tra i contenuti più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
     },
     {
-      "title": "Dark Matter: Stagione 2",
-      "type": "tv",
+      "title": "Tetris",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 9,
-      "description": "La seconda stagione della serie di fantascienza che esplora realtà alternative.",
-      "posterUrl": ""
+      "description": "Un film thriller che racconta la storia della creazione del famoso videogioco.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg"
     },
     {
-      "title": "Las Azules: Stagione 2",
-      "type": "tv",
+      "title": "Napoleon",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "La seconda stagione della serie poliziesca messicana ambientata negli anni '70.",
-      "posterUrl": ""
+      "description": "Un film drammatico storico che rientra nella top 10.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg"
     },
     {
-      "title": "Outer Banks: Stagione 5",
+      "title": "Outer Banks",
       "type": "tv",
       "platform": "Netflix",
       "rank": 1,
-      "description": "La quinta stagione della serie drammatica per ragazzi che segue un gruppo di adolescenti in cerca di un tesoro perduto.",
-      "posterUrl": ""
+      "description": "Un teen drama che segue un gruppo di amici alla ricerca di un tesoro leggendario.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
     },
     {
-      "title": "Facing El Chapo",
+      "title": "L'uomo dei sussurri",
       "type": "movie",
       "platform": "Netflix",
       "rank": 2,
-      "description": "Un film d'azione che esplora la vera storia dietro la cattura del noto signore della droga El Chapo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iwCeOpuBtuTP1kLosqgniey5OvX.jpg"
+      "description": "Un film attualmente tra i più visti sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mbbWODDCFI6UdY4kEf4gnqhZkYv.jpg"
     },
     {
-      "title": "The Last House",
+      "title": "Uno splendido errore",
       "type": "movie",
       "platform": "Netflix",
       "rank": 3,
-      "description": "Un thriller che si concentra su una famiglia e una casa misteriosa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
+      "description": "Un film che sta riscuotendo successo tra gli abbonati.",
+      "posterUrl": ""
     },
     {
-      "title": "My Life with the Walter Boys: Stagione 3",
-      "type": "tv",
+      "title": "Buen Camino",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 4,
-      "description": "La terza stagione della serie che segue una ragazza che si trasferisce in una nuova casa con molti ragazzi.",
-      "posterUrl": ""
+      "description": "Un film presente nella classifica dei titoli più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gYvlK73gKsJAaGjndyyiaZerEFb.jpg"
+    },
+    {
+      "title": "Beauty in Black",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "Una serie TV che cattura l'attenzione del pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg"
     },
     {
       "title": "The Beekeeper",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 5,
-      "description": "Un film d'azione con Jason Statham, che interpreta un ex agente segreto in cerca di vendetta.",
+      "rank": 6,
+      "description": "Un film d'azione che si posiziona tra i più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ctJLZO2E4gWkSwXG06y9bE2jfTN.jpg"
     },
     {
-      "title": "Blood Sacrifice: Stagione 1",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "La prima stagione di una serie drammatica che esplora rituali e misteri.",
-      "posterUrl": ""
-    },
-    {
-      "title": "72 Hours",
+      "title": "The Last House",
       "type": "movie",
       "platform": "Netflix",
       "rank": 7,
-      "description": "Un film che segue una corsa contro il tempo per risolvere un mistero o sfuggire a un pericolo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9Bu1PW2R1XayqRqnl0aDOgMcrdS.jpg"
+      "description": "Un film thriller/horror popolare sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6JU7E8Vv2M11egkctWVOScxWR75.jpg"
     },
     {
-      "title": "My Brilliant Career: Stagione 1",
+      "title": "La captura",
       "type": "tv",
       "platform": "Netflix",
       "rank": 8,
-      "description": "La prima stagione di una serie che racconta la storia di una giovane donna ambiziosa.",
-      "posterUrl": ""
+      "description": "Una serie TV che figura tra i titoli del momento.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6keUrgntgKt299a39UJCDYldb8b.jpg"
     },
     {
-      "title": "Don't Say Good Luck",
+      "title": "Stella gemella",
       "type": "movie",
       "platform": "Netflix",
       "rank": 9,
-      "description": "Un film che esplora temi di fortuna e destino.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg"
+      "description": "Un film che rientra nella top 10 dei contenuti più guardati.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bplj5wOuhfXrilWV8VCKstVubNG.jpg"
     },
     {
-      "title": "MOURINHO: Stagione 1",
-      "type": "tv",
+      "title": "La donna senza passato",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 10,
-      "description": "Una serie documentaristica o drammatica incentrata sulla vita e la carriera dell'allenatore di calcio José Mourinho.",
-      "posterUrl": ""
+      "description": "Un film che completa la classifica dei più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kZBd6WJ5U20NJ0WsPm5YpVfHbgb.jpg"
     },
     {
-      "title": "House of the Dragon",
+      "title": "Nightsleeper - Fuori controllo",
       "type": "tv",
       "platform": "Sky",
       "rank": 1,
-      "description": "Il prequel de 'Il Trono di Spade', che racconta la storia della Casa Targaryen.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
+      "description": "Una serie thriller ambientata su un treno notturno, dove un ordigno gestito da hacker minaccia i passeggeri.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/twMzmcKkJpftjhYyrPXETddN08R.jpg"
     },
     {
-      "title": "The Day of the Jackal",
+      "title": "The Other Bennet Sister",
       "type": "tv",
       "platform": "Sky",
       "rank": 2,
-      "description": "Una serie thriller basata sul romanzo di Frederick Forsyth.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tQpw2NlX50IXJ5KewqFvWBP56YB.jpg"
+      "description": "Una serie drammatica in costume che riscrive 'Orgoglio e pregiudizio' dal punto di vista di Mary Bennet.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg"
     },
     {
-      "title": "The Rookie",
+      "title": "Sheriff Country",
       "type": "tv",
       "platform": "Sky",
       "rank": 3,
-      "description": "Una serie poliziesca che segue il più anziano rookie del dipartimento di polizia di Los Angeles.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/70kTz0OmjjZe7zHvIDrq2iKW7PJ.jpg"
+      "description": "Un crime drama spin-off di 'Fire Country', che segue la sceriffa Mickey Fox.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg"
     },
     {
-      "title": "Ted",
+      "title": "The Walking Dead: Dead City",
       "type": "tv",
       "platform": "Sky",
       "rank": 4,
-      "description": "La serie prequel dei film di Seth MacFarlane, incentrata sull'orso di peluche parlante.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
+      "description": "La terza stagione dello spin-off post-apocalittico di The Walking Dead.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
     },
     {
-      "title": "Gomorra: La serie",
+      "title": "House of the Dragon 3",
       "type": "tv",
       "platform": "Sky",
       "rank": 5,
-      "description": "La celebre serie Sky Original che racconta il mondo della criminalità organizzata napoletana.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg"
+      "description": "La terza stagione della popolare serie fantasy, con tutti gli episodi disponibili on demand.",
+      "posterUrl": ""
     },
     {
-      "title": "Superman",
+      "title": "Breve storia d'amore",
       "type": "movie",
       "platform": "Sky",
       "rank": 6,
-      "description": "Un film sull'iconico supereroe dell'universo DC Comics.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mZtiFCSqqyT9q0B07pvGQIZRG62.jpg"
+      "description": "Un film drammatico romantico italiano che esplora una passione proibita.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/avqBTEK53Zqyr5sWIi6EuE51UaH.jpg"
     },
     {
-      "title": "Euphoria",
-      "type": "tv",
+      "title": "Dracula - L'amore perduto",
+      "type": "movie",
       "platform": "Sky",
       "rank": 7,
-      "description": "Una serie drammatica HBO che segue un gruppo di adolescenti alle prese con amore, perdite e dipendenza.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ypmtwojDd751Peszi62DVLytqqC.jpg"
+      "description": "Una rilettura romantica del classico di Bram Stoker.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iD35kLvUW6dKPpspA4HP3MPKml6.jpg"
     },
     {
-      "title": "Jurassic World: Rebirth",
+      "title": "Jurassic World - La rinascita",
       "type": "movie",
       "platform": "Sky",
       "rank": 8,
-      "description": "Un nuovo capitolo della saga di Jurassic World.",
+      "description": "Un nuovo emozionante capitolo della popolare saga cinematografica di fantascienza.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pGPKXLGatnHuNiDwMlRfOsVfCSp.jpg"
     },
     {
-      "title": "Cucine da incubo",
+      "title": "Atomic",
       "type": "tv",
       "platform": "Sky",
       "rank": 9,
-      "description": "Lo show Sky Original in cui chef Antonino Cannavacciuolo aiuta ristoranti in difficoltà.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/10XpD4aEOExWcOg9bxCA28NNsMQ.jpg"
+      "description": "La prima stagione di una serie TV tra le più cercate.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2yhMWAmzKcCTgTSh1UkdFxTMLke.jpg"
     },
     {
-      "title": "The Last Of Us",
-      "type": "tv",
+      "title": "Il mago del Cremlino: Le origini di Putin",
+      "type": "movie",
       "platform": "Sky",
       "rank": 10,
-      "description": "La serie HBO basata sul videogioco post-apocalittico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/u0xTEHOd8pw6SLGRL5fZyDpoaew.jpg"
+      "description": "Un film che rientra tra i contenuti più cercati del momento.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6YilH8o9Y2ZJNdu2Ak5m6you8zL.jpg"
     }
   ]
 }
