@@ -1,12 +1,12 @@
 {
-  "date": "05/09/2026, 13:00:08",
+  "date": "06/09/2026, 13:25:04",
   "data": [
     {
       "title": "In the Grey",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Un film d'azione o thriller che si posiziona al primo posto tra i film più visti su Amazon Prime Video in Italia.",
+      "description": "Un film d'azione e thriller che si posiziona al primo posto tra i contenuti più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uLWKONHP3GTqMaxhEt0NedkGybl.jpg"
     },
     {
@@ -14,7 +14,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 2,
-      "description": "L'estate delle prime volte.",
+      "description": "Un dramma romantico che ha catturato l'attenzione del pubblico italiano.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/w4e0I3cLcEoYmWSDL2uCNSIJ5Dj.jpg"
     },
     {
@@ -22,7 +22,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 3,
-      "description": "Un film che segue la storia di un corridore, posizionandosi tra i più visti.",
+      "description": "Un thriller d'azione che continua a essere molto popolare sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg"
     },
     {
@@ -30,7 +30,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 4,
-      "description": "Un film d'azione o drammatico che ha scalato le classifiche di Amazon Prime Video.",
+      "description": "Un film d'azione che ha scalato le classifiche dei più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cS2TXN1YlrCvkZmMxaevC1ZKtEz.jpg"
     },
     {
@@ -38,7 +38,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 5,
-      "description": "Un film che esplora temi di abbandono o trascuratezza, popolare su Amazon Prime Video.",
+      "description": "Un dramma che ha suscitato interesse, entrando nella top 10.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4Sl2c6PuqZsx7jw5gBtpqIGUg9Z.jpg"
     },
     {
@@ -46,7 +46,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 6,
-      "description": "Un thriller o dramma criminale che cattura l'attenzione del pubblico italiano.",
+      "description": "Un film crime e thriller che mantiene una buona posizione tra i contenuti più popolari.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tKMt7OIb2xbB0FbroZlS9V7ab3K.jpg"
     },
     {
@@ -54,7 +54,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 7,
-      "description": "Un film che si distingue per la sua popolarità tra gli abbonati di Amazon Prime Video.",
+      "description": "Un film sportivo e drammatico che ha trovato il suo pubblico sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2iobI8LOcnu3nyCSgmqux2dtkrV.jpg"
     },
     {
@@ -62,7 +62,7 @@
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 8,
-      "description": "Una serie d'azione basata sui romanzi di Lee Child, molto popolare su Amazon Prime Video.",
+      "description": "La serie d'azione e thriller basata sui romanzi di Lee Child è costantemente tra le più viste.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg"
     },
     {
@@ -70,7 +70,7 @@
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 9,
-      "description": "Una serie TV che ha guadagnato popolarità tra gli spettatori di Amazon Prime Video.",
+      "description": "Una serie drammatica che ha guadagnato popolarità tra gli abbonati.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/eRJmTnQrdmodTARDmI3z2tRFEZU.jpg"
     },
     {
@@ -78,248 +78,248 @@
       "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Una serie TV che esplora la vita universitaria o giovanile, tra le più viste su Amazon Prime Video.",
+      "description": "Una serie comedy-drama che continua a essere apprezzata dal pubblico italiano.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
-    },
-    {
-      "title": "Ted Lasso",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 1,
-      "description": "Una serie comica su un allenatore di football americano assunto per gestire una squadra di calcio britannica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
-    },
-    {
-      "title": "F1 The Movie",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 2,
-      "description": "Un film d'azione legato al mondo della Formula 1.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
       "title": "Silo",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Una serie di fantascienza ambientata in un futuro distopico dove l'umanità vive sottoterra in un gigantesco silo.",
+      "rank": 1,
+      "description": "Un avvincente dramma di fantascienza ambientato in un futuro distopico, tra le serie più popolari.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
     },
     {
-      "title": "The Dink",
-      "type": "movie",
+      "title": "Ted Lasso",
+      "type": "tv",
       "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Una commedia, anche conosciuta come 'Mago del pickleball'.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vTfsGRuVSxVoPobNnviYhJ4JrC5.jpg"
-    },
-    {
-      "title": "The Gorge",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Un thriller che si posiziona tra i film più popolari su Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
+      "rank": 2,
+      "description": "La pluripremiata commedia feel-good continua a essere un'amatissima serie originale Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
     },
     {
       "title": "Dark Matter",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Una serie TV thriller di fantascienza. In un universo di infinite realtà, non c'è mondo come casa.",
+      "rank": 3,
+      "description": "Un thriller di fantascienza che esplora realtà alternative, molto apprezzato dagli abbonati.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5DyYSRwdop0LWqbKFUBtrfFday.jpg"
-    },
-    {
-      "title": "Napoleon",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Un film drammatico storico che racconta la vita di Napoleone Bonaparte.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg"
     },
     {
       "title": "Scissione",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Una serie TV thriller e mistery che ha riscosso un successo globale.",
+      "rank": 4,
+      "description": "Il thriller psicologico acclamato dalla critica è una delle serie di punta della piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jnwqpZpmwvEo0CFLjDwfnnAf4ow.jpg"
     },
     {
-      "title": "Tetris",
+      "title": "Slow Horses",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "La serie spy thriller con Gary Oldman è un successo costante tra gli originali Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
+    },
+    {
+      "title": "Trying",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 6,
+      "description": "La commedia britannica sulla vita di coppia e la genitorialità continua a divertire il pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ekMxB1ZnYB9hHcT7V2kB4PVNYOd.jpg"
+    },
+    {
+      "title": "Your Friends & Neighbors",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "Una serie drammatica che esplora le dinamiche relazionali, molto seguita sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/assZXqLfI5XdEwRrxV3ZQ7dWD6h.jpg"
+    },
+    {
+      "title": "Lucky",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Una serie d'azione che ha catturato l'attenzione degli spettatori di Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5TO5TP3Q6sVDw2NQ5eZ9OZ56MjB.jpg"
+    },
+    {
+      "title": "Misteri dal profondo",
       "type": "movie",
       "platform": "Apple TV+",
       "rank": 9,
-      "description": "Un film thriller che narra la storia dietro la creazione del famoso videogioco Tetris.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4F2QwCOYHJJjecSvdOjStuVLkpu.jpg"
+      "description": "Un film thriller originale Apple che si distingue tra i contenuti più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7IU0AhsnulBMEGauba755Snhcy4.jpg"
     },
     {
       "title": "Sugar",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "Una serie TV gialla che ha catturato l'attenzione del pubblico.",
+      "description": "La serie detective con Colin Farrell è un'aggiunta recente e popolare al catalogo di Apple TV+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg"
     },
     {
-      "title": "L'uomo dei sussurri",
+      "title": "The Whisper Man",
       "type": "movie",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Quando il figlio scompare, un vedovo chiede aiuto al padre, un detective in pensione che non vede da tempo e che aveva arrestato il serial killer ora collegato al caso.",
+      "description": "Un thriller che cattura l'attenzione, posizionandosi in cima alle classifiche dei film più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yghwNwvMjoHOm4TXHDmqSynbbMv.jpg"
     },
     {
-      "title": "La donna senza passato",
+      "title": "The Secret Woman",
       "type": "movie",
       "platform": "Netflix",
       "rank": 2,
-      "description": "Dopo aver scoperto di avere una famiglia e un impero di spedizioni, una donna con amnesia torna a un passato ricco e apparentemente perfetto per scoprire perché se n'è andata.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ygjM2KHwJbUPKmx0uEZ8OdTBc1L.jpg"
+      "description": "Un dramma avvincente che esplora segreti e relazioni complesse, molto popolare in Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lbmREVuIj0R3K1XOXkgXg2J6oED.jpg"
     },
     {
-      "title": "Grand Theft Auto VI: Una lunga anteprima",
+      "title": "Twin Stars",
       "type": "movie",
       "platform": "Netflix",
       "rank": 3,
-      "description": "Assisti alla prossima evoluzione della rivoluzionaria serie di Grand Theft Auto. In arrivo il 19 novembre su PlayStation 5 e XBOX Series X|S.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5QRfMgept54uq06JtP1nBiR7s5s.jpg"
-    },
-    {
-      "title": "Stella gemella",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "Stella partorisce due gemelli avuti da due padri diversi e la sua vita è catapultata in un vortice di pettegolezzi e caos mediatico mentre affronta un futuro inaspettato.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bplj5wOuhfXrilWV8VCKstVubNG.jpg"
-    },
-    {
-      "title": "L'Amore sta bene su tutto",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "A Roma, una leader politica, l'autore di un libro di auto-aiuto e un ex duo di cantanti affrontano crisi personali che li portano a rivedere l'idea di amore e felicità.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uGevFszuvC2yVGb3foshoPQNhgP.jpg"
-    },
-    {
-      "title": "Beauty in Black",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "Il destino di una ballerina cambia. La terza stagione finale di Tyler Perry's Beauty in Black scatena un nuovo grande cattivo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xKk4bFCCpZ9tvjUykvvMYLSBnjo.jpg"
-    },
-    {
-      "title": "Blood Sacrifice",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "Una serie TV drammatica che esplora temi di sacrificio e mistero.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iRsIvqIIGNjFWbU1IXVH29vPRCk.jpg"
-    },
-    {
-      "title": "Outer Banks",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 8,
-      "description": "Un gruppo di adolescenti cerca un tesoro leggendario e scopre un segreto a lungo sepolto.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
-    },
-    {
-      "title": "My Life With the Walter Boys",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 9,
-      "description": "Una ragazza si trasferisce in una nuova casa con la famiglia del suo tutore e si ritrova in un triangolo amoroso.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oJ8SVHRe9ZzZMRSJAfebGdp78Yl.jpg"
+      "description": "Un film d'azione e fantascienza che ha scalato rapidamente la classifica dei più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gAWYgO8jCyd5Oh8LbUHyNRpef8U.jpg"
     },
     {
       "title": "Facing El Chapo",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 10,
-      "description": "Un documentario o film che esplora la storia e la cattura del noto signore della droga El Chapo.",
+      "rank": 4,
+      "description": "Un documentario crime che approfondisce la storia del noto signore della droga, molto seguito.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iwCeOpuBtuTP1kLosqgniey5OvX.jpg"
     },
     {
-      "title": "Nightsleeper - Fuori controllo",
+      "title": "L'amore sta bene su tutto",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "Una commedia romantica italiana che ha conquistato il pubblico, entrando nella top 10.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uGevFszuvC2yVGb3foshoPQNhgP.jpg"
+    },
+    {
+      "title": "Outer Banks",
       "type": "tv",
-      "platform": "Sky oppure NOW",
-      "rank": 1,
-      "description": "Una serie thriller ideata da Nick Leather, ambientata quasi interamente su un treno notturno da Glasgow a Londra. Quando un ordigno gestito da hacker viene attivato a bordo, due sconosciuti sono costretti a collaborare in una corsa contro il tempo per salvare i viaggiatori ed evitare una catastrofe.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/twMzmcKkJpftjhYyrPXETddN08R.jpg"
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "La serie teen drama e avventura continua a essere un successo, con le sue stagioni sempre tra le più viste.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
+    },
+    {
+      "title": "The Mentalist",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "La popolare serie crime e mistero mantiene un forte seguito tra gli abbonati italiani.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg"
+    },
+    {
+      "title": "Friends",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "L'intramontabile sitcom continua a essere una delle serie più apprezzate e riviste sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg"
+    },
+    {
+      "title": "Blood Sacrifice",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "Una serie drammatica e thriller che ha catturato l'attenzione del pubblico italiano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iRsIvqIIGNjFWbU1IXVH29vPRCk.jpg"
+    },
+    {
+      "title": "My Life with the Walter Boys",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 10,
+      "description": "Un teen drama romantico che ha trovato un vasto pubblico, specialmente tra i più giovani.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oJ8SVHRe9ZzZMRSJAfebGdp78Yl.jpg"
     },
     {
       "title": "House of the Dragon",
       "type": "tv",
-      "platform": "Sky oppure NOW",
-      "rank": 2,
-      "description": "Una serie ambientata 200 anni prima de Il Trono di Spade, che racconta la storia della Casa Targaryen.",
+      "platform": "Sky",
+      "rank": 1,
+      "description": "La serie prequel de 'Il Trono di Spade' è un successo di pubblico e critica, sempre tra i contenuti più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     },
     {
-      "title": "Avvocato Ligas",
+      "title": "The Last Of Us",
       "type": "tv",
-      "platform": "Sky oppure NOW",
-      "rank": 3,
-      "description": "Il primo legal drama italiano del catalogo Sky, con Luca Argentero nei panni di Lorenzo Ligas, un avvocato penalista di talento con una vita privata turbolenta.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg"
-    },
-    {
-      "title": "M Il figlio del secolo",
-      "type": "tv",
-      "platform": "Sky oppure NOW",
-      "rank": 4,
-      "description": "Adattamento del romanzo di Antonio Scurati premio Strega, con Luca Marinelli nei panni di Benito Mussolini.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/m3ntFWL8nT1MOTji7HsqvHonjeI.jpg"
-    },
-    {
-      "title": "The Last of Us",
-      "type": "tv",
-      "platform": "Sky oppure NOW",
-      "rank": 5,
-      "description": "Una serie drammatica post-apocalittica basata sull'omonimo videogioco, che segue la storia di sopravvivenza in un mondo devastato.",
+      "platform": "Sky",
+      "rank": 2,
+      "description": "L'acclamata serie post-apocalittica basata sul videogioco è molto popolare su Sky e NOW.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/u0xTEHOd8pw6SLGRL5fZyDpoaew.jpg"
     },
     {
-      "title": "The White Lotus",
+      "title": "Twisted Metal",
       "type": "tv",
-      "platform": "Sky oppure NOW",
-      "rank": 6,
-      "description": "Una serie antologica satirica che segue le vicende di ospiti e dipendenti di un esclusivo resort di lusso.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg"
+      "platform": "Sky",
+      "rank": 3,
+      "description": "La serie action-comedy basata sul videogioco omonimo ha riscosso un buon successo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zMwMClR9y7RBeVWMEmNn8LwUJHz.jpg"
     },
     {
-      "title": "Jurassic World - La rinascita",
+      "title": "The Walking Dead: Dead City",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "Lo spin-off della celebre serie zombie continua ad attrarre un vasto pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wq3vuQzQgbS83zX3malAFWMsSwX.jpg"
+    },
+    {
+      "title": "X Factor 2026",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 5,
+      "description": "Il popolare talent show musicale italiano è un appuntamento fisso e molto seguito.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Formula 1® GP d'Italia",
       "type": "movie",
-      "platform": "Sky oppure NOW",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Il Gran Premio d'Italia di Formula 1 è un evento sportivo di punta, con un'audience elevatissima.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Notte prima degli esami 3.0",
+      "type": "movie",
+      "platform": "Sky",
       "rank": 7,
-      "description": "Un nuovo emozionante capitolo della popolare saga cinematografica, con Scarlett Johansson e Mahershala Ali.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pGPKXLGatnHuNiDwMlRfOsVfCSp.jpg"
+      "description": "Un film commedia italiano che si conferma tra i titoli più visti sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/akMWdGoPmiBNBTCX3WpMLr8q2u3.jpg"
     },
     {
-      "title": "The Pitt",
+      "title": "Hanno ucciso l'uomo ragno",
       "type": "tv",
-      "platform": "Sky oppure NOW",
+      "platform": "Sky",
       "rank": 8,
-      "description": "Una delle serie internazionali di successo disponibili nel catalogo Sky e NOW.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg"
-    },
-    {
-      "title": "Yellowstone",
-      "type": "tv",
-      "platform": "Sky oppure NOW",
-      "rank": 9,
-      "description": "Una serie drammatica che segue la famiglia Dutton, proprietaria del più grande ranch del Montana, e le loro lotte per proteggere la loro terra.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg"
-    },
-    {
-      "title": "Hanno Ucciso l'Uomo Ragno",
-      "type": "tv",
-      "platform": "Sky oppure NOW",
-      "rank": 10,
-      "description": "Una serie Sky Original italiana che ha catturato l'attenzione del pubblico.",
+      "description": "Una docu-serie sulla leggendaria band italiana 883, molto apprezzata dal pubblico.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/q7AkRxRGiD2s0lO8xY6RbVSPWFl.jpg"
+    },
+    {
+      "title": "MasterChef All Stars Italia",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 9,
+      "description": "La versione 'All Stars' del celebre cooking show è sempre un successo di pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/3BjNzlZ8EeEhZiuVoKVBjDv6MGn.jpg"
+    },
+    {
+      "title": "Alessandro Borghese - 4 Ristoranti Estate",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 10,
+      "description": "Il popolare show culinario con Alessandro Borghese continua a essere molto seguito.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/24Lbhq8b6OAG0bnNNzjju4vFPL1.jpg"
     }
   ]
 }
