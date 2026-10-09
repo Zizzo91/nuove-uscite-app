@@ -1,68 +1,32 @@
 {
-  "date": "08/10/2026, 13:43:46",
+  "date": "09/10/2026, 13:37:08",
   "data": [
     {
-      "title": "Doinglife",
+      "title": "La Valle dell'Eden",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Una nuova serie TV in arrivo sulla piattaforma.",
-      "posterUrl": ""
+      "description": "Serie TV.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4Iqca4DNsyhG9dpHiKSejiNyJez.jpg"
     },
     {
-      "title": "Below",
-      "type": "tv",
+      "title": "Animals",
+      "type": "movie",
       "platform": "Netflix",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Una nuova serie TV in arrivo sulla piattaforma.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xMkYEWMGB7F7YfzJ24DPXoDj8vo.jpg"
+      "description": "Thriller con Ben Affleck e Kerry Washington.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vXuLuft5x9vvzfePGGzANjSJf9L.jpg"
     },
     {
-      "title": "Tyson",
-      "type": "tv",
+      "title": "UNABOMBER",
+      "type": "movie",
       "platform": "Netflix",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Un'avvincente docuserie in quattro parti che esplora la vita tumultuosa di Mike Tyson.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/c74AWPtTUGhTV7u7bcTdyMHQoqi.jpg"
-    },
-    {
-      "title": "The Diplomat S4",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-10-01",
-      "displayDate": "1 Ottobre 2026",
-      "description": "La quarta stagione della serie TV.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Lupin S4",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-10-01",
-      "displayDate": "1 Ottobre 2026",
-      "description": "La quarta stagione della serie TV.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Is it Cake? - Dolci impossibili: Halloween",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-10-01",
-      "displayDate": "1 Ottobre 2026",
-      "description": "Una nuova serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/iT2dUNxIGNVvsMvSdtgQSit5P3m.jpg"
-    },
-    {
-      "title": "LOL Halloween Special",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "releaseDate": "2026-10-01",
-      "displayDate": "1 Ottobre 2026",
-      "description": "Uno speciale a tema Halloween.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fbBmdW8BWcoaQemB1WXUzWw2m7U.jpg"
+      "description": "Ispirato a fatti di cronaca reali, segue la trasformazione di Ted Kaczynski da prodigio di Harvard a criminale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
     },
     {
       "title": "L'amore della tua vita",
@@ -70,7 +34,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Un film romantico con Margaret Qualley alle prese con un futuro stravolto.",
+      "description": "Film romantico con Margaret Qualley alle prese con un futuro stravolto.",
       "posterUrl": ""
     },
     {
@@ -79,7 +43,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Un film per chi cerca adrenalina e romanticismo tra i motori.",
+      "description": "Film per chi cerca adrenalina e romanticismo tra i motori.",
       "posterUrl": ""
     },
     {
@@ -97,7 +61,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Durante la sua corsa mattutina, una telefonata sconvolge la vita di Maia Marten (Gal Gadot): suo figlio è stato rapito.",
+      "description": "Un'appassionante corsa contro il tempo tra le strade di Londra dopo il rapimento di un figlio.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg"
     },
     {
@@ -106,80 +70,35 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Dopo il rapimento e il rilascio, la vita di Marfil Cortés va in frantumi.",
+      "description": "Dopo il rapimento e il rilascio, la vita di Marfil Cortés va in frantumi, costringendola a unire le forze con la sua guardia del corpo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/w4g7RSF7YcH1pvSv67CgMwFVVVY.jpg"
     },
     {
-      "title": "Educazione criminale",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "releaseDate": "2026-10-01",
-      "displayDate": "1 Ottobre 2026",
-      "description": "Uscito di prigione, Nate (Taron Egerton) tenta di rifarsi una vita, ma la banda criminale per cui lavorava minaccia la sua famiglia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5HyIUybbydwyd0QkFNkyE89GnXp.jpg"
-    },
-    {
-      "title": "American Horror Story: 13",
+      "title": "American Horror Story 13",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Il tredicesimo capitolo dell'antologia creata da Ryan Murphy e Brad Falchuk.",
+      "description": "Tredicesimo capitolo dell'antologia horror creata da Ryan Murphy e Brad Falchuk.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/bPF1VoWYj4LyTMhmUJXtQjtcSSr.jpg"
     },
     {
-      "title": "Cat's Eyes stagione 2",
+      "title": "Naruto Stagione 2",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Le sorelle Chamade tornano.",
+      "description": "Seconda stagione della serie anime Naruto.",
       "posterUrl": ""
     },
     {
-      "title": "Le Kardashian stagione 8",
+      "title": "The Eminence in Shadow Stagione 2",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Un nuovo capitolo per la famiglia Jenner-Kardashian.",
+      "description": "Seconda stagione della serie anime The Eminence in Shadow.",
       "posterUrl": ""
-    },
-    {
-      "title": "Tokyo Revengers: La Guerra dei Tre Titani",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-10-01",
-      "displayDate": "1 Ottobre 2026",
-      "description": "Un nuovo anime.",
-      "posterUrl": ""
-    },
-    {
-      "title": "The Drop: una saga Snowfall",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-10-01",
-      "displayDate": "1 Ottobre 2026",
-      "description": "Wanda e Leon si tuffano nel rap degli anni '90.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tiLqDZQdVILCIt00MLwDvnXAttr.jpg"
-    },
-    {
-      "title": "La stagione 2 di The Eminence in Shadow",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-10-01",
-      "displayDate": "1 Ottobre 2026",
-      "description": "La seconda stagione della serie.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Merry Berry Love",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-10-01",
-      "displayDate": "1 Ottobre 2026",
-      "description": "Ji Chang-wook e Mio Imada in una romantica storia d'amore sull'isola.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg"
     },
     {
       "title": "X Factor 2026",
@@ -187,17 +106,17 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Nuova edizione dello show Sky Original con grandi novità e ritorni attesi.",
+      "description": "Nuova edizione dello show Sky Original con una nuova giuria.",
       "posterUrl": ""
     },
     {
-      "title": "Verity",
+      "title": "Wicked - Parte 2",
       "type": "movie",
-      "platform": "Cinema in Italia",
+      "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Tratto dal romanzo omonimo di Colleen Hoover, ruota attorno a una scrittrice in difficoltà economiche.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg"
+      "description": "Film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kkvTiKZ2IIpLJk025ozwKtXKQS8.jpg"
     },
     {
       "title": "Digger",
@@ -205,8 +124,44 @@
       "platform": "Cinema in Italia",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Un nuovo film in uscita nelle sale.",
+      "description": "Film con Tom Cruise e diretto da Alejandro González Iñárritu.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg"
+    },
+    {
+      "title": "Verity",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-10-01",
+      "displayDate": "1 Ottobre 2026",
+      "description": "Thriller psicologico tratto dal bestseller di Colleen Hoover con Dakota Johnson e Anne Hathaway.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg"
+    },
+    {
+      "title": "Un po' di luce",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-10-01",
+      "displayDate": "1 Ottobre 2026",
+      "description": "Film su un medico iraniano che, dopo essere stato arrestato, precipita nella disperazione ma ritrova ragioni per vivere.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lJ6nmoioDB6aulJlPVyJCd56RT1.jpg"
+    },
+    {
+      "title": "Dio ride",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-10-01",
+      "displayDate": "1 Ottobre 2026",
+      "description": "Film italiano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg"
+    },
+    {
+      "title": "Sotto a chi tocca",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-10-01",
+      "displayDate": "1 Ottobre 2026",
+      "description": "Film italiano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pKvjxEfynVoJC6h9vw0jardGbQr.jpg"
     },
     {
       "title": "Clayface",
@@ -214,62 +169,62 @@
       "platform": "Cinema in Italia",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Il film racconta le origini del personaggio e la sua trasformazione.",
+      "description": "Film che racconta le origini del personaggio e la sua trasformazione in argilla.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/t6snh7pOxNjqs5rwP28TZmTQ0Ul.jpg"
     },
     {
-      "title": "Onslaught – Assalto finale",
+      "title": "Balcanica",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Un nuovo film di Adam Wingard.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ifrboaovWTOPA2KOenwQ0VyHqbo.jpg"
+      "description": "Film italiano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zReOL1Nh4p0VPHbCbL618DwCpRD.jpg"
     },
     {
-      "title": "PHOTOGAME - AUTORITRATTO DI UN'OSSESSIONE",
+      "title": "Photogame - Autoritratto di un'ossessione",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Alex Ruzzi esordisce nel lungometraggio con un film che mostra interessanti potenzialità.",
+      "description": "Film italiano.",
       "posterUrl": ""
     },
     {
-      "title": "LA CITTÀ DEI VIVI",
+      "title": "La città dei vivi",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Un nuovo film in uscita nelle sale.",
+      "description": "Film italiano.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/opBholBwfUmPISED5muouubQPq3.jpg"
     },
     {
-      "title": "QUASI VERA",
+      "title": "Fatherland",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Un nuovo film in uscita nelle sale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mDaLeE82vmuUCwzGl8CcAMsiFDK.jpg"
+      "description": "Film che porta sullo schermo Thomas Mann e sua figlia Erika.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg"
     },
     {
-      "title": "PER SILENZIO E VENTO",
+      "title": "Per silenzio e vento",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Un nuovo film in uscita nelle sale.",
+      "description": "Film italiano.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pxrKTvQYOvJkQ3RgWyM2KfturiN.jpg"
     },
     {
-      "title": "FATHERLAND",
+      "title": "L'assurda storia della Gialappa's Band",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-10-01",
       "displayDate": "1 Ottobre 2026",
-      "description": "Un nuovo film in uscita nelle sale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7VjwmvDG5mksJBXMcmK6PudqH88.jpg"
+      "description": "Documentario che racconta come la Gialappa's Band abbia rivoluzionato l'intrattenimento italiano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cmzJAwJZPcX6oooyP6alOx7K9sm.jpg"
     },
     {
       "title": "Schumacher '94 – La nascita di una leggenda",
@@ -277,7 +232,7 @@
       "platform": "Netflix",
       "releaseDate": "2026-10-02",
       "displayDate": "2 Ottobre 2026",
-      "description": "Un film dedicato alla stagione del primo titolo mondiale di Michael Schumacher.",
+      "description": "Docufilm dedicato alla stagione del primo titolo mondiale di Michael Schumacher.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/o09Z2TPQLkLg2zE6U9PUF17RmGf.jpg"
     },
     {
@@ -286,7 +241,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-10-02",
       "displayDate": "2 Ottobre 2026",
-      "description": "Nuova serie tv comedy italiana in sei episodi, un enorme ingorgo si trasforma in un imprevedibile palcoscenico di storie.",
+      "description": "Nuova serie tv comedy italiana su un enorme ingorgo che sconvolge i piani di migliaia di automobilisti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/i5eRkr7587uemwOLT4OuC2EsKsC.jpg"
     },
     {
@@ -295,8 +250,17 @@
       "platform": "Disney+",
       "releaseDate": "2026-10-02",
       "displayDate": "2 Ottobre 2026",
-      "description": "Serie ambientata tra le congreghe esclusive di New Orleans.",
+      "description": "Nuova serie ambientata tra le congreghe esclusive di New Orleans.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fRY6P6lWpwyI97WpKIf8mfaWFkZ.jpg"
+    },
+    {
+      "title": "Tokyo Revengers: La Guerra dei Tre Titani Stagione 2",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-10-02",
+      "displayDate": "2 Ottobre 2026",
+      "description": "Seconda stagione della serie anime Tokyo Revengers.",
+      "posterUrl": ""
     },
     {
       "title": "The Last First: Winter K2",
@@ -304,7 +268,7 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-10-02",
       "displayDate": "2 Ottobre 2026",
-      "description": "Un documentario struggente che esplora le estreme difficoltà fisiche e i pericoli mortali del primo tentativo riuscito di scalata invernale al K2.",
+      "description": "Documentario su una corsa storica alla prima scalata invernale del K2 che si trasforma in tragedia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/97QpXbNNXj2eQ1MdmhFdGlU0jnW.jpg"
     },
     {
@@ -313,35 +277,107 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-10-02",
       "displayDate": "2 Ottobre 2026",
-      "description": "Due sorelle orfane si muovono in una città popolata da personaggi usciti direttamente da fiabe e racconti fantastici.",
+      "description": "Seconda stagione della serie su due sorelle orfane che si muovono in una città popolata da personaggi di fiabe.",
       "posterUrl": ""
     },
     {
-      "title": "I Griffin – Halloween 2026: Happy Hell-o-ween",
+      "title": "Africa Earth's Wild Home",
       "type": "tv",
       "platform": "Disney+",
-      "releaseDate": "2026-10-05",
-      "displayDate": "5 Ottobre 2026",
-      "description": "Uno speciale a tema Halloween.",
+      "releaseDate": "2026-10-03",
+      "displayDate": "3 Ottobre 2026",
+      "description": "Documentario National Geographic.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wik5FpIY4XvVR29sZGnqseLGKN8.jpg"
+    },
+    {
+      "title": "Spy x Family Stagioni 1-2",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-10-04",
+      "displayDate": "4 Ottobre 2026",
+      "description": "Prime due stagioni complete del fenomeno anime Spy x Family.",
       "posterUrl": ""
     },
     {
-      "title": "Gachiakuta",
-      "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-10-05",
-      "displayDate": "5 Ottobre 2026",
-      "description": "Un nuovo anime.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/RxuL7KuFoOzHC0htjtLGxJEGGx.jpg"
-    },
-    {
-      "title": "La Vita Segreta dei Giocattoli",
+      "title": "La notte del giudizio",
       "type": "movie",
-      "platform": "Cinema in Italia",
+      "platform": "Netflix",
       "releaseDate": "2026-10-05",
       "displayDate": "5 Ottobre 2026",
-      "description": "Un nuovo documentario.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xuiQPHckCw9xagLroALw0TBO0p3.jpg"
+      "description": "Film del franchise 'The Purge'.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tRKl9scnVQHsUBckkaUVhQagm8x.jpg"
+    },
+    {
+      "title": "Anarchia – La notte del giudizio",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-10-05",
+      "displayDate": "5 Ottobre 2026",
+      "description": "Film del franchise 'The Purge'.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7QFLvXDh6HUmwP5wZKBuWxjQUhR.jpg"
+    },
+    {
+      "title": "La notte del giudizio – Election Year",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-10-05",
+      "displayDate": "5 Ottobre 2026",
+      "description": "Film del franchise 'The Purge'.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8ZhuSP1QbBC87kk5FD2w5F2CTLU.jpg"
+    },
+    {
+      "title": "La prima notte del giudizio",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-10-05",
+      "displayDate": "5 Ottobre 2026",
+      "description": "Film del franchise 'The Purge'.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bF1SsBFi3tTF6aOtEvRrPQXVL0J.jpg"
+    },
+    {
+      "title": "I Griffin - Halloween 2026: Happy Hell-O-Ween",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-10-05",
+      "displayDate": "5 Ottobre 2026",
+      "description": "Speciale a tema Halloween de I Griffin.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Gachiakuta Stagione 1",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-10-05",
+      "displayDate": "5 Ottobre 2026",
+      "description": "Prima stagione della serie anime Gachiakuta.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Capitaine Marleau",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-10-05",
+      "displayDate": "5 Ottobre 2026",
+      "description": "Serie TV poliziesca francese.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6pErBq8VTQsjEltRNRtCct3LEg8.jpg"
+    },
+    {
+      "title": "L'amore che non muore",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-10-05",
+      "displayDate": "5 Ottobre 2026",
+      "description": "Film commedia, drammatico, musicale, poliziesco, romantico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vyGD51Ybjf6EPWjHxIRGKVjer4n.jpg"
+    },
+    {
+      "title": "Absolution - Storia criminale",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-10-05",
+      "displayDate": "5 Ottobre 2026",
+      "description": "Film d'azione, poliziesco, drammatico, thriller con Liam Neeson.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gt70JOD9xsPlpJnuBJAWdOT4yRg.jpg"
     },
     {
       "title": "Tintoria Prime",
@@ -353,22 +389,58 @@
       "posterUrl": ""
     },
     {
+      "title": "Green Border",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-10-06",
+      "displayDate": "6 Ottobre 2026",
+      "description": "Film drammatico di Agnieszka Holland.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9J3C8cIY3P16pc3zuPtZUH6vgo0.jpg"
+    },
+    {
+      "title": "Maschi Veri Stagione 2",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-10-07",
+      "displayDate": "7 Ottobre 2026",
+      "description": "La commedia italiana originale Netflix torna con la seconda stagione, esplorando con ironia e leggerezza i cliché della mascolinità contemporanea.",
+      "posterUrl": ""
+    },
+    {
       "title": "Carrie",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-10-07",
       "displayDate": "7 Ottobre 2026",
-      "description": "Rivisitazione contemporanea del romanzo di Stephen King.",
+      "description": "Rivisitazione contemporanea del romanzo di Stephen King, la trama ruota intorno all'adolescente emarginata Carrie.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6otg7YqOkS8DxQO02yCGs6dwMsu.jpg"
     },
     {
-      "title": "Vampirina: Teenage Vampire S2",
+      "title": "Jamie Foxx: Take Care Of Yourself",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-10-07",
       "displayDate": "7 Ottobre 2026",
-      "description": "La seconda stagione della serie animata.",
+      "description": "Documentario.",
       "posterUrl": ""
+    },
+    {
+      "title": "Vampirina – Teenage Vampire Stagione 2",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-10-07",
+      "displayDate": "7 Ottobre 2026",
+      "description": "Seconda stagione della serie animata Vampirina – Teenage Vampire.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Drop: A Snowfall Saga",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-10-07",
+      "displayDate": "7 Ottobre 2026",
+      "description": "Serie originale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tiLqDZQdVILCIt00MLwDvnXAttr.jpg"
     },
     {
       "title": "Small Prophets",
@@ -376,17 +448,17 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-10-07",
       "displayDate": "7 Ottobre 2026",
-      "description": "Una serie comica britannica che indaga le eccentricità locali e le tranquille dinamiche di una comunità.",
+      "description": "Serie comica britannica che indaga le eccentricità locali e le tranquille dinamiche di una comunità.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
     },
     {
-      "title": "Mammina",
-      "type": "movie",
-      "platform": "Cinema in Italia",
+      "title": "The Kardashians 8",
+      "type": "tv",
+      "platform": "Disney+",
       "releaseDate": "2026-10-08",
       "displayDate": "8 Ottobre 2026",
-      "description": "Un horror molto acceso che vede Jessica Chastain protagonista.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg"
+      "description": "Ottava stagione della serie sulla famiglia Kardashian.",
+      "posterUrl": ""
     },
     {
       "title": "L'estranea",
@@ -394,80 +466,17 @@
       "platform": "Cinema in Italia",
       "releaseDate": "2026-10-08",
       "displayDate": "8 Ottobre 2026",
-      "description": "L'horror italiano di Paolo Strippoli, interpretato da Jasmine Trinca.",
+      "description": "Horror italiano di Paolo Strippoli che utilizza il genere per entrare all'interno di una famiglia apparentemente perfetta.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg"
     },
     {
-      "title": "RIDER",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-10-08",
-      "displayDate": "8 Ottobre 2026",
-      "description": "Un film originale, tagliente come una rima.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9s2RG61wmVangExXXHbmvhzzIiw.jpg"
-    },
-    {
-      "title": "BALCANICA",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-10-08",
-      "displayDate": "8 Ottobre 2026",
-      "description": "Nicola Sorcinelli esordisce al lungometraggio mettendo in scena la solitudine dei migranti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zReOL1Nh4p0VPHbCbL618DwCpRD.jpg"
-    },
-    {
-      "title": "Haunted Hotel - L'hotel infestato",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-10-09",
-      "displayDate": "9 Ottobre 2026",
-      "description": "Una nuova serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zzqSsUOLgjo8PGHbtlMCS1THTtz.jpg"
-    },
-    {
-      "title": "Animals",
-      "type": "movie",
-      "platform": "Netflix",
-      "releaseDate": "2026-10-09",
-      "displayDate": "9 Ottobre 2026",
-      "description": "Un film di Ben Affleck con Kerry Washington e Gillian Anderson.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vXuLuft5x9vvzfePGGzANjSJf9L.jpg"
-    },
-    {
-      "title": "Fammi battere il cuore",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-10-09",
-      "displayDate": "9 Ottobre 2026",
-      "description": "Una nuova serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/p5UJ0xS2NVmqtUfy9i0DMIJ1Lf3.jpg"
-    },
-    {
-      "title": "Doctor X: Mafia in White",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-10-09",
-      "displayDate": "9 Ottobre 2026",
-      "description": "Una nuova serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/xYFTiwC7Tl0xOUFiVFUPWXHTHnr.jpg"
-    },
-    {
-      "title": "Reporting Live",
-      "type": "movie",
-      "platform": "Netflix",
-      "releaseDate": "2026-10-09",
-      "displayDate": "9 Ottobre 2026",
-      "description": "Un nuovo film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gy1TZAaoLFyMhgFvaFEYWV2JrMz.jpg"
-    },
-    {
       "title": "Oasis: Don't Look Back In Anger",
-      "type": "movie",
+      "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-10-09",
       "displayDate": "9 Ottobre 2026",
-      "description": "Il documentario musicale dedicato alla reunion di Liam e Noel Gallagher.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5XoHhKZ1IROW6f5UlRpADHnTL2l.jpg"
+      "description": "Documentario sulla storica reunion degli Oasis.",
+      "posterUrl": ""
     },
     {
       "title": "Matchbox: Il film",
@@ -475,16 +484,16 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-10-09",
       "displayDate": "9 Ottobre 2026",
-      "description": "Ispirato agli iconici giocattoli Mattel, è un'avventura ricca di azione in giro per il mondo con John Cena.",
+      "description": "Ispirato agli iconici giocattoli Mattel, un'avventura ricca di azione in giro per il mondo con John Cena.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/JFawNsqIqIZbmfn7Ud7oUvJMMm.jpg"
     },
     {
-      "title": "Nord Sud Ovest Est - La leggendaria storia degli 883",
+      "title": "Nord Sud Ovest Est – La leggendaria storia degli 883",
       "type": "tv",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-10-09",
       "displayDate": "9 Ottobre 2026",
-      "description": "La dramedy Sky Original firmata da Sydney Sibilia riprende il racconto degli 883 nel decisivo 1993.",
+      "description": "Serie che racconta le vicende che portarono al secondo album della band di Pavia, gli 883.",
       "posterUrl": ""
     },
     {
@@ -493,7 +502,7 @@
       "platform": "Netflix",
       "releaseDate": "2026-10-10",
       "displayDate": "10 Ottobre 2026",
-      "description": "Una nuova serie TV.",
+      "description": "Serie TV.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wf7l8ZfGGkOKcQGF3Htt5DDhBxD.jpg"
     },
     {
@@ -502,35 +511,44 @@
       "platform": "Netflix",
       "releaseDate": "2026-10-10",
       "displayDate": "10 Ottobre 2026",
-      "description": "Una nuova serie TV.",
+      "description": "Serie TV.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iCtbr0sIdaKZjhQH3Wr7hW6A1IU.jpg"
     },
     {
-      "title": "Americana",
-      "type": "movie",
-      "platform": "Sky (incl. NOW)",
-      "releaseDate": "2026-10-11",
-      "displayDate": "11 Ottobre 2026",
-      "description": "La pellicola di Tony Tost che attraversa i generi, ambientata nel Sud Dakota e permeata da atmosfere western.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/o4Dpb5NMusecQaxqKX4KxSriRcd.jpg"
+      "title": "Sam e Colby: Investigatori del Paranormale",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-10-10",
+      "displayDate": "10 Ottobre 2026",
+      "description": "Serie TV.",
+      "posterUrl": ""
     },
     {
-      "title": "Clown Panic",
+      "title": "Free Leonard Peltier",
       "type": "movie",
-      "platform": "Disney+",
+      "platform": "Netflix",
       "releaseDate": "2026-10-12",
       "displayDate": "12 Ottobre 2026",
-      "description": "Un nuovo film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pZ15WSO7UzzJ297SLBMvxHNQDC1.jpg"
+      "description": "Film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/76TemyRRwyBfzHxrR9yxj83DMyv.jpg"
     },
     {
-      "title": "La Valle dell'Eden",
+      "title": "Spike",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-10-12",
+      "displayDate": "12 Ottobre 2026",
+      "description": "Serie TV.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vpvnM8ep6jGUt9rcfcDiGor2G5W.jpg"
+    },
+    {
+      "title": "Tyson",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-10-13",
       "displayDate": "13 Ottobre 2026",
-      "description": "Una nuova serie TV in arrivo sulla piattaforma.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4Iqca4DNsyhG9dpHiKSejiNyJez.jpg"
+      "description": "Docuserie in quattro parti che esplora la vita tumultuosa di Mike Tyson.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/c74AWPtTUGhTV7u7bcTdyMHQoqi.jpg"
     },
     {
       "title": "VisionQuest",
@@ -538,8 +556,17 @@
       "platform": "Disney+",
       "releaseDate": "2026-10-14",
       "displayDate": "14 Ottobre 2026",
-      "description": "La nuova serie Marvel vede il ritorno di Paul Bettany nei panni di Visione.",
+      "description": "Nuova serie Marvel con il ritorno di Paul Bettany nei panni di Visione.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
+    },
+    {
+      "title": "The Diplomat S4",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-10-15",
+      "displayDate": "15 Ottobre 2026",
+      "description": "Quarta stagione della serie The Diplomat.",
+      "posterUrl": ""
     },
     {
       "title": "Je so' pazzo",
@@ -547,26 +574,8 @@
       "platform": "Cinema in Italia",
       "releaseDate": "2026-10-15",
       "displayDate": "15 Ottobre 2026",
-      "description": "Il film di Nicola Prosatore con Massimiliano Caiazzo nel ruolo di Pino Daniele.",
+      "description": "Film di Nicola Prosatore con Massimiliano Caiazzo nel ruolo di Pino Daniele, racconta l'ascesa del cantautore napoletano.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/impo3YqfZZbJUI3woorG0OYV3XI.jpg"
-    },
-    {
-      "title": "Se ami qualcuno dillo",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-10-15",
-      "displayDate": "15 Ottobre 2026",
-      "description": "Un nuovo film con Edoardo Leo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sX7tCKtYbqmO9CuzXs2piz5AflT.jpg"
-    },
-    {
-      "title": "Dio ride",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-10-15",
-      "displayDate": "15 Ottobre 2026",
-      "description": "Un nuovo film in uscita nelle sale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/p5cuENoUviYoK6IBHg2FS4oTRGD.jpg"
     },
     {
       "title": "Masterplan",
@@ -574,7 +583,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-10-16",
       "displayDate": "16 Ottobre 2026",
-      "description": "Heist movie che si trasforma in una scombinata reunion di famiglia, con Stanley Tucci e Simona Tabasco.",
+      "description": "Heist movie che si trasforma in una scombinata reunion di famiglia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg"
     },
     {
@@ -592,7 +601,7 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-10-18",
       "displayDate": "18 Ottobre 2026",
-      "description": "La terza stagione della serie TV.",
+      "description": "Terza stagione della serie Vigil.",
       "posterUrl": ""
     },
     {
@@ -601,16 +610,16 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-10-21",
       "displayDate": "21 Ottobre 2026",
-      "description": "La seconda stagione della serie TV.",
+      "description": "Seconda stagione della serie The Terminal List.",
       "posterUrl": ""
     },
     {
-      "title": "It's Always Sunny in Philadelphia S18",
+      "title": "It's Always Sunny in Philadelphia Stagione 18",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-10-21",
       "displayDate": "21 Ottobre 2026",
-      "description": "La diciottesima stagione della comicità scorretta.",
+      "description": "Diciottesima stagione della comicità scorretta di It's Always Sunny in Philadelphia.",
       "posterUrl": ""
     },
     {
@@ -619,26 +628,44 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-10-21",
       "displayDate": "21 Ottobre 2026",
-      "description": "La seconda stagione della serie TV.",
+      "description": "Seconda stagione della serie Dov'è Wanda?.",
       "posterUrl": ""
     },
     {
-      "title": "Alla festa della rivoluzione",
-      "type": "movie",
-      "platform": "Sky (incl. NOW)",
-      "releaseDate": "2026-10-21",
-      "displayDate": "21 Ottobre 2026",
-      "description": "Intrighi politici, ideali e amori si incrociano nel 1919, mentre D'Annunzio guida l'impresa di Fiume.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oJRZTmYehaXvs3CJVIopPVQKtw6.jpg"
+      "title": "Nobody Wants This 3",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-10-22",
+      "displayDate": "22 Ottobre 2026",
+      "description": "Terza stagione della serie Nobody Wants This.",
+      "posterUrl": ""
     },
     {
-      "title": "Yu-Gi-Oh! S5",
+      "title": "Ragione e sentimento",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-10-22",
+      "displayDate": "22 Ottobre 2026",
+      "description": "Nuova versione del romanzo di Jane Austen, diretta da Georgia Oakley.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/x5pp9b89FvzdwPvofBtWFZQIwGB.jpg"
+    },
+    {
+      "title": "Lupin S4",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-10-23",
+      "displayDate": "23 Ottobre 2026",
+      "description": "Quarta stagione della serie Lupin.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Yu-Gi-Oh! Stagione 5",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-10-28",
       "displayDate": "28 Ottobre 2026",
-      "description": "La quinta stagione della serie.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gzILSA68CddzQ2uMybfRznFKRNr.jpg"
+      "description": "Quinta stagione della serie animata Yu-Gi-Oh!.",
+      "posterUrl": ""
     },
     {
       "title": "Noi, un po' meglio",
@@ -646,17 +673,8 @@
       "platform": "Netflix",
       "releaseDate": "2026-10-29",
       "displayDate": "29 Ottobre 2026",
-      "description": "Un film di Daniele Luchetti con Elio Germano e Maria Chiara Giannetta, racconta le complicazioni dell'amore e della vita di coppia.",
+      "description": "Una storia che racconta le complicazioni dell'amore e della vita di coppia con Elio Germano e Maria Chiara Giannetta.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ahSqZAAHU4PgNdbKdGPj332O7As.jpg"
-    },
-    {
-      "title": "UNABOMBER",
-      "type": "movie",
-      "platform": "Netflix",
-      "releaseDate": "2026-10-29",
-      "displayDate": "29 Ottobre 2026",
-      "description": "Ispirato a fatti di cronaca reali, il film segue la trasformazione di Ted Kaczynski.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
     },
     {
       "title": "Ice Cream Man",
@@ -664,7 +682,7 @@
       "platform": "Cinema in Italia",
       "releaseDate": "2026-10-29",
       "displayDate": "29 Ottobre 2026",
-      "description": "L'horror diretto e interpretato da Eli Roth.",
+      "description": "Film horror diretto e interpretato da Eli Roth.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/A6XDkLE53nAHKxkBZQmARLkjJ7U.jpg"
     },
     {
@@ -673,8 +691,17 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-10-30",
       "displayDate": "30 Ottobre 2026",
-      "description": "Una miniserie di suspense.",
+      "description": "Serie TV.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg"
+    },
+    {
+      "title": "FOMO",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-10-31",
+      "displayDate": "31 Ottobre 2026",
+      "description": "Film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jSbPCI5lpASzG2mIgWLdg08DStd.jpg"
     },
     {
       "title": "Apocalipsis Z",
@@ -682,62 +709,26 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-10-31",
       "displayDate": "31 Ottobre 2026",
-      "description": "Un nuovo film.",
+      "description": "Film.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/wgSMJ3083ad5qKC4QzzVNJ4cv5D.jpg"
     },
     {
-      "title": "Wicked - Parte 2",
-      "type": "movie",
-      "platform": "Sky (incl. NOW)",
-      "releaseDate": "2026-10-31",
-      "displayDate": "31 Ottobre 2026",
-      "description": "Un nuovo film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kkvTiKZ2IIpLJk025ozwKtXKQS8.jpg"
-    },
-    {
-      "title": "Bass X Machina",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-11-03",
-      "displayDate": "3 Novembre 2026",
-      "description": "Serie animata in un West steampunk dominato dall'illegalità e da brutali fuorilegge.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg"
-    },
-    {
-      "title": "Un cucciolo per Natale",
-      "type": "movie",
-      "platform": "Netflix",
-      "releaseDate": "2026-11-04",
-      "displayDate": "4 Novembre 2026",
-      "description": "Una nuova commedia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/66oaCMPAYcB03bb9Ft1OInB0VFe.jpg"
-    },
-    {
-      "title": "Anestesia",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-11-04",
-      "displayDate": "4 Novembre 2026",
-      "description": "Serie drama polacca su un medico di talento che lascia una clinica prestigiosa.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/l3CHJ5RI1RE75GRhLBGIMfCDlqY.jpg"
-    },
-    {
-      "title": "Stick – Stagione 2",
+      "title": "Stick Stagione 2",
       "type": "tv",
       "platform": "Apple TV+",
       "releaseDate": "2026-11-04",
       "displayDate": "4 Novembre 2026",
-      "description": "La seconda stagione della serie TV.",
+      "description": "Seconda stagione della serie Stick.",
       "posterUrl": ""
     },
     {
-      "title": "One Year to Live, Buy a Man",
+      "title": "ChiaroScuro",
       "type": "tv",
       "platform": "Netflix",
-      "releaseDate": "2026-11-05",
-      "displayDate": "5 Novembre 2026",
-      "description": "Una dramedy giapponese.",
-      "posterUrl": ""
+      "releaseDate": "2026-11-11",
+      "displayDate": "11 Novembre 2026",
+      "description": "Un light crime in 8 episodi ambientato nel mondo dell'arte, con Pierpaolo Spollon e Andrea Lattanzi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg"
     },
     {
       "title": "L'Imperatrice 3",
@@ -745,35 +736,26 @@
       "platform": "Netflix",
       "releaseDate": "2026-11-12",
       "displayDate": "12 Novembre 2026",
-      "description": "La stagione finale della storia dell'imperatrice Elisabetta d'Austria.",
+      "description": "Terza e ultima stagione della serie sull'imperatrice Elisabetta d'Austria.",
       "posterUrl": ""
     },
     {
-      "title": "Heartland",
-      "type": "movie",
-      "platform": "Netflix",
-      "releaseDate": "2026-11-13",
-      "displayDate": "13 Novembre 2026",
-      "description": "Mystery thriller con Jessica Chastain.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg"
-    },
-    {
       "title": "Being Heumann",
-      "type": "movie",
+      "type": "tv",
       "platform": "Apple TV+",
       "releaseDate": "2026-11-13",
       "displayDate": "13 Novembre 2026",
-      "description": "Un nuovo documentario.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sp5lI7OwRRCjr0sPUxccyv1ZsGG.jpg"
+      "description": "Documentario.",
+      "posterUrl": ""
     },
     {
       "title": "12 12 12",
-      "type": "movie",
+      "type": "tv",
       "platform": "Apple TV+",
       "releaseDate": "2026-11-13",
       "displayDate": "13 Novembre 2026",
-      "description": "Un nuovo documentario.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tsVCwxrA29xwIDjICnzXKz4gvVR.jpg"
+      "description": "Serie TV.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jXlPZz943xMbqfp2Ne1OvOWaPo.jpg"
     },
     {
       "title": "Way of the Warrior Kid",
@@ -781,26 +763,35 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-11-25",
       "displayDate": "25 Novembre 2026",
-      "description": "Con Chris Pratt e Jude Hill, adatta l'omonima serie di libri scritta da Jocko Willink.",
+      "description": "Film con Chris Pratt e Jude Hill, adatta l'omonima serie di libri scritta da Jocko Willink.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/onZIFslULiG6aKgGFMZkAAWy2QV.jpg"
     },
     {
-      "title": "Bad Monkey S2",
+      "title": "Bad Monkey Stagione 2",
       "type": "tv",
       "platform": "Apple TV+",
       "releaseDate": "2026-12-02",
       "displayDate": "2 Dicembre 2026",
-      "description": "La seconda stagione della serie TV.",
+      "description": "Seconda stagione della serie Bad Monkey.",
       "posterUrl": ""
     },
     {
+      "title": "Born to be Wild",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-12-02",
+      "displayDate": "2 Dicembre 2026",
+      "description": "Film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/78qdFtASdnBSOiqSvazDgxGcQHk.jpg"
+    },
+    {
       "title": "Orgoglio e pregiudizio",
-      "type": "tv",
+      "type": "movie",
       "platform": "Netflix",
       "releaseDate": "2026-12-03",
       "displayDate": "3 Dicembre 2026",
-      "description": "Una nuova serie con Emma Corrin e Jack Lowden.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7qWz6E1R692Gs64CGcA1XWz7OkL.jpg"
+      "description": "Film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bA4gEvNLIpwVV1JaU4S4yueLjP8.jpg"
     }
   ]
 }
