@@ -1,49 +1,31 @@
 {
-  "date": "08/10/2026, 17:54:27",
+  "date": "09/10/2026, 17:36:58",
   "data": [
     {
-      "title": "Ranma 1/2",
-      "type": "tv",
-      "platform": "Netflix",
+      "title": "Backrooms",
+      "type": "movie",
+      "platform": "Cinema",
       "target": "Gen Z",
       "rank": 1,
-      "description": "Il reboot di questo iconico anime è estremamente popolare tra la Gen Z, che lo scopre o riscopre, generando un'enorme quantità di discussioni, meme e fan art su TikTok e altre piattaforme social.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1C4HtKv13BQnhofwnPZiyfti5aC.jpg"
+      "description": "Questo film horror ha generato un enorme buzz online, diventando un fenomeno virale su piattaforme come TikTok, grazie alla sua estetica 'found-footage' e al suo legame con le creepypasta e le leggende metropolitane digitali, molto apprezzate dalla Gen Z.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg"
     },
     {
-      "title": "Blue Box",
+      "title": "Coven Academy",
       "type": "tv",
-      "platform": "Netflix",
+      "platform": "Disney+",
       "target": "Gen Z",
       "rank": 2,
-      "description": "Questa serie anime, che spesso mescola romance e sport, è un genere molto amato dalla Gen Z. La sua popolarità è alimentata da clip virali e discussioni approfondite sui personaggi e le trame su TikTok.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/shXf4cTKUbMpx5AVBKi4V0dMwY3.jpg"
-    },
-    {
-      "title": "Minerva - La scuola",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Gen Z",
-      "rank": 3,
-      "description": "Un teen drama ambientato in un liceo militare, affronta temi di crescita, identità e ribellione che risuonano fortemente con la Gen Z. È molto discusso sui social media per le sue dinamiche relazionali e i colpi di scena.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg"
-    },
-    {
-      "title": "The Love Hypothesis - Il teorema dell'amore",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "target": "Gen Z",
-      "rank": 4,
-      "description": "L'adattamento di questo bestseller romance è un fenomeno tra la Gen Z, che segue con passione le storie d'amore contemporanee. Il film è ampiamente commentato e recensito su TikTok, dove le scene più iconiche diventano virali.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg"
+      "description": "Una serie teen drama con streghe adolescenti, faide soprannaturali e relazioni proibite, che cattura l'attenzione della Gen Z per i suoi temi fantasy, il mistero e le dinamiche relazionali complesse.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fRY6P6lWpwyI97WpKIf8mfaWFkZ.jpg"
     },
     {
       "title": "Carrie",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "target": "Gen Z",
-      "rank": 5,
-      "description": "Questa nuova serie basata sul classico di Stephen King, con un approccio moderno al bullismo e ai poteri telecinetici, attrae la Gen Z per la sua attualità e le tematiche sociali, diventando oggetto di analisi e reazioni su TikTok.",
+      "rank": 3,
+      "description": "Questa nuova serie adatta il classico di Stephen King all'era dei social media, esplorando il bullismo virale e le sue conseguenze, un tema estremamente rilevante e discusso dalla Gen Z.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6otg7YqOkS8DxQO02yCGs6dwMsu.jpg"
     },
     {
@@ -51,135 +33,153 @@
       "type": "tv",
       "platform": "Disney+",
       "target": "Gen Z",
-      "rank": 6,
-      "description": "Essendo uno spin-off Marvel, questa serie attira la Gen Z, grande consumatrice di contenuti supereroistici. Le teorie, le speculazioni sui personaggi e le scene d'azione sono ampiamente condivise e discusse su TikTok e Instagram.",
+      "rank": 4,
+      "description": "L'ultima serie dell'Universo Cinematografico Marvel, incentrata su Visione e le intelligenze artificiali, è molto attesa dalla Gen Z, cresciuta con i supereroi Marvel e interessata a temi futuristici e di identità.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
     },
     {
-      "title": "Lupin Parte 4",
+      "title": "Lupin 4",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 5,
+      "description": "La quarta stagione di questa serie di successo su Netflix continua a coinvolgere la Gen Z con le sue trame avvincenti, il protagonista carismatico e lo stile visivo accattivante.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg"
+    },
+    {
+      "title": "Heartstopper",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 6,
+      "description": "Questa serie romantica LGBTQ+ è estremamente popolare tra la Gen Z per la sua rappresentazione autentica e commovente dell'amore giovanile, dell'amicizia e della scoperta di sé.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dQc0QbDiHjGmWxTfKtBgYtS4bj5.jpg"
+    },
+    {
+      "title": "My Hero Academia: Vigilantes",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
       "rank": 7,
-      "description": "La quarta parte di questa serie di successo continua ad affascinare la Gen Z con i suoi intrighi, lo stile impeccabile e il carisma del protagonista, generando un forte engagement e clip virali su TikTok.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg"
+      "description": "L'anime continua a essere un genere di punta per la Gen Z, e questo spin-off di una delle serie più amate offre nuove storie di eroi e avventure che risuonano con il pubblico più giovane.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xSYojwle5RdwhglSTqR1HSm3lA4.jpg"
     },
     {
-      "title": "Digger",
-      "type": "movie",
-      "platform": "Cinema",
-      "target": "Gen Z",
-      "rank": 8,
-      "description": "Un blockbuster d'azione con Tom Cruise e una trama apocalittica, attira la Gen Z al cinema per l'esperienza visiva e l'adrenalina, spesso commentato per gli effetti speciali e le sequenze spettacolari.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wisikjQcsvw0XqyQQYBsxudb38Z.jpg"
-    },
-    {
-      "title": "Verity",
-      "type": "movie",
-      "platform": "Cinema",
-      "target": "Gen Z",
-      "rank": 9,
-      "description": "Tratto da un romanzo di Colleen Hoover, autrice estremamente popolare tra la Gen Z, questo thriller psicologico è un appuntamento imperdibile per i fan, che ne discutono attivamente le differenze con il libro e i colpi di scena sui social.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg"
-    },
-    {
-      "title": "Heartstopper Forever",
+      "title": "Stranger Things",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
-      "rank": 10,
-      "description": "La continuazione di questa amata serie teen LGBTQ+ è un punto di riferimento per la Gen Z, celebrata per la sua rappresentazione positiva e le storie commoventi, che generano un'enorme risonanza e condivisione su tutte le piattaforme social.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pSxlE1B7o84HRgRvz9ChRjuDY2g.jpg"
+      "rank": 8,
+      "description": "Nonostante non sia una novità assoluta, 'Stranger Things' mantiene una forte presa sulla Gen Z grazie al suo mix di horror, nostalgia anni '80 e personaggi iconici, generando continue discussioni e teorie sui social.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"
     },
     {
-      "title": "Nord Sud Ovest Est - La leggendaria storia degli 883",
+      "title": "Outer Banks",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 9,
+      "description": "Questa serie teen drama ricca di avventura, mistero e romanticismo è un successo costante tra la Gen Z su Netflix, grazie ai suoi temi di evasione e al cast giovane e attraente.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
+    },
+    {
+      "title": "The Love Hypothesis - Il teorema dell'amore",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "target": "Gen Z",
+      "rank": 10,
+      "description": "Adattamento di un bestseller virale, questo film romantico è molto amato dalla Gen Z per la sua trama coinvolgente, i personaggi relazionabili e le discussioni generate sui social media.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg"
+    },
+    {
+      "title": "Nord Sud Ovest Est – La leggendaria storia degli 883",
       "type": "tv",
       "platform": "Sky",
       "target": "Millennials",
       "rank": 1,
-      "description": "Questa serie sugli 883 ha un fortissimo richiamo nostalgico per i Millennials italiani, che sono cresciuti con la loro musica. Le discussioni sui ricordi legati alla band e alla serie sono molto attive su X e Instagram.",
+      "description": "Questa serie biografica sugli 883, iconico duo musicale italiano degli anni '90, è un forte richiamo per i Millennials, che provano nostalgia per la musica e la cultura della loro giovinezza.",
       "posterUrl": ""
     },
     {
-      "title": "The Diplomat S4",
+      "title": "The Last of Us",
       "type": "tv",
-      "platform": "Netflix",
+      "platform": "Sky",
       "target": "Millennials",
       "rank": 2,
-      "description": "La quarta stagione di questo thriller politico è molto seguita dai Millennials che apprezzano trame complesse e attuali. Le analisi degli sviluppi politici e delle performance degli attori sono ampiamente dibattute su X.",
-      "posterUrl": ""
+      "description": "L'adattamento acclamato del celebre videogioco è un must-watch per i Millennials, molti dei quali sono cresciuti con il gioco e apprezzano la narrazione matura e post-apocalittica della serie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/u0xTEHOd8pw6SLGRL5fZyDpoaew.jpg"
     },
     {
-      "title": "Noi, un po' meglio",
-      "type": "movie",
-      "platform": "Netflix",
+      "title": "Yellowstone",
+      "type": "tv",
+      "platform": "Sky",
       "target": "Millennials",
       "rank": 3,
-      "description": "Un dramma italiano che esplora le complessità delle relazioni di coppia e della vita adulta, con un cast di attori noti, risuona con i Millennials per le sue tematiche mature e le situazioni relazionali realistiche, generando discussioni su Instagram.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ahSqZAAHU4PgNdbKdGPj332O7As.jpg"
+      "description": "Il dramma western contemporaneo con Kevin Costner continua a essere molto popolare tra i Millennials per le sue complesse saghe familiari, i personaggi forti e i temi di potere e eredità.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/peNC0eyc3TQJa6x4TdKcBPNP4t0.jpg"
     },
     {
-      "title": "Masterplan",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
+      "title": "House of the Dragon",
+      "type": "tv",
+      "platform": "Sky",
       "target": "Millennials",
       "rank": 4,
-      "description": "Questo heist movie con un tocco di dramma familiare offre un mix di azione e profondità emotiva che attrae i Millennials. La sua trama ricca di colpi di scena è un ottimo spunto per discussioni e recensioni su X e Instagram.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg"
+      "description": "Il prequel di 'Game of Thrones' mantiene un'enorme attrattiva per i Millennials, che hanno seguito la serie originale e sono affascinati dalla continuazione dell'epica narrativa fantasy e degli intrighi politici.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/paD01zRRCY3lXo038pvs2Avu0Q7.jpg"
     },
     {
-      "title": "Animals",
-      "type": "movie",
-      "platform": "Netflix",
+      "title": "Gomorra",
+      "type": "tv",
+      "platform": "Sky",
       "target": "Millennials",
       "rank": 5,
-      "description": "Un thriller con un cast di alto profilo (Ben Affleck, Kerry Washington) è un'ottima scelta per i Millennials che cercano intrattenimento di qualità e trame avvincenti, spesso commentando le performance e la suspense su Instagram.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vXuLuft5x9vvzfePGGzANjSJf9L.jpg"
-    },
-    {
-      "title": "Ingorgo",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "target": "Millennials",
-      "rank": 6,
-      "description": "Questa serie comedy italiana, con la sua premessa di un ingorgo che diventa palcoscenico di storie umane, è apprezzata dai Millennials per il suo umorismo e la capacità di riflettere sulla vita quotidiana, generando commenti e condivisioni su Instagram.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/i5eRkr7587uemwOLT4OuC2EsKsC.jpg"
+      "description": "Considerata una delle serie italiane più importanti degli ultimi vent'anni, 'Gomorra' continua a essere molto amata dai Millennials per il suo realismo crudo e la narrazione avvincente del mondo della camorra napoletana.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wWxMYrClgTYlZt4hDPxy5eA9EKd.jpg"
     },
     {
       "title": "La valle dell'Eden",
       "type": "tv",
       "platform": "Netflix",
       "target": "Millennials",
-      "rank": 7,
-      "description": "L'adattamento di un classico letterario con Florence Pugh attrae i Millennials che apprezzano le produzioni di qualità e le storie drammatiche complesse. La serie è oggetto di analisi e dibattiti sulla sua fedeltà al romanzo su X.",
+      "rank": 6,
+      "description": "Questa nuova interpretazione del capolavoro letterario di John Steinbeck attrae i Millennials che apprezzano i drammi storici ben realizzati e le complesse analisi dei personaggi.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4Iqca4DNsyhG9dpHiKSejiNyJez.jpg"
     },
     {
-      "title": "American Horror Story 13",
+      "title": "The Diplomat S4",
       "type": "tv",
-      "platform": "Disney+",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 7,
+      "description": "La quarta stagione di questo thriller politico è popolare tra i Millennials per la sua trama avvincente, la protagonista forte e i temi geopolitici attuali che stimolano la discussione.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Maschi veri 2",
+      "type": "tv",
+      "platform": "Netflix",
       "target": "Millennials",
       "rank": 8,
-      "description": "La tredicesima stagione di questa serie horror antologica, con il suo annuncio di una 'reunion' di personaggi, è un evento molto atteso dai Millennials, fan di lunga data, che ne discutono le anticipazioni e i colpi di scena su X e Instagram.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bPF1VoWYj4LyTMhmUJXtQjtcSSr.jpg"
+      "description": "La commedia italiana con un cast di attori noti risuona con i Millennials per il suo umorismo riconoscibile e l'esplorazione delle dinamiche relazionali contemporanee.",
+      "posterUrl": ""
     },
     {
-      "title": "The Runner",
+      "title": "L'estranea",
       "type": "movie",
-      "platform": "Amazon Prime Video",
+      "platform": "Cinema",
       "target": "Millennials",
       "rank": 9,
-      "description": "Un thriller ad alta tensione con Gal Gadot, offre un'esperienza cinematografica coinvolgente per i Millennials che cercano film ricchi di suspense e azione, spesso commentati per la trama e le performance su Instagram.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg"
+      "description": "Definito il 'caso italiano cinematografico dell'anno', questo thriller psicologico è apprezzato dai Millennials per la sua freschezza nel panorama del cinema italiano e la sua trama intensa e drammatica.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6GisyPsQBvnpgMKXqtPuwJqpZzl.jpg"
     },
     {
-      "title": "Tintoria Prime",
+      "title": "The White Lotus",
       "type": "tv",
-      "platform": "Amazon Prime Video",
+      "platform": "Sky",
       "target": "Millennials",
       "rank": 10,
-      "description": "L'adattamento esclusivo di un podcast italiano di successo è molto popolare tra i Millennials che seguono la scena della comedy italiana. Le nuove puntate generano discussioni e condivisioni di estratti divertenti su Instagram e X.",
-      "posterUrl": ""
+      "description": "Questa serie antologica acclamata dalla critica è molto popolare tra i Millennials per la sua satira sociale pungente, i personaggi complessi e le ambientazioni lussuose.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gbSaK9v1CbcYH1ISgbM7XObD2dW.jpg"
     }
   ]
 }
