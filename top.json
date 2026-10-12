@@ -1,92 +1,92 @@
 {
-  "date": "11/10/2026, 15:37:15",
+  "date": "12/10/2026, 18:14:29",
   "data": [
+    {
+      "title": "Carrie",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 1,
+      "description": "Mike Flanagan riporta in vita il romanzo d'esordio di Stephen King, con Carrie White che affronta bullismo, social media e poteri telecinetici.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6otg7YqOkS8DxQO02yCGs6dwMsu.jpg"
+    },
+    {
+      "title": "R.I.P. - Roast-in-Peace",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 2,
+      "description": "Una serie comedy italiana che offre battute per palati sopraffini.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ci2TWjr5hE6kamB8NrKzfN7gSSz.jpg"
+    },
+    {
+      "title": "Neagley",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 3,
+      "description": "Una serie che segue le vicende del personaggio di Neagley, probabilmente legata all'universo di Reacher.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gm0sRFqn4Lx2TpbyjTNzaotV6g0.jpg"
+    },
     {
       "title": "The Love Hypothesis",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 1,
-      "description": "Un film.",
+      "rank": 4,
+      "description": "Una commedia romantica basata su un popolare romanzo, che esplora una finta relazione che si trasforma in qualcosa di più.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg"
     },
     {
       "title": "Angelo Pintus in Nabana",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Uno spettacolo comico di Angelo Pintus.",
+      "rank": 5,
+      "description": "Uno spettacolo comico dell'artista italiano Angelo Pintus.",
       "posterUrl": ""
     },
     {
       "title": "Kraken",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Un film.",
+      "rank": 6,
+      "description": "Un film d'azione e avventura con elementi thriller.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uUCVGVWnBgIf6NV3AqHpJcCBC8T.jpg"
     },
     {
       "title": "Runner",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Un film.",
+      "rank": 7,
+      "description": "Un film d'azione ad alta tensione che segue una corsa contro il tempo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/y2JldODg7WqeAZC9MRKshA2hSmq.jpg"
     },
     {
       "title": "Drawn Together",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Un film.",
+      "rank": 8,
+      "description": "Una commedia animata che riunisce personaggi di diversi generi.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/goVvXGQA4j8zySkDHepbvpS6izV.jpg"
     },
     {
       "title": "You+Me – Against the World",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "Un film.",
+      "rank": 9,
+      "description": "Un film drammatico e romantico che racconta una storia d'amore contro ogni avversità.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/cnjIYXgLuPigTEXVJYaEjnYpxQ8.jpg"
     },
     {
       "title": "Sniper: The White Raven",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 7,
-      "description": "Un film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/FJQ1gyiP9AxjQoZEbLNSOpHkIz.jpg"
-    },
-    {
-      "title": "Signal One",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "Un film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hYAGvB1GwmkjwWg8Z2ORz96uHlj.jpg"
-    },
-    {
-      "title": "The Long Walk",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Un film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vW5uI4z4WMpqjQG7vcffPtja3IJ.jpg"
-    },
-    {
-      "title": "Carrie",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Una serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6otg7YqOkS8DxQO02yCGs6dwMsu.jpg"
+      "description": "Un film d'azione e guerra incentrato su un cecchino in missione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/FJQ1gyiP9AxjQoZEbLNSOpHkIz.jpg"
     },
     {
       "title": "Ted Lasso",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "Una serie comica su un allenatore di football americano che viene assunto per gestire una squadra di calcio britannica.",
+      "description": "Una commedia acclamata dalla critica su un allenatore di football americano che si trasferisce in Inghilterra per allenare una squadra di calcio.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
     },
     {
@@ -94,7 +94,7 @@
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 2,
-      "description": "Una serie thriller di spionaggio.",
+      "description": "Un avvincente thriller di spionaggio che segue una squadra di agenti dell'MI5 emarginati.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
     },
     {
@@ -102,7 +102,7 @@
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 3,
-      "description": "Una serie di fantascienza.",
+      "description": "Una serie di fantascienza che esplora universi paralleli e scelte di vita.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5DyYSRwdop0LWqbKFUBtrfFday.jpg"
     },
     {
@@ -110,216 +110,216 @@
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 4,
-      "description": "Una serie di fantascienza distopica.",
+      "description": "Una serie distopica di fantascienza ambientata in una gigantesca struttura sotterranea dove l'umanità vive per proteggersi dal mondo esterno.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
-    },
-    {
-      "title": "Brothers",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Una serie comica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rFIvrqFMUAVQHB8AENauGNj382i.jpg"
     },
     {
       "title": "Last Seen",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Una serie thriller.",
+      "rank": 5,
+      "description": "Un thriller che segue la ricerca di una persona scomparsa e i segreti che emergono.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/1Hfzson9qIWnTn6fkIXwkwUuUAr.jpg"
     },
     {
       "title": "Widow's Bay",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "Una serie comica/mistery.",
+      "rank": 6,
+      "description": "Una serie mistery/drama ambientata in una piccola comunità costiera.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
     },
     {
-      "title": "Scissione",
+      "title": "Small Prophets",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "Una commedia che segue le vicende di personaggi eccentrici e le loro piccole profezie.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
+    },
+    {
+      "title": "Severance",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 8,
-      "description": "Una serie thriller in cui i dipendenti hanno i loro ricordi non lavorativi separati chirurgicamente da quelli lavorativi.",
+      "description": "Un thriller psicologico di fantascienza in cui i ricordi lavorativi e personali sono chirurgicamente separati.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jnwqpZpmwvEo0CFLjDwfnnAf4ow.jpg"
     },
     {
-      "title": "Shrinking",
-      "type": "tv",
+      "title": "Brothers",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 9,
-      "description": "Una serie comica su un terapista in lutto.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
+      "description": "Una commedia che esplora la dinamica tra fratelli in situazioni inaspettate.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2LGJCAs6fjGmeFphGG7d7m55gVx.jpg"
     },
     {
-      "title": "For All Mankind",
-      "type": "tv",
+      "title": "Matchbox",
+      "type": "movie",
       "platform": "Apple TV+",
       "rank": 10,
-      "description": "Una serie drammatica che esplora una storia alternativa in cui la corsa allo spazio globale non è mai finita.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-    },
-    {
-      "title": "Doing Life",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 1,
-      "description": "Un dramma sentimentale che segue una madre single e un ex detenuto mentre cercano di ricominciare le loro vite, affrontando errori passati e responsabilità familiari.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg"
+      "description": "Un film d'azione ad alto ritmo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/JFawNsqIqIZbmfn7Ud7oUvJMMm.jpg"
     },
     {
       "title": "UNABOMBER",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 2,
-      "description": "Un documentario true crime che esplora il caso del noto criminale.",
+      "rank": 1,
+      "description": "Un docu-film che esplora il caso di Unabomber, il terrorista che ha seminato il panico negli Stati Uniti per anni.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
+    },
+    {
+      "title": "Che Dio Perdona a Tutti",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 2,
+      "description": "Un film drammatico/thriller che esplora temi di perdono e redenzione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tj7kgHJsIQIu9Ly4tsLLBER76BX.jpg"
+    },
+    {
+      "title": "Novocaine",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 3,
+      "description": "Un thriller avvincente che tiene gli spettatori con il fiato sospeso.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gzHJSn8I1QxGScttymjbTifloN0.jpg"
+    },
+    {
+      "title": "Doing Life",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 4,
+      "description": "Una madre single che lotta per sopravvivere e un ex detenuto dal talento inespresso si concedono a vicenda un'inaspettata seconda possibilità.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle I",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "La battaglia decisiva contro Muzan è imminente, con Tanjiro e gli Hashira trascinati nel labirintico Castello dell'Infinito.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8uYxx23KyDnbDkA3eQSNECVeOiS.jpg"
     },
     {
       "title": "Minerva Academy: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 3,
-      "description": "Una serie TV.",
+      "rank": 6,
+      "description": "Un teen drama ambientato in un rigido liceo militare napoletano, dove gli studenti affrontano disciplina e segreti.",
       "posterUrl": ""
     },
     {
       "title": "Physical 100: Italy: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 4,
-      "description": "Una serie reality di competizione fisica ambientata in Italia.",
+      "rank": 7,
+      "description": "La versione italiana del popolare reality show di competizione fisica.",
       "posterUrl": ""
     },
     {
       "title": "Not a Stranger: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 5,
-      "description": "Una serie TV.",
+      "rank": 8,
+      "description": "Una serie drammatica che esplora relazioni complesse e segreti inaspettati.",
       "posterUrl": ""
-    },
-    {
-      "title": "Hidden",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "Un film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/d6JTN9J9cAwCLDS37FsXTXbl1OQ.jpg"
-    },
-    {
-      "title": "Ice Age",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "Il primo capitolo della popolare saga animata sull'era glaciale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dSWZ3oXT7ggTKvcD3noqYhKwTUa.jpg"
     },
     {
       "title": "Monster: The Lizzie Borden Story: Season 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "Una serie drammatica/crime.",
+      "rank": 9,
+      "description": "Il quarto capitolo della serie antologica 'Monster', incentrato sulla controversa figura di Lizzie Borden.",
       "posterUrl": ""
     },
     {
       "title": "The Final Problem: Limited Series",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 9,
-      "description": "Una miniserie TV.",
+      "rank": 10,
+      "description": "Una miniserie crime/mistero che presenta un'indagine complessa e un finale sorprendente.",
       "posterUrl": ""
     },
     {
-      "title": "Criature",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 10,
-      "description": "Un film che ha debuttato di recente nella Top 10.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/7rinMnnmRdmjbwfNPXbIp0katq6.jpg"
+      "title": "X Factor Audizioni",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 1,
+      "description": "Le audizioni del celebre talent show musicale italiano.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Bruno Barbieri: 4 Hotel",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 2,
+      "description": "Il noto chef Bruno Barbieri valuta quattro hotel in una competizione televisiva.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pq7F4Wx36DAap7ikO5eBrY52G3I.jpg"
+    },
+    {
+      "title": "GialappaShow",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 3,
+      "description": "Uno show comico e di varietà con la Gialappa's Band.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gczG92zbCmVDI2ahOpchGzr6895.jpg"
     },
     {
       "title": "Runner",
       "type": "movie",
       "platform": "Sky",
-      "rank": 1,
-      "description": "Un film.",
+      "rank": 4,
+      "description": "Un film d'azione e thriller che ha riscosso successo tra le uscite recenti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/y2JldODg7WqeAZC9MRKshA2hSmq.jpg"
     },
     {
       "title": "Afterburn",
       "type": "movie",
       "platform": "Sky",
-      "rank": 2,
-      "description": "Un film.",
+      "rank": 5,
+      "description": "Un film d'azione con scene mozzafiato.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/b3WEH04kXovouxZt8nInYi5qENc.jpg"
     },
     {
       "title": "Law Abiding Citizen",
       "type": "movie",
       "platform": "Sky",
-      "rank": 3,
-      "description": "Un film.",
+      "rank": 6,
+      "description": "Un thriller crime che esplora i confini della giustizia e della vendetta.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jNoZZOsJaEdoGUDwnO4QdcQtGlp.jpg"
     },
     {
       "title": "Hamnet",
       "type": "movie",
       "platform": "Sky",
-      "rank": 4,
-      "description": "Un film.",
+      "rank": 7,
+      "description": "Un dramma storico che racconta la storia della famiglia di William Shakespeare.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg"
     },
     {
       "title": "Road House",
       "type": "movie",
       "platform": "Sky",
-      "rank": 5,
-      "description": "Un film.",
+      "rank": 8,
+      "description": "Un remake del classico film d'azione, con combattimenti e adrenalina.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fDEdtS4P0gJsxHDIt8dG8TR5dx1.jpg"
     },
     {
-      "title": "Antartica - Quasi una fiaba",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 6,
-      "description": "Un film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ntD8j5DhNaQKJ4ogAsAtUfADRP.jpg"
-    },
-    {
-      "title": "Benvenuti in campagna",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 7,
-      "description": "Un film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1I1S7Cq2yxYJaowlfo1XFm6aNnb.jpg"
-    },
-    {
-      "title": "Swiped",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 8,
-      "description": "Un film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mEeFRU5ADkyP7JtOFFV8tYMm3zD.jpg"
-    },
-    {
-      "title": "Jeanne du Barry",
-      "type": "movie",
+      "title": "Nord Sud Ovest Est - La leggendaria storia degli 883",
+      "type": "tv",
       "platform": "Sky",
       "rank": 9,
-      "description": "Un film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/scDsBYLRMQBnBCsJcjs8k6X0zt3.jpg"
+      "description": "La seconda stagione della serie Sky Original che ripercorre le vicende di Max Pezzali e Mauro Repetto e il successo degli 883.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pkkbp6idHq6CQ2DWl99OkN61fR0.jpg"
     },
     {
-      "title": "Avvocato Ligas",
+      "title": "Babylon Berlin",
       "type": "tv",
       "platform": "Sky",
       "rank": 10,
-      "description": "Un legal drama Sky Original con Luca Argentero, che segue un avvocato penalista di talento alle prese con casi complessi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg"
+      "description": "Una serie crime drammatica ambientata nella Berlino degli anni '20.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg"
     }
   ]
 }
