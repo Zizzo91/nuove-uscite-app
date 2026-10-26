@@ -1,148 +1,130 @@
 {
-  "date": "25/10/2026, 14:24:20",
+  "date": "26/10/2026, 16:31:56",
   "data": [
     {
-      "title": "Clown in a Cornfield",
+      "title": "Backrooms",
       "type": "movie",
-      "platform": "Netflix",
+      "platform": "Cinema",
       "target": "Gen Z",
       "rank": 1,
-      "description": "Questo film horror, con la sua estetica da slasher moderno e la potenziale viralità su piattaforme come TikTok per le sue scene d'impatto, attira l'attenzione della Gen Z amante del genere e delle tendenze spaventose.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1jDjHEY63K89KkLtYhG4TpD0rYL.jpg"
+      "description": "Virale su TikTok e YouTube, questo horror indipendente ha catturato l'attenzione della Gen Z per la sua estetica inquietante e la narrazione che gioca con le paure contemporanee legate agli spazi liminali e all'ignoto digitale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mene1ewQ03sW3aievfnaCyEZD8t.jpg"
     },
     {
-      "title": "Hot Wheels Let's Race: Attack of the T-Rex",
-      "type": "tv",
-      "platform": "Netflix",
+      "title": "Obsession",
+      "type": "movie",
+      "platform": "Cinema",
       "target": "Gen Z",
       "rank": 2,
-      "description": "Serie animata basata su un franchise iconico, perfetta per la Gen Z più giovane o per chi cerca un tocco di nostalgia dell'infanzia con un'azione frenetica e visivamente accattivante, spesso condivisa in clip sui social.",
-      "posterUrl": ""
+      "description": "Un altro fenomeno horror nato dal web, amato dalla Gen Z per la sua trama che mescola teen drama e una spirale di follia, con una protagonista acclamata come nuova 'Scream Queen' del 2026.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kwprCwsIV4LvAqJC1dmiTAdZDJ1.jpg"
     },
     {
-      "title": "JoJo's Bizarre Adventure",
+      "title": "Minerva - La Scuola",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
       "rank": 3,
-      "description": "L'anime continua ad essere un genere estremamente popolare tra la Gen Z in Italia, grazie al suo stile unico, alle trame avvincenti e alla forte community online che genera discussioni e meme.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/thyLlWU5CyenrPxKunztZFwfZE1.jpg"
+      "description": "Questo teen drama italiano su un istituto esclusivo è molto discusso sui social, offrendo alla Gen Z una narrazione che esplora privilegi, competizione e la costruzione dell'identità adolescenziale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg"
+    },
+    {
+      "title": "Euphoria (Stagione 3)",
+      "type": "tv",
+      "platform": "Sky",
+      "target": "Gen Z",
+      "rank": 4,
+      "description": "L'attesissima terza stagione continua a essere un punto di riferimento culturale per la Gen Z, affrontando temi complessi come dipendenza, relazioni e salute mentale con uno stile visivo e narrativo che risuona profondamente con questa generazione.",
+      "posterUrl": ""
     },
     {
       "title": "Coven Academy",
       "type": "tv",
-      "platform": "Disney+",
+      "platform": "Netflix",
       "target": "Gen Z",
-      "rank": 4,
-      "description": "Una nuova serie con elementi fantasy e soprannaturali, che si allinea all'interesse della Gen Z per storie di magia, scuole speciali e personaggi con poteri, spesso promossa attraverso trailer e clip accattivanti sui social.",
+      "rank": 5,
+      "description": "Una nuova serie fantasy sovrannaturale con streghe adolescenti, che attira la Gen Z per le sue tematiche di magia, mistero e i classici problemi della crescita, con un'estetica pop facilmente condivisibile sui social.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fRY6P6lWpwyI97WpKIf8mfaWFkZ.jpg"
     },
     {
-      "title": "Moana Live-Action Reimagining",
-      "type": "movie",
-      "platform": "Disney+",
+      "title": "Bridgerton (Stagione 4)",
+      "type": "tv",
+      "platform": "Netflix",
       "target": "Gen Z",
-      "rank": 5,
-      "description": "Il remake live-action di un classico Disney amato, che genera hype tra la Gen Z per la nostalgia, gli effetti visivi moderni e la curiosità di rivedere una storia familiare con un nuovo volto, diventando un argomento di discussione online.",
+      "rank": 6,
+      "description": "La quarta stagione di questa serie romantica in costume è molto attesa dalla Gen Z per le sue trame avvincenti, i personaggi inclusivi e l'estetica sontuosa che genera un forte engagement sui social media.",
       "posterUrl": ""
     },
     {
-      "title": "Spider-Man: Brand New Day",
+      "title": "Love Me Love Me",
+      "type": "movie",
+      "platform": "Netflix",
+      "target": "Gen Z",
+      "rank": 7,
+      "description": "Questo nuovo teen-drama film è virale tra la Gen Z per la sua storia d'amore tormentata, i personaggi imperfetti e un linguaggio narrativo che rispecchia le dinamiche relazionali contemporanee.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jfwHKRHRE2X4NTexdzblaioHH51.jpg"
+    },
+    {
+      "title": "L'estate nei tuoi occhi",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "target": "Gen Z",
-      "rank": 6,
-      "description": "I film di supereroi, in particolare quelli legati all'universo Marvel/Spider-Man, sono un pilastro per la Gen Z, che segue con passione le nuove uscite e le discussioni sui social media riguardo trame e personaggi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1GI1iyqqsaykl7LNKVwHLiorDhE.jpg"
-    },
-    {
-      "title": "The Grimm Sisters Season 2",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "target": "Gen Z",
-      "rank": 7,
-      "description": "Questa serie con elementi fiabeschi e misteriosi attrae la Gen Z per la sua capacità di reinterpretare storie classiche con un tocco moderno e oscuro, generando interesse per la trama e i colpi di scena.",
+      "rank": 8,
+      "description": "Un film romantico che, con la sua uscita natalizia, è destinato a diventare un cult per la Gen Z, offrendo storie d'amore e crescita che toccano le corde emotive di questa generazione.",
       "posterUrl": ""
     },
     {
-      "title": "Whalefall: Nella Balena",
-      "type": "movie",
-      "platform": "Cinema",
-      "target": "Gen Z",
-      "rank": 8,
-      "description": "Un film horror/survival uscito di recente al cinema, che attira la Gen Z per l'adrenalina, le premesse uniche e la possibilità di vivere un'esperienza cinematografica intensa, spesso commentata e recensita sui social dopo la visione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/auhdhcoWhQzMovY2pa71BTgDAa7.jpg"
-    },
-    {
-      "title": "Physical 100: Italy",
+      "title": "Due Spicci",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
       "rank": 9,
-      "description": "I reality show di competizione fisica e di resistenza sono estremamente popolari tra la Gen Z, che apprezza il dramma, la forza dei partecipanti e la viralità delle sfide sui social media, in particolare TikTok.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6g40xT8B2Tv2tGrq7QolksoZnIa.jpg"
+      "description": "La nuova serie di Zerocalcare è molto apprezzata dalla Gen Z per la sua capacità di raccontare l'ansia generazionale, le aspettative disattese e la fatica dell'età adulta con un'ironia tagliente e una profonda emotività.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg"
     },
     {
-      "title": "Lupin Parte 4",
+      "title": "Beef – Lo scontro 2",
       "type": "tv",
       "platform": "Netflix",
       "target": "Gen Z",
       "rank": 10,
-      "description": "La serie francese con Omar Sy è molto amata dalla Gen Z per il suo protagonista carismatico, le trame intelligenti e ricche di suspense, e lo stile visivo accattivante che la rende facilmente condivisibile e discussa online.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg"
+      "description": "Questa dark comedy acclamata dalla critica, con personaggi Gen Z e una trama che esplora rabbia e risentimento in modo originale, è diventata un fenomeno di discussione online.",
+      "posterUrl": ""
     },
     {
-      "title": "UNABOMBER",
+      "title": "Hanno ucciso l'Uomo Ragno – La vera storia degli 883 (Stagione 2)",
       "type": "tv",
-      "platform": "Netflix",
+      "platform": "Sky",
       "target": "Millennials",
       "rank": 1,
-      "description": "Le docuserie true crime, specialmente quelle basate su casi reali e complessi come quello dell'Unabomber, sono un genere molto apprezzato dai Millennials per l'approfondimento psicologico e l'elemento investigativo che stimola la discussione.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/AlXu4dUBvzV59e9sI72EJVmMkgS.jpg"
+      "description": "Questa serie italiana è un successo tra i Millennials per il suo forte elemento nostalgico, rievocando la musica e la cultura degli anni '90 attraverso la storia degli 883.",
+      "posterUrl": ""
     },
     {
-      "title": "The Mentalist",
+      "title": "La valle dell'Eden",
       "type": "tv",
       "platform": "Netflix",
       "target": "Millennials",
       "rank": 2,
-      "description": "Un classico procedural drama che continua a essere popolare tra i Millennials per le sue trame intricate, il carisma del protagonista e la soddisfazione di risolvere misteri, ideale per il binge-watching.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/acYXu4KaDj1NIkMgObnhe4C4a0T.jpg"
+      "description": "L'adattamento di un classico letterario attira i Millennials per la sua narrazione profonda e complessa, esplorando temi universali di bene e male, e dinamiche familiari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4Iqca4DNsyhG9dpHiKSejiNyJez.jpg"
     },
     {
-      "title": "The Gentlemen",
+      "title": "Portobello",
       "type": "tv",
-      "platform": "Netflix",
+      "platform": "Sky",
       "target": "Millennials",
       "rank": 3,
-      "description": "La serie, con il suo stile distintivo e le trame complesse nel mondo della criminalità organizzata, attrae i Millennials che apprezzano il genere crime-comedy e le produzioni di qualità con un cast di rilievo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg"
+      "description": "Il dramma civile sulla vicenda di Enzo Tortora risuona con i Millennials per la sua rilevanza storica e la riflessione su giustizia, media e opinione pubblica in Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hyApeGpRvoRT0BhSko8WYU4riX6.jpg"
     },
     {
-      "title": "East of Eden",
+      "title": "Il Mostro di Firenze: Pietro Pacciani",
       "type": "tv",
       "platform": "Netflix",
       "target": "Millennials",
       "rank": 4,
-      "description": "Un adattamento di prestigio di un classico letterario, che risuona con i Millennials per la sua profondità narrativa, i temi universali e le performance attoriali di alto livello, generando discussioni su X e Instagram.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4Iqca4DNsyhG9dpHiKSejiNyJez.jpg"
-    },
-    {
-      "title": "Maschi Veri Stagione 2",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Millennials",
-      "rank": 5,
-      "description": "Questa serie italiana, che esplora le crisi e le dinamiche dell'amicizia maschile, è particolarmente rilevante per i Millennials italiani che si identificano con le tematiche relazionali e generazionali affrontate con umorismo e realismo.",
-      "posterUrl": ""
-    },
-    {
-      "title": "The Diplomat: Season 4",
-      "type": "tv",
-      "platform": "Netflix",
-      "target": "Millennials",
-      "rank": 6,
-      "description": "I drammi politici con protagoniste femminili forti e trame internazionali complesse sono molto seguiti dai Millennials, che apprezzano l'attualità e l'intelligenza della sceneggiatura, alimentando dibattiti online.",
+      "description": "Questa serie true crime italiana, che rivisita uno dei casi più enigmatici della cronaca nera italiana, affascina i Millennials per il suo approccio investigativo e storico.",
       "posterUrl": ""
     },
     {
@@ -150,36 +132,54 @@
       "type": "tv",
       "platform": "Amazon Prime Video",
       "target": "Millennials",
-      "rank": 7,
-      "description": "La nuova serie basata sul romanzo di Stephen King attira i Millennials per la nostalgia del classico horror e l'interesse per le reinterpretazioni moderne di storie iconiche, con un focus sulla psicologia dei personaggi.",
+      "rank": 5,
+      "description": "La nuova serie basata sul romanzo di Stephen King attira i Millennials che apprezzano l'horror psicologico e la rivisitazione di un classico, aggiornato con tematiche attuali come il bullismo nell'era dei social.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6otg7YqOkS8DxQO02yCGs6dwMsu.jpg"
     },
     {
-      "title": "Slow Horses",
+      "title": "Maschi veri 2",
       "type": "tv",
-      "platform": "Apple TV+",
+      "platform": "Netflix",
       "target": "Millennials",
-      "rank": 8,
-      "description": "Un thriller di spionaggio acclamato dalla critica, che offre una narrazione sofisticata e personaggi complessi, ideale per i Millennials che cercano serie di alta qualità con suspense e intelligenza.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
+      "rank": 6,
+      "description": "Il sequel di questa produzione italiana è popolare tra i Millennials per la sua commedia relazionale e la capacità di esplorare le dinamiche di coppia e di genere in modo divertente e riconoscibile.",
+      "posterUrl": ""
     },
     {
-      "title": "Nord Sud Ovest Est: La leggendaria storia degli 883",
+      "title": "Tutti al college",
+      "type": "tv",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 7,
+      "description": "Il revival di questa sitcom degli anni '80/'90 è un forte richiamo nostalgico per i Millennials, che ritrovano personaggi e atmosfere della loro giovinezza.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/2HICSD84uNw2fKj05hmviWL3vkk.jpg"
+    },
+    {
+      "title": "Gomorra - Le origini",
       "type": "tv",
       "platform": "Sky",
       "target": "Millennials",
-      "rank": 9,
-      "description": "Questa docuserie sulla storia degli 883, una band iconica degli anni '90, è un forte richiamo nostalgico per i Millennials italiani, che rivivono un pezzo della loro giovinezza e cultura musicale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pkkbp6idHq6CQ2DWl99OkN61fR0.jpg"
+      "rank": 8,
+      "description": "Il prequel della celebre saga criminale italiana è molto seguito dai Millennials, fan della serie originale, che apprezzano l'approfondimento sulle origini del boss Pietro Savastano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
     },
     {
-      "title": "Holy Cannoli",
+      "title": "Noi un po' meglio",
       "type": "movie",
-      "platform": "Cinema",
+      "platform": "Netflix",
+      "target": "Millennials",
+      "rank": 9,
+      "description": "Questa commedia romantica italiana, con temi di adozione e relazioni adulte, attrae i Millennials per la sua narrazione realistica e le sfide della vita di coppia e familiare.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ahSqZAAHU4PgNdbKdGPj332O7As.jpg"
+    },
+    {
+      "title": "ChiaroScuro",
+      "type": "tv",
+      "platform": "Netflix",
       "target": "Millennials",
       "rank": 10,
-      "description": "Una commedia drammatica italiana che ha riscosso successo al botteghino, apprezzata dai Millennials per la sua capacità di raccontare la società italiana contemporanea con ironia e intelligenza, supportando il cinema nazionale.",
-      "posterUrl": ""
+      "description": "Un procedural ambientato nel mondo dell'arte moderna, con un protagonista carismatico, che interessa i Millennials per la sua combinazione di mistero, cultura e indagine.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg"
     }
   ]
 }
