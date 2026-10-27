@@ -1,325 +1,325 @@
 {
-  "date": "26/10/2026, 14:41:15",
+  "date": "27/10/2026, 13:50:01",
   "data": [
-    {
-      "title": "LOL: Chi ride è fuori - Halloween Special",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 1,
-      "description": "An Italian game show where celebrities try to hold back laughter, with a Halloween special.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qhKY57FldzoQqHLJT8QUawhu42v.jpg"
-    },
-    {
-      "title": "Carrie",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "A TV show currently popular on Amazon Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6otg7YqOkS8DxQO02yCGs6dwMsu.jpg"
-    },
-    {
-      "title": "The Terminal List",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "An action-thriller series among the most popular on Amazon Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/onDgOhbqcWyYEMFrobhVvgHmqHr.jpg"
-    },
     {
       "title": "Love of Your Life",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "A movie currently ranked high on Amazon Prime Video.",
+      "rank": 1,
+      "description": "Un film che racconta la travolgente storia d'amore tra Maya e Charlie, messa alla prova da un futuro inaspettato.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/z10uWG4eeuDk72IcQe3niXsQCik.jpg"
+    },
+    {
+      "title": "LOL: Chi ride è fuori - Halloween Special",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 2,
+      "description": "Uno speciale di Halloween della popolare comedy italiana 'LOL: Chi ride è fuori'.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qhKY57FldzoQqHLJT8QUawhu42v.jpg"
     },
     {
       "title": "Masterplan",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "A film that is among the top 10 most viewed on Amazon Prime Video.",
+      "rank": 3,
+      "description": "Un leggendario ladro recluta due sconosciuti per rubare la Gioconda.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg"
+    },
+    {
+      "title": "Carrie",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 4,
+      "description": "Una miniserie horror in otto episodi diretta da Mike Flanagan e tratta da Stephen King, che esplora il tema del bullismo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6otg7YqOkS8DxQO02yCGs6dwMsu.jpg"
     },
     {
       "title": "Wardriver",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 6,
-      "description": "A movie currently in the top 10 on Amazon Prime Video.",
+      "rank": 5,
+      "description": "Un film che si posiziona tra i più visti sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg"
+    },
+    {
+      "title": "The Terminal List",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 6,
+      "description": "Una serie che segue un ufficiale dei Navy SEAL che indaga su una cospirazione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/onDgOhbqcWyYEMFrobhVvgHmqHr.jpg"
     },
     {
       "title": "Angelo Pintus in Nabana",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 7,
-      "description": "A comedy special by Italian comedian Angelo Pintus.",
+      "description": "Uno spettacolo comico dell'attore e comico italiano Angelo Pintus.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ic7036z9Q1ZJWh585syxy8t9Jkj.jpg"
+    },
+    {
+      "title": "Regina Rossa 2",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 8,
+      "description": "La seconda stagione della serie spagnola con Antonia Scott, dotata di capacità intellettive fuori dal comune, coinvolta in un caso di criminalità organizzata russa.",
+      "posterUrl": ""
     },
     {
       "title": "Return to Silent Hill",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "A film currently popular on Amazon Prime Video.",
+      "rank": 9,
+      "description": "Un film che ha scalato la classifica dei più popolari.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/28ygujLDfyuRjxtF2PmblovDjsI.jpg"
     },
     {
-      "title": "Kraken",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "A movie that has entered the top 10 on Amazon Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uUCVGVWnBgIf6NV3AqHpJcCBC8T.jpg"
-    },
-    {
-      "title": "Longlegs",
-      "type": "movie",
+      "title": "Ingorgo",
+      "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "A film currently in the top 10 most popular on Amazon Prime Video.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qrvtL5AQ0NklaOZvH275sm3RctS.jpg"
+      "description": "Una comedy italiana in cui un gigantesco ingorgo autostradale porta gli automobilisti a conoscersi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/i5eRkr7587uemwOLT4OuC2EsKsC.jpg"
     },
     {
       "title": "Slow Horses",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 1,
-      "description": "A thriller series about a team of British intelligence agents who have messed up and are exiled to a department for MI5 rejects.",
+      "description": "Una serie thriller che segue una squadra di agenti dell'MI5 caduti in disgrazia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
+    },
+    {
+      "title": "Tenzing",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 2,
+      "description": "Un film drammatico che si trova tra i più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rvYJksPOdfk0TDym3bLKJ7JeZfv.jpg"
     },
     {
       "title": "Ted Lasso",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 2,
-      "description": "A comedy series about an American football coach hired to manage a British soccer team.",
+      "rank": 3,
+      "description": "Una commedia acclamata che racconta la storia di un allenatore di football americano che si trasferisce in Inghilterra per allenare una squadra di calcio.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
+    },
+    {
+      "title": "Matchbox: Il film",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 4,
+      "description": "Un'avventura ricca di azione ispirata ai giocattoli Mattel, in cui un agente della CIA coinvolge amici d'infanzia in una missione globale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/JFawNsqIqIZbmfn7Ud7oUvJMMm.jpg"
     },
     {
       "title": "Dark Matter",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 3,
-      "description": "A sci-fi series currently popular on Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5DyYSRwdop0LWqbKFUBtrfFday.jpg"
-    },
-    {
-      "title": "Silo",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 4,
-      "description": "A sci-fi series set in a dystopian future where a community lives in a giant underground silo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
-    },
-    {
-      "title": "Dov'è Wanda?",
-      "type": "tv",
-      "platform": "Apple TV+",
       "rank": 5,
-      "description": "A drama series among the most popular on Apple TV+.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fdsknqCUzrgQ7FUTFH3ZIWOjc8H.jpg"
-    },
-    {
-      "title": "The Last First: Winter K2",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 6,
-      "description": "A documentary film about an expedition to K2 in winter.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/97QpXbNNXj2eQ1MdmhFdGlU0jnW.jpg"
+      "description": "Una serie di fantascienza che ha catturato l'attenzione del pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5DyYSRwdop0LWqbKFUBtrfFday.jpg"
     },
     {
       "title": "Mayday",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "An action film currently in the top 10 movies on Apple TV+.",
+      "rank": 6,
+      "description": "Una commedia d'azione ambientata durante la Guerra Fredda, con un pilota americano e un ex agente del KGB che formano un'improbabile alleanza.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hEPE2DP26os4LRcajwfR7l3UOv6.jpg"
     },
     {
-      "title": "Spider-Man: Far From Home",
-      "type": "movie",
+      "title": "Silo",
+      "type": "tv",
       "platform": "Apple TV+",
-      "rank": 8,
-      "description": "An action film featuring the Marvel superhero Spider-Man.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/blWCg2gs0uQiEl4e3ml6j3yDSKg.jpg"
-    },
-    {
-      "title": "Ready Player One",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 9,
-      "description": "A sci-fi adventure film set in a dystopian future where people escape into a virtual reality world.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zkTYffo4PeN759mJchu2JpXY97I.jpg"
+      "rank": 7,
+      "description": "Una serie di fantascienza distopica in cui l'umanità vive in un gigantesco silo sotterraneo.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
     },
     {
       "title": "F1: Il film",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 10,
-      "description": "An action film related to Formula 1 racing.",
+      "rank": 8,
+      "description": "Un film d'azione incentrato sul mondo della Formula 1.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
-      "title": "Below",
+      "title": "Dov'è Wanda?",
       "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Una serie drammatica che si trova tra le più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fdsknqCUzrgQ7FUTFH3ZIWOjc8H.jpg"
+    },
+    {
+      "title": "Ready Player One",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 10,
+      "description": "Un film di fantascienza ambientato in un futuro distopico, dove le persone cercano rifugio in un mondo virtuale.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zkTYffo4PeN759mJchu2JpXY97I.jpg"
+    },
+    {
+      "title": "Surviving Hurricane Otis",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 1,
-      "description": "A limited series that is currently the most popular show on Netflix in Italy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg"
+      "description": "Un film che probabilmente esplora gli eventi e le conseguenze dell'uragano Otis.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9na3MNAhsuNKDVOoctaE7opTmbx.jpg"
+    },
+    {
+      "title": "Below: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 2,
+      "description": "Una serie limitata che si posiziona tra le più popolari.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Cortina Express",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 3,
+      "description": "Un film attualmente in tendenza sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hd7KoRwNoL0dFAJtPzxd7ESx1aW.jpg"
     },
     {
       "title": "Real Men: Season 2",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 2,
-      "description": "The second season of the series 'Real Men', ranking high among TV shows.",
-      "posterUrl": ""
-    },
-    {
-      "title": "The Trap",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "A limited series currently trending on Netflix.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jFDfQo3RjG3IZ4bLZeATLXBbo9g.jpg"
-    },
-    {
-      "title": "Minerva Academy: Season 1",
-      "type": "tv",
-      "platform": "Netflix",
       "rank": 4,
-      "description": "The first season of 'Minerva Academy', a popular TV series.",
+      "description": "La seconda stagione di questa serie TV continua a essere molto vista.",
       "posterUrl": ""
     },
     {
-      "title": "East of Eden",
-      "type": "tv",
+      "title": "Drop",
+      "type": "movie",
       "platform": "Netflix",
       "rank": 5,
-      "description": "A limited series that is among the top viewed shows on Netflix.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4Iqca4DNsyhG9dpHiKSejiNyJez.jpg"
+      "description": "Un film che ha catturato l'attenzione del pubblico italiano.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sYo8mowvoL1Hi1vsS8dSEpqArJM.jpg"
+    },
+    {
+      "title": "The Trap: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Una serie limitata che si mantiene nella top 10.",
+      "posterUrl": ""
     },
     {
       "title": "Animals",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 6,
-      "description": "A thriller film about a mayoral candidate and his wife trying to raise ransom after their son's kidnapping.",
+      "rank": 7,
+      "description": "Un thriller diretto e interpretato da Ben Affleck, in cui un candidato sindaco di Los Angeles e sua moglie cercano di recuperare il figlio rapito.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/2bSbPh4m29yW4vj3zLWFGou9E9K.jpg"
     },
     {
-      "title": "Doing Life",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "A film where a single mother and an inmate cultivate an unexpected bond through letters.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg"
-    },
-    {
-      "title": "Hidden",
-      "type": "movie",
+      "title": "Minerva Academy: Season 1",
+      "type": "tv",
       "platform": "Netflix",
       "rank": 8,
-      "description": "A movie currently in the top 10 most popular films on Netflix.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/d6JTN9J9cAwCLDS37FsXTXbl1OQ.jpg"
+      "description": "La prima stagione di questa serie TV è tra le più viste.",
+      "posterUrl": ""
     },
     {
-      "title": "UNABOMBER",
+      "title": "Clown in a Cornfield",
       "type": "movie",
       "platform": "Netflix",
       "rank": 9,
-      "description": "A dramatic film inspired by true events, recounting Ted Kaczynski's journey from Harvard prodigy to Unabomber.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg"
+      "description": "Un film che figura tra i titoli più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1jDjHEY63K89KkLtYhG4TpD0rYL.jpg"
     },
     {
-      "title": "Within",
-      "type": "movie",
+      "title": "East of Eden: Limited Series",
+      "type": "tv",
       "platform": "Netflix",
       "rank": 10,
-      "description": "When the Alexanders move into a new house, their teenage daughter Hannah begins to notice strange phenomena.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wfOaPl9lfzRuMjbnJZ8joBHG1h2.jpg"
+      "description": "Una serie limitata che ha riscosso successo tra gli spettatori.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Hanno ucciso l'Uomo Ragno - La leggendaria storia degli 883",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 1,
+      "description": "Una serie TV che ripercorre la storia della celebre band italiana 883.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/q7AkRxRGiD2s0lO8xY6RbVSPWFl.jpg"
     },
     {
       "title": "Tuner",
       "type": "movie",
       "platform": "Sky",
-      "rank": 1,
-      "description": "A movie currently in the top 10 on NOW (Sky).",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zs3MvBkmM6ccC1Fpfc0faBbRwb9.jpg"
-    },
-    {
-      "title": "Smart Working",
-      "type": "movie",
-      "platform": "Sky",
       "rank": 2,
-      "description": "A film that is among the most viewed on NOW (Sky).",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/qim9z1ZZWoGh5iDGicKgmrnfiXg.jpg"
-    },
-    {
-      "title": "Play Dirty",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 3,
-      "description": "A movie currently in the top 10 on NOW (Sky).",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/604rBO6uIYBRbDruXq5o7W57nzl.jpg"
-    },
-    {
-      "title": "Anniversary",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 4,
-      "description": "A film that has recently entered the top 10 on NOW (Sky).",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg"
-    },
-    {
-      "title": "Afterburn",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 5,
-      "description": "A movie currently in the top 10 on NOW (Sky).",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/b3WEH04kXovouxZt8nInYi5qENc.jpg"
+      "description": "Un film che si trova nella top 10 dei più visti su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zs3MvBkmM6ccC1Fpfc0faBbRwb9.jpg"
     },
     {
       "title": "Nord Sud Ovest Est: La leggendaria storia degli 883",
       "type": "tv",
       "platform": "Sky",
-      "rank": 6,
-      "description": "A series continuing the story of Max and Mauro, leading to the second album of the iconic Italian band 883.",
+      "rank": 3,
+      "description": "La seconda stagione della serie sugli 883, che segue il successo del loro album omonimo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pkkbp6idHq6CQ2DWl99OkN61fR0.jpg"
     },
     {
-      "title": "X Factor",
+      "title": "Smart Working",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "Un film che ha guadagnato popolarità sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qim9z1ZZWoGh5iDGicKgmrnfiXg.jpg"
+    },
+    {
+      "title": "M.",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 5,
+      "description": "Una serie TV che figura tra i titoli più popolari su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8mDoUftlI60WeGmlp35NJ6XRfrk.jpg"
+    },
+    {
+      "title": "Play Dirty",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Un film che si mantiene nella classifica dei più visti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/604rBO6uIYBRbDruXq5o7W57nzl.jpg"
+    },
+    {
+      "title": "True Detective",
       "type": "tv",
       "platform": "Sky",
       "rank": 7,
-      "description": "The Italian edition of the popular music talent show.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8vBwAUaiFEcQQHx2vgj5cG6OB6b.jpg"
+      "description": "Una serie antologica crime molto apprezzata dal pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg"
     },
     {
-      "title": "The Other Bennet Sister: Orgoglio e riscatto",
-      "type": "tv",
+      "title": "Anniversary",
+      "type": "movie",
       "platform": "Sky",
       "rank": 8,
-      "description": "A series that reworks 'Pride and Prejudice' from the perspective of Mary Bennet.",
-      "posterUrl": ""
+      "description": "Un film che è entrato nella top 10 di NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sSdpXGBNt3mQzjZZVK6eV5NcPdc.jpg"
     },
     {
-      "title": "Hanno ucciso l'uomo ragno - La leggendaria storia degli 883",
+      "title": "The Other Bennet Sister",
       "type": "tv",
       "platform": "Sky",
       "rank": 9,
-      "description": "A Sky Original series telling the story of Max and Mauro and how they formed the beloved Italian band 883.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/q7AkRxRGiD2s0lO8xY6RbVSPWFl.jpg"
+      "description": "Una serie TV spin-off di 'Orgoglio e Pregiudizio'.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg"
     },
     {
-      "title": "Wicked - Parte 2",
+      "title": "Afterburn",
       "type": "movie",
       "platform": "Sky",
       "rank": 10,
-      "description": "The second part of the musical fantasy film, among the most searched on Sky.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/kkvTiKZ2IIpLJk025ozwKtXKQS8.jpg"
+      "description": "Un film d'azione post-apocalittico con Dave Bautista e Samuel L. Jackson.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/b3WEH04kXovouxZt8nInYi5qENc.jpg"
     }
   ]
 }
