@@ -1,325 +1,517 @@
 {
-  "date": "08/11/2026, 14:57:12",
+  "date": "09/11/2026, 17:57:28",
   "data": [
     {
-      "title": "Drive - The Pretenders",
-      "type": "movie",
+      "title": "The Traitors Italia",
+      "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Un film che si posiziona al primo posto tra i più popolari su Amazon Prime Video in Italia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/9nS6pALpvYLt9LHzx2Rtb1xbtoi.jpg"
+      "description": "Il reality show italiano Prime Original che ha conquistato il pubblico con i suoi intrighi psicologici e colpi di scena.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gkyrD1MGAtPOfAmkU3PRDDhC6gX.jpg"
+    },
+    {
+      "title": "The Mongoose",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "rank": 2,
+      "description": "Un thriller d'azione con Liam Neeson nei panni di un veterano di guerra accusato ingiustamente.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qOJrnf5sfPe3zd4E662iFifKpmJ.jpg"
+    },
+    {
+      "title": "Campus Drivers",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 3,
+      "description": "Una nuova serie romantica ambientata nel mondo universitario, tra delusioni sentimentali e convivenze inaspettate.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg"
     },
     {
       "title": "LOL: Chi ride è fuori - Halloween Special",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 2,
-      "description": "Lo speciale di Halloween del popolare show comico italiano, molto apprezzato dagli spettatori.",
+      "rank": 4,
+      "description": "Uno speciale a tema Halloween del popolare show comico italiano.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qhKY57FldzoQqHLJT8QUawhu42v.jpg"
-    },
-    {
-      "title": "Apocalypse Z: New World",
-      "type": "movie",
-      "platform": "Amazon Prime Video",
-      "rank": 3,
-      "description": "Un film che figura tra i più visti sulla piattaforma.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/Aaf1GNXi80i2qNvVHlIjpBGfs88.jpg"
     },
     {
       "title": "Carrie",
       "type": "tv",
       "platform": "Amazon Prime Video",
-      "rank": 4,
-      "description": "Una serie TV presente nella classifica dei più popolari.",
+      "rank": 5,
+      "description": "Una serie horror basata sul romanzo di Stephen King, che aggiorna i personaggi e le dinamiche per il pubblico moderno.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6otg7YqOkS8DxQO02yCGs6dwMsu.jpg"
     },
     {
-      "title": "Love of Your Life",
+      "title": "Harry Potter e la pietra filosofale",
       "type": "movie",
       "platform": "Amazon Prime Video",
-      "rank": 5,
-      "description": "Un film romantico che racconta l'incontro tra Maya e Charlie e le sfide dell'amore.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/z10uWG4eeuDk72IcQe3niXsQCik.jpg"
-    },
-    {
-      "title": "The Terminal List",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
       "rank": 6,
-      "description": "Una serie d'azione e thriller che continua a essere tra le più viste.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/onDgOhbqcWyYEMFrobhVvgHmqHr.jpg"
+      "description": "Il primo film della celebre saga fantasy di Harry Potter.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4PBGbvbZKYBuTv5segH7i96sl9X.jpg"
     },
     {
-      "title": "Wardriver",
+      "title": "Drive - Cuori in pista",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 7,
-      "description": "Un film che si trova nella Top 10 dei contenuti più popolari.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/rBZA12Hf4yZZgud6iPuFU49L7zk.jpg"
+      "description": "Un film romantico tedesco ambientato nel mondo delle corse automobilistiche.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9nS6pALpvYLt9LHzx2Rtb1xbtoi.jpg"
     },
     {
-      "title": "Harry Potter e la Pietra Filosofale",
-      "type": "movie",
+      "title": "The Institute",
+      "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 8,
-      "description": "Il primo capitolo della celebre saga di Harry Potter, che continua ad attrarre spettatori.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4PBGbvbZKYBuTv5segH7i96sl9X.jpg"
+      "description": "Un thriller di fantascienza basato su Stephen King, dove giovani con poteri vengono sottoposti a esperimenti.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mOvJlMBwWGwlbzUEOC2KrZQHj0U.jpg"
     },
     {
       "title": "Masterplan",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 9,
-      "description": "Un film che segue la storia di un leggendario ladro che recluta una squadra per un colpo.",
+      "description": "Una coproduzione italo-francese su un ladro leggendario che progetta di rubare la Gioconda.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg"
     },
     {
-      "title": "Harry Potter e la Camera dei Segreti",
-      "type": "movie",
+      "title": "Reacher",
+      "type": "tv",
       "platform": "Amazon Prime Video",
       "rank": 10,
-      "description": "Il secondo film della saga di Harry Potter, ancora popolare sulla piattaforma.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fuW3lmo0SNI59riA7rKaLv3HT8F.jpg"
-    },
-    {
-      "title": "Nocturne",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 1,
-      "description": "Una serie poliziesca che si posiziona al primo posto tra i più popolari su Apple TV+ in Italia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg"
-    },
-    {
-      "title": "Sunshine",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 2,
-      "description": "Il film di fantascienza diretto da Danny Boyle, nel quale una missione spaziale tenta di salvare il Sole, disponibile dal 2 novembre.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4Fr3lDzTUQSgNr9BvecxI46FkH3.jpg"
+      "description": "La serie d'azione che segue le indagini di Jack Reacher, un investigatore veterano della polizia militare.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xnMVkJFmzAWA6QpfdFfn4qOiTd3.jpg"
     },
     {
       "title": "Slow Horses",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 3,
-      "description": "Un thriller che continua a essere tra le serie più popolari e apprezzate sulla piattaforma.",
+      "rank": 1,
+      "description": "Un thriller di spionaggio che segue una squadra di agenti dell'MI5 emarginati.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
     },
     {
       "title": "Tenzing",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 4,
-      "description": "Un film drammatico che si trova nella Top 10 dei film più visti.",
+      "rank": 1,
+      "description": "Un film drammatico/avventura ispirato alla storia poco conosciuta di Tenzing Norgay.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/rvYJksPOdfk0TDym3bLKJ7JeZfv.jpg"
-    },
-    {
-      "title": "Stick",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 5,
-      "description": "Una serie commedia con Owen Wilson, presente tra i titoli più popolari.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pZ7fnbnGtK7XA9cw0u67W573d6M.jpg"
-    },
-    {
-      "title": "F1: Il film",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 6,
-      "description": "Un film d'azione dedicato al mondo della Formula 1, che si mantiene nella Top 10.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
     },
     {
       "title": "Ted Lasso",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 7,
-      "description": "La pluripremiata serie commedia che rimane costantemente tra le più viste e amate.",
+      "rank": 2,
+      "description": "Una commedia acclamata dalla critica su un allenatore di football americano che si trasferisce in Inghilterra per allenare una squadra di calcio.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
-    },
-    {
-      "title": "Mayday",
-      "type": "movie",
-      "platform": "Apple TV+",
-      "rank": 8,
-      "description": "Una commedia d'azione che trasforma il classico spy thriller, presente nella Top 10 dei film.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/hEPE2DP26os4LRcajwfR7l3UOv6.jpg"
-    },
-    {
-      "title": "Dark Matter",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 9,
-      "description": "Una serie di fantascienza che figura tra le più popolari sulla piattaforma.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5DyYSRwdop0LWqbKFUBtrfFday.jpg"
     },
     {
       "title": "Matchbox: Il film",
       "type": "movie",
       "platform": "Apple TV+",
-      "rank": 10,
-      "description": "Un film d'azione che racconta di un gruppo di amici le cui vite vengono stravolte dal ritorno di un ex leader diventato agente segreto.",
+      "rank": 2,
+      "description": "Un film d'azione con un cast stellare.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/JFawNsqIqIZbmfn7Ud7oUvJMMm.jpg"
+    },
+    {
+      "title": "Stick – Stagione 2",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 3,
+      "description": "La seconda stagione della commedia con Owen Wilson nei panni di un ex promessa del golf.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Mayday",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 3,
+      "description": "Un film d'azione e avventura.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hEPE2DP26os4LRcajwfR7l3UOv6.jpg"
+    },
+    {
+      "title": "Silo",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 4,
+      "description": "Una serie di fantascienza distopica ambientata in un futuro in cui l'umanità vive sottoterra.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
+    },
+    {
+      "title": "F1: Il film",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 4,
+      "description": "Un film d'azione sulla Formula 1.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tGMs4Ji6CH33GIx5aHAXc0uhu3F.jpg"
+    },
+    {
+      "title": "Brothers",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Una commedia che esplora le dinamiche familiari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/rFIvrqFMUAVQHB8AENauGNj382i.jpg"
+    },
+    {
+      "title": "Sunshine",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 5,
+      "description": "Un film di fantascienza diretto da Danny Boyle, in cui una missione spaziale tenta di salvare il Sole.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4Fr3lDzTUQSgNr9BvecxI46FkH3.jpg"
+    },
+    {
+      "title": "Dov'è Wanda?",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 6,
+      "description": "Un dramma che segue la ricerca di una persona scomparsa.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fdsknqCUzrgQ7FUTFH3ZIWOjc8H.jpg"
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 6,
+      "description": "Lo spettacolare film d'azione di George Miller con Tom Hardy e Charlize Theron.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5gbm8m1gYvOmVGRcxteiplDLWdg.jpg"
+    },
+    {
+      "title": "Dark Matter",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "Una serie di fantascienza che esplora universi paralleli.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5DyYSRwdop0LWqbKFUBtrfFday.jpg"
+    },
+    {
+      "title": "Spider-Man: Far From Home",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 7,
+      "description": "Un film d'azione supereroistico con Spider-Man.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/blWCg2gs0uQiEl4e3ml6j3yDSKg.jpg"
+    },
+    {
+      "title": "Small Prophets",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Una commedia che offre uno sguardo unico sulla vita.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
+    },
+    {
+      "title": "Ready Player One",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 8,
+      "description": "Un film di fantascienza ambientato in un futuro distopico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zkTYffo4PeN759mJchu2JpXY97I.jpg"
+    },
+    {
+      "title": "Widow's Bay",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Un giallo avvincente ambientato in una baia misteriosa.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+    },
+    {
+      "title": "The Family Plan",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 9,
+      "description": "Una commedia che esplora le dinamiche familiari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9LAjGL88QH5tpcq9veT7gG3ildP.jpg"
+    },
+    {
+      "title": "12 12 12",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 10,
+      "description": "Una nuova serie thriller che promette suspense e colpi di scena.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jXlPZz943xMbqfp2Ne1OvOWaPo.jpg"
+    },
+    {
+      "title": "The Proposal",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 10,
+      "description": "Una commedia romantica.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/78RJUsDqs87ecBkNkO2ZQHZM0JC.jpg"
+    },
+    {
+      "title": "Colisión",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 1,
+      "description": "Un crime thriller spagnolo ambientato nella Madrid del 2013, dove una rapina va storta e fa emergere bugie e vecchi rancori.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5oaS1EJfYCsd0kjZK2W9YaSMUaI.jpg"
     },
     {
       "title": "Lupin: Parte 4",
       "type": "tv",
       "platform": "Netflix",
       "rank": 1,
-      "description": "La quarta stagione del thriller francese con Omar Sy nei panni del ladro gentiluomo Assane Diop, che continua a dominare la classifica italiana.",
+      "description": "La quarta stagione del thriller francese con Omar Sy nei panni del ladro gentiluomo Assane Diop, che deve affrontare le conseguenze delle sue scelte.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg"
-    },
-    {
-      "title": "Colisión",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 2,
-      "description": "Un thriller spagnolo ambientato a Madrid nel 2013, dove un gruppo di criminali pianifica una rapina in banca che sfugge di mano.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5oaS1EJfYCsd0kjZK2W9YaSMUaI.jpg"
-    },
-    {
-      "title": "Scambio di bugie",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "Una nuova serie che ha rapidamente conquistato la seconda posizione nella Top 10 delle serie TV più viste su Netflix Italia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/4Z88NNfpPkG6ymd59G52v2ji6t7.jpg"
-    },
-    {
-      "title": "Noi, un po' meglio",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "Un film italiano con Elio Germano, che si mantiene in alta posizione nella classifica dei film più visti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ahSqZAAHU4PgNdbKdGPj332O7As.jpg"
-    },
-    {
-      "title": "Dead-End Job",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "Un horror coreano che è salito sul podio delle serie più viste, mostrando un crescente interesse per le nuove produzioni.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yyA9CI8BLNg6LtVRvmVxki4xiGb.jpg"
-    },
-    {
-      "title": "Black Bag – Doppio gioco",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "Un raffinato thriller di spionaggio diretto da Steven Soderbergh, con Cate Blanchett e Michael Fassbender, che ha debuttato direttamente sul podio.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uQfHXIiBkQj0VzPz1UFvV9jIFBM.jpg"
-    },
-    {
-      "title": "Nobody Wants This: Stagione 3",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "La commedia romantica con Kristen Bell e Adam Brody che continua a dimostrare una straordinaria longevità in classifica.",
-      "posterUrl": ""
     },
     {
       "title": "Rogue – Il solitario",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "Un film che si mantiene nella Top 10 dei più visti su Netflix Italia.",
+      "rank": 2,
+      "description": "Un film d'azione con Jet Li e Jason Statham.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/mWuR0bKqAxPfuzTKHTVDl4Ihbtq.jpg"
     },
     {
-      "title": "Il dono dell'inganno",
+      "title": "Lupin: Parte 1",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 9,
-      "description": "Una serie che ha guadagnato popolarità e si è posizionata nella Top 10 delle serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/odOJLtScJ7Wj4zFpZwAeThcUocR.jpg"
+      "rank": 2,
+      "description": "La prima parte della popolare serie francese che segue le avventure del ladro gentiluomo Assane Diop.",
+      "posterUrl": ""
+    },
+    {
+      "title": "La mia migliore amica",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 3,
+      "description": "Una commedia brasiliana su due amiche over 50, ispirata a una storia vera.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6TWL1KEZUOMnwQe7ufncpLvSrfL.jpg"
+    },
+    {
+      "title": "Nobody Wants This: Stagione 3",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 3,
+      "description": "La terza stagione della commedia romantica con Kristen Bell e Adam Brody, che racconta un amore fuori dagli schemi.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Un cucciolo per Natale",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 4,
+      "description": "Un nuovo film natalizio di Netflix con Dennis Quaid.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zKJmIJWxxFLKtfylpCYFfeVJ8xZ.jpg"
+    },
+    {
+      "title": "Lupin: Parte 3",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 4,
+      "description": "La terza parte della serie che vede Assane Diop coinvolto in un pericoloso gioco di inganni.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg"
     },
     {
       "title": "Il colpo",
       "type": "movie",
       "platform": "Netflix",
-      "rank": 10,
-      "description": "Un film presente nella classifica dei più visti su Netflix Italia.",
+      "rank": 5,
+      "description": "Un film thriller.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/8ees9f4hPcEXucgdPgOwDJj6eEw.jpg"
     },
     {
-      "title": "The Gilded Age: Stagione 4",
+      "title": "Lupin: Parte 2",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "La seconda parte delle avventure del ladro gentiluomo Assane Diop.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5LQLw0xUQtZUNg6cTk9gVR50CAB.jpg"
+    },
+    {
+      "title": "Noi, un po' meglio",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Un film che esplora le relazioni umane.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ahSqZAAHU4PgNdbKdGPj332O7As.jpg"
+    },
+    {
+      "title": "A Couple of Lies: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 6,
+      "description": "Una serie limitata che conquista il pubblico con la sua trama.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Black Bag – Doppio gioco",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "Un film che mescola azione e intrighi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uQfHXIiBkQj0VzPz1UFvV9jIFBM.jpg"
+    },
+    {
+      "title": "The One About Matthew Perry: Stagione 1",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 7,
+      "description": "Una serie che esplora la vita e la carriera di Matthew Perry.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Innamorarsi a Natale",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "Un film romantico a tema natalizio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7on7Q5P2Eefb2RyWveTZfqrkbqo.jpg"
+    },
+    {
+      "title": "Maschi veri: Stagione 2",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 8,
+      "description": "La seconda stagione della serie italiana che continua a riscuotere successo.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Unknown",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "Un film misterioso che tiene gli spettatori col fiato sospeso.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1it6mU9xYHDkURMJQcvYHL2hbx2.jpg"
+    },
+    {
+      "title": "Dead-End Job: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 9,
+      "description": "Un horror coreano che sale rapidamente sul podio delle serie più viste.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Il primo amore non si scorda mai",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 10,
+      "description": "Un film che esplora le dinamiche del primo amore.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4B9hr0MVNESxUNOK616hAaZ05dy.jpg"
+    },
+    {
+      "title": "Below: Limited Series",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 10,
+      "description": "Una serie limitata che si posiziona tra le più popolari.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Innamorarsi e altre pessime idee",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 1,
+      "description": "Una commedia romantica italiana con Lino Guanciale e Andrea Delogu.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dHNhObz0STAR5Vg0TNMQzGWZiI1.jpg"
+    },
+    {
+      "title": "The Gilded Age – Stagione 4",
       "type": "tv",
       "platform": "Sky",
       "rank": 1,
-      "description": "La quarta stagione dell'amatissimo period drama HBO Original, ambientato nell'alta società di New York, che ha debuttato il 2 novembre su Sky e NOW.",
+      "description": "La quarta stagione del period drama HBO creato da Julian Fellowes, ambientato nell'alta società di New York.",
       "posterUrl": ""
+    },
+    {
+      "title": "Tuner - L'accordatore",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 2,
+      "description": "Un raffinato thriller con Dustin Hoffman e Leo Woodall, dove il suono è protagonista.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zs3MvBkmM6ccC1Fpfc0faBbRwb9.jpg"
     },
     {
       "title": "War – Il divorzio del secolo",
       "type": "tv",
       "platform": "Sky",
       "rank": 2,
-      "description": "Una nuova serie legal thriller co-prodotta con HBO, ambientata nell'élite giudiziaria londinese, in arrivo il 27 novembre su Sky Serie.",
+      "description": "Una serie legal thriller co-prodotta con HBO, ambientata nell'élite del mondo giudiziario londinese.",
       "posterUrl": ""
     },
     {
-      "title": "Babylon Berlin: Stagione 5",
+      "title": "Fuze - Conto alla rovescia",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 3,
+      "description": "Un film d'azione e suspense.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vsC9LCZepomb3Vp0dMushN14rzK.jpg"
+    },
+    {
+      "title": "Babylon Berlin – Stagione finale",
       "type": "tv",
       "platform": "Sky",
       "rank": 3,
-      "description": "La quinta e ultima stagione del serial tedesco, ambientata nel 1933, che arriva il 10 novembre su Sky Atlantic.",
+      "description": "Il gran finale della serie tedesca ambientata nella Berlino degli anni '30, che porta all'ascesa del Reich.",
       "posterUrl": ""
     },
     {
-      "title": "Piedone - Uno sbirro a Napoli: Stagione 2",
+      "title": "Ballerina",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "Lo spin-off della saga di John Wick con Ana de Armas, che segue la storia di una ballerina assassina.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fgzv2GA50AcvajcrIsShEOJ8G5v.jpg"
+    },
+    {
+      "title": "Piedone – Uno sbirro a Napoli – Stagione 2",
       "type": "tv",
       "platform": "Sky",
       "rank": 4,
-      "description": "La seconda stagione della serie che vede l'ispettore Vincenzo Palmieri tornare a Napoli, in arrivo il 23 novembre.",
+      "description": "La seconda stagione della serie italiana che vede il ritorno dell'iconico personaggio.",
       "posterUrl": ""
-    },
-    {
-      "title": "Call My Agent - Italia: Stagione 3",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 5,
-      "description": "La terza stagione del riadattamento italiano della commedia dedicata al mondo dello spettacolo, in arrivo il 14 novembre.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Nord Sud Ovest Est - La leggendaria storia degli 883",
-      "type": "tv",
-      "platform": "Sky",
-      "rank": 6,
-      "description": "Una serie che ripercorre le vicende della celebre band italiana degli 883.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pkkbp6idHq6CQ2DWl99OkN61fR0.jpg"
     },
     {
       "title": "Challengers",
       "type": "movie",
       "platform": "Sky",
-      "rank": 7,
-      "description": "Un film che figura tra i titoli più cercati e disponibili su Sky.",
+      "rank": 5,
+      "description": "Il film di Luca Guadagnino con Zendaya, Josh O'Connor e Mike Faist.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/81tKWsMg90EmFRDTlsTIE5ouKWy.jpg"
     },
     {
-      "title": "Limitless",
+      "title": "A Quiet Place - Un posto tranquillo",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 6,
+      "description": "Un thriller horror dove il silenzio è l'unica salvezza.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sTwFYSbEJzZfBO0518Jl5Tsit4Z.jpg"
+    },
+    {
+      "title": "Ricchi… da morire - Delitti in famiglia",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 7,
+      "description": "Una dark comedy con Glen Powell, che passa da erede rinnegato a unico destinatario di una fortuna.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nE4siWczglWZhI70D6K9ywe2ezA.jpg"
+    },
+    {
+      "title": "Matrix",
       "type": "movie",
       "platform": "Sky",
       "rank": 8,
-      "description": "Un thriller con Bradley Cooper e Robert De Niro, disponibile in streaming su NOW TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8NWciqzKL699N5KRjUNgNPab0om.jpg"
+      "description": "Il cult della fantascienza che ha ridefinito il genere.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5uCQOswAMkOqUZiNzOxvckw59e3.jpg"
     },
     {
-      "title": "Hurricane - Il grido dell'innocenza",
+      "title": "Il filo del ricatto – Dead Man's Wire",
       "type": "movie",
       "platform": "Sky",
       "rank": 9,
-      "description": "Un film drammatico con Denzel Washington, disponibile in streaming su NOW TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/3GPUwu6v8LTFOhiepwo8yvCQLPq.jpg"
+      "description": "Un thriller avvincente che tiene con il fiato sospeso.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oJ6NJSGFvhwlzFebNy5oMyW61Fv.jpg"
     },
     {
-      "title": "La leggenda di Al, John e Jack",
+      "title": "Hamnet - Nel nome del figlio",
       "type": "movie",
       "platform": "Sky",
       "rank": 10,
-      "description": "Una commedia italiana con Aldo, Giovanni e Giacomo, disponibile in streaming su NOW TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/t7Xb04P1uCUJ1LADWD5RfqWGyDu.jpg"
+      "description": "Un film drammatico ispirato alla storia di William Shakespeare e la morte del figlio.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ro2a5k5dx8RWXGY0TmhqxTAffaI.jpg"
     }
   ]
 }
