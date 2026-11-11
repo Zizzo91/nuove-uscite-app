@@ -1,17 +1,71 @@
 {
-  "date": "10/11/2026, 14:10:10",
+  "date": "11/11/2026, 13:20:28",
   "data": [
     {
-      "title": "Blade Runner 2099",
+      "title": "Cortesie per gli ospiti (Nuova stagione)",
       "type": "tv",
-      "platform": "Amazon Prime Video",
+      "platform": "Discovery+",
       "releaseDate": "2026-11-01",
       "displayDate": "1 Novembre 2026",
-      "description": "Serie che segue Cora, una fuggitiva che assume l'identità di una Blade Runner.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gMdQMmqKu5zee7sCGGZvbSHFVb2.jpg"
+      "description": "Nuova stagione del format di successo.",
+      "posterUrl": ""
     },
     {
-      "title": "The Gilded Age (Stagione 4)",
+      "title": "Primo Appuntamento (Nuova stagione)",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-11-01",
+      "displayDate": "1 Novembre 2026",
+      "description": "Nuova stagione del programma.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Matrimonio a prima vista (Nuova stagione)",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-11-01",
+      "displayDate": "1 Novembre 2026",
+      "description": "Nuova edizione del programma.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Mad Max: Fury Road",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-11-02",
+      "displayDate": "2 Novembre 2026",
+      "description": "Spettacolare film d'azione di George Miller.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5gbm8m1gYvOmVGRcxteiplDLWdg.jpg"
+    },
+    {
+      "title": "Mamma Mia! The Movie",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-11-02",
+      "displayDate": "2 Novembre 2026",
+      "description": "Musical con Meryl Streep e Amanda Seyfried.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iHQyTBxUcgUWE3q7kyb97DSJqy9.jpg"
+    },
+    {
+      "title": "Mangia Prega Ama",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-11-02",
+      "displayDate": "2 Novembre 2026",
+      "description": "Film drammatico con Julia Roberts.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4SzEp1j46eyuUyVE1Ijx82v1Bvp.jpg"
+    },
+    {
+      "title": "Sunshine",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-11-02",
+      "displayDate": "2 Novembre 2026",
+      "description": "Film di fantascienza diretto da Danny Boyle.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4Fr3lDzTUQSgNr9BvecxI46FkH3.jpg"
+    },
+    {
+      "title": "The Gilded Age – Stagione 4",
       "type": "tv",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-11-02",
@@ -25,17 +79,8 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-11-02",
       "displayDate": "2 Novembre 2026",
-      "description": "Film che sarà disponibile su Sky e NOW.",
+      "description": "Film in prima TV su Sky Cinema.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/dHNhObz0STAR5Vg0TNMQzGWZiI1.jpg"
-    },
-    {
-      "title": "ChiaroScuro",
-      "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-11-03",
-      "displayDate": "3 Novembre 2026",
-      "description": "Un light crime italiano in 8 episodi con Pierpaolo Spollon e Andrea Lattanzi, dove un esperto d'arte collabora con la Squadra Mobile di Roma dopo il ritrovamento di un cadavere in un museo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg"
     },
     {
       "title": "Tintoria Prime: Corrado Guzzanti",
@@ -43,8 +88,17 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-11-03",
       "displayDate": "3 Novembre 2026",
-      "description": "Corrado Guzzanti è il protagonista della seconda puntata inedita di Tintoria Prime.",
+      "description": "Seconda puntata del podcast di successo con Corrado Guzzanti ospite.",
       "posterUrl": ""
+    },
+    {
+      "title": "Un Cucciolo per Natale (A Dog's Perfect Christmas)",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-11-04",
+      "displayDate": "4 Novembre 2026",
+      "description": "Una commedia romantica natalizia incentrata sui loop temporali.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zKJmIJWxxFLKtfylpCYFfeVJ8xZ.jpg"
     },
     {
       "title": "The Greatest",
@@ -52,7 +106,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-11-04",
       "displayDate": "4 Novembre 2026",
-      "description": "Prima serie autorizzata su Muhammad Ali, che esplora la vita del campione di pugilato.",
+      "description": "Nuova serie Prime Original.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg"
     },
     {
@@ -65,58 +119,67 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/qOJrnf5sfPe3zd4E662iFifKpmJ.jpg"
     },
     {
-      "title": "All's Fair (Stagione 2)",
+      "title": "All's Fair: seconda stagione",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-11-04",
       "displayDate": "4 Novembre 2026",
-      "description": "Seconda stagione della legal comedy di Ryan Murphy con Kim Kardashian e Naomi Watts.",
+      "description": "Seconda stagione della serie televisiva ideata da Ryan Murphy.",
       "posterUrl": ""
     },
     {
-      "title": "L'imperatrice risposata (Stagione 1)",
+      "title": "L'imperatrice risposata: prima stagione",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-11-04",
       "displayDate": "4 Novembre 2026",
-      "description": "Prima stagione della serie televisiva coreana che narra le vicende dell'imperatrice Navier.",
+      "description": "Serie televisiva coreana che narra le vicende dell'imperatrice Navier.",
       "posterUrl": ""
     },
     {
-      "title": "Stick (Stagione 2)",
+      "title": "Stick – Stagione 2",
       "type": "tv",
       "platform": "Apple TV+",
       "releaseDate": "2026-11-04",
       "displayDate": "4 Novembre 2026",
-      "description": "Owen Wilson torna nei panni di Pryce Cahill, ex promessa del golf, in questa seconda stagione.",
+      "description": "Owen Wilson torna nei panni di Pryce Cahill, ex promessa del golf.",
       "posterUrl": ""
     },
     {
-      "title": "Black Doves",
+      "title": "Il silenzio degli altri",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-11-04",
+      "displayDate": "4 Novembre 2026",
+      "description": "Film in prima TV su Sky Cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/19AayxcUE4ZSEs6nRc7BcHqE9Kq.jpg"
+    },
+    {
+      "title": "The King of Chocolate",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-11-04",
+      "displayDate": "4 Novembre 2026",
+      "description": "Ernst Knam torna in TV su Food Network.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Un VIP in Convento",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-11-04",
+      "displayDate": "4 Novembre 2026",
+      "description": "La famosa agente immobiliare Mariana D'Amico ospite del Monastero delle Benedettine di Sant'Anna.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Black Doves (Stagione 2)",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-11-05",
       "displayDate": "5 Novembre 2026",
-      "description": "Seconda stagione della serie.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg"
-    },
-    {
-      "title": "Hope",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-11-05",
-      "displayDate": "5 Novembre 2026",
-      "description": "Pellicola sudcoreana di Na Hong-jin che mescola i generi dalla commedia nera all'horror sci-fi.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg"
-    },
-    {
-      "title": "Wild Horse Nine",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-11-05",
-      "displayDate": "5 Novembre 2026",
-      "description": "Film di Martin McDonagh con Sam Rockwell e John Malkovich.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/og5qagWp4ZqVl28nbBwiBHZprJM.jpg"
+      "description": "Seconda stagione della serie TV.",
+      "posterUrl": ""
     },
     {
       "title": "Se domani non torno",
@@ -124,17 +187,53 @@
       "platform": "Cinema in Italia",
       "releaseDate": "2026-11-05",
       "displayDate": "5 Novembre 2026",
-      "description": "Film di Paola Randi liberamente ispirato al libro 'Cara Giulia'.",
+      "description": "Film di Paola Randi liberamente ispirato a 'Cara Giulia'.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/yfnAxbirYCIm1qP9ZT9LjYIj6DQ.jpg"
     },
     {
-      "title": "Il Gatto col Cappello",
+      "title": "Hope",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2026-11-05",
       "displayDate": "5 Novembre 2026",
-      "description": "Film d'animazione di Alessandro Carloni ed Erica Rivinoja.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/reGVZn7oCOXM5oaOTjV4MZhFwqT.jpg"
+      "description": "Film di Na Hong-jin che intreccia fantascienza, azione e orrore.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fbFxZSSw2kQoAkyXosVoOyBX0Z4.jpg"
+    },
+    {
+      "title": "Ferine",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-11-05",
+      "displayDate": "5 Novembre 2026",
+      "description": "Lungometraggio di Andrea Corsini.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jwFXsXC7bBBZipa6moVlxTsYh8H.jpg"
+    },
+    {
+      "title": "Le indagini di Roy Grace 6",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-11-05",
+      "displayDate": "5 Novembre 2026",
+      "description": "Sesta stagione inedita in Italia con nuove vicende e delitti.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Serial Killer Connection - Stagione 1",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-11-05",
+      "displayDate": "5 Novembre 2026",
+      "description": "Prima stagione della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Bake Off Italia - Dolci in forno - Stagione 14",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-11-05",
+      "displayDate": "5 Novembre 2026",
+      "description": "Nuovo episodio della quattordicesima stagione del cooking show.",
+      "posterUrl": ""
     },
     {
       "title": "Possible Love",
@@ -142,7 +241,7 @@
       "platform": "Netflix",
       "releaseDate": "2026-11-06",
       "displayDate": "6 Novembre 2026",
-      "description": "Un film che esplora i sentimenti e le complessità delle relazioni, intrecciando le vite di due coppie sposate.",
+      "description": "Un dramma che segna il ritorno alla regia di Lee Chang-dong.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/uPOpXBUMtMslIBAxldQwJwBQkad.jpg"
     },
     {
@@ -151,7 +250,7 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-11-06",
       "displayDate": "6 Novembre 2026",
-      "description": "Seconda stagione dello show Prime Original italiano condotto da Alessia Marcuzzi.",
+      "description": "Seconda stagione dello show italiano con Alessia Marcuzzi.",
       "posterUrl": ""
     },
     {
@@ -160,8 +259,8 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-11-06",
       "displayDate": "6 Novembre 2026",
-      "description": "Serie tv young adult che segue Lois e Lane alla Belrose University.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg"
+      "description": "Nuova serie Prime Original.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6VyMtqsIQ23AfYM11KZxRVDyGkH.jpg"
     },
     {
       "title": "Awkwafina: una chef improbabile",
@@ -169,20 +268,29 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-11-06",
       "displayDate": "6 Novembre 2026",
-      "description": "Docuserie gastronomica in cui Nora Lum (Awkwafina) affronta un viaggio culinario per rilanciare il ristorante della sua famiglia.",
+      "description": "Docuserie gastronomica con Nora Lum (Awkwafina).",
       "posterUrl": "https://image.tmdb.org/t/p/w500/6Z0VtU59tMTfJZuBdnRkhdcOz87.jpg"
     },
     {
-      "title": "Berti e Gregory: A tu per tu con i lupi",
+      "title": "A Merry Marvel Christmas Carol",
       "type": "movie",
       "platform": "Disney+",
       "releaseDate": "2026-11-07",
       "displayDate": "7 Novembre 2026",
-      "description": "Documentario di divulgazione naturalistica di National Geographic.",
+      "description": "Film speciale natalizio a tema Marvel.",
       "posterUrl": ""
     },
     {
-      "title": "Capitaine Marleau (Episodi 38-41)",
+      "title": "Alessandro Borghese Kitchen Sound – Ritorno di fiamma",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-11-07",
+      "displayDate": "7 Novembre 2026",
+      "description": "Show culinario con Alessandro Borghese.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Capitaine Marleau – Episodi 38-41",
       "type": "tv",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-11-07",
@@ -191,12 +299,57 @@
       "posterUrl": ""
     },
     {
-      "title": "Babylon Berlin (Stagione finale)",
+      "title": "Flavia de Luce – Una detective geniale",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-11-07",
+      "displayDate": "7 Novembre 2026",
+      "description": "Film in prima TV su Sky Cinema.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Ricchi… da morire – Delitti in famiglia",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-11-09",
+      "displayDate": "9 Novembre 2026",
+      "description": "Film in prima TV su Sky Cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nE4siWczglWZhI70D6K9ywe2ezA.jpg"
+    },
+    {
+      "title": "La mia storia con te",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-11-09",
+      "displayDate": "9 Novembre 2026",
+      "description": "Commedia italiana diretta da Angelo Frezza.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Babylon Berlin – Stagione finale (5)",
       "type": "tv",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-11-10",
       "displayDate": "10 Novembre 2026",
-      "description": "Quinta e ultima stagione dell'epica saga tedesca ambientata a Berlino.",
+      "description": "Quinta e ultima stagione dell'epica saga tedesca.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Avedon",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-11-11",
+      "displayDate": "11 Novembre 2026",
+      "description": "Documentario sul celebre fotografo e ritrattista newyorkese Richard Avedon.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg"
+    },
+    {
+      "title": "Il mistero del museo",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-11-11",
+      "displayDate": "11 Novembre 2026",
+      "description": "Nuova serie crime italiana con Pierpaolo Spollon e Andrea Lattanzi.",
       "posterUrl": ""
     },
     {
@@ -205,35 +358,53 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-11-11",
       "displayDate": "11 Novembre 2026",
-      "description": "Terza stagione della serie fantasy ambientata nella Terra di Mezzo.",
+      "description": "Terza stagione della serie ambientata nella Terra di Mezzo.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/oA9c49FoSJDTGKBfngC6L8XnmU9.jpg"
     },
     {
-      "title": "Rivals (Seconda parte della Stagione 2)",
+      "title": "Rivals: seconda parte della seconda stagione",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-11-11",
       "displayDate": "11 Novembre 2026",
-      "description": "Seconda parte della seconda stagione della serie televisiva britannica basata sul romanzo di Jilly Cooper.",
+      "description": "Seconda parte della seconda stagione della serie televisiva britannica.",
       "posterUrl": ""
     },
     {
-      "title": "Il racconto dell'Italia. Il Corriere della Sera: un secolo e mezzo di storia italiana",
+      "title": "R.J. Decker stagione 2",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-11-11",
+      "displayDate": "11 Novembre 2026",
+      "description": "Seconda stagione della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Breathe – Fino all'ultimo respiro",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-11-11",
+      "displayDate": "11 Novembre 2026",
+      "description": "Film in prima TV su Sky Cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yATi1fbC2A9nyFtLnODz3mIG6QD.jpg"
+    },
+    {
+      "title": "Chicago P.D. – Tutte le stagioni",
       "type": "tv",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-11-11",
       "displayDate": "11 Novembre 2026",
-      "description": "Documentario che ripercorre la storia italiana attraverso gli archivi del Corriere della Sera.",
+      "description": "Tutte le stagioni della serie poliziesca.",
       "posterUrl": ""
     },
     {
-      "title": "The Empress",
+      "title": "150 anni di Corriere della Sera. Il racconto dell'Italia",
       "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-11-12",
-      "displayDate": "12 Novembre 2026",
-      "description": "Terza stagione della serie originale Netflix.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/n3alQays6LUs0vQEqw1yxLjWbEI.jpg"
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-11-11",
+      "displayDate": "11 Novembre 2026",
+      "description": "Documentario che ripercorre la storia del Corriere della Sera.",
+      "posterUrl": ""
     },
     {
       "title": "Ballerina",
@@ -241,26 +412,44 @@
       "platform": "Netflix",
       "releaseDate": "2026-11-12",
       "displayDate": "12 Novembre 2026",
-      "description": "Film non originale aggiunto al catalogo.",
+      "description": "Spin-off cinematografico della saga di John Wick, interpretato da Ana de Armas.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fgzv2GA50AcvajcrIsShEOJ8G5v.jpg"
     },
     {
-      "title": "Miracles of the ER",
+      "title": "La vita segreta delle mogli mormoni: Orange County stagione 2",
       "type": "tv",
-      "platform": "Netflix",
-      "releaseDate": "2026-11-12",
-      "displayDate": "12 Novembre 2026",
-      "description": "Prima stagione della serie originale.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/aatKnanzNiI0qyRf1yuAyGQ4tKg.jpg"
-    },
-    {
-      "title": "Quel pazzo venerdì, sempre più pazzo",
-      "type": "movie",
       "platform": "Disney+",
       "releaseDate": "2026-11-12",
       "displayDate": "12 Novembre 2026",
-      "description": "Film adatto alla visione familiare.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/pEaRBOcROrE97GXwRnZxzzPnCy2.jpg"
+      "description": "Seconda stagione della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "L'essere amato",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-11-12",
+      "displayDate": "12 Novembre 2026",
+      "description": "Pellicola spagnola drammatica di Rodrigo Sorogoyen.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/LdKLipXCdKHNXxUxn8l7UTdnXJ.jpg"
+    },
+    {
+      "title": "Snoopy presenta: Natale con Snoopy",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-11-13",
+      "displayDate": "13 Novembre 2026",
+      "description": "Speciale natalizio dell'acclamata serie Snoopy Presents.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Being Heumann",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-11-13",
+      "displayDate": "13 Novembre 2026",
+      "description": "Dramma che racconta il percorso di Judy Heumann nella lotta per i diritti delle persone con disabilità.",
+      "posterUrl": ""
     },
     {
       "title": "12 12 12",
@@ -268,35 +457,35 @@
       "platform": "Apple TV+",
       "releaseDate": "2026-11-13",
       "displayDate": "13 Novembre 2026",
-      "description": "Nuova serie thriller con Anthony Mackie e Jamie Dornan, che racconta una rapina su tre linee temporali.",
+      "description": "Nuova serie thriller che si sviluppa attraverso tre diverse linee temporali legate a una rapina.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/jXlPZz943xMbqfp2Ne1OvOWaPo.jpg"
     },
     {
-      "title": "Being Heumann",
+      "title": "Challengers",
       "type": "movie",
-      "platform": "Apple TV+",
-      "releaseDate": "2026-11-13",
-      "displayDate": "13 Novembre 2026",
-      "description": "Film storico.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg"
-    },
-    {
-      "title": "Expedition: Salvare i nostri mari",
-      "type": "movie",
-      "platform": "Disney+",
-      "releaseDate": "2026-11-14",
-      "displayDate": "14 Novembre 2026",
-      "description": "Documentario di divulgazione naturalistica di National Geographic.",
-      "posterUrl": ""
-    },
-    {
-      "title": "Call My Agent - Italia (Stagione 3)",
-      "type": "tv",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-11-14",
       "displayDate": "14 Novembre 2026",
-      "description": "Terza stagione della commedia italiana sul mondo degli agenti dello spettacolo.",
+      "description": "Film in prima TV su Sky Cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/81tKWsMg90EmFRDTlsTIE5ouKWy.jpg"
+    },
+    {
+      "title": "Bluey – Il ristorante elegante",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-11-16",
+      "displayDate": "16 Novembre 2026",
+      "description": "Film di animazione per bambini.",
       "posterUrl": ""
+    },
+    {
+      "title": "Ballerina",
+      "type": "movie",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2026-11-16",
+      "displayDate": "16 Novembre 2026",
+      "description": "Film in prima TV su Sky Cinema.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fgzv2GA50AcvajcrIsShEOJ8G5v.jpg"
     },
     {
       "title": "Madden",
@@ -304,11 +493,11 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-11-18",
       "displayDate": "18 Novembre 2026",
-      "description": "Film con Nicolas Cage e Christian Bale, diretto da David O. Russell.",
+      "description": "Nuovo film Prime Original.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg"
     },
     {
-      "title": "Scrubs (Stagione 2)",
+      "title": "Scrubs: seconda stagione",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-11-18",
@@ -317,22 +506,40 @@
       "posterUrl": ""
     },
     {
+      "title": "Tracker stagione 4",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2026-11-18",
+      "displayDate": "18 Novembre 2026",
+      "description": "Quarta stagione della serie.",
+      "posterUrl": ""
+    },
+    {
       "title": "A Very British Scandal",
       "type": "tv",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-11-18",
       "displayDate": "18 Novembre 2026",
-      "description": "Miniserie sul clamoroso divorzio dei duchi di Argyll nella Gran Bretagna degli anni Sessanta.",
+      "description": "Miniserie sul clamoroso divorzio dei duchi di Argyll.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/rCa2Cdb3JNx2jka2LQJeaSTCIeH.jpg"
     },
     {
-      "title": "The Fall of FTX",
+      "title": "Il caso FTX",
       "type": "tv",
       "platform": "Netflix",
       "releaseDate": "2026-11-19",
       "displayDate": "19 Novembre 2026",
-      "description": "Serie in otto episodi che racconta la vicenda di Sam Bankman-Fried e Caroline Ellison, insieme al caso FTX.",
+      "description": "Serie che racconta la vicenda di Sam Bankman-Fried e Caroline Ellison e il caso FTX.",
       "posterUrl": ""
+    },
+    {
+      "title": "Hunger Games: L'alba sulla mietitura",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2026-11-19",
+      "displayDate": "19 Novembre 2026",
+      "description": "Nuovo film della saga cinematografica prequel con il racconto del cinquantenario degli Hunger Games.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uR1lZA2ET3gf7uGVgbRwSeSkEsU.jpg"
     },
     {
       "title": "Fjord",
@@ -344,52 +551,79 @@
       "posterUrl": "https://image.tmdb.org/t/p/w500/e6qR7qbqxe66vh2ONZ8d5pCphA6.jpg"
     },
     {
+      "title": "Casa a prima vista: Roma vs Milano",
+      "type": "tv",
+      "platform": "Discovery+",
+      "releaseDate": "2026-11-19",
+      "displayDate": "19 Novembre 2026",
+      "description": "Puntata speciale di 'Casa a prima vista' con una gara tra Milano e Roma.",
+      "posterUrl": ""
+    },
+    {
       "title": "Steps",
       "type": "movie",
       "platform": "Netflix",
       "releaseDate": "2026-11-20",
       "displayDate": "20 Novembre 2026",
-      "description": "Film d'animazione.",
+      "description": "Commedia animata fantasy che riscrive la fiaba di Cenerentola dalla parte delle sorellastre.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/gXEMhP3LSrVNQ7iV6SPV4sqHKjU.jpg"
     },
     {
-      "title": "Percy Jackson e gli dei dell'Olimpo (Stagione 3)",
+      "title": "Perfetti Bugiardi",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-11-20",
+      "displayDate": "20 Novembre 2026",
+      "description": "Nuovo film Prime Original.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Percy Jackson e gli dei dell'Olimpo: terza stagione",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-11-20",
       "displayDate": "20 Novembre 2026",
-      "description": "Terza stagione della serie, che affronta 'La maledizione del Titano'.",
+      "description": "Terza stagione della serie basata sui romanzi di Rick Riordan.",
       "posterUrl": ""
     },
     {
-      "title": "Piedone – Uno sbirro a Napoli (Stagione 2)",
+      "title": "Fargo (Stagione 5)",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-11-22",
+      "displayDate": "22 Novembre 2026",
+      "description": "Nuova stagione della serie TV ambientata nel Minnesota e nel North Dakota del 2019.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Clashing Through the Snow",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-11-23",
+      "displayDate": "23 Novembre 2026",
+      "description": "Film commedia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/95K1Y96ELBDL3M8kyTVb5wocCtX.jpg"
+    },
+    {
+      "title": "Piedone – Uno sbirro a Napoli – Stagione 2 (Film 1)",
       "type": "tv",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-11-23",
       "displayDate": "23 Novembre 2026",
-      "description": "Seconda stagione della serie Sky Original che riporta in vita il celebre commissario.",
+      "description": "Primo dei tre nuovi film della seconda stagione della serie Sky Original.",
       "posterUrl": ""
     },
     {
-      "title": "One Punch Man (Stagioni 1 e 2)",
+      "title": "Blade Runner 2099",
       "type": "tv",
-      "platform": "Disney+",
-      "releaseDate": "2026-11-24",
-      "displayDate": "24 Novembre 2026",
-      "description": "Le prime due stagioni dell'anime saranno disponibili in streaming.",
-      "posterUrl": ""
-    },
-    {
-      "title": "The Mosquito Bowl",
-      "type": "movie",
-      "platform": "Netflix",
+      "platform": "Amazon Prime Video",
       "releaseDate": "2026-11-25",
       "displayDate": "25 Novembre 2026",
-      "description": "Film che si inserisce tra le produzioni più importanti annunciate per la seconda metà del mese, legato al mondo dello sport e alla guerra.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg"
+      "description": "Miniserie con Michelle Yeoh e Hunter Schafer.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gMdQMmqKu5zee7sCGGZvbSHFVb2.jpg"
     },
     {
-      "title": "Reasonable Doubt (Stagione 4)",
+      "title": "La maledizione dei Tudor stagione 4",
       "type": "tv",
       "platform": "Disney+",
       "releaseDate": "2026-11-25",
@@ -398,31 +632,31 @@
       "posterUrl": ""
     },
     {
-      "title": "Scuola per guerrieri coraggiosi",
-      "type": "movie",
-      "platform": "Apple TV+",
+      "title": "Reasonable Doubt stagione 4",
+      "type": "tv",
+      "platform": "Disney+",
       "releaseDate": "2026-11-25",
       "displayDate": "25 Novembre 2026",
-      "description": "Film drammatico con Chris Pratt, Jude Hill e Linda Cardellini, tratto dal romanzo 'Way of the Warrior Kid'.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/naeCYQHH3CJ6uj47EYd9jHNtxIe.jpg"
+      "description": "Quarta stagione della serie.",
+      "posterUrl": ""
     },
     {
-      "title": "Lorenzo - L'incredibile avventura di Jovanotti",
-      "type": "movie",
-      "platform": "Cinema in Italia",
-      "releaseDate": "2026-11-26",
-      "displayDate": "26 Novembre 2026",
-      "description": "Film documentario di Dario Zonta e Carlo Zoratti che racconta l'uomo dietro l'artista.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/bDaSr4TwA8jvKRuWBgEDCK6lJL.jpg"
-    },
-    {
-      "title": "Quasimodo – L'anima di Parigi",
+      "title": "Quasimodo. L'anima di Parigi",
       "type": "movie",
       "platform": "Netflix",
       "releaseDate": "2026-11-27",
       "displayDate": "27 Novembre 2026",
-      "description": "Nuova produzione che richiama il celebre personaggio della letteratura francese.",
+      "description": "Dramma storico con Vincent Cassel ambientato nella Parigi del 1830.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ba1Gyh9ZnkSCoLMAFfpMonnsYbN.jpg"
+    },
+    {
+      "title": "Topolino, ho perso l'aereo",
+      "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-11-27",
+      "displayDate": "27 Novembre 2026",
+      "description": "Film natalizio con Topolino.",
+      "posterUrl": ""
     },
     {
       "title": "War – Il divorzio del secolo",
@@ -430,17 +664,44 @@
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-11-27",
       "displayDate": "27 Novembre 2026",
-      "description": "Legal thriller coproduzione Sky e HBO con Sienna Miller e Dominic West.",
+      "description": "Coproduzione Sky e HBO con Sienna Miller e Dominic West.",
       "posterUrl": ""
     },
     {
-      "title": "Che fine ha fatto Jeffrey Epstein?",
+      "title": "Fulmine, una renna speciale",
       "type": "movie",
+      "platform": "Disney+",
+      "releaseDate": "2026-11-28",
+      "displayDate": "28 Novembre 2026",
+      "description": "Film di animazione natalizio.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Piedone – Uno sbirro a Napoli – Stagione 2 (Film 2)",
+      "type": "tv",
       "platform": "Sky (incl. NOW)",
       "releaseDate": "2026-11-30",
       "displayDate": "30 Novembre 2026",
-      "description": "Documentario sulla misteriosa fine di Jeffrey Epstein.",
+      "description": "Secondo dei tre nuovi film della seconda stagione della serie Sky Original.",
       "posterUrl": ""
+    },
+    {
+      "title": "Il capo perfetto",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-12-02",
+      "displayDate": "2 Dicembre 2026",
+      "description": "Serie italiana.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jFegOdn5pjSP9eh4XalLSiPwenn.jpg"
+    },
+    {
+      "title": "In a Holidaze",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-12-02",
+      "displayDate": "2 Dicembre 2026",
+      "description": "Commedia romantica incentrata sui loop temporali con Maddie Ziegler e Rob Lowe.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fLgaNOlDG4pduslaeXJcaokanQ8.jpg"
     },
     {
       "title": "Missione: Salvare il Natale",
@@ -448,11 +709,20 @@
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-12-02",
       "displayDate": "2 Dicembre 2026",
-      "description": "Commedia natalizia con Arnold Schwarzenegger e Alan Ritchson, dove Babbo Natale e un ladro devono recuperare il sacco dei doni rubato.",
+      "description": "Commedia con Arnold Schwarzenegger e Alan Ritchson.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/q7nc1JaoQTVAalPHcjS0nYNkYKZ.jpg"
     },
     {
-      "title": "Bad Monkey (Stagione 2)",
+      "title": "The Man with the Bag",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-12-02",
+      "displayDate": "2 Dicembre 2026",
+      "description": "Film fantasy, commedia, famiglia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/q7nc1JaoQTVAalPHcjS0nYNkYKZ.jpg"
+    },
+    {
+      "title": "Carl Hiaasen's Bad Monkey. Stagione 2",
       "type": "tv",
       "platform": "Apple TV+",
       "releaseDate": "2026-12-02",
@@ -461,31 +731,418 @@
       "posterUrl": ""
     },
     {
+      "title": "Empress of Flames",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-12-03",
+      "displayDate": "3 Dicembre 2026",
+      "description": "Serie thai.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lGfdmmjT8HEVNhaXm1AvWLvdlii.jpg"
+    },
+    {
+      "title": "Orgoglio e pregiudizio",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-12-03",
+      "displayDate": "3 Dicembre 2026",
+      "description": "Serie con Emma Corrin e Jack Lowden.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gNWCWqAmCmNcJ4bbxwl06T3l7hk.jpg"
+    },
+    {
+      "title": "The Devil's Hour (Stagione 3)",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-12-04",
+      "displayDate": "4 Dicembre 2026",
+      "description": "Terza stagione della serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Quiz from God",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-12-04",
+      "displayDate": "4 Dicembre 2026",
+      "description": "J-drama.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/mN7xIOmTVWT39qiKgc4sv5acOu3.jpg"
+    },
+    {
+      "title": "Fraggle Rock: un regalo per le feste",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2026-12-04",
+      "displayDate": "4 Dicembre 2026",
+      "description": "Speciale natalizio di Fraggle Rock.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Sicilia Express",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-12-05",
+      "displayDate": "5 Dicembre 2026",
+      "description": "Film in uscita a dicembre su Netflix.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Sacred Jewel",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-12-05",
+      "displayDate": "5 Dicembre 2026",
+      "description": "K-drama.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cWXBisC8gIrGB8UfxKXaoHLxBH2.jpg"
+    },
+    {
       "title": "Maxton Hall – Il mondo tra di noi (Stagione 3)",
       "type": "tv",
       "platform": "Amazon Prime Video",
       "releaseDate": "2026-12-09",
       "displayDate": "9 Dicembre 2026",
-      "description": "Terza stagione della serie tedesca tratta dai romanzi young adult.",
+      "description": "Terza stagione della serie drammatica e romantica.",
       "posterUrl": ""
     },
     {
-      "title": "La Bola Negra",
+      "title": "Man Vs Baby",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-12-11",
+      "displayDate": "11 Dicembre 2026",
+      "description": "Film in uscita a dicembre su Netflix.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Wake Up Dead Man",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-12-12",
+      "displayDate": "12 Dicembre 2026",
+      "description": "Il terzo film della serie Knives Out di Rian Johnson con Benoit Blanc.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/db8j0xU82lzWKX0SXrPY5tFrzwA.jpg"
+    },
+    {
+      "title": "Il ministero dell'amore",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2026-12-18",
+      "displayDate": "18 Dicembre 2026",
+      "description": "Commedia italiana con Pif.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/byBx5jNjb2SUn7a16wbbbwxcGIc.jpg"
+    },
+    {
+      "title": "Emily in Paris (Stagione 6)",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-12-24",
+      "displayDate": "24 Dicembre 2026",
+      "description": "Sesta stagione della popolare serie.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Goodbye June",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2026-12-24",
+      "displayDate": "24 Dicembre 2026",
+      "description": "Film in uscita a dicembre su Netflix.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9Vk4ewSJeqmO3RT5X6kFqWAVEGu.jpg"
+    },
+    {
+      "title": "Stranger Things 5 vol. 2",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2026-12-26",
+      "displayDate": "26 Dicembre 2026",
+      "description": "Seconda parte della quinta stagione di Stranger Things.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Bride of the Barrier Master",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Anime in cui Hana nasconde i suoi poteri soprannaturali.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/b9OAWFOvevGicp8LnpyLW1VoLgf.jpg"
+    },
+    {
+      "title": "Animal (Stagione 2)",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Seconda stagione della serie spagnola.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Twin",
+      "type": "tv",
+      "platform": "Netflix",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Serie thriller.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Ahsoka 2",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Seconda stagione della serie Star Wars.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Avvocato Ligas 2",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Seconda stagione della serie con Luca Argentero.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Codice Nero",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Primo medical drama del broadcaster con Lino Guanciale.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Quelli della Mala",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Nuova serie Sky Original ambientata nella Milano degli anni '70 e '80.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Il Sospetto",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Crime thriller con Claudia Pandolfi, Alessandro Gassmann e Ginevra Francesconi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gO4T3k6HGIDtxEaWbXVSJjaWw21.jpg"
+    },
+    {
+      "title": "Gucci – Fine dei giochi",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Ritratto della famiglia Gucci firmato da Gabriele Muccino.",
+      "posterUrl": ""
+    },
+    {
+      "title": "La bella stagione",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Nuova serie originale che racconterà l'amicizia tra Gianluca Vialli e Roberto Mancini.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Taste of Italy",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Nuovo programma di Antonino Cannavacciuolo alla ricerca dei migliori cuochi tradizionali.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uF547LfJCCbRjNvEKhxD59NVihJ.jpg"
+    },
+    {
+      "title": "Cooking Grandmas",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Nuovo cooking show di Alessandro Borghese con dieci nonne d'Italia.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Italia per due - Consigli disordinati di viaggio",
+      "type": "tv",
+      "platform": "Sky (incl. NOW)",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Travel show on the road con Benedetta Parodi e Fabio Caressa.",
+      "posterUrl": ""
+    },
+    {
+      "title": "La stanza degli altri",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Film distribuito da OpenDDB.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Debut",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2027-01-01",
+      "displayDate": "1 Gennaio 2027",
+      "description": "Film distribuito da I Wonder Pictures.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cLCM5GuwOigbMdLrapDriCht2Ye.jpg"
+    },
+    {
+      "title": "Cambiare l'acqua ai fiori",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2027-01-05",
+      "displayDate": "5 Gennaio 2027",
+      "description": "Film distribuito da Lucky Red.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/nXCS8xCMx4VRIZV1LAqHqWDdu7E.jpg"
+    },
+    {
+      "title": "Coward",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2027-01-05",
+      "displayDate": "5 Gennaio 2027",
+      "description": "Film distribuito da Mubi.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zwmOzx3zX3crPhnlojXpWDAeZcz.jpg"
+    },
+    {
+      "title": "The Wanted Man",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2027-01-06",
+      "displayDate": "6 Gennaio 2027",
+      "description": "Nuova serie crime con Hugh Laurie nei panni di un boss in prigione.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/sVlwTGXBwm1UqM75CMMDf7MC7ZI.jpg"
+    },
+    {
+      "title": "A Thousand Blows – Stagione 2",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2027-01-09",
+      "displayDate": "9 Gennaio 2027",
+      "description": "Seconda stagione ispirata a fatti reali nella Londra del 1880.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Il vostro amichevole Spider-Man di quartiere (Stagione 2)",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2027-01-13",
+      "displayDate": "13 Gennaio 2027",
+      "description": "Seconda stagione della serie animata Marvel.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bsBzQ4MlUKZFib477jQzG8cEkuG.jpg"
+    },
+    {
+      "title": "Tell Me Lies – Stagione 3",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2027-01-13",
+      "displayDate": "13 Gennaio 2027",
+      "description": "Terza stagione della serie che segue una relazione tossica.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Asterix e il Regno di Nubia",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2027-01-13",
+      "displayDate": "13 Gennaio 2027",
+      "description": "Film di animazione distribuito da Plaion.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/wYlslVIdHrXV83GXxYSUAGGbrw7.jpg"
+    },
+    {
+      "title": "Hijack (Stagione 2)",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2027-01-14",
+      "displayDate": "14 Gennaio 2027",
+      "description": "Seconda stagione della serie thriller con Idris Elba.",
+      "posterUrl": ""
+    },
+    {
+      "title": "La bola negra",
       "type": "movie",
       "platform": "Cinema in Italia",
       "releaseDate": "2027-01-14",
       "displayDate": "14 Gennaio 2027",
-      "description": "Film spagnolo di Javier Calvo e Javier Ambrossi, ispirato a un testo teatrale incompiuto di Federico García Lorca.",
+      "description": "Opera spagnola che intreccia tre epoche, distribuita da Movies Inspired.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/t1azKLExwUxKj6v6m2L535evuRa.jpg"
     },
     {
-      "title": "Bianco",
+      "title": "The Take",
+      "type": "movie",
+      "platform": "Netflix",
+      "releaseDate": "2027-01-15",
+      "displayDate": "15 Gennaio 2027",
+      "description": "Thriller con Denzel Washington e Robert Pattinson su una rapina a Manhattan.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1ra8PqdnBCdYC2Cq5thIDaXJl2a.jpg"
+    },
+    {
+      "title": "Tempête",
+      "type": "movie",
+      "platform": "Amazon Prime Video",
+      "releaseDate": "2027-01-15",
+      "displayDate": "15 Gennaio 2027",
+      "description": "Film d'azione e romantico.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Lucio",
       "type": "movie",
       "platform": "Cinema in Italia",
-      "releaseDate": "2027-01-21",
-      "displayDate": "21 Gennaio 2027",
-      "description": "Il nuovo film di Daniele Vicari, un racconto di avventura alpinistica ispirato a Walter Bonatti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gwzHhX9jq73TueSIcPodsTiCvSb.jpg"
+      "releaseDate": "2027-01-18",
+      "displayDate": "18 Gennaio 2027",
+      "description": "Film biografico su Lucio Dalla, diretto da Ambrogio Lo Giudice.",
+      "posterUrl": ""
+    },
+    {
+      "title": "The Beauty",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2027-01-22",
+      "displayDate": "22 Gennaio 2027",
+      "description": "Nuovo thriller FX ambientato nel mondo dell'alta moda.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6rZ2I1xRemLORb65spepVmsvnf7.jpg"
+    },
+    {
+      "title": "L'uomo giusto",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2027-01-22",
+      "displayDate": "22 Gennaio 2027",
+      "description": "Film di animazione, avventura, azione.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Wonder Man",
+      "type": "tv",
+      "platform": "Disney+",
+      "releaseDate": "2027-01-28",
+      "displayDate": "28 Gennaio 2027",
+      "description": "Serie Marvel Television che segue Simon Williams.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Shrinking (Stagione 3)",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "releaseDate": "2027-01-28",
+      "displayDate": "28 Gennaio 2027",
+      "description": "Terza stagione della serie apprezzata per il mix di ironia e introspezione.",
+      "posterUrl": ""
+    },
+    {
+      "title": "Elsinore",
+      "type": "movie",
+      "platform": "Cinema in Italia",
+      "releaseDate": "2027-01-28",
+      "displayDate": "28 Gennaio 2027",
+      "description": "Film con Andrew Scott e Olivia Colman.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/kohUtEueIVyDXC30MaOdi36aAwn.jpg"
     }
   ]
 }
