@@ -1,36 +1,60 @@
 {
-  "date": "15/11/2026, 15:24:44",
+  "date": "16/11/2026, 17:34:10",
   "data": [
     {
       "title": "Harry Potter and the Chamber of Secrets",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 1,
-      "description": "Il secondo capitolo della saga di Harry Potter, dove il giovane mago affronta nuovi pericoli a Hogwarts.",
+      "description": "Il secondo capitolo della saga di Harry Potter continua a essere un film molto popolare su Amazon Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/fuW3lmo0SNI59riA7rKaLv3HT8F.jpg"
+    },
+    {
+      "title": "The Traitors - Italy",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 1,
+      "description": "La versione italiana del popolare reality show si conferma la serie TV più vista su Prime Video.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gkyrD1MGAtPOfAmkU3PRDDhC6gX.jpg"
     },
     {
       "title": "The Mongoose",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 2,
-      "description": "Un film d'azione con Liam Neeson, che interpreta un veterano accusato ingiustamente e in fuga.",
+      "description": "Un film che si posiziona tra i più visti sulla piattaforma, indicando un forte interesse del pubblico.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/qOJrnf5sfPe3zd4E662iFifKpmJ.jpg"
+    },
+    {
+      "title": "The Lord of the Rings: The Rings of Power",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 2,
+      "description": "La serie prequel de Il Signore degli Anelli mantiene un'alta posizione tra le serie TV più popolari.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oA9c49FoSJDTGKBfngC6L8XnmU9.jpg"
     },
     {
       "title": "Drive - The Pretenders",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 3,
-      "description": "Un film d'azione, noto anche come 'Drive - Cuori in pista'.",
+      "description": "Un film che mantiene una posizione elevata nella classifica dei film più popolari.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9nS6pALpvYLt9LHzx2Rtb1xbtoi.jpg"
+    },
+    {
+      "title": "Campus Drivers",
+      "type": "tv",
+      "platform": "Amazon Prime Video",
+      "rank": 3,
+      "description": "Una serie che racconta intrecci di amicizie e relazioni nel mondo degli studenti-atleti, molto seguita.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6VyMtqsIQ23AfYM11KZxRVDyGkH.jpg"
     },
     {
       "title": "Harry Potter and the Philosopher's Stone",
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 4,
-      "description": "Il primo film che introduce il mondo magico di Harry Potter.",
+      "description": "Il primo film della celebre saga di Harry Potter continua ad attrarre spettatori.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/4PBGbvbZKYBuTv5segH7i96sl9X.jpg"
     },
     {
@@ -38,7 +62,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 5,
-      "description": "Il terzo film della saga di Harry Potter, con l'introduzione di Sirius Black.",
+      "description": "Il terzo capitolo della saga di Harry Potter rimane un favorito tra gli utenti di Prime Video.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/awKY7JPZpNvWWLCPViqmC5j8brj.jpg"
     },
     {
@@ -46,7 +70,7 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 6,
-      "description": "Il quarto film di Harry Potter, che vede il Torneo Tremaghi.",
+      "description": "Il quarto film di Harry Potter si conferma tra i titoli più visti.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ghM7AvW4MWY9casNIjltqzCMjJQ.jpg"
     },
     {
@@ -54,55 +78,39 @@
       "type": "movie",
       "platform": "Amazon Prime Video",
       "rank": 7,
-      "description": "Il quinto film della serie di Harry Potter, con l'ascesa dell'Ordine della Fenice.",
+      "description": "Il quinto film della serie di Harry Potter continua a essere molto popolare.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/iXg8dcylRbYNREcdU1Y2EGxpxxe.jpg"
-    },
-    {
-      "title": "The Traitors - Italy",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 8,
-      "description": "La versione italiana del popolare reality show 'The Traitors'.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/gkyrD1MGAtPOfAmkU3PRDDhC6gX.jpg"
-    },
-    {
-      "title": "The Lord of the Rings: The Rings of Power",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 9,
-      "description": "Una serie fantasy ambientata nella Seconda Era della Terra di Mezzo.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/oA9c49FoSJDTGKBfngC6L8XnmU9.jpg"
-    },
-    {
-      "title": "Campus Drivers",
-      "type": "tv",
-      "platform": "Amazon Prime Video",
-      "rank": 10,
-      "description": "Una serie francese che segue le vicende di studenti che lavorano come autisti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/6VyMtqsIQ23AfYM11KZxRVDyGkH.jpg"
-    },
-    {
-      "title": "Ted Lasso",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 1,
-      "description": "Una serie comedy acclamata dalla critica su un allenatore di football americano che si trasferisce in Inghilterra per allenare una squadra di calcio.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
     },
     {
       "title": "Slow Horses",
       "type": "tv",
       "platform": "Apple TV+",
-      "rank": 2,
-      "description": "Un thriller di spionaggio che segue una squadra di agenti dell'MI5 caduti in disgrazia.",
+      "rank": 1,
+      "description": "Un thriller di spionaggio che continua a essere una delle serie più popolari su Apple TV+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/9VCkgs1zefGI2qjJzr1gSwAmzmf.jpg"
+    },
+    {
+      "title": "The Family Plan",
+      "type": "movie",
+      "platform": "Apple TV+",
+      "rank": 1,
+      "description": "Un film d'azione e commedia che è diventato rapidamente uno dei film più visti su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9LAjGL88QH5tpcq9veT7gG3ildP.jpg"
+    },
+    {
+      "title": "Ted Lasso",
+      "type": "tv",
+      "platform": "Apple TV+",
+      "rank": 2,
+      "description": "La pluripremiata commedia su un allenatore di football americano si mantiene tra le serie più amate.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
     },
     {
       "title": "Silo",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 3,
-      "description": "Una serie di fantascienza distopica ambientata in un gigantesco silo sotterraneo.",
+      "description": "Una serie di fantascienza distopica che ha conquistato il pubblico di Apple TV+.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pmr33vtyZdanSvptAmvngpdB4v3.jpg"
     },
     {
@@ -110,216 +118,208 @@
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 4,
-      "description": "Una serie thriller di fantascienza basata sul romanzo omonimo.",
+      "description": "Un'altra serie di fantascienza che si posiziona tra le più viste sulla piattaforma.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/5DyYSRwdop0LWqbKFUBtrfFday.jpg"
     },
     {
-      "title": "Widow's Bay",
+      "title": "Scissione (Severance)",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 5,
-      "description": "Una serie che mescola elementi di commedia e mistero.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+      "description": "Un thriller psicologico acclamato dalla critica che continua a essere molto popolare.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jnwqpZpmwvEo0CFLjDwfnnAf4ow.jpg"
     },
     {
-      "title": "Brothers",
-      "type": "movie",
+      "title": "Shrinking",
+      "type": "tv",
       "platform": "Apple TV+",
       "rank": 6,
-      "description": "Un film commedia.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/2LGJCAs6fjGmeFphGG7d7m55gVx.jpg"
+      "description": "Una commedia drammatica che ha trovato un vasto pubblico su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
     },
     {
-      "title": "Dov'è Wanda?",
+      "title": "Nocturne",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 7,
-      "description": "Una serie drammatica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fdsknqCUzrgQ7FUTFH3ZIWOjc8H.jpg"
+      "description": "Una serie poliziesca che si posiziona tra le più popolari su Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/v3lygwSQZHw9IGGQvbeZeNYHspp.jpg"
     },
     {
-      "title": "Last Seen",
+      "title": "12 12 12",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 8,
-      "description": "Una serie thriller.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/1Hfzson9qIWnTn6fkIXwkwUuUAr.jpg"
+      "description": "Un'altra serie poliziesca che riscuote successo tra gli abbonati di Apple TV+.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cuk89BAhoyDKCByq7tyJHv5Wa8W.jpg"
     },
     {
-      "title": "Knife Edge - Per una Stella Michelin",
+      "title": "Stick",
       "type": "tv",
       "platform": "Apple TV+",
       "rank": 9,
-      "description": "Una serie documentario.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/uAEF1Qx1OxcRPvJGm0gugbPPos6.jpg"
+      "description": "Una serie commedia che si mantiene nella top 10 delle serie più viste.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/pZ7fnbnGtK7XA9cw0u67W573d6M.jpg"
     },
     {
-      "title": "Small Prophets",
-      "type": "tv",
-      "platform": "Apple TV+",
-      "rank": 10,
-      "description": "Una serie comedy.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
-    },
-    {
-      "title": "Un buon avvocato",
+      "title": "The Good Lawyer",
       "type": "movie",
       "platform": "Netflix",
       "rank": 1,
-      "description": "Un thriller giudiziario francese con Laurent Lafitte e Mélanie Laurent, che segue un brillante penalista dopo un'overdose e la sua lotta per salvare la carriera.",
+      "description": "Un film drammatico che si posiziona al primo posto tra i film più visti su Netflix in Italia oggi.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/k84V1Y2PiohjN3ic8XzhukydEjm.jpg"
-    },
-    {
-      "title": "Un cucciolo per Natale",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 2,
-      "description": "Un film natalizio per famiglie con Dennis Quaid.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/zKJmIJWxxFLKtfylpCYFfeVJ8xZ.jpg"
-    },
-    {
-      "title": "In the Heart of the Sea – Le origini di Moby Dick",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 3,
-      "description": "Un dramma marittimo diretto da Ron Howard e interpretato da Chris Hemsworth.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/wAN0GViqoyT1616y1fBq0hNB2HR.jpg"
-    },
-    {
-      "title": "Colisión",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 4,
-      "description": "Un thriller spagnolo che ha dominato la Top 10 per diversi giorni.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/5oaS1EJfYCsd0kjZK2W9YaSMUaI.jpg"
-    },
-    {
-      "title": "Rogue – Il solitario",
-      "type": "movie",
-      "platform": "Netflix",
-      "rank": 5,
-      "description": "Un film d'azione con Jet Li e Jason Statham.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/mWuR0bKqAxPfuzTKHTVDl4Ihbtq.jpg"
-    },
-    {
-      "title": "Chiaroscuro",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 6,
-      "description": "Un crime italiano in cui un art advisor con un 'occhio assoluto' aiuta un ispettore a risolvere omicidi ispirati a celebri dipinti.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg"
-    },
-    {
-      "title": "L'imperatrice",
-      "type": "tv",
-      "platform": "Netflix",
-      "rank": 7,
-      "description": "Una serie drammatica storica che ha scalato rapidamente la classifica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fmHnoe3eKjfikufa1jxLPmiKZCb.jpg"
     },
     {
       "title": "Lupin",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 8,
-      "description": "La serie francese con Omar Sy nei panni del ladro gentiluomo Assane Diop.",
+      "rank": 1,
+      "description": "La serie ispirata ad Arsenio Lupin continua a spopolare con la sua nuova stagione, mantenendo il primo posto tra le serie TV.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/d59yXYdagCO8OSPZIV68lRoB5PF.jpg"
+    },
+    {
+      "title": "The Christmas Switch",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 2,
+      "description": "Una commedia natalizia che si conferma tra i film più popolari sulla piattaforma.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/k7h5uzeCFBNl802TW2WTvctGYHi.jpg"
     },
     {
       "title": "Black Doves",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 9,
-      "description": "Uno spy thriller con Keira Knightley.",
+      "rank": 2,
+      "description": "Una serie che si aggiudica il secondo posto, con nuovi episodi della seconda stagione che attraggono il pubblico.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/srlsyEfIBz2MNWBndVc3opOaNGS.jpg"
+    },
+    {
+      "title": "Ballerina",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 3,
+      "description": "Un film che cattura l'attenzione del pubblico italiano, piazzandosi nella top 3 dei film.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fgzv2GA50AcvajcrIsShEOJ8G5v.jpg"
     },
     {
       "title": "Anestesia",
       "type": "tv",
       "platform": "Netflix",
-      "rank": 10,
-      "description": "Un medical drama polacco.",
+      "rank": 3,
+      "description": "Una serie che sale sul podio, raccontando la storia di un medico talentuoso dopo un'operazione sfortunata.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg"
+    },
+    {
+      "title": "Never Surrender",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 4,
+      "description": "Un film d'azione o drammatico che riscuote successo tra gli abbonati Netflix.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/szQ0FWlldWrbgq5t5HNlEWqnPgc.jpg"
+    },
+    {
+      "title": "Power",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 4,
+      "description": "Una serie che segue il proprietario di un nightclub con una doppia vita, molto apprezzata in Italia.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/oA9c49FoSJDTGKBfngC6L8XnmU9.jpg"
+    },
+    {
+      "title": "Heartland",
+      "type": "movie",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "Un film che si mantiene nella classifica dei più visti, indicando un interesse continuo del pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/uQbIxihrqS5naBeNogZZdx3zx5H.jpg"
+    },
+    {
+      "title": "Raw",
+      "type": "tv",
+      "platform": "Netflix",
+      "rank": 5,
+      "description": "Una serie che offre azione dal vivo e drammi, mantenendo un'alta posizione nella classifica.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg"
     },
     {
       "title": "How to Make a Killing",
       "type": "movie",
       "platform": "Sky",
       "rank": 1,
-      "description": "Un film che esplora i modi per ottenere un grande successo o profitto.",
+      "description": "Un film che si posiziona al primo posto tra i più popolari su NOW in Italia.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/nE4siWczglWZhI70D6K9ywe2ezA.jpg"
+    },
+    {
+      "title": "Avvocato Ligas",
+      "type": "tv",
+      "platform": "Sky",
+      "rank": 1,
+      "description": "Una serie TV che si distingue tra i contenuti più visti su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg"
     },
     {
       "title": "The Warmth Of Dance",
       "type": "movie",
       "platform": "Sky",
       "rank": 2,
-      "description": "Un film che celebra la passione e l'energia della danza.",
+      "description": "Un film che cattura l'attenzione del pubblico, mantenendo una posizione elevata nella classifica.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/ng9NBZ5qAJ4k4KlvQWgxKTuM1XT.jpg"
-    },
-    {
-      "title": "Ballerina",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 3,
-      "description": "Un film incentrato sul mondo delle ballerine e della danza classica.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/fgzv2GA50AcvajcrIsShEOJ8G5v.jpg"
-    },
-    {
-      "title": "Innamorarsi e altre pessime idee",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 4,
-      "description": "Una commedia romantica che esplora le complessità dell'amore e delle relazioni.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/dHNhObz0STAR5Vg0TNMQzGWZiI1.jpg"
-    },
-    {
-      "title": "Breathe - Fino all'Ultimo Respiro",
-      "type": "movie",
-      "platform": "Sky",
-      "rank": 5,
-      "description": "Un thriller drammatico che tiene col fiato sospeso.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/yATi1fbC2A9nyFtLnODz3mIG6QD.jpg"
     },
     {
       "title": "Nord Sud Ovest Est: La leggendaria storia degli 883",
       "type": "tv",
       "platform": "Sky",
-      "rank": 6,
-      "description": "Una serie documentario che racconta la storia della celebre band italiana 883.",
+      "rank": 2,
+      "description": "Una serie che racconta la storia del famoso gruppo musicale italiano, molto apprezzata dal pubblico.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/pkkbp6idHq6CQ2DWl99OkN61fR0.jpg"
+    },
+    {
+      "title": "Innamorarsi e altre pessime idee",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 3,
+      "description": "Una commedia romantica che riscuote successo tra gli spettatori di NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dHNhObz0STAR5Vg0TNMQzGWZiI1.jpg"
     },
     {
       "title": "Hanno ucciso l'Uomo Ragno - La leggendaria storia degli 883",
       "type": "tv",
       "platform": "Sky",
-      "rank": 7,
-      "description": "Un'altra serie documentario dedicata alla storia e all'impatto degli 883.",
+      "rank": 3,
+      "description": "Un'altra serie dedicata agli 883 che si conferma tra le più popolari su NOW.",
       "posterUrl": ""
+    },
+    {
+      "title": "Breathe - Fino all'Ultimo Respiro",
+      "type": "movie",
+      "platform": "Sky",
+      "rank": 4,
+      "description": "Un film che si mantiene tra i più visti, indicando un interesse continuo del pubblico.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yATi1fbC2A9nyFtLnODz3mIG6QD.jpg"
     },
     {
       "title": "The Institute",
       "type": "tv",
       "platform": "Sky",
-      "rank": 8,
-      "description": "Una serie TV che si svolge all'interno di un misterioso istituto.",
+      "rank": 4,
+      "description": "Una serie che cattura l'attenzione degli spettatori, mantenendo una posizione elevata nella classifica.",
       "posterUrl": "https://image.tmdb.org/t/p/w500/mOvJlMBwWGwlbzUEOC2KrZQHj0U.jpg"
     },
     {
-      "title": "M.",
-      "type": "tv",
+      "title": "Fuze",
+      "type": "movie",
       "platform": "Sky",
-      "rank": 9,
-      "description": "Una serie TV.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/8agoxhXGlv6ICYa733bDrfKnJ3.jpg"
+      "rank": 5,
+      "description": "Un film che si posiziona nella top 5 dei film più popolari su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vsC9LCZepomb3Vp0dMushN14rzK.jpg"
     },
     {
-      "title": "Babylon Berlin",
+      "title": "M",
       "type": "tv",
       "platform": "Sky",
-      "rank": 10,
-      "description": "Una serie crime drammatica neo-noir tedesca ambientata nella Berlino degli anni '20.",
-      "posterUrl": "https://image.tmdb.org/t/p/w500/jYShWyYllx9DhOS6d92mN2yVsbA.jpg"
+      "rank": 5,
+      "description": "Una serie che si posiziona nella top 5 delle serie TV più viste su NOW.",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8agoxhXGlv6ICYa733bDrfKnJ3.jpg"
     }
   ]
 }
